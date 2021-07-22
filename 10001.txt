@@ -2039,6 +2039,12 @@ CTV TORONTO|SD,tvbus://6DtvmrHzE2QrDpxkEPKkzv5NhW6SHUyMudroq7rX3pMpk94ZCvfqDS3Z3
 CTV NEWS|SD,tvbus://66DSH9erdnKvzHiuVhTviV8Ri3xmJiwX3nt1aUWdZUkpJoiiDo13t7hD5Ya2f
 CTV MONTREAL|SD,tvbus://6LgaCmcUc9SgxBJfW2epjkfQwpy77izxnZo9hwdMGb9nH4kuE7gjtzwBwLbgq
 電視劇,#genre#
+洛基S101,https://vod.bunediy.com/20210609/pe68Hh2e/index.m3u8
+洛基S102,https://vod.bunediy.com/20210616/AcuzDLYN/index.m3u8
+洛基S103,https://vod.bunediy.com/20210623/5yjFRRFJ/index.m3u8
+洛基S104,https://vod.bunediy.com/20210630/2EBKRthr/index.m3u8
+洛基S105,https://vod.bunediy.com/20210707/V4QtjVFc/index.m3u8
+洛基S106,https://vod.bunediy.com/20210714/hLZlyAof/index.m3u8
 工作細胞S1EP01,https://n1.szjal.cn/20210301/4l4zE1g7/index.m3u8#https://n1.szjal.cn/20210223/AjVFfgYp/index.m3u8
 工作細胞S1EP02,https://n1.szjal.cn/20210223/1A3yxnEz/index.m3u8
 工作細胞S1EP03,https://n1.szjal.cn/20210223/VzNewMO1/index.m3u8
