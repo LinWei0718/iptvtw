@@ -4,6 +4,15 @@
 愛爾達奧運3台,mitv://ns2.hellotvvod.com:9906/54cc8517aa3644a7921f4bbc65277c3e
 HKC奧運661,mitv://ns2.hellotvvod.com:9906/c197637d0b1740e9973144aa5332c618
 HKC奧運662,mitv://ns2.hellotvvod.com:9906/5ac79d10489a4e71bb427582b3d7c28
+潘多拉玩美,mitv://fccseuro.pvbox.live:18912/5c7249b6000641f7f22447de5605ea5f
+潘朵拉粉紅,mitv://fccseuro.pvbox.live:18912/5c7249ba0008b3211d5786b3068b4615
+松视1,mitv://fccseuro.pvbox.live:18912/5c7249be000b8793baaac296ccc9199a
+松视2,mitv://fccseuro.pvbox.live:18912/5c7249c2000e510ff069277e6de97521
+香蕉台,mitv://fccseuro.pvbox.live:18912/5c7249cb000744bc8d84a353672b18fe
+惊艳电影台,mitv://fccseuro.pvbox.live:18912/5c7249cf00095b61a6551090eece092b
+HOT,mitv://fccseuro.pvbox.live:18912/5c7249d3000cb8eaeedafc796b3ba9d2
+彩虹K频道,mitv://fccseuro.pvbox.live:18912/5c7249d80003096d7ec3b14edfd4fe6f
+彩虹e台,mitv://fccseuro.pvbox.live:18912/5c7249dd000ca2108817c65b6059636f
 民視,rtmp://59.124.75.153/sat/tv051
 台視,rtmp://59.124.75.153/sat/tv071
 中視,rtmp://59.124.75.153/sat/tv091
