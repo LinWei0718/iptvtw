@@ -1,4 +1,9 @@
 串流直播,#genre#
+愛爾達奧運1台,mitv://ns2.hellotvvod.com:9906/ff1e8107fbd84293a5b52aa92da8314d
+愛爾達奧運2台,mitv://ns2.hellotvvod.com:9906/d0c5f3bedf064828b1480af740b04599
+愛爾達奧運3台,mitv://ns2.hellotvvod.com:9906/54cc8517aa3644a7921f4bbc65277c3e
+HKC奧運661,mitv://ns2.hellotvvod.com:9906/c197637d0b1740e9973144aa5332c618
+HKC奧運662,mitv://ns2.hellotvvod.com:9906/5ac79d10489a4e71bb427582b3d7c28
 民視,rtmp://59.124.75.153/sat/tv051
 台視,rtmp://59.124.75.153/sat/tv071
 中視,rtmp://59.124.75.153/sat/tv091
