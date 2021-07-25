@@ -1,9 +1,24 @@
 串流直播,#genre#
-愛爾達奧運1台,mitv://ns2.hellotvvod.com:9906/ff1e8107fbd84293a5b52aa92da8314d
-愛爾達奧運2台,mitv://ns2.hellotvvod.com:9906/d0c5f3bedf064828b1480af740b04599
-愛爾達奧運3台,mitv://ns2.hellotvvod.com:9906/54cc8517aa3644a7921f4bbc65277c3e
-HKC奧運661,mitv://ns2.hellotvvod.com:9906/c197637d0b1740e9973144aa5332c618
-HKC奧運662,mitv://ns2.hellotvvod.com:9906/5ac79d10489a4e71bb427582b3d7c28
+东京奥运2020（更新：25/07/21）
+爱尔达奥运1台,mitv://ns2.hellotvvod.com:9906/b886e0d39ae04457806fec72b2f59eb1
+爱尔达奥运2台,mitv://ns2.hellotvvod.com:9906/c32002e4f01d412bb9174dc05016849d
+爱尔达奥运3台,mitv://ns2.hellotvvod.com:9906/74569a5609044ef398f90142c41abb47
+爱尔达1台,mitv://ns2.hellotvvod.com:9906/e2fb9daad5b442879172dfbc803e9017
+爱尔达2台,mitv://ns2.hellotvvod.com:9906/e64a8f0c917445c8b8ad0350581906a8
+爱尔达3台,mitv://ns2.hellotvvod.com:9906/85b3dc497f3d4233a381cd9c86befa1e
+HKC奥运661,mitv://ns2.hellotvvod.com:9906/4f23e32062b3411c9c13f9ade5d64db3
+HKC奥运662,mitv://ns2.hellotvvod.com:9906/4e267c74b17a43f48459034616ddaeb8
+Special Event Sports HD 01,mitv://ns2.hellotvvod.com:9906/ade538cb839443d199f54bc115ecbab3
+Special Event Sports HD 02,mitv://ns2.hellotvvod.com:9906/1511d35c2f5746fd871f9324d4d31a2f
+Special Event Sports HD 03,mitv://ns2.hellotvvod.com:9906/9399a90b031c4c4d9c7bb1226f407e69
+Special Event Sports HD 04,mitv://ns2.hellotvvod.com:9906/3bcbfac36d294054a14e773e24649709
+Special Event Sports HD 05,mitv://ns2.hellotvvod.com:9906/50ca1d9c65f04cc0ba89f24cf852d585
+Special Event Sports HD 06,mitv://ns2.hellotvvod.com:9906/f5262cd200eb47d8a8cbd77c97bbb4a4
+Special Event Sports HD 07,mitv://ns2.hellotvvod.com:9906/3f78e78a6a9c497da6ce7c6f6422cff3
+Special Event Sports HD 08,mitv://ns2.hellotvvod.com:9906/e1d35cd2c4994406b1addc7ed893bab4
+Special Event Sports HD 09,mitv://ns2.hellotvvod.com:9906/5c601130e2b145f7bc2326357aed1c2f
+Special Event Sports HD 10,mitv://ns2.hellotvvod.com:9906/e6776a6646834d539c5234720a83fc10
+Astro Arena,mitv://ns2.hellotvvod.com:9906/74b105596736441e845c7aafe2cd07a4
 民視,rtmp://59.124.75.153/sat/tv051
 台視,rtmp://59.124.75.153/sat/tv071
 中視,rtmp://59.124.75.153/sat/tv091
