@@ -27,7 +27,7 @@ TVBS歡樂,rtmp://161.202.204.248/sat/tv421
 緯來日本,rtmp://161.202.204.248/sat/tv521
 緯來育樂,rtmp://161.202.204.248/sat/tv701
 緯來體育,rtmp://161.202.204.248/sat/tv721
-OTBC,rtmp://161.202.204.248/sat/tv731
+ELEVEN,rtmp://161.202.204.248/sat/tv731
 東森超視,rtmp://161.202.204.248/sat/tv771
 MOMO綜合,rtmp://161.202.204.248/sat/tv761
 ELTA奧運1,http://198.16.106.62:8278/streams/d/elta_olymp1/playlist.m3u8
@@ -80,7 +80,7 @@ TVB有線新聞,http://198.16.106.62:8278/streams/d/hkcnews_twn/playlist.m3u8
 Viutv,http://198.16.106.62:8278/streams/d/viu1_twn/playlist.m3u8
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
 美麗人生,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
-ELEVEN SPORT 1,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
+MOMO綜合,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
 海豚綜合,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
 NHK,http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8
 智林體育,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
