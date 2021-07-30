@@ -2495,6 +2495,15 @@ S2EP52,http://hotasp.v.cntv.cn/asp/hls/1200/0303000a/3/default/0e7a5c2d6f8b4f58b
 101,http://hotasp.v.cntv.cn/asp/hls/1200/0303000a/3/default/9d41d0f5a8c94983b34fb23a3ce8e2a7/1200.m3u8
 102,http://hotasp.v.cntv.cn/asp/hls/1200/0303000a/3/default/803c494640884a689e59e2a2b9a40574/1200.m3u8
 ★★★★★_8888,#genre#
+HOT,p5p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571 
+潘多拉完美,p5p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931 
+極限電影,p5p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d 
+驚艷台,p5p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2 
+香蕉台,p5p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1 
+松視2台,p5p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce 
+松視1台,p5p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1 
+彩虹E台,p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e 
+彩虹電影,p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913 
 Happy,rtmp://161.202.204.248:1935/tv/ttv12
 松視➊,rtmp://161.202.204.248:1935/tv/ttv11
 SWAG妹妹該起床做事咯,https://video2.51daao.com/btt1/2020/12/20201229/KHjDg7Cr/index.m3u8
