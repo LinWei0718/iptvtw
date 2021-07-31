@@ -27,7 +27,7 @@ TVBS歡樂,rtmp://161.202.204.248/sat/tv421
 緯來日本,rtmp://161.202.204.248/sat/tv521
 緯來育樂,rtmp://161.202.204.248/sat/tv701
 緯來體育,rtmp://161.202.204.248/sat/tv721
-ELEVEN,rtmp://161.202.204.248/sat/tv731
+ELEVEN1,rtmp://161.202.204.248/sat/tv731
 東森超視,rtmp://161.202.204.248/sat/tv771
 MOMO綜合,rtmp://161.202.204.248/sat/tv761
 ELTA奧運1,http://198.16.106.62:8278/streams/d/elta_olymp1/playlist.m3u8
