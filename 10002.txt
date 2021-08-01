@@ -149,6 +149,9 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 民視台灣,http://185.207.176.189:8080/channels/tw-304/playlist.m3u8
 寰宇新聞,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
 華藏衛視,http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
+唯心衛視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+原住民電視,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 NHK華語,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 中天新聞,p5p://0198.02686.cc:16871/5f2f9178000c4ec022496d33f280ef95
 八大综合,p5p://0198.02686.cc:16871/5f2e5a5b0000b78e1d8a20f34de5f2ac
