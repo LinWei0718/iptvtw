@@ -12,10 +12,10 @@ TVBS歡樂,rtmp://59.124.75.153/sat/tv421
 ELEVEN1,rtmp://59.124.75.153/sat/tv731
 東森超視,rtmp://59.124.75.153/sat/tv771
 MOMO綜合,rtmp://59.124.75.153/sat/tv761
-ELTA奧運1,rtmp://59.124.75.153/sat/md011
+ELTA體育1,rtmp://59.124.75.153/sat/md011
 ELTA體育3,rtmp://59.124.75.153/sat/md021
-ELTA體育2,rtmp://59.124.75.153/sat/md031
-ELTA奧運2,rtmp://59.124.75.153/sat/md041
+ELTA奧運2,rtmp://59.124.75.153/sat/md031
+ELEVEN2,rtmp://59.124.75.153/sat/md041
 ELTA體育1,rtmp://59.124.75.153/sat/md051
 民視,rtmp://161.202.204.248/sat/tv051
 台視,rtmp://161.202.204.248/sat/tv071
@@ -33,10 +33,10 @@ MOMO綜合,rtmp://161.202.204.248/sat/tv761
 ELTA奧運1,http://198.16.106.62:8278/streams/d/elta_olymp1/playlist.m3u8
 ELTA奧運2,http://198.16.106.62:8278/streams/d/elta_olymp2/playlist.m3u8
 ELTA奧運3,http://198.16.106.62:8278/streams/d/elta_olymp3/playlist.m3u8
-ELTA奧運1,rtmp://161.202.204.248/sat/md011
+ELTA體育1,rtmp://161.202.204.248/sat/md011
 ELTA體育3,rtmp://161.202.204.248/sat/md021
-ELTA體育2,rtmp://161.202.204.248/sat/md031
-ELTA奧運2,rtmp://161.202.204.248/sat/md041
+ELTA奧運2,rtmp://161.202.204.248/sat/md031
+ELEVEN2,rtmp://161.202.204.248/sat/md041
 ELTA體育1,rtmp://161.202.204.248/sat/md051
 ELTA影劇,http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
 ELTA綜合,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
@@ -208,3 +208,4 @@ ONe,p5p://0198.02686.cc:16871/5f6ac2ff000df70f6abcbcb9c0ae25c3.ts
 甄子丹系列,http://121.12.115.156/tx.hls.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1-imgplus.m3u8
 林正英系列,http://121.12.115.156/tx.hls.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1-imgplus.m3u8
 周潤發系列,http://121.12.115.156/tx.hls.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1-imgplus.m3u8
+出招吧看不劍,https://sod.bunediy.com/20210803/Quo5onWY/index.m3u8
