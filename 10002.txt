@@ -1,4 +1,4 @@
-電視直播,#genre#
+📺電視直播,#genre#
 民視,rtmp://59.124.75.153/sat/tv051
 台視,rtmp://59.124.75.153/sat/tv071
 中視,rtmp://59.124.75.153/sat/tv091
@@ -153,8 +153,17 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 原住民電視,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 NHK華語,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+HBO,http://125.227.210.37:16027/VideoInput/play.ts
+東森洋片,http://125.227.210.37:18685/VideoInput/play.ts
+CN卡通,http://125.227.210.37:16671/VideoInput/play.ts
+年代新聞,http://125.227.210.37:11055/VideoInput/play.ts
+非凡新聞,http://125.227.210.37:15078/VideoInput/play.ts
+緯來體育,http://125.227.210.37:18358/VideoInput/play.ts
+FX,http://125.227.210.37:13498/VideoInput/play.ts
+東森戲劇,http://125.227.210.37:17524/VideoInput/play.ts
+三立新聞,http://125.227.210.37:15589/VideoInput/play.ts
 中天新聞,p5p://0198.02686.cc:16871/5f2f9178000c4ec022496d33f280ef95
-八大综合,p5p://0198.02686.cc:16871/5f2e5a5b0000b78e1d8a20f34de5f2ac
+八大綜合,p5p://0198.02686.cc:16871/5f2e5a5b0000b78e1d8a20f34de5f2ac
 中視,p5p://0198.02686.cc:16871/5f3656bb000a656c3cbbfa6d262e3d24
 台視,p5p://0198.02686.cc:16871/5f2e53b0000e6e031d70187e387dbafc
 民視,p5p://0198.02686.cc:16871/5d8f08b60007eeea22db58419a492c10
@@ -184,7 +193,7 @@ OD,p5p://0198.02686.cc:16871/5f2c09ae00029cc4147efda7dcc27dfc.ts#p5p://0198.0268
 欢喜台,p5p://0198.02686.cc:16871/5ecfb90800040601969837e0aa1efa5c.ts#p5p://0198.02686.cc:16871/5ecfb90800040601969837e0aa1efa5c.ts
 小太陽,p5p://0198.02686.cc:16871/5f38d9ab000293e0468b71ed0ce28214.ts#p5p://0198.02686.cc:16871/5f38d9ab000293e0468b71ed0ce28214.ts
 ONe,p5p://0198.02686.cc:16871/5f6ac2ff000df70f6abcbcb9c0ae25c3.ts
-電影輪播,#genre#
+🎦電影輪播,#genre#
 淘電影,http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 黑莓電影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225667/index.m3u8
 科幻大片,http://121.12.115.156/tx.hls.huya.com/src/1423782061-1423782061-6115097388626477056-2847687578-10057-A-0-1.m3u8
