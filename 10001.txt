@@ -9,13 +9,13 @@ TVBS歡樂,rtmp://59.124.75.153/sat/tv421
 緯來日本,rtmp://59.124.75.153/sat/tv521
 緯來育樂,rtmp://59.124.75.153/sat/tv701
 緯來體育,rtmp://59.124.75.153/sat/tv721
-OTBC,rtmp://59.124.75.153/sat/tv731
+ELEVEN1,rtmp://59.124.75.153/sat/tv731
 東森超視,rtmp://59.124.75.153/sat/tv771
 MOMO綜合,rtmp://59.124.75.153/sat/tv761
-ELTA奧運1,rtmp://59.124.75.153/sat/md011
+ELTA體育1,rtmp://59.124.75.153/sat/md011
 ELTA體育3,rtmp://59.124.75.153/sat/md021
-ELTA體育2,rtmp://59.124.75.153/sat/md031
-ELTA奧運2,rtmp://59.124.75.153/sat/md041
+ELTA奧運2,rtmp://59.124.75.153/sat/md031
+ELEVEN2,rtmp://59.124.75.153/sat/md041
 ELTA體育1,rtmp://59.124.75.153/sat/md051
 民視,rtmp://161.202.204.248/sat/tv051
 台視,rtmp://161.202.204.248/sat/tv071
@@ -27,17 +27,19 @@ TVBS歡樂,rtmp://161.202.204.248/sat/tv421
 緯來日本,rtmp://161.202.204.248/sat/tv521
 緯來育樂,rtmp://161.202.204.248/sat/tv701
 緯來體育,rtmp://161.202.204.248/sat/tv721
-OTBC,rtmp://161.202.204.248/sat/tv731
+ELEVEN1,rtmp://161.202.204.248/sat/tv731
 東森超視,rtmp://161.202.204.248/sat/tv771
 MOMO綜合,rtmp://161.202.204.248/sat/tv761
 ELTA奧運1,http://198.16.106.62:8278/streams/d/elta_olymp1/playlist.m3u8
 ELTA奧運2,http://198.16.106.62:8278/streams/d/elta_olymp2/playlist.m3u8
 ELTA奧運3,http://198.16.106.62:8278/streams/d/elta_olymp3/playlist.m3u8
-ELTA奧運1,rtmp://161.202.204.248/sat/md011
+ELTA體育1,rtmp://161.202.204.248/sat/md011
 ELTA體育3,rtmp://161.202.204.248/sat/md021
-ELTA體育2,rtmp://161.202.204.248/sat/md031
-ELTA奧運2,rtmp://161.202.204.248/sat/md041
+ELTA奧運2,rtmp://161.202.204.248/sat/md031
+ELEVEN2,rtmp://161.202.204.248/sat/md041
 ELTA體育1,rtmp://161.202.204.248/sat/md051
+星空衛視,rtmp://58.200.131.2:1935/livetv/startv
+星空音樂,rtmp://58.200.131.3:1935/livetv/channelv
 ELTA影劇,http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
 ELTA綜合,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 ELTA體育3,http://198.16.106.62:8278/streams/d/eltasport3_zero/playlist.m3u8
@@ -78,18 +80,9 @@ TVB翡翠,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
 TVB無線新聞,http://198.16.106.62:8278/streams/d/inews_twn/playlist.m3u8
 TVB有線新聞,http://198.16.106.62:8278/streams/d/hkcnews_twn/playlist.m3u8
 Viutv,http://198.16.106.62:8278/streams/d/viu1_twn/playlist.m3u8
-TLC旅遊生活(英),http://198.16.106.62:8278/streams/d/tlcasia_zero/playlist.m3u8
-迪士尼頻道(英),http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
-迪士尼Junior(英),http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
-BBC CBeebies(英),http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
-BABY TV(英),http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
-Nick Jr(英),http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
-Nickelodeon(英),http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
-8KIDS TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
-Astro AOD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
 美麗人生,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
-ELEVEN SPORT 1,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
+MOMO綜合,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
 海豚綜合,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
 NHK,http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8
 智林體育,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
@@ -102,12 +95,13 @@ TV5MONDE,http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
 大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大愛2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 大愛海外,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
-旺台灣,http://61.58.60.230:9319/live/2.m3u8
-旺TV,http://61.58.60.230:9319/live/3.m3u8
+嘉義SHOW,http://61.58.60.230:9319/live/2.m3u8
+嘉義SHOW,http://61.58.60.230:9319/live/3.m3u8
 大愛,http://61.58.60.230:9319/live/10.m3u8
 世新綜合,http://61.58.60.230:9319/live/49.m3u8
-幸福空間,http://61.58.60.230:9319/live/80.m3u8
-世新新聞,http://61.58.60.230:9319/live/90.m3u8
+世新新聞,http://61.58.60.230:9319/live/80.m3u8
+嘉義SHOW,http://61.58.60.230:9319/live/90.m3u8
+國會頻道2,http://61.58.60.230:9319/live/124.m3u8
 幸福空間居家,http://61.58.60.230:9319/live/125.m3u8
 歐洲新聞,http://61.58.60.230:9319/live/129.m3u8
 阿里郎電視,http://61.58.60.230:9319/live/130.m3u8
@@ -116,12 +110,11 @@ TV5MONDE,http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
 靖天歡樂,http://61.58.60.230:9319/live/201.m3u8
 靖天資訊,http://61.58.60.230:9319/live/202.m3u8
 靖洋戲劇,http://61.58.60.230:9319/live/203.m3u8
-靖天娛樂,http://61.58.60.230:9319/live/204.m3u8
+靖天育樂,http://61.58.60.230:9319/live/204.m3u8
 靖天國際,http://61.58.60.230:9319/live/205.m3u8
 靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
 靖天卡通,http://61.58.60.230:9319/live/207.m3u8
-靖天日本,http://61.58.60.230:9319/live/243.m3u8
-靖天映畫,http://61.58.60.230:9319/live/244.m3u8
+靖天映畫,http://61.58.60.230:9319/live/243.m3u8
 CNEX紀實頻道,http://61.58.60.230:9319/live/257.m3u8
 壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8#http://stream.nexttv.com.tw/n001/playlist.m3u8
 民視新聞,http://210.61.56.23/hls/ftvtv/index.m3u8
@@ -157,6 +150,51 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 民視新聞,http://185.207.176.189:8080/channels/tw-302/playlist.m3u8
 民視台灣,http://185.207.176.189:8080/channels/tw-304/playlist.m3u8
 寰宇新聞,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
+華藏衛視,http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
+唯心衛視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+原住民電視,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+NHK華語,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+HBO,http://125.227.210.37:16027/VideoInput/play.ts
+東森洋片,http://125.227.210.37:18685/VideoInput/play.ts
+CN卡通,http://125.227.210.37:16671/VideoInput/play.ts
+年代新聞,http://125.227.210.37:11055/VideoInput/play.ts
+非凡新聞,http://125.227.210.37:15078/VideoInput/play.ts
+緯來體育,http://125.227.210.37:18358/VideoInput/play.ts
+FX,http://125.227.210.37:13498/VideoInput/play.ts
+東森戲劇,http://125.227.210.37:17524/VideoInput/play.ts
+三立新聞,http://125.227.210.37:15589/VideoInput/play.ts
+中天新聞,p5p://0198.02686.cc:16871/5f2f9178000c4ec022496d33f280ef95
+八大綜合,p5p://0198.02686.cc:16871/5f2e5a5b0000b78e1d8a20f34de5f2ac
+中視,p5p://0198.02686.cc:16871/5f3656bb000a656c3cbbfa6d262e3d24
+台視,p5p://0198.02686.cc:16871/5f2e53b0000e6e031d70187e387dbafc
+民視,p5p://0198.02686.cc:16871/5d8f08b60007eeea22db58419a492c10
+VTBS HD,p5p://0198.02686.cc:16871/5f2f921c0007177d224bec7d6634f95e
+TVBS新聞,p5p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5
+TVBS歡樂,p5p://0198.02686.cc:16871/5dbad7cb0007c9accdfc423fb19c38d1
+東森戲劇,p5p://0198.02686.cc:16871/5f2e5ed20008e6ef1d9b93e3bf1b4576
+緯來綜合,p5p://0198.02686.cc:16871/5f2e576a000315281d7ea426671c8418
+緯來戲劇,p5p://0198.02686.cc:16871/5e0f37bd00040a5217930a9af969bce1
+緯來電影,p5p://0198.02686.cc:16871/5d1a69ce0005e8e911be435423cf0509
+緯來體育,p5p://0198.02686.cc:16871/5f380f20000a96e143744502c1b95f9e
+龍華戲劇,p5p://0198.02686.cc:16871/5f380947000effbb435d6e7b21bc4ac1
+NBA體育,p5p://0198.02686.cc:16871/5f37fa45000952ee4322cd372e7f83d7
+Z頻道,p5p://0198.02686.cc:16871/5d1a69ac000bbbd711bdc002921c2017
+韓國娛樂,p5p://0198.02686.cc:16871/5f37e3320006cbf642c8aa594b534295
+華納電影,p5p://0198.02686.cc:16871/5f38036c000adb5e43468df4826231f4
+K PLUS,p5p://0198.02686.cc:16871/5f380ea60005e9564372673f4fa697fd
+FS2,p5p://0198.02686.cc:16871/5f380e240003cc3b43706ae59184d531
+FOX體育2,p5p://0198.02686.cc:16871/5f2fad7f0006356c22b6e6fb18281642
+技擊運動,p5p://0198.02686.cc:16871/5f3805dd0003b40b43501587f25789b3
+國家地理悠人,p5p://0198.02686.cc:16871/5f37d0fb00088f51428183f5a24c108a.ts
+罪案偵緝,p5p://0198.02686.cc:16871/5f37c7ab0006a300425d22f785b390d0.ts
+愛奇藝,p5p://0198.02686.cc:16871/5f38d81300083da4468539a0eb8d0c0a.ts#p5p://0198.02686.cc:16871/5f38d81300083da4468539a0eb8d0c0a.ts
+AEC,p5p://0198.02686.cc:16871/5ebce360000578b04d059fff4c2e3e3b.ts#p5p://0198.02686.cc:16871/5ebce360000578b04d059fff4c2e3e3b.ts
+OD,p5p://0198.02686.cc:16871/5f2c09ae00029cc4147efda7dcc27dfc.ts#p5p://0198.02686.cc:16871/5f2c09ae00029cc4147efda7dcc27dfc.ts
+双星,p5p://0198.02686.cc:16871/5f38d8fd000caa6e4688ccd211ea705f.ts#p5p://0198.02686.cc:16871/5f38d8fd000caa6e4688ccd211ea705f.ts
+欢喜台,p5p://0198.02686.cc:16871/5ecfb90800040601969837e0aa1efa5c.ts#p5p://0198.02686.cc:16871/5ecfb90800040601969837e0aa1efa5c.ts
+小太陽,p5p://0198.02686.cc:16871/5f38d9ab000293e0468b71ed0ce28214.ts#p5p://0198.02686.cc:16871/5f38d9ab000293e0468b71ed0ce28214.ts
+ONe,p5p://0198.02686.cc:16871/5f6ac2ff000df70f6abcbcb9c0ae25c3.ts
 J SPORTS 2,rtmp://59.124.75.153/sat/jp011
 Shop Japan,rtmp://59.124.75.153/sat/jp021
 日棒球,rtmp://59.124.75.153/sat/jp031
@@ -173,7 +211,6 @@ bein SPORT 2,rtmp://59.124.75.153/sat/hk011
 FOX SPORT 2,rtmp://59.124.75.153/sat/hk021
 廣東珠江,rtmp://59.124.75.153/sat/hk031
 有線18台,rtmp://59.124.75.153/sat/hk041
-全球財經,http://211.21.42.139:18080/twh/sbn.m3u8
 超能台灣,#genre#
 愛爾達影劇,tvbus://5PiEXTiszZht1CyoDx3ix3Ss9oa3hcVKpFRUu6tWQug3ctfERDVPd8J8YxfCx
 愛爾達綜合,tvbus://5TZyPk4BU14TfGgyVjqjFvhyWYmk5e4PqaxvYVtrq252qsiDv48a2zCPdNgdF
@@ -2146,6 +2183,37 @@ AV帝王S2EP8,https://n1.szjal.cn/20210624/s2MdYHxT/index.m3u8?
 甄子丹系列,http://121.12.115.156/tx.hls.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1-imgplus.m3u8
 林正英系列,http://121.12.115.156/tx.hls.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1-imgplus.m3u8
 周潤發系列,http://121.12.115.156/tx.hls.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1-imgplus.m3u8
+iHot愛喜劇,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/1/index.m3u8?fmt=ts2hls
+iHot愛浪漫,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/1/index.m3u8?fmt=ts2hls
+iHot愛科幻,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/1/index.m3u8?fmt=ts2hls
+iHot愛院線,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/1/index.m3u8?fmt=ts2hls
+iHot愛世界,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230046/index.m3u8
+iHot愛體育,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230034/index.m3u8
+iHot愛體育,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230103/index.m3u8
+iHot愛軍武,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230083/index.m3u8
+iHot愛動漫,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230136/index.m3u8
+iHot愛歷史,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230100/index.m3u8
+iHot愛奇談,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230023/index.m3u8
+iHot愛娛樂,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230077/index.m3u8
+iHot愛家庭,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230118/index.m3u8
+iHot愛幼教,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230086/index.m3u8
+iHot愛懷舊,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230049/index.m3u8
+iHot愛懸疑,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/index.m3u8
+iHot愛探索,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/index.m3u8
+iHot愛旅行,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
+iHot愛時尚,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230109/index.m3u8
+iHot愛江湖,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230074/index.m3u8
+iHot愛獵奇,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230097/index.m3u8
+iHot愛玩具,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230026/index.m3u8
+iHot愛電競,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230029/index.m3u8
+iHot愛科學,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230106/index.m3u8
+iHot愛經典,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230101/index.m3u8
+iHot愛美食,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230115/index.m3u8
+iHot愛解密,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230080/index.m3u8
+iHot愛諜戰,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8
+iHot愛賽車,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
+iHot愛都市,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230104/index.m3u8
+iHot愛青春,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230130/index.m3u8
 迷你特攻隊S3,#genre#
 01,https://iqiyi-qq-comic.jjyl12349.com/20210529/3ej9V275/1000kb/hls/index.m3u8
 02,https://iqiyi-qq-comic.jjyl12349.com/20210529/Sx4Ff2Y1/1000kb/hls/index.m3u8
@@ -2513,4 +2581,3 @@ HOT,p5p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571
 彩虹電影,p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913 
 Happy,rtmp://161.202.204.248:1935/tv/ttv12
 松視➊,rtmp://161.202.204.248:1935/tv/ttv11
-LEO TV HD,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
