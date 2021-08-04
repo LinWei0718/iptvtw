@@ -38,6 +38,8 @@ ELTA體育3,rtmp://161.202.204.248/sat/md021
 ELTA奧運2,rtmp://161.202.204.248/sat/md031
 ELEVEN2,rtmp://161.202.204.248/sat/md041
 ELTA體育1,rtmp://161.202.204.248/sat/md051
+星空衛視,rtmp://58.200.131.2:1935/livetv/startv
+星空音樂,rtmp://58.200.131.3:1935/livetv/channelv
 ELTA影劇,http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
 ELTA綜合,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 ELTA體育3,http://198.16.106.62:8278/streams/d/eltasport3_zero/playlist.m3u8
