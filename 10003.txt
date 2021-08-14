@@ -10,6 +10,7 @@ TVBS歡樂,rtmp://59.124.75.153/sat/tv421
 緯來育樂,rtmp://59.124.75.153/sat/tv701
 緯來體育,rtmp://59.124.75.153/sat/tv721
 ELEVEN1,rtmp://59.124.75.153/sat/tv731
+ELEVEN2,rtmp://59.124.75.153/sat/tv741
 東森超視,rtmp://59.124.75.153/sat/tv771
 MOMO綜合,rtmp://59.124.75.153/sat/tv761
 ELTA體育1,rtmp://59.124.75.153/sat/md011
@@ -28,6 +29,7 @@ TVBS歡樂,rtmp://161.202.204.248/sat/tv421
 緯來育樂,rtmp://161.202.204.248/sat/tv701
 緯來體育,rtmp://161.202.204.248/sat/tv721
 ELEVEN1,rtmp://161.202.204.248/sat/tv731
+ELEVEN2,rtmp://161.202.204.248/sat/tv741
 東森超視,rtmp://161.202.204.248/sat/tv771
 MOMO綜合,rtmp://161.202.204.248/sat/tv761
 ELTA體育1,rtmp://161.202.204.248/sat/md011
@@ -37,6 +39,8 @@ ELTA奧運1,rtmp://161.202.204.248/sat/md041
 博斯運動II,rtmp://161.202.204.248/sat/md051
 星空衛視,rtmp://58.200.131.2:1935/livetv/startv
 星空音樂,rtmp://58.200.131.3:1935/livetv/channelv
+三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
+三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 ELTA影劇,http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
 ELTA綜合,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 ELTA體育3,http://198.16.106.62:8278/streams/d/eltasport3_zero/playlist.m3u8
@@ -77,6 +81,7 @@ TVB翡翠,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
 TVB無線新聞,http://198.16.106.62:8278/streams/d/inews_twn/playlist.m3u8
 TVB有線新聞,http://198.16.106.62:8278/streams/d/hkcnews_twn/playlist.m3u8
 Viutv,http://198.16.106.62:8278/streams/d/viu1_twn/playlist.m3u8
+ViuTVsix,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 ONe,http://93.190.139.35:8278/streams/d/One/playlist.m3u8
 衛視電影,http://93.190.139.35:8278/streams/d/Weishimovie/playlist.m3u8
 衛視卡式,http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
@@ -199,8 +204,31 @@ OD,p5p://0198.02686.cc:16871/5f2c09ae00029cc4147efda7dcc27dfc.ts#p5p://0198.0268
 ONe,p5p://0198.02686.cc:16871/5f6ac2ff000df70f6abcbcb9c0ae25c3.ts
 🎦電影輪播,#genre#
 淘電影,http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
-黑莓電影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225667/index.m3u8
 邵氏老電影,https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/817178/live_97065163_17925468.m3u8
+求索動物,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/1/index.m3u8?fmt=ts2hls
+求索生活,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/1/index.m3u8?fmt=ts2hls
+求索科學,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/1/index.m3u8?fmt=ts2hls
+求索紀錄,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/1/index.m3u8?fmt=ts2hls
+Hot亞洲影院,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228365/1/index.m3u8?fmt=ts2hls
+Hot少兒動漫,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228387/1/index.m3u8?fmt=ts2hls
+Hot探索紀錄,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228366/1/index.m3u8?fmt=ts2hls
+Hot歐美影院,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/1/index.m3u8?fmt=ts2hls
+Hot漫遊世界,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228581/1/index.m3u8?fmt=ts2hls
+Hot炫動3D,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228578/1/index.m3u8?fmt=ts2hls
+Hot電子競技,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228572/1/index.m3u8?fmt=ts2hls
+Hot精品劇場,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228360/1/index.m3u8?fmt=ts2hls
+Hot風尚音樂,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228344/1/index.m3u8?fmt=ts2hls
+Hot高清娛樂,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228575/1/index.m3u8?fmt=ts2hls
+華數,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231330/1/index.m3u8?fmt=ts2hls
+輪播,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231385/1/index.m3u8?fmt=ts2hls
+SiTV都市劇場,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229280/1/index.m3u8?fmt=ts2hls
+SiTV遊戲風雲,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229320/1/index.m3u8?fmt=ts2hls
+黑莓動畫,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229675/index.m3u8
+黑莓動畫,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228998/index.m3u8
+黑莓電影,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229734/index.m3u8
+黑莓電影,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229010/index.m3u8
+黑莓電競,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229678/index.m3u8
+黑莓電競,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229059/index.m3u8
 🎦動作片,#genre#
 叢林奇航,https://vod.bunediy.com/20210731/htf0kjSn/index.m3u8
 玩命關頭1,https://vod.bunediy.com/20200504/hzsbE24q/index.m3u8
