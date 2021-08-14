@@ -77,6 +77,10 @@ TVB翡翠,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
 TVB無線新聞,http://198.16.106.62:8278/streams/d/inews_twn/playlist.m3u8
 TVB有線新聞,http://198.16.106.62:8278/streams/d/hkcnews_twn/playlist.m3u8
 Viutv,http://198.16.106.62:8278/streams/d/viu1_twn/playlist.m3u8
+ONe,http://93.190.139.35:8278/streams/d/One/playlist.m3u8
+衛視電影,http://93.190.139.35:8278/streams/d/Weishimovie/playlist.m3u8
+衛視卡式,http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
+Thrill,http://93.190.139.35:8278/streams/d/Thrill/playlist.m3u8#http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
 美麗人生,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
 MOMO綜合,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
