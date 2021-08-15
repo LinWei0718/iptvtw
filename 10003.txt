@@ -171,6 +171,9 @@ CN卡通,http://125.227.210.37:16671/VideoInput/play.ts
 FX,http://125.227.210.37:13498/VideoInput/play.ts
 東森戲劇,http://125.227.210.37:17524/VideoInput/play.ts
 三立新聞,http://125.227.210.37:15589/VideoInput/play.ts
+國家地理,http://125.227.210.37:16408/VideoInput/play.ts
+中天娛樂,http://125.227.210.37:15796/VideoInput/play.ts
+東森戲劇,http://125.227.210.37:17524/VideoInput/play.ts
 中天新聞,p5p://0198.02686.cc:16871/5f2f9178000c4ec022496d33f280ef95
 八大綜合,p5p://0198.02686.cc:16871/5f2e5a5b0000b78e1d8a20f34de5f2ac
 中視,p5p://0198.02686.cc:16871/5f3656bb000a656c3cbbfa6d262e3d24
