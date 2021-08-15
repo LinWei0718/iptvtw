@@ -10,6 +10,7 @@ TVBS歡樂,rtmp://59.124.75.153/sat/tv421
 緯來育樂,rtmp://59.124.75.153/sat/tv701
 緯來體育,rtmp://59.124.75.153/sat/tv721
 ELEVEN1,rtmp://59.124.75.153/sat/tv731
+ELEVEN2,rtmp://59.124.75.153/sat/tv741
 東森超視,rtmp://59.124.75.153/sat/tv771
 MOMO綜合,rtmp://59.124.75.153/sat/tv761
 ELTA體育1,rtmp://59.124.75.153/sat/md011
@@ -28,6 +29,7 @@ TVBS歡樂,rtmp://161.202.204.248/sat/tv421
 緯來育樂,rtmp://161.202.204.248/sat/tv701
 緯來體育,rtmp://161.202.204.248/sat/tv721
 ELEVEN1,rtmp://161.202.204.248/sat/tv731
+ELEVEN2,rtmp://161.202.204.248/sat/tv741
 東森超視,rtmp://161.202.204.248/sat/tv771
 MOMO綜合,rtmp://161.202.204.248/sat/tv761
 ELTA體育1,rtmp://161.202.204.248/sat/md011
@@ -37,6 +39,8 @@ ELTA奧運1,rtmp://161.202.204.248/sat/md041
 博斯運動II,rtmp://161.202.204.248/sat/md051
 星空衛視,rtmp://58.200.131.2:1935/livetv/startv
 星空音樂,rtmp://58.200.131.3:1935/livetv/channelv
+三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
+三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 ELTA影劇,http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
 ELTA綜合,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 ELTA體育3,http://198.16.106.62:8278/streams/d/eltasport3_zero/playlist.m3u8
@@ -77,6 +81,11 @@ TVB翡翠,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
 TVB無線新聞,http://198.16.106.62:8278/streams/d/inews_twn/playlist.m3u8
 TVB有線新聞,http://198.16.106.62:8278/streams/d/hkcnews_twn/playlist.m3u8
 Viutv,http://198.16.106.62:8278/streams/d/viu1_twn/playlist.m3u8
+ViuTVsix,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
+ONe,http://93.190.139.35:8278/streams/d/One/playlist.m3u8
+衛視電影,http://93.190.139.35:8278/streams/d/Weishimovie/playlist.m3u8
+衛視卡式,http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
+Thrill,http://93.190.139.35:8278/streams/d/Thrill/playlist.m3u8#http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
 美麗人生,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
 MOMO綜合,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
@@ -193,103 +202,6 @@ OD,p5p://0198.02686.cc:16871/5f2c09ae00029cc4147efda7dcc27dfc.ts#p5p://0198.0268
 欢喜台,p5p://0198.02686.cc:16871/5ecfb90800040601969837e0aa1efa5c.ts#p5p://0198.02686.cc:16871/5ecfb90800040601969837e0aa1efa5c.ts
 小太陽,p5p://0198.02686.cc:16871/5f38d9ab000293e0468b71ed0ce28214.ts#p5p://0198.02686.cc:16871/5f38d9ab000293e0468b71ed0ce28214.ts
 ONe,p5p://0198.02686.cc:16871/5f6ac2ff000df70f6abcbcb9c0ae25c3.ts
-🎦電影輪播,#genre#
-淘電影,http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
-黑莓電影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225667/index.m3u8
-邵氏老電影,https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/817178/live_97065163_17925468.m3u8
-🎦動作片,#genre#
-叢林奇航,https://vod.bunediy.com/20210731/htf0kjSn/index.m3u8
-玩命關頭1,https://vod.bunediy.com/20200504/hzsbE24q/index.m3u8
-玩命關頭2,https://vod.bunediy.com/20200508/XEPv04NL/index.m3u8
-玩命關頭3,https://vod.bunediy.com/20200502/o0W0XpNu/index.m3u8
-玩命關頭4,https://vod.bunediy.com/20201123/iGZ3KNq0/index.m3u8
-玩命關頭5,https://vod.bunediy.com/20200411/1LxuwQJG/index.m3u8
-玩命關頭6,https://vod.bunediy.com/20200502/UkkujEjt/index.m3u8
-玩命關頭7,https://vod.bunediy.com/20200411/KIyfciyV/index.m3u8
-玩命關頭8,https://vod.bunediy.com/20200506/ojX8vBqa/index.m3u8
-玩命關頭9,https://sod.bunediy.com/20210801/jS39LVvB/index.m3u8
-碟中諜1,https://vod.bunediy.com/20200502/XQLlxzBj/index.m3u8
-碟中諜2,https://vod.bunediy.com/20200502/q8QQd3A7/index.m3u8
-碟中諜3,https://vod3.buycar5.cn/20201112/pKdRJ5In/1000kb/hls/index.m3u8
-碟中諜4,,https://vod.bunediy.com/20200507/YDyIVxVC/index.m3u8
-碟中諜5,https://vod.bunediy.com/20200430/txxPIQyd/index.m3u8
-碟中諜6,https://vod.bunediy.com/20200505/oISZDOVe/index.m3u8
-刺客聯盟,https://vod.bunediy.com/20200501/MlJ8cFEN/index.m3u8
-刺客學妹,https://vod.bunediy.com/20200429/zHcjL0Tl/index.m3u8
-超能查派,https://vod.bunediy.com/20210423/82vlXTCU/index.m3u8
-小人物,https://vod.bunediy.com/20210415/YfavRyHH/index.m3u8
-掃黑·決戰,https://vod3.buycar5.cn/20210529/PzbOlrXI/1000kb/hls/index.m3u8
-掃黑英雄,https://vod.bunediy.com/20210124/EG8OPhzd/index.m3u8
-那些希望我死的人,https://vod.bunediy.com/20210516/AbSAaINO/index.m3u8
-大師,https://vod.bunediy.com/20210425/qwGkUpoC/index.m3u8
-三重威脅之跨國大營救,https://video.buycar5.cn/20200921/O0MOuVMW/1000kb/hls/index.m3u8
-冷血悍將,https://vod.bunediy.com/20210430/plO3QxQN/index.m3u8
-絕地狙殺,https://vod.bunediy.com/20210701/aP44AiJA/index.m3u8
-特種兵歸來4替身疑雲,https://vod.bunediy.com/20210205/Gx2xszWU/index.m3u8
-絕色逃生,https://vod.bunediy.com/20210626/7bUKvRKo/index.m3u8
-狂鼠列車,https://vod.bunediy.com/20210114/ziOkPTse/index.m3u8
-神槍手,https://vod.bunediy.com/20210413/PkK1Hiw3/index.m3u8
-異類,https://vod.bunediy.com/20210610/AC0zFCUv/index.m3u8
-紳士們,https://vod.bunediy.com/20210320/VOust4l2/index.m3u8
-新王加冕,https://vod4.buycar5.cn/20210121/ecrjDZB9/1000kb/hls/index.m3u8
-狩獵,https://v3.szjal.cn/20200322/gWs4wNoB/1000kb/hls/index.m3u8
-驚天營救,https://video.buycar5.cn/20200802/yWMtbad5/2000kb/hls/index.m3u8
-特別有種：致命行動,https://vod.bunediy.com/20200802/FIorqGhz/index.m3u8
-漫畫威龍之大話特務,https://vod.bunediy.com/20200612/SBZqNjlS/index.m3u8
-火藥奶昔,https://vod.bunediy.com/20210715/n0yn4g7S/index.m3u8
-疾速豬殺,https://vod.bunediy.com/20210717/alo7iYhP/index.m3u8
-黑寡婦2021,https://vod.bunediy.com/20210709/J4Ja9qwI/index.m3u8
-刺殺小說家,https://vod.bunediy.com/20210409/nGotUHrq/index.m3u8
-歸零地2021,https://vod.bunediy.com/20210706/XSEsvr0h/index.m3u8
-殺手妻子的保鏢,https://vod.bunediy.com/20210704/hG0M3qZC/index.m3u8
-午夜2021,https://vod.bunediy.com/20210703/GZ6IqYxN/index.m3u8
-21座橋,https://vod.bunediy.com/20210627/AEdWV4N6/index.m3u8
-混沌行走,https://vod4.buycar5.cn/20210404/YcZULYzt/1000kb/hls/index.m3u8?_t=1625026587283
-大師2021,https://vod4.buycar5.cn/20210425/VnSyV10a/1000kb/hls/index.m3u8?skipl=1
-角頭外傳,https://vod3.buycar5.cn/20210525/TAG22gSv/1000kb/hls/index.m3u8
-武狀元蘇乞兒之天降神諭,https://vod.bunediy.com/20210531/AmxIzH9e/index.m3u8
-偷天俠盜團,https://vod.bunediy.com/20210610/AC0zFCUv/index.m3u8
-極地反擊,https://vod.bunediy.com/20210604/yCxhkxv0/index.m3u8
-人之怒,https://vod.bunediy.com/20210525/OF39UXjP/index.m3u8
-漠北追擊,https://vod.bunediy.com/20210624/tOnad2Sz/index.m3u8
-🎦科幻片,#genre#
-X特遣隊全員集結,https://sod.bunediy.com/20210806/zhCJwweF/index.m3u8
-黑衣人1,https://vod.bunediy.com/20210423/sPJL0UDN/index.m3u8
-黑衣人2,https://vod.bunediy.com/20210423/pwxKyrkx/index.m3u8
-黑衣人3,https://vod.bunediy.com/20210423/YTNsu0ts/index.m3u8
-殭屍世界大戰,https://vod.bunediy.com/20201114/9NGt3RRS/index.m3u8
-人類清除計劃1,https://vod.bunediy.com/20210614/ugWIoqlI/index.m3u8
-人類清除計劃2,https://vod.bunediy.com/20210614/a41vtWN3/index.m3u8
-人類清除計劃3,https://vod.bunediy.com/20210614/hUKaRUH9/index.m3u8
-人類清除計劃4,https://vod.bunediy.com/20210614/OJEilvp8/index.m3u8
-人類清除計劃5,https://vod.bunediy.com/20210718/Qh7w1Rip/index.m3u8
-格羅姆少校,https://vod.bunediy.com/20210708/vQm4fsPn/index.m3u8
-緝魂2021,https://vod.bunediy.com/20210226/7cpHlqFm/index.m3u8
-明日之戰2021,https://vod.bunediy.com/20210702/zTBLVa5m/index.m3u8
-寂靜之地2021,https://vod.bunediy.com/20210628/PSuVWdEh/index.m3u8
-勝利號2021,https://vod.bunediy.com/20210205/KxIiSJ5H/index.m3u8
-哥斯拉大戰金剛2021,https://vod.bunediy.com/20210331/LBhwkrkZ/index.m3u8
-無限2021,https://vod.bunediy.com/20210611/M3vrMbYw/index.m3u8
-末日激戰2021,https://vod.bunediy.com/20210210/ZRRJVnFq/index.m3u8
-外星罪孽2021,https://vod.bunediy.com/20210602/zNfpRTE2/index.m3u8
-信條2020,https://vod.bunediy.com/20201128/vPsvLMCa/index.m3u8
-我們需要談談AI2020,https://vod.bunediy.com/20210403/HiGsIIrq/index.m3u8
-絕密檔案2020,https://vod.bunediy.com/20201114/wkJl97Qv/index.m3u8
-喋血戰士2020,https://vod.bunediy.com/20210103/6yJbUvOu/index.m3u8
-變形金剛1,https://vod.bunediy.com/20200430/NfSpDY3H/index.m3u8
-變形金剛2,https://vod.bunediy.com/20200413/sS5mUOIR/index.m3u8
-變形金剛3,https://vod.bunediy.com/20200503/S8C2H0KH/index.m3u8
-變形金剛4,https://vod.bunediy.com/20200413/dHlVjwOc/index.m3u8
-變形金剛5,https://vod.bunediy.com/20200413/uGp9n5uQ/index.m3u8
-變異巨蟒,https://vod.bunediy.com/20210502/8Xmd0onj/index.m3u8
-活死人軍團,https://vod.bunediy.com/20210521/VwWoDVSP/index.m3u8
-大聖無雙,https://vod.bunediy.com/20210617/0C4mR3nv/index.m3u8
-死侍2我愛我家,https://vod.bunediy.com/20210618/eLszCspg/index.m3u8
-天際浩劫3,https://vod3.buycar5.cn/20201218/uVdSCVK0/1000kb/hls/index.m3u8
-鯊魚:起點2021,https://vod.bunediy.com/20210629/0dNbrFMG/index.m3u8
-阿麗塔,https://vod2.buycar5.cn/20201029/45OCwScC/1000kb/hls/index.m3u8
-皇家次子女秘密組織,https://vod4.buycar5.cn/20201116/cLjrmY2D/1000kb/hls/index.m3u8
-超能計劃,https://video.buycar5.cn/20200818/SEImmz43/1000kb/hls/index.m3u8
 🎦喜劇片,#genre#
 出招吧看不劍,https://sod.bunediy.com/20210803/Quo5onWY/index.m3u8
 男兒王,https://sod.bunediy.com/20210805/1QqETSkl/index.m3u8
