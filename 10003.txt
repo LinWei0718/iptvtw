@@ -205,92 +205,6 @@ OD,p5p://0198.02686.cc:16871/5f2c09ae00029cc4147efda7dcc27dfc.ts#p5p://0198.0268
 欢喜台,p5p://0198.02686.cc:16871/5ecfb90800040601969837e0aa1efa5c.ts#p5p://0198.02686.cc:16871/5ecfb90800040601969837e0aa1efa5c.ts
 小太陽,p5p://0198.02686.cc:16871/5f38d9ab000293e0468b71ed0ce28214.ts#p5p://0198.02686.cc:16871/5f38d9ab000293e0468b71ed0ce28214.ts
 ONe,p5p://0198.02686.cc:16871/5f6ac2ff000df70f6abcbcb9c0ae25c3.ts
-新马港,#genre#
-AEC,p5p://0198.02686.cc:16871/5ebce360000578b04d059fff4c2e3e3b.ts#p5p://0198.02686.cc:16871/5ebce360000578b04d059fff4c2e3e3b.ts
-AOD,p5p://0198.02686.cc:16871/5f2c09ae00029cc4147efda7dcc27dfc.ts#p5p://0198.02686.cc:16871/5f2c09ae00029cc4147efda7dcc27dfc.ts
-双星,p5p://0198.02686.cc:16871/5f38d8fd000caa6e4688ccd211ea705f.ts#p5p://0198.02686.cc:16871/5f38d8fd000caa6e4688ccd211ea705f.ts
-欢喜台,p5p://0198.02686.cc:16871/5ecfb90800040601969837e0aa1efa5c.ts#p5p://0198.02686.cc:16871/5ecfb90800040601969837e0aa1efa5c.ts
-爱奇艺,p5p://0198.02686.cc:16871/5f38d81300083da4468539a0eb8d0c0a.ts#p5p://0198.02686.cc:16871/5f38d81300083da4468539a0eb8d0c0a.ts
-小太阳,p5p://0198.02686.cc:16871/5f38d9ab000293e0468b71ed0ce28214.ts#p5p://0198.02686.cc:16871/5f38d9ab000293e0468b71ed0ce28214.ts
-天映頻道,p5p://0198.02686.cc:16871/5ecfb28400055004967ec4954fccfd7f.ts#p5p://0198.02686.cc:16871/5ecfb28400055004967ec4954fccfd7f.ts
-翡翠臺,p5p://0198.02686.cc:16871/5f378d9b0003c2e4417a53bb22d95282.ts#p5p://0198.02686.cc:16871/5f378d9b0003c2e4417a53bb22d95282.ts
-無線新聞,p5p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts#p5p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
-明珠臺,p5p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts#,p5p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
-J2,p5p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts#p5p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
-TVB1,p5p://0198.02686.cc:16871/5f39f86b000c14564aeb925c1456a710.ts#p5p://0198.02686.cc:16871/5f39f86b000c14564aeb925c1456a710.ts
-RTHK31,p5p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts#p5p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts
-凤凰资讯,p5p://0198.02686.cc:16871/5f2cfb640007e2c1182f2df12d0ba74b.ts#p5p://0198.02686.cc:16871/5f2cfb640007e2c1182f2df12d0ba74b.ts
-凤凰卫视,p5p://0198.02686.cc:16871/5d1a69d80007b1db11be6ad9e2339543.ts#p5p://0198.02686.cc:16871/5d1a69d80007b1db11be6ad9e2339543.ts
-凤凰香港,p5p://0198.02686.cc:16871/5d1a69d6000505cd11be625a06b24e50.ts#p5p://0198.02686.cc:16871/5d1a69d6000505cd11be625a06b24e50.ts
-now新闻,p5p://0198.02686.cc:16871/5e565c070000cb6f2d78cad5c040fa7b.ts#p5p://0198.02686.cc:16871/5e565c070000cb6f2d78cad5c040fa7b.ts
-now直播,p5p://0198.02686.cc:16871/5f2cb8a50005cce1172a735005454a58.ts#p5p://0198.02686.cc:16871/5f2cb8a50005cce1172a735005454a58.ts
-NOWTVHD,p5p://0198.02686.cc:16871/5d1a69e80008b03211bea99a766f4b8a.ts#p5p://0198.02686.cc:16871/5d1a69e80008b03211bea99a766f4b8a.ts
-有線18,p5p://0198.02686.cc:16871/5f2cc1110005f3a7174b593a4c9a9daf.ts#p5p://0198.02686.cc:16871/5f2cc1110005f3a7174b593a4c9a9daf.ts
-新加坡 5,p5p://0198.02686.cc:16871/5f48befd0008c5702413bdf1cb4c3d16.ts#p5p://0198.02686.cc:16871/5f48befd0008c5702413bdf1cb4c3d16.ts
-新加坡 8,p5p://0198.02686.cc:16871/5f48bcef000819da240bb715c294ee99.ts#p5p://0198.02686.cc:16871/5f48bcef000819da240bb715c294ee99.ts
-新加坡 u,p5p://0198.02686.cc:16871/5f48bdc00000a914240ee5961e42ddb9.ts#p5p://0198.02686.cc:16871/5f48bdc00000a914240ee5961e42ddb9.ts
-SURIA,p5p://0198.02686.cc:16871/5f48c00d00021f2b2417e2bd7ee883e9.ts
-VAS,p5p://0198.02686.cc:16871/5f48bbb4000548152406e7e59563db11.ts
-ai hijrah,p5p://0198.02686.cc:16871/5f3cffef000ac84756c0eda79b692796.ts
-ai hijrah,p5p://0198.02686.cc:16871/5f4886fd0003d38f2338fcad264924a6.ts
-Go Shop,p5p://0198.02686.cc:16871/5f37636c0001eb1540d58baa35bc4c42.ts
-NTV7,p5p://0198.02686.cc:16871/5f48c19b00027fd5241df5869244f0e9.ts
-Ria HD,p5p://0198.02686.cc:16871/5f38da5a000597f0468e1e4b36907bc0.ts
-Prima HD,p5p://0198.02686.cc:16871/5f38dadf0007ff034690267038e14f22.ts
-ASTRO AURA,p5p://0198.02686.cc:16871/5f4889a50009fac723435e804457393e.ts
-OASIS HD,p5p://0198.02686.cc:16871/5f65e3990009593057b4151a86c9b165.ts
-Cricket HD(备）,p5p://0198.02686.cc:16871/5f34c53a00023693369b986d17cc484e.ts
-Arena HD,p5p://0198.02686.cc:16871/5f65d6c4000c7f635781f5e049ff7a42.ts
-NAURA,p5p://0198.02686.cc:16871/5f3a79d90002af024ce525a4b958389f.ts
-WARNA HD,p5p://0198.02686.cc:16871/5f4889a50009fac723435e804457393e.ts
-Ceria,p5p://0198.02686.cc:16871/5f3a792900065ca24ce27715111474c9.ts
-VINMEEN HD,p5p://0198.02686.cc:16871/5f34c9c00007f8c936ad45568b5ad1ef.ts
-TUTOR TV,p5p://0198.02686.cc:16871/5f34ca82000c89ca36b03c527ad7c267.ts
-SUPERSPORT 1,p5p://0198.02686.cc:16871/5f38e27d0001a03146ade5ff5976831b.ts#p5p://0198.02686.cc:16871/5f38e27d0001a03146ade5ff5976831b.ts
-SUPERSPORT 2,p5p://0198.02686.cc:16871/5ecfb8a5000633be9696b5b754f59677.ts
-SUPERSPORT 2,p5p://0198.02686.cc:16871/5f3a792900065ca24ce27715111474c9.ts
-SUPERSPORT 3,p5p://0198.02686.cc:16871/5ecfb8cd000aead19697532ccd7047f1.ts#p5p://0198.02686.cc:16871/5ecfb8cd000aead19697532ccd7047f1.ts
-SUPERSPORT 4,p5p://0198.02686.cc:16871/5ecfb8eb000e05559697c928d4828974.ts#p5p://0198.02686.cc:16871/5ecfb8eb000e05559697c928d4828974.ts
-WWE NETWORK,p5p://0198.02686.cc:16871/5f3a77db000378164cdd5da71c08ae8d.ts
-博斯無限,p5p://0198.02686.cc:16871/5f37dd090006077242b099ff9590d5b0.ts
-Fight_Sport,p5p://0198.02686.cc:16871/5f3805dd0003b40b43501587f25789b37038e14f22.ts
-FOX_SPORTS_2,p5p://0198.02686.cc:16871/5f2fad7f0006356c22b6e6fb18281642.ts
-FOX_SPORTS,p5p://0198.02686.cc:16871/5f380e240003cc3b43706ae59184d531.ts
-HBO,p5p://0198.02686.cc:16871/5f4a68260001b22e2a90844a684e3ae6.ts
-HBO_HD,p5p://0198.02686.cc:16871/5f6ac5fd000895fc6ac86b8865593258.ts
-HBO Family HD,p5p://0198.02686.cc:16871/5f6ac56e0007fbcd6ac63cc9bdd96230.ts
-HBO Hits HD,p5p://0198.02686.cc:16871/5f660e21000c4b82585a391b42fb8539.ts
-tvN MOVIES,p5p://0198.02686.cc:16871/5f38df99000f213b46a29ed48a7776fd.ts
-tvN Movies,p5p://0198.02686.cc:16871/5f34c861000f2dba36a7ec178158ec89.ts
-Warner TV,p5p://0198.02686.cc:16871/5f34c7a80001412a36a515dec131429c.ts
-Warner TV,p5p://0198.02686.cc:16871/5f38036c000adb5e43468df4826231f4.ts
-Warner TV ID HD,p5p://0198.02686.cc:16871/5f6ac7bf0008662b6acf494c8aad570b.ts
-ANIMAX,p5p://0198.02686.cc:16871/5f38db6700036d2e46923885d5fec1d8.ts
-Z頻道,p5p://0198.02686.cc:16871/5d1a69ac000bbbd711bdc002921c2017.ts
-罪案偵緝頻道,p5p://0198.02686.cc:16871/5f37c7ab0006a300425d22f785b390d0.ts
-韓國娛樂台KMTV,p5p://0198.02686.cc:16871/5f37e3320006cbf642c8aa594b534295.ts
-K PLUS,p5p://0198.02686.cc:16871/5f380ea60005e9564372673f4fa697fd.ts
-KBS WORLD,p5p://0198.02686.cc:16871/5f37f2a20009457c4304f87c69928719.ts
-國家地理悠人頻道,p5p://0198.02686.cc:16871/5f37d0fb00088f51428183f5a24c108a.ts
-Sony_One,p5p://0198.02686.cc:16871/5f38dd2d000db2b34699289669b0f014.ts
-FOX_HD,p5p://0198.02686.cc:16871/5f38e4c4000f3daf46b6ced31beebb94.ts
-FOX_Family_Movies_ID,p5p://0198.02686.cc:16871/5f38de050009673e469c733ca19a0b29.ts
-FOX_Action_Movies,p5p://0198.02686.cc:16871/5f6ac661000d62316ac9f3623ad35fe5.ts
-FOX_Life_HD,p5p://0198.02686.cc:16871/5f38e40700018a8746b3e909bc41bcae.ts
-BNC,p5p://0198.02686.cc:16871/5f39111e000980ec47640ceb3b327a26.ts
-BLUE ANT,p5p://0198.02686.cc:16871/5f38e1940000417846aa577d4c44ec6d.ts
-CNA HD,p5p://0198.02686.cc:16871/5f48c58300018a8b242d37878915a806.ts
-LifeTime,p5p://0198.02686.cc:16871/5f6ac762000f412c6acddfc546e7b6c3.ts
-AFC HD,p5p://0198.02686.cc:16871/5f6ac993000beab86ad66e52e0910892.ts
-Star_Chinese_Movies_HD,p5p://0198.02686.cc:16871/5f6ac2ff000df70f6abcbcb9c0ae25c3.ts
-cnn-news,p5p://0198.02686.cc:16871/5f3a9d510003035b4d6fb279501b02a0.ts
-KIX HD,p5p://0198.02686.cc:16871/5f6ac1da000314756ab8416701bab1d3.ts
-HGTV_HD,p5p://0198.02686.cc:16871/5f660b10000bec05584e3e9be17d13a0.ts
-HGTV,p5p://0198.02686.cc:16871/5f37d6220008f7164295a468e226c829.ts
-DISNEY_JUNIOR,p5p://0198.02686.cc:16871/5f6605c20006d0885839849c878500ff.ts
-Discovery HD,p5p://0198.02686.cc:16871/5f3a73a2000c5e024ccce147da85298b.ts
-ANIMAX,p5p://0198.02686.cc:16871/5f37e0a9000b3a6142bec454e847807d.ts
-AXN,p5p://0198.02686.cc:16871/5f38e372000bc93246b1a5a0cf642229.ts
 🎦電影輪播,#genre#
 斯卡羅01,https://sod.bunediy.com/20210815/7bXsm2tv/index.m3u8
 斯卡羅02,https://sod.bunediy.com/20210815/IsQt5c4I/index.m3u8
@@ -583,29 +497,29 @@ X特遣隊全員集結,https://sod.bunediy.com/20210806/zhCJwweF/index.m3u8
 麥路人,https://vod.bunediy.com/20201016/eZvsUK6M/index.m3u8
 失戀反攻隊,https://vod.bunediy.com/20210203/l3KUGh8t/index.m3u8
 無間風暴,https://vod.bunediy.com/20210523/uT4ghhN8/index.m3u8
-📺426藍光,#genre#
-鳳凰咨訊臺,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
+📺大陸藍光,#genre#
+鳳凰咨訊,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
 鳳凰中文,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8
-鳳凰中文 10M1080,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
-鳳凰資訊 10M1080,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-鳳凰香港 10M1080,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
-東方衛視 3M1080,http://39.134.24.24/PLTV/88888888/224/3221225676/index.m3u8
-東方衛視 16M1080,http://39.134.24.24/PLTV/88888888/224/3221225835/index.m3u8
-北京衛視 12M1080,http://39.134.24.24/PLTV/88888888/224/3221225833/index.m3u8
-北京衛視 3M1080,http://39.134.24.24/PLTV/88888888/224/3221225724/index.m3u8
-安徽衛視 12M1080,http://39.134.24.24/PLTV/88888888/224/3221225847/index.m3u8
-山東衛視 12M1080,http://39.134.24.24/PLTV/88888888/224/3221225841/index.m3u8
-廣東衛視 3M1080,http://39.134.24.24/PLTV/88888888/224/3221225680/index.m3u8
-江蘇衛視 3M1080,http://39.134.24.24/PLTV/88888888/224/3221225602/index.m3u8
-浙江衛視 3M1080,http://39.134.24.24/PLTV/88888888/224/3221225664/index.m3u8
-浙江衛視 16M1080,http://39.134.24.24/PLTV/88888888/224/3221225845/index.m3u8
-深圳衛視 12M1080,http://39.134.24.24/PLTV/88888888/224/3221225843/index.m3u8
-深圳衛視 3M1080,http://39.134.24.24/PLTV/88888888/224/3221225764/index.m3u8
-湖北衛視 3M1080,http://39.134.24.24/PLTV/88888888/224/3221225863/index.m3u8
-湖南衛視 3M1080,http://39.134.24.24/PLTV/88888888/224/3221225694/index.m3u8
-湖南衛視 16M1080,http://39.134.24.24/PLTV/88888888/224/3221225837/index.m3u8
-遼寧衛視 3M1080,http://39.134.24.24/PLTV/88888888/224/3221225861/index.m3u8
-龍江衛視 3M1080,http://39.134.24.24/PLTV/88888888/224/3221225690/index.m3u8
+鳳凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+鳳凰資訊,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+鳳凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+東方衛視,http://39.134.24.24/PLTV/88888888/224/3221225676/index.m3u8
+東方衛視,http://39.134.24.24/PLTV/88888888/224/3221225835/index.m3u8
+北京衛視,http://39.134.24.24/PLTV/88888888/224/3221225833/index.m3u8
+北京衛視,http://39.134.24.24/PLTV/88888888/224/3221225724/index.m3u8
+安徽衛視,http://39.134.24.24/PLTV/88888888/224/3221225847/index.m3u8
+山東衛視,http://39.134.24.24/PLTV/88888888/224/3221225841/index.m3u8
+廣東衛視,http://39.134.24.24/PLTV/88888888/224/3221225680/index.m3u8
+江蘇衛視,http://39.134.24.24/PLTV/88888888/224/3221225602/index.m3u8
+浙江衛視,http://39.134.24.24/PLTV/88888888/224/3221225664/index.m3u8
+浙江衛視,http://39.134.24.24/PLTV/88888888/224/3221225845/index.m3u8
+深圳衛視,http://39.134.24.24/PLTV/88888888/224/3221225843/index.m3u8
+深圳衛視,http://39.134.24.24/PLTV/88888888/224/3221225764/index.m3u8
+湖北衛視,http://39.134.24.24/PLTV/88888888/224/3221225863/index.m3u8
+湖南衛視,http://39.134.24.24/PLTV/88888888/224/3221225694/index.m3u8
+湖南衛視,http://39.134.24.24/PLTV/88888888/224/3221225837/index.m3u8
+遼寧衛視,http://39.134.24.24/PLTV/88888888/224/3221225861/index.m3u8
+龍江衛視,http://39.134.24.24/PLTV/88888888/224/3221225690/index.m3u8
 廣東衛視,http://183.207.248.71:80/cntv/live1/n-guangdongstv/n-guangdongstv
 東南衛視,http://183.207.248.71:80/cntv/live1/n-dongnanstv/n-dongnanstv
 東方衛視,http://183.207.248.71:80/cntv/live1/n-dongfangstv/n-dongfangstv
@@ -643,44 +557,44 @@ X特遣隊全員集結,https://sod.bunediy.com/20210806/zhCJwweF/index.m3u8
 遼寧衛視,http://183.207.248.71:80/cntv/live1/liaoningstv/liaoningstv
 陜西衛視,http://183.207.248.71:80/cntv/live1/n-shanxi1stv/n-shanxi1stv
 青海衛視,http://183.207.248.71:80/cntv/live1/n-qinghaistv/n-qinghaistv
-東南衛視 576,http://39.134.24.24/PLTV/88888888/224/3221225722/index.m3u8
-東方衛視 720+576,http://39.134.24.24/PLTV/88888888/224/3221225976/index.m3u8
-雲南衛視 576,http://39.134.24.24/PLTV/88888888/224/3221225696/index.m3u8
-蒙古衛視 576,http://39.134.24.24/PLTV/88888888/224/3221225626/index.m3u8
-北京衛視 576,http://39.134.24.24/PLTV/88888888/224/3221225646/index.m3u8#http://39.134.24.24/PLTV/88888888/224/3221225735/index.m3u8#http://39.134.24.24/PLTV/88888888/224/3221225735/index.m3u8
-四川衛視 576,http://39.134.24.24/PLTV/88888888/224/3221225704/index.m3u8
-天津衛視 576,http://39.134.24.24/PLTV/88888888/224/3221225670/index.m3u8
-寧夏衛視 576,http://39.134.24.24/PLTV/88888888/224/3221225730/index.m3u8
-山東衛視 576,http://39.134.24.24/PLTV/88888888/224/3221225796/index.m3u8
-廣東衛視 576,http://39.134.24.24/PLTV/88888888/224/3221225692/index.m3u8
-廣西衛視 576,http://39.134.24.24/PLTV/88888888/224/3221225594/index.m3u8
-新疆衛視 576,http://39.134.24.24/PLTV/88888888/224/3221225790/index.m3u8
-江蘇衛視 576,http://39.134.24.24/PLTV/88888888/224/3221225734/index.m3u8
-江西衛視 576,http://39.134.24.24/PLTV/88888888/224/3221225682/index.m3u8
-河北衛視 576,http://39.134.24.24/PLTV/88888888/224/3221225744/index.m3u8
-河南衛視 576,http://39.134.24.24/PLTV/88888888/224/3221225716/index.m3u8
-浙江衛視 576,http://39.134.24.24/PLTV/88888888/224/3221225642/index.m3u8
-海南衛視 576,http://39.134.24.24/PLTV/88888888/224/3221225614/index.m3u8
-深圳衛視 576,http://39.134.24.24/PLTV/88888888/224/3221225590/index.m3u8
-湖北衛視 576,http://39.134.24.24/PLTV/88888888/224/3221225674/index.m3u8
-湖南衛視 576,http://39.134.24.24/PLTV/88888888/224/3221225616/index.m3u8
-甘肅衛視 576,http://39.134.24.24/PLTV/88888888/224/3221225714/index.m3u8
-貴州衛視 576,http://39.134.24.24/PLTV/88888888/224/3221225610/index.m3u8
-遼寧衛視 576,http://39.134.24.24/PLTV/88888888/224/3221225726/index.m3u8
-重慶衛視 576,http://39.134.24.24/PLTV/88888888/224/3221225592/index.m3u8
-青海衛視 576,http://39.134.24.24/PLTV/88888888/224/3221225606/index.m3u8
-東南衛視 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=23&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-東方衛視 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=22&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-北京衛視 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=30&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-四川衛視 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=3&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-天津衛視 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=37&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-安徽衛視 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=2&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-江蘇衛視 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=5&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-河南衛視 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=19&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-浙江衛視 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=13&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-廣東南方衛視上星576,http://39.134.24.24/PLTV/88888888/224/3221225871/index.m3u8
-新疆兵團衛視 576,http://39.134.24.24/PLTV/88888888/224/3221225869/index.m3u8
-青海安多衛視 576,http://39.134.24.24/PLTV/88888888/224/3221225875/index.m3u8
+東南衛視,http://39.134.24.24/PLTV/88888888/224/3221225722/index.m3u8
+東方衛視,http://39.134.24.24/PLTV/88888888/224/3221225976/index.m3u8
+雲南衛視,http://39.134.24.24/PLTV/88888888/224/3221225696/index.m3u8
+蒙古衛視,http://39.134.24.24/PLTV/88888888/224/3221225626/index.m3u8
+北京衛視,http://39.134.24.24/PLTV/88888888/224/3221225646/index.m3u8#http://39.134.24.24/PLTV/88888888/224/3221225735/index.m3u8#http://39.134.24.24/PLTV/88888888/224/3221225735/index.m3u8
+四川衛視,http://39.134.24.24/PLTV/88888888/224/3221225704/index.m3u8
+天津衛視,http://39.134.24.24/PLTV/88888888/224/3221225670/index.m3u8
+寧夏衛視,http://39.134.24.24/PLTV/88888888/224/3221225730/index.m3u8
+山東衛視,http://39.134.24.24/PLTV/88888888/224/3221225796/index.m3u8
+廣東衛視,http://39.134.24.24/PLTV/88888888/224/3221225692/index.m3u8
+廣西衛視,http://39.134.24.24/PLTV/88888888/224/3221225594/index.m3u8
+新疆衛視,http://39.134.24.24/PLTV/88888888/224/3221225790/index.m3u8
+江蘇衛視,http://39.134.24.24/PLTV/88888888/224/3221225734/index.m3u8
+江西衛視,http://39.134.24.24/PLTV/88888888/224/3221225682/index.m3u8
+河北衛視,http://39.134.24.24/PLTV/88888888/224/3221225744/index.m3u8
+河南衛視,http://39.134.24.24/PLTV/88888888/224/3221225716/index.m3u8
+浙江衛視,http://39.134.24.24/PLTV/88888888/224/3221225642/index.m3u8
+海南衛視,http://39.134.24.24/PLTV/88888888/224/3221225614/index.m3u8
+深圳衛視,http://39.134.24.24/PLTV/88888888/224/3221225590/index.m3u8
+湖北衛視,http://39.134.24.24/PLTV/88888888/224/3221225674/index.m3u8
+湖南衛視,http://39.134.24.24/PLTV/88888888/224/3221225616/index.m3u8
+甘肅衛視,http://39.134.24.24/PLTV/88888888/224/3221225714/index.m3u8
+貴州衛視,http://39.134.24.24/PLTV/88888888/224/3221225610/index.m3u8
+遼寧衛視,http://39.134.24.24/PLTV/88888888/224/3221225726/index.m3u8
+重慶衛視,http://39.134.24.24/PLTV/88888888/224/3221225592/index.m3u8
+青海衛視,http://39.134.24.24/PLTV/88888888/224/3221225606/index.m3u8
+東南衛視,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=23&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+東方衛視,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=22&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+北京衛視,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=30&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+四川衛視,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=3&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+天津衛視,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=37&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+安徽衛視,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=2&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+江蘇衛視,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=5&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+河南衛視,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=19&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+浙江衛視,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=13&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+廣東南方衛視上星,http://39.134.24.24/PLTV/88888888/224/3221225871/index.m3u8
+新疆兵團衛視,http://39.134.24.24/PLTV/88888888/224/3221225869/index.m3u8
+青海安多衛視,http://39.134.24.24/PLTV/88888888/224/3221225875/index.m3u8
 ⚽VIP,#genre#
 彩虹電影,p5p://0198.02686.cc:16871/60d53d16000eff77f2a9a6d4e162209c.ts
 彩虹E台,p5p://0198.02686.cc:16871/60d53d5a000f345ff2aab082b6067f98.ts
