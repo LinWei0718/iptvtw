@@ -13,10 +13,10 @@ ELEVEN1,rtmp://59.124.75.153/sat/tv731
 ELEVEN2,rtmp://59.124.75.153/sat/tv741
 東森超視,rtmp://59.124.75.153/sat/tv771
 MOMO綜合,rtmp://59.124.75.153/sat/tv761
-ELTA體育1,rtmp://59.124.75.153/sat/md011
-博斯魅力,rtmp://59.124.75.153/sat/md021
-博斯網球,rtmp://59.124.75.153/sat/md031
-ELTA奧運1,rtmp://59.124.75.153/sat/md041
+ELTA體育2,rtmp://59.124.75.153/sat/md011
+ELEVEN+,rtmp://59.124.75.153/sat/md021
+博斯魅力,rtmp://59.124.75.153/sat/md031
+ELTA體育1,rtmp://59.124.75.153/sat/md041
 博斯運動II,rtmp://59.124.75.153/sat/md051
 民視,rtmp://161.202.204.248/sat/tv051
 台視,rtmp://161.202.204.248/sat/tv071
@@ -32,10 +32,10 @@ ELEVEN1,rtmp://161.202.204.248/sat/tv731
 ELEVEN2,rtmp://161.202.204.248/sat/tv741
 東森超視,rtmp://161.202.204.248/sat/tv771
 MOMO綜合,rtmp://161.202.204.248/sat/tv761
-ELTA體育1,rtmp://161.202.204.248/sat/md011
-博斯魅力,rtmp://161.202.204.248/sat/md021
-博斯網球,rtmp://161.202.204.248/sat/md031
-ELTA奧運1,rtmp://161.202.204.248/sat/md041
+ELTA體育2,rtmp://161.202.204.248/sat/md011
+ELEVEN+,rtmp://161.202.204.248/sat/md021
+博斯魅力,rtmp://161.202.204.248/sat/md031
+ELTA體育1,rtmp://161.202.204.248/sat/md041
 博斯運動II,rtmp://161.202.204.248/sat/md051
 星空衛視,rtmp://58.200.131.2:1935/livetv/startv
 星空音樂,rtmp://58.200.131.3:1935/livetv/channelv
@@ -99,7 +99,7 @@ TV5MONDE,http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
 亞洲旅遊,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 博斯運動II,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
 大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大愛2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+大愛2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8#https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 大愛海外,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 嘉義SHOW,http://61.58.60.230:9319/live/2.m3u8
 嘉義SHOW,http://61.58.60.230:9319/live/3.m3u8
@@ -258,6 +258,7 @@ TVBS新聞,http://43.129.29.150:84/pls/tv/tvbsxwt/043eaead2b0c1e321aa952b4fd606f
 民視台灣,http://43.129.29.150:84/pls/tv/mstwt/%2FY2ZKNR%2B%2FSvXUmO6MZRxsbQAKWtruc3ZZ%2BZW9CpOX9QPx88diFUVEXllFVgUdoJc.flv
 中天新聞,p5p://0198.02686.cc:16871/5f2f9178000c4ec022496d33f280ef95
 八大綜合,p5p://0198.02686.cc:16871/5f2e5a5b0000b78e1d8a20f34de5f2ac
+八大娛樂,p5p://45.92.126.18:9906/6044d70900008dea02faddc78bf8a126.ts
 中視,p5p://0198.02686.cc:16871/5f3656bb000a656c3cbbfa6d262e3d24
 台視,p5p://0198.02686.cc:16871/5f2e53b0000e6e031d70187e387dbafc
 民視,p5p://0198.02686.cc:16871/5d8f08b60007eeea22db58419a492c10
@@ -290,6 +291,8 @@ ONe,p5p://0198.02686.cc:16871/5f6ac2ff000df70f6abcbcb9c0ae25c3.ts
 🎦電影輪播,#genre#
 斯卡羅01,https://sod.bunediy.com/20210815/7bXsm2tv/index.m3u8
 斯卡羅02,https://sod.bunediy.com/20210815/IsQt5c4I/index.m3u8
+斯卡羅03,https://sod.bunediy.com/20210822/aQPOv2dA/index.m3u8?
+斯卡羅04,https://sod.bunediy.com/20210822/3mykOnMO/index.m3u8?
 淘電影,http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 邵氏老電影,https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/817178/live_97065163_17925468.m3u8
 🎦動作片,#genre#
