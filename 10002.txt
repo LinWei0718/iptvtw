@@ -230,6 +230,8 @@ OD,p5p://0198.02686.cc:16871/5f2c09ae00029cc4147efda7dcc27dfc.ts#p5p://0198.0268
 小太陽,p5p://0198.02686.cc:16871/5f38d9ab000293e0468b71ed0ce28214.ts#p5p://0198.02686.cc:16871/5f38d9ab000293e0468b71ed0ce28214.ts
 ONe,p5p://0198.02686.cc:16871/5f6ac2ff000df70f6abcbcb9c0ae25c3.ts
 🎦電影輪播,#genre#
+汪汪隊立大功2020,https://cdn.haofajz.com/20210712/tgygd3FC/index.m3u8#https://v7.dious.cc/20210404/nXE9F0F3/index.m3u8#https://v7.dious.cc/20210404/nXE9F0F3/1000kb/hls/index.m3u8
+汪汪隊立大功2021,https://c1.monidai.com/20210828/9hyNa5Ln/index.m3u8
 斯卡羅01,https://sod.bunediy.com/20210815/7bXsm2tv/index.m3u8
 斯卡羅02,https://sod.bunediy.com/20210815/IsQt5c4I/index.m3u8
 斯卡羅03,https://sod.bunediy.com/20210822/aQPOv2dA/index.m3u8?
