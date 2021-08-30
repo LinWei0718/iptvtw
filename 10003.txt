@@ -41,6 +41,8 @@ ELEVEN2+,rtmp://161.202.204.248/sat/md041
 星空音樂,rtmp://58.200.131.3:1935/livetv/channelv
 三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
+年代新聞,http://107.167.5.66:80/mylive/102/2050/index.m3u8
+非凡新聞,http://107.167.5.66:80/mylive/102/2058/index.m3u8
 ELTA影劇,http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
 ELTA綜合,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 ELTA體育3,http://198.16.106.62:8278/streams/d/eltasport3_zero/playlist.m3u8
