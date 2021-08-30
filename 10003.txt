@@ -177,6 +177,8 @@ FX,http://125.227.210.37:13498/VideoInput/play.ts
 私人影院,rtmp://118.163.221.79/channel/60b4e50239e1b02e8b910d7a?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 Thrill,rtmp://118.163.221.79/channel/60c30d59961593122ebaf8e6?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 光影歐洲,rtmp://118.163.221.79/channel/60c2f712961593122ebaf8de?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+FOX MOVIES,http://60.251.59.179:8504/http/192.168.77.7:8088/hls/104/startwest89.m3u8
+FOX MOVIES,http://60.251.59.179:8506/http/192.168.77.7:8088/hls/104/startwest89.m3u8
 八大娛樂,p5p://45.92.126.18:9906/6044d70900008dea02faddc78bf8a126.ts
 衛視電影,p5p://45.92.126.18:9906/60494c90000347391465f5d2b8473dbe.ts
 星衛電影,p5p://45.92.126.18:9906/6044d33b0006a70302ec02a7d10a2600.ts
