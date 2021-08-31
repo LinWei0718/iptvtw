@@ -79,6 +79,8 @@ BBC自然知性,http://198.16.106.62:8278/streams/d/bbcearthhd_zero/playlist.m3u
 BBC生活風格,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 天映經典,http://50.7.161.82:8278/Celestial2/playlist.m3u8?tid=m02000000000010416484&ct=17955&tsum=cd7dbff483b639f549b95320c78a1f3b#http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 天映頻道,http://50.7.161.82:8278/Celestial/playlist.m3u8?tid=m02000000000014496578&ct=17956&tsum=808f037499700f0538f13ea983dce703#http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+經典功夫台,http://103.140.229.13/BOBO/bibi.php?id=21715386
+經典功夫台,http://ftp9524803.host166.gotoip4.cn/bilibili.php?id=21715386
 TVB星河,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
 TVB翡翠,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
 TVB無線新聞,http://198.16.106.62:8278/streams/d/inews_twn/playlist.m3u8
