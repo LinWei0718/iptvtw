@@ -3,44 +3,6 @@
 民視,http://185.207.176.189:8080/channels/tw-300/playlist.m3u8
 華視,http://185.207.176.189:8080/channels/tw-501/playlist.m3u8
 ☆JSᴴᴰ極限電影,tvbus://6Cut46PBMejuFgxUEWoRa9Neyf1qJBg6vkPX78vkVH71dnNZ1cbH4fup3TZ72
-影迷數位電影台,p8p://fccs.123178.top:9906/6068a2650003dd4d135a407336ec164f.ts
-HBO-HD,p8p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab
-HBO原创,p8p://fccs.123178.top:9906/604339520007991f068ab7ad0427275f
-HBO Hits HD,p8p://fccs.123178.top:9906/60442428000dc9020040224339113352
-HBO 家庭,p8p://fccs.123178.top:9906/604339d800036fb3068cc20c2898df9c
-FOX動作台,p8p://fccs.123178.top:9906/60440fd1000e6f3b09d0998515d1967d.ts
-FOX優質電影台,p8p://fccs.123178.top:9906/60441060000dae1309d2c7eb236de319.ts
-Fox福斯家庭,p8p://fccs.123178.top:9906/6044114c0004d19e09d65f86a75bad6b.ts
-采昌影劇,p8p://fccs.123178.top:9906/604411ec0004d59109d8d087e9645ce6.ts
-香港福斯電影,p8p://fccs.123178.top:9906/60693d0e000cf43215b666ef7701d76e.ts
-thrill電影台,p8p://fccs.123178.top:9906/604413240002c04b09dd92bffd4adc1b.ts
-KIX電影台,p8p://fccs.123178.top:9906/6044145c000e8fb900026d95dbb7683a.ts
-罪案偵緝頻道,p8p://fccs.123178.top:9906/604947cc00047a751453588132b90a12.ts
-華納Warner TV,p8p://fccs.123178.top:9906/604414f400055b780004bcfa6ee82d22.ts
-CinemaWorld,p8p://fccs.123178.top:9906/604415aa00054259000783e434297e54.ts
-衛視西片,p8p://fccs.123178.top:9906/604416620003377d000a521e160e3141.ts
-BLUE ANT EXTREME,p8p://fccs.123178.top:9906/60441771000d4807000e774ad2f62e16.ts
-Comedy Central Asia,p8p://fccs.123178.top:9906/6044183b000d06f700118c4956df7f03.ts
-CatchPlay電影台,p8p://fccs.123178.top:9906/6044191d000d8b620014ff3bef2f4594	.ts
-靖天電影台,p8p://fccs.123178.top:9906/6045b9cc00094ab70670a9bc88048a82.ts
-KIDZON HD,tvbus://35bvYywJWcByGGxaNRUtEYqQ29CX2bC7SmMnNNzpk3MgHpAeac
-天映電影,p8p://fccs.123178.top:9906/60441c660009af940021d366383a86ea.ts	
-星衛電影 HD,p8p://fccs.123178.top:9906/6044d33b0006a70302ec02a7d10a2600.ts
-美亞電影台,p8p://fccs.123178.top:9906/60494bf1000472fc14638907b18fe55b.ts
-龍華影劇,p8p://fccs.123178.top:9906/604347a3000cc1fe06c2a567b371c0d6.ts
-龍華電影,p8p://fccs.123178.top:9906/604426fa000c13eb004b26236e73affa.ts	
-龍華洋片,p8p://fccs.123178.top:9906/6044287d000e2bb500510e64fec426ab.ts	
-龍華戲劇,p8p://fccs.123178.top:9906/60442a110002751300573584bb335a71.ts	
-龍華偶像,p8p://fccs.123178.top:9906/60442ac30006b54f0059edebe8733672.ts
-EYETV戲劇,p8p://fccs.123178.top:9906/60442b6d000654ae005c85e289945252.ts
-愛爾達影劇台,p8p://fccs.123178.top:9906/6044382f0001bdea008e5a851f8cf009.ts
-東森電影台,p8p://fccs.123178.top:9906/60449ece0009c6ea021f39ac30bce072.ts
-衛視電影台,p8p://fccs.123178.top:9906/607318ce000ef9a107a827d158704e10.ts
-好萊塢電影,p8p://fccs.123178.top:9906/6044d78800021f9602fcce46b541cf65.ts
-AXN,p8p://fccs.123178.top:9906/6044d92d0004949903033b6f41d556d0.ts
-Cinemax,p8p://fccs.123178.top:9906/6044da6a0001a688030810f78cca6d6c.ts	
-龍祥電影台,p8p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
-緯來電影,p8p://fccs.123178.top:9906/.6045bc330008915e067a0be52c863eff.ts
 📺台灣電視,#genre#
 民視,rtmp://59.124.75.153/sat/tv051
 台視,rtmp://59.124.75.153/sat/tv071
