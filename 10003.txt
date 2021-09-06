@@ -1,4 +1,8 @@
-📺P8P,#genre#
+📺,#genre#
+中视,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8
+民視,http://185.207.176.189:8080/channels/tw-300/playlist.m3u8
+華視,http://185.207.176.189:8080/channels/tw-501/playlist.m3u8
+☆JSᴴᴰ極限電影,tvbus://6Cut46PBMejuFgxUEWoRa9Neyf1qJBg6vkPX78vkVH71dnNZ1cbH4fup3TZ72
 影迷數位電影台,p8p://fccs.123178.top:9906/6068a2650003dd4d135a407336ec164f.ts
 HBO-HD,p8p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab
 HBO原创,p8p://fccs.123178.top:9906/604339520007991f068ab7ad0427275f
