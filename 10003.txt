@@ -172,8 +172,14 @@ TVBS新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/tvbsnews.m3u8
 大愛,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/daai1.m3u8
 大愛2,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/daai2.m3u8
 大愛海外,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/daai3.m3u8
-彰化生活台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/sdtv.m3u8
+彰化生活,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/sdtv.m3u8
 幸福空間居家,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/gstv.m3u8
+SBN全球財經,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/sbn.m3u8
+運通財經,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/eftv.m3u8
+國會頻道１,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/palimentary1.m3u8
+國會頻道２,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/palimentary2.m3u8
+Hit Fm 107.7,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hitfm.m3u8
+網路流行音樂電Chinese POP Music,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/cpop.m3u8
 華藏衛視,http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
 唯心衛視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
