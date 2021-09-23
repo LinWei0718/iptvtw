@@ -1,6 +1,3 @@
-X直播電視臺 youtube油管 頻道
-
-
 港臺備用免梯子,#genre#
 鳳凰資訊臺,p5p://fccs.123178.top:9906/604354a700001c2706f579cae17a48f1.ts
 鳳凰資訊臺,p5p://fccs.123178.top:9906/604354a700001c2706f579cae17a48f1.ts
@@ -185,7 +182,6 @@ Z 頻道,p5p://fccs.123178.top:9906/60446c7f000b970f015ab58bf1266ed0.ts
 Z 頻道,p5p://fccs.123178.top:9906/60446c7f000b970f015ab58bf1266ed0.ts
 愛爾達體育1,p5p://fccs.123178.top:9906/60689fa0000c9dae134f712965a8f823.ts
 
-
 新聞@頻道,#genre#
 CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf.m3u8
@@ -194,7 +190,6 @@ CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300
 鳳凰資訊,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 無線新聞,http://cdn.hkdtmb.com/hls/83/index.m3u8
 無線新聞,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
-
 
 電影@頻道,#genre#
 HK03_電影一臺,http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
