@@ -1,5 +1,6 @@
 📺台灣電視,#genre#
 民視,p5p://fccs.123178.top:9906/6043597b000602c20708576dff009975.ts
+民視,p5p://fccs.123178.top:9906/604411ec0004d59109d8d087e9645ce6.ts
 台視,p5p://fccs.123178.top:9906/604483a00001a70f01b50be75415ab3a.ts
 台視財經,p5p://fccs.123178.top:9906/604484f5000c504c01ba42aad30caf2b.ts
 台視新聞,p5p://fccs.123178.top:9906/60448580000cd93c01bc61c5ce37b60a.ts
@@ -20,6 +21,7 @@ CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
 寰宇新聞二,p5p://fccs.123178.top:9906/60434c6b000d588a06d552cd4d7910ec.ts
 東森幼幼,p5p://fccs.123178.top:9906/6044812c00070c6401ab7829e94ee52d.ts
 東森戲劇,p5p://fccs.123178.top:9906/60449e3500031323021ce24de00b3ef2.ts
+東森電影,p5p://fccs.123178.top:9906/60449ece0009c6ea021f39ac30bce072.ts
 東森洋片,p5p://fccs.123178.top:9906/60449f6d000c10680221a75af38e252f.ts
 三立財經,p5p://fccs.123178.top:9906/604496f8000b3b7b02009e1b5871dd53.ts
 三立台灣,p5p://fccs.123178.top:9906/60435a1000013bcc070a9c3b0ad870c7.ts
@@ -39,6 +41,21 @@ TVBS精彩,p5p://fccs.123178.top:9906/610ccbbc000ada220a2a333a700ad566
 星衛HD電影,p5p://fccs.123178.top:9906/6044d33b0006a70302ec02a7d10a2600.ts
 thrill電影,p5p://fccs.123178.top:9906/604413240002c04b09dd92bffd4adc1b.ts
 KIX電影,p5p://fccs.123178.top:9906/6044145c000e8fb900026d95dbb7683a.ts
+影迷數位電影,p5p://fccs.123178.top:9906/6068a2650003dd4d135a407336ec164f.ts
+采昌影劇,p5p://fccs.123178.top:9906/604411ec0004d59109d8d087e9645ce6.ts
+CinemaWorld,p5p://fccs.123178.top:9906/604415aa00054259000783e434297e54.ts
+爆笑頻道,p5p://fccs.123178.top:9906/6044183b000d06f700118c4956df7f03.ts
+CatchPlay電影,p5p://fccs.123178.top:9906/6044191d000d8b620014ff3bef2f4594.ts
+靖天電影,p5p://fccs.123178.top:9906/6045b9cc00094ab70670a9bc88048a82.ts
+美亞電影,p5p://fccs.123178.top:9906/60494bf1000472fc14638907b18fe55b.ts
+龍華影劇,p5p://fccs.123178.top:9906/604347a3000cc1fe06c2a567b371c0d6.ts
+龍華電影,p5p://fccs.123178.top:9906/604426fa000c13eb004b26236e73affa.ts	
+龍華洋片,p5p://fccs.123178.top:9906/6044287d000e2bb500510e64fec426ab.ts	
+龍華戲劇,p5p://fccs.123178.top:9906/60442a110002751300573584bb335a71.ts	
+龍華偶像,p5p://fccs.123178.top:9906/60442ac30006b54f0059edebe8733672.ts
+AXN,p5p://fccs.123178.top:9906/6044d92d0004949903033b6f41d556d0.ts
+Cinemax,p5p://fccs.123178.top:9906/6044da6a0001a688030810f78cca6d6c.ts
+緯來電影,p5p://fccs.123178.top:9906/.6045bc330008915e067a0be52c863eff.ts
 罪案偵緝頻道,p5p://fccs.123178.top:9906/604947cc00047a751453588132b90a12.ts
 華納TV,p5p://fccs.123178.top:9906/604414f400055b780004bcfa6ee82d22.ts
 衛視西片,p5p://fccs.123178.top:9906/604416620003377d000a521e160e3141.ts
@@ -46,13 +63,16 @@ BLUE ANT EXTREME,p5p://fccs.123178.top:9906/60441771000d4807000e774ad2f62e16.ts
 FOX,p5p://fccs.123178.top:9906/6130442d0000201d133dff92bc0fef39
 FOX頻道,p5p://fccs.123178.top:9906/60440eb10006690c09cc32777254e90a.ts
 FOX優質電影,p5p://fccs.123178.top:9906/60441060000dae1309d2c7eb236de319.ts
+FOX動作電影,p5p://fccs.123178.top:9906/60440fd1000e6f3b09d0998515d1967d.ts
 Fox福斯家庭,p5p://fccs.123178.top:9906/6044114c0004d19e09d65f86a75bad6b.ts
 Fox福斯家庭,p5p://fccs.123178.top:9906/60442b6d000654ae005c85e289945252.ts
-民視,p5p://fccs.123178.top:9906/604411ec0004d59109d8d087e9645ce6.ts
-HBO-HD,p5p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab
+HBO,p5p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab
+HBO原創鉅獻,p5p://fccs.123178.top:9906/604339520007991f068ab7ad0427275f
+HBO強檔鉅獻,p5p://fccs.123178.top:9906/60442428000dc9020040224339113352
+HBO溫馨家庭,p5p://fccs.123178.top:9906/604339d800036fb3068cc20c2898df9c
 探索亞洲,p5p://fccs.123178.top:9906/60433ee00002fb7906a0692e6558cb55.ts
 探索科學,p5p://fccs.123178.top:9906/6043456f00065dec06ba08a499663c96
-探索動力 DMAX,p5p://fccs.123178.top:9906/6043467c000301e806be22909a147731
+探索動力DMAX,p5p://fccs.123178.top:9906/6043467c000301e806be22909a147731
 國家野生,p5p://fccs.123178.top:9906/604401050005fe790996ca7b4ed24991.ts
 日本旅遊頻道,p5p://fccs.123178.top:9906/61304d2b000a9536136122700ecd28a5
 EYETV旅遊,p5p://fccs.123178.top:9906/60494553000b340f1449b191f22032d6.ts
@@ -61,11 +81,32 @@ EYETV戲劇,p5p://fccs.123178.top:9906/60442b6d000654ae005c85e289945252.ts
 時尚瘋高清頻道,p5p://fccs.123178.top:9906/61318fef00087c22184def86f768df3e
 Channel V,p5p://fccs.123178.top:9906/607396f000059e490994da3ca99473b4.ts
 Channel V,p5p://fccs.123178.top:9906/60494a1e0001d684145c682429cd1a38.ts
-愛爾達影劇,p5p://fccs.123178.top:9906/6044382f0001bdea008e5a851f8cf009.ts
-愛爾達綜合,p5p://fccs.123178.top:9906/60689fa0000c9dae134f712965a8f823.ts
-Eleven運動1,p5p://fccs.123178.top:9906/60446a54000b4ef801523d80af6dda12.ts
+ELTA影劇,p5p://fccs.123178.top:9906/6044382f0001bdea008e5a851f8cf009.ts
+ELTA綜合,p5p://fccs.123178.top:9906/60689fa0000c9dae134f712965a8f823.ts
+Eleven1,p5p://fccs.123178.top:9906/60446a54000b4ef801523d80af6dda12.ts
 Z頻道,p5p://fccs.123178.top:9906/60446c7f000b970f015ab58bf1266ed0.ts
-愛爾達體育1,p5p://fccs.123178.top:9906/60689fa0000c9dae134f712965a8f823.ts
+ELTA體育1,p5p://fccs.123178.top:9906/60689fa0000c9dae134f712965a8f823.ts
+中視,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8
+中視經典,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
+中視菁采,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
+中視新聞,http://185.207.176.189:8080/channels/tw-101/playlist.m3u8
+民視,http://185.207.176.189:8080/channels/tw-300/playlist.m3u8
+民視台灣,http://185.207.176.189:8080/channels/tw-304/playlist.m3u8
+民視第一,http://185.207.176.189:8080/channels/tw-301/playlist.m3u8
+民視新聞,http://185.207.176.189:8080/channels/tw-302/playlist.m3u8
+華視,http://185.207.176.189:8080/channels/tw-501/playlist.m3u8
+華視教育體育文化,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
+華視新聞,http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
+TVB翡翠,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+TVB J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+TVB新聞,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
+TVB明珠,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
+TVB財經資訊,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
+港台31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
+港台32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
+港台33,http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
+ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+ViuTV6,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 民視,rtmp://59.124.75.153/sat/tv051
 台視,rtmp://59.124.75.153/sat/tv071
 中視,rtmp://59.124.75.153/sat/tv091
