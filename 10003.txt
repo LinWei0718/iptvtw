@@ -1,73 +1,38 @@
 📺台灣電視,#genre#
-
-華視,http://xiaojun.cyou/code/?code=iptv800&id=86
-寰宇新聞,http://xiaojun.cyou/code/?code=iptv&c=3&id=85
-寰宇新聞,http://xiaojun.cyou/code/?code=iptv800&id=63
-龍翔時代,http://xiaojun.cyou/code/?code=iptv&c=3&id=14
-民視,http://xiaojun.cyou/code/?code=iptv800&id=84
-民視第一,http://xiaojun.cyou/code/?code=iptv800&id=100
-民視台灣,http://xiaojun.cyou/code/?code=iptv800&id=99
-民視新聞,http://xiaojun.cyou/code/?code=iptv&c=3&id=5
-民視新聞,http://xiaojun.cyou/code/?code=iptv800&id=59
-年代新聞,http://xiaojun.cyou/code/?code=iptv&c=3&id=7
-年代新聞,http://xiaojun.cyou/code/?code=iptv800&id=61
-三立都會,http://xiaojun.cyou/code/?code=iptv800&id=49
-三立LIVE新聞,http://xiaojun.cyou/code/?code=iptv800&id=57
-三立台灣,http://xiaojun.cyou/code/?code=iptv800&id=51
-三立新聞,http://xiaojun.cyou/code/?code=iptv&c=3&id=26
-台視,http://xiaojun.cyou/code/?code=iptv800&id=83
-台視新聞,http://xiaojun.cyou/code/?code=iptv&c=3&id=45
-TVBS,http://xiaojun.cyou/code/?code=iptv800&id=95
-TVBS歡樂,http://xiaojun.cyou/code/?code=iptv800&id=97
-TVBS新聞,http://xiaojun.cyou/code/?code=iptv&c=3&id=38
-TVBS新聞,http://xiaojun.cyou/code/?code=iptv800&id=54
-緯來電影,http://xiaojun.cyou/code/?code=iptv&c=3&id=9
-緯來日本,http://xiaojun.cyou/code/?code=iptv800&id=69
-緯來體育,http://xiaojun.cyou/code/?code=iptv&c=3&id=11
-衛視電影,http://xiaojun.cyou/code/?code=iptv&c=3&id=16
-衛視電影,http://xiaojun.cyou/code/?code=iptv800&id=81
-壹新聞,http://xiaojun.cyou/code/?code=iptv800&id=58
-壹新聞,http://xiaojun.cyou/code/?code=iptv&c=3&id=34
-中視,http://xiaojun.cyou/code/?code=iptv800&id=82
-中視新聞,http://xiaojun.cyou/code/?code=iptv&c=3&id=19
-中視新聞,http://xiaojun.cyou/code/?code=iptv800&id=60
-中天新聞,http://xiaojun.cyou/code/?code=iptv800&id=53
-中天新聞,http://xiaojun.cyou/code/?code=iptv&c=3&id=42
-中天新聞,http://xiaojun.cyou/code/?code=iptvm&c=3&id=42
-美亞電影,http://xiaojun.cyou/code/?code=iptv&c=3&id=89
-美亞電影,http://xiaojun.cyou/code/?code=hodiptv&id=246
-天映經典,http://xiaojun.cyou/code/?code=iptv&c=3&id=90
-天映頻道,http://xiaojun.cyou/code/?code=iptv&c=3&id=15
-有線電影,http://xiaojun.cyou/code/?code=iptv800&id=23
-有線電影,http://xiaojun.cyou/code/?code=hodiptv&id=218
-東森電影,http://xiaojun.cyou/code/?code=iptv&c=3&id=29
-東森電影,http://xiaojun.cyou/code/?code=iptv800&id=68
-東森新聞,http://xiaojun.cyou/code/?code=iptv800&id=55
-東森新聞,http://xiaojun.cyou/code/?code=iptv&c=3&id=33
-非凡新聞,http://xiaojun.cyou/code/?code=iptv&c=3&id=6
-非凡新聞,http://xiaojun.cyou/code/?code=iptv800&id=62
-HBO,http://xiaojun.cyou/code/?code=iptv800&id=43
-C+頻道,http://xiaojun.cyou/code/?code=hodiptv&id=244
-TVB翡翠,http://xiaojun.cyou/code/?code=iptv&c=3&id=78
-TVB翡翠,http://xiaojun.cyou/code/?code=iptv800&id=1
-TVB翡翠,http://xiaojun.cyou/code/?code=iptv&c=3&id=78&p=1
-TVB翡翠,http://xiaojun.cyou/code/?code=hodiptv&id=200
-TVB J2,http://xiaojun.cyou/code/?code=iptv&c=3&id=74
-TVB J2,http://xiaojun.cyou/code/?code=iptv800&id=12
-TVB J2,http://xiaojun.cyou/code/?code=iptv&c=3&id=74&p=1
-TVB J2,http://xiaojun.cyou/code/?code=iptv&id=74&p=2
-TVB J2,http://xiaojun.cyou/code/?code=hodiptv&id=204
-開電視,http://xiaojun.cyou/code/?code=iptv&c=3&id=95
-開電視,http://xiaojun.cyou/code/?code=iptv800&id=7
-TVB明珠,http://xiaojun.cyou/code/?code=iptv&c=3&id=77
-TVB明珠,http://xiaojun.cyou/code/?code=iptv800&id=13
-TVB明珠,http://xiaojun.cyou/code/?code=iptv&c=3&id=77&p=1
-TVB明珠,http://xiaojun.cyou/code/?code=hodiptv&id=202
-ViuTV,http://xiaojun.cyou/code/?code=iptv&c=3&id=94
-ViuTV,http://xiaojun.cyou/code/?code=iptv800&id=8
-ViuTV6,http://xiaojun.cyou/code/?code=hodiptv&id=232
-TVB星河,http://xiaojun.cyou/code/?code=hodiptv&id=206
-星空衛視,http://xiaojun.cyou/code/?code=hodiptv&id=247
+TVB J2,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkj22
+TVB無線資訊,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkj52
+TVB翡翠,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkjade
+TVB明珠,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkpearl84
+無線新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkinews83
+VIU TV,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkviutv99
+VIU TV6,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkviu696
+RHK31,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hk3131
+RHK32,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hk3232
+有線新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkyxxw
+有線電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkyxdy
+天映頻道,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktypd
+天映經典,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktyjd
+東森電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy
+龍翔時代,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlxdy
+緯來電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwldy
+壹新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twyxw
+TVBS新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbsxw
+TVBS,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs
+龍華電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlhdy
+三立新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twslxw
+民視新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmsxw
+寰宇新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhyxw
+年代新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twndxw
+非凡新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twffxw
+衛視電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy
+美亞電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy
+緯來體育,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwlty
+靖天電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twjtdy
+中視新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twzsxw
+台視新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtsxw
+東森新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsxw
+中天新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twztxw
+華視新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhsxw
 afc亞洲美食,p5p://fccs.123178.top:9906/6044065f0003bace09abb177a024828d.ts
 Animax,p5p://fccs.123178.top:9906/60447df7000cbc13019ef29677465e40.ts
 ANIMAX,p5p://fccs.123178.top:9906/606b4e4f0004a33a03ddafe180ec2c65.ts
