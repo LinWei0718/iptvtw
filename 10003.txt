@@ -18,13 +18,47 @@ ELEVEN+,rtmp://59.124.75.136/sat/md021
 ELTA體育2,rtmp://59.124.75.136/sat/md031
 ELEVEN2,rtmp://59.124.75.136/sat/md041
 ELTA體育3,rtmp://59.124.75.136/sat/md051
-衛視中文,http://50.7.61.148:30080/Entry/starchinese
+民視,rtmp://161.202.204.248/sat/tv051
+台視,rtmp://161.202.204.248/sat/tv071
+中視,rtmp://161.202.204.248/sat/tv091
+華視,rtmp://161.202.204.248/sat/tv111
+TVBS新聞,rtmp://161.202.204.248/sat/tv551
+TVBS歡樂,rtmp://161.202.204.248/sat/tv421
+東森財經新聞,rtmp://161.202.204.248/sat/tv571
+緯來日本,rtmp://161.202.204.248/sat/tv521
+緯來育樂,rtmp://161.202.204.248/sat/tv701
+緯來體育,rtmp://161.202.204.248/sat/tv721
+ELEVEN1,rtmp://161.202.204.248/sat/tv731
+ELEVEN2,rtmp://161.202.204.248/sat/tv741
+東森超視,rtmp://161.202.204.248/sat/tv771
+MOMO綜合,rtmp://161.202.204.248/sat/tv761
+ELTA體育1,rtmp://161.202.204.248/sat/md011
+ELEVEN+,rtmp://161.202.204.248/sat/md021
+ELTA體育2,rtmp://161.202.204.248/sat/md031
+ELEVEN2,rtmp://161.202.204.248/sat/md041
+ELTA體育3,rtmp://161.202.204.248/sat/md051
+東森新聞,http://50.7.61.147:30080/Entry/etnews
+HBO,http://50.7.61.148:30080/Entry/hbo
+緯來日本,http://50.7.61.147:30080/Entry/vljp
+台視,http://50.7.61.148:30080/Entry/ttv
 TVBS,http://50.7.61.148:30080/Entry/tvbs
+民視新聞,http://50.7.61.148:30080/Entry/ftvnews
+中視,http://50.7.61.148:30080/Entry/ctv
+TVBS新聞,http://50.7.61.148:30080/Entry/tvbsnews
+非凡商業,http://50.7.61.147:30080/Entry/ubnbus
+TLC旅遊生活,http://50.7.61.147:30080/Entry/tlc
+JET綜合,http://50.7.61.147:30080/Entry/jet
+民視,http://50.7.61.147:30080/Entry/ftv
+華視,http://50.7.61.147:30080/Entry/cts
+壹新聞,http://50.7.61.147:30080/Entry/etv
+三立臺灣,http://50.7.61.148:30080/Entry/settw-
+衛視中文,http://50.7.61.148:30080/Entry/starchinese
+AXN,http://50.7.61.148:30080/Entry/axn
 TVB J2,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkj22
-TVB無線資訊,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkj52
+無綫財經資訊,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkj52
 TVB翡翠,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkjade
 TVB明珠,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkpearl84
-無線新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkinews83
+無綫新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkinews83
 VIU TV,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkviutv99
 VIU TV6,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkviu696
 RHK31,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hk3131
@@ -54,6 +88,43 @@ TVBS,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs
 東森新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsxw
 中天新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twztxw
 華視新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhsxw
+TVB翡翠,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkjade&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+有線新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkyxxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+無綫新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkinews83&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+無綫財經資訊,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkj52&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+有線電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkyxdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+TVB明珠,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkpearl84&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+TVB J2,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkj22&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+VIU TV,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkviutv99&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+VIU TV6,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkviu696&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+有線電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkyxdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+RHK31,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hk3131&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+RHK32,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hk3232&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+鳳凰中文,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhzw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+鳳凰資訊,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhzx&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+鳳凰電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+天映經典,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktyjd&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+天映頻道,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktypd&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+壹新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twyxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+中天新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twztxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+寰宇新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhyxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+年代新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twndxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+東森新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+三立新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twslxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+非凡新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twffxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+中視新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twzsxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+台視新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtsxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+華視新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhsxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+民視新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmsxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+TVBS新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbsxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+TVBS,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+東森電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+龍祥電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlxdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+衛視電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+美亞電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+龍華電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlhdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+緯來電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwldy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+緯來體育,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwlty&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 中視,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8
 中視經典,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
 中視菁采,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
@@ -69,12 +140,12 @@ TVB翡翠,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 TVB J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 TVB新聞,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
 TVB明珠,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
-TVB財經資訊,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
-港台31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
-港台32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
-港台33,http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
-ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
-ViuTV6,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
+無綫財經資訊,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
+RHK31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
+RHK32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
+RHK33,http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
+Viu TV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+Viu TV6,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 星空衛視,rtmp://58.200.131.2:1935/livetv/startv
 星空音樂,rtmp://58.200.131.3:1935/livetv/channelv
 三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
@@ -88,8 +159,8 @@ BBC生活風格,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m
 經典功夫台,http://ftp9524803.host166.gotoip4.cn/bilibili.php?id=21715386
 TVB星河,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
 TVB翡翠,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
-TVB無線新聞,http://198.16.106.62:8278/streams/d/inews_twn/playlist.m3u8
-TVB有線新聞,http://198.16.106.62:8278/streams/d/hkcnews_twn/playlist.m3u8
+無綫新聞,http://198.16.106.62:8278/streams/d/inews_twn/playlist.m3u8
+有線新聞,http://198.16.106.62:8278/streams/d/hkcnews_twn/playlist.m3u8
 Viutv,http://198.16.106.62:8278/streams/d/viu1_twn/playlist.m3u8
 ViuTVsix,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 ONe,http://93.190.139.35:8278/streams/d/One/playlist.m3u8
@@ -287,8 +358,8 @@ J5,p5p://fccs.123178.top:9906/604356f80000c88a06fe865e7d380324.ts
 互動新聞台,p5p://fccs.123178.top:9906/60ed1aee000cb6580fa7e0fdc9ca8c4e
 RK31,p5p://fccs.123178.top:9906/60693efb0004b7c815bdea9b4ac50fcb.ts
 RK32,p5p://fccs.123178.top:9906/60693f4b000a807615bf2496ceb91552.ts
-VIU,p5p://fccs.123178.top:9906/6043566f000e998306fc72bfe48d0cd7.ts
-VIU SIX,p5p://fccs.123178.top:9906/6048a78000060c3711e13007fb8dc89b.ts
+VIU TV,p5p://fccs.123178.top:9906/6043566f000e998306fc72bfe48d0cd7.ts
+VIU TV6,p5p://fccs.123178.top:9906/6048a78000060c3711e13007fb8dc89b.ts
 有線新聞,p5p://fccs.123178.top:9906/6048a389000ca55311d1b4e03b6b32df.ts
 有線財經台,p5p://fccs.123178.top:9906/60693c610004761315b3c0fb80a71cf8.ts
 有線18台,p5p://fccs.123178.top:9906/60693bf3000bde2815b21530e4f633d3.ts
