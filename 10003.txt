@@ -138,7 +138,7 @@ TVBS,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs&tonken=32d1adfdffa
 華視新聞,http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
 TVB翡翠,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 TVB J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
-TVB新聞,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
+無綫新聞,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
 TVB明珠,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 無綫財經資訊,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
 RHK31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
