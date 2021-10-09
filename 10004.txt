@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "csp_Aidi",
-      "name": "愛迪-爬蟲",
+      "name": "爱迪-爬虫",
       "type": 3,
       "api": "csp_Aidi",
       "searchable": 1,
@@ -11,7 +11,7 @@
     },
     {
       "key": "csp_Enlienli",
-      "name": "嗯哩嗯哩-爬蟲",
+      "name": "嗯哩嗯哩-爬虫",
       "type": 3,
       "api": "csp_Enlienli",
       "searchable": 1,
@@ -20,7 +20,7 @@
     },
     {
       "key": "csp_Auete",
-      "name": "Auete-爬蟲",
+      "name": "Auete-爬虫",
       "type": 3,
       "api": "csp_Auete",
       "searchable": 1,
@@ -29,7 +29,7 @@
     },
     {
       "key": "csp_Cokemv",
-      "name": "Cokemv-爬蟲",
+      "name": "Cokemv-爬虫",
       "type": 3,
       "api": "csp_Cokemv",
       "searchable": 1,
@@ -38,7 +38,7 @@
     },
     {
       "key": "csp_Buka",
-      "name": "真不卡-爬蟲",
+      "name": "真不卡-爬虫",
       "type": 3,
       "api": "csp_Buka",
       "searchable": 1,
@@ -47,7 +47,7 @@
     },
     {
       "key": "csp_Ysgc",
-      "name": "影視工廠-爬蟲",
+      "name": "影视工厂-爬虫",
       "type": 3,
       "api": "csp_Ysgc",
       "searchable": 1,
@@ -56,7 +56,7 @@
     },
     {
       "key": "csp_N0ys",
-      "name": "90影視-爬蟲",
+      "name": "90影视-爬虫",
       "type": 3,
       "api": "csp_N0ys",
       "searchable": 1,
@@ -65,7 +65,7 @@
     },
    {
       "key": "csp_Ubo",
-      "name": "優播影院-爬蟲",
+      "name": "优播影院-爬虫",
       "type": 3,
       "api": "csp_Ubo",
       "searchable": 1,
@@ -73,8 +73,8 @@
       "filterable": 1
    },
     {
-      "key": "極品採集-清徐",
-      "name": "極品採集-清徐",
+      "key": "极品采集-清徐",
+      "name": "极品采集-清徐",
       "type": 0,
       "api": "https://www.jpysvip.net/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -82,8 +82,8 @@
       "filterable": 0
     },
     {
-      "key": "極品採集2-清徐",
-      "name": "極品採集2-清徐",
+      "key": "极品采集2-清徐",
+      "name": "极品采集2-清徐",
       "type": 1,
       "api": "https://www.jpysvip.net/api.php/provide/vod/",
       "searchable": 1,
@@ -91,8 +91,8 @@
       "filterable": 1
     },
     {
-      "key": "瓜皮採集-清徐",
-      "name": "瓜皮採集-清徐",
+      "key": "瓜皮采集-清徐",
+      "name": "瓜皮采集-清徐",
       "type": 1,
       "api": "http://www.dijiaxia.com/api.php/provide/vod/",
       "searchable": 1,
@@ -100,8 +100,8 @@
       "filterable": 1
     },
     {
-      "key": "百度採集-清徐",
-      "name": "百度採集-清徐",
+      "key": "百度采集-清徐",
+      "name": "百度采集-清徐",
       "type": 1,
       "api": "https://api.bdjx.vip/api.php/provide/vod/at/xml:",
       "searchable": 1,
@@ -109,8 +109,8 @@
       "filterable": 1
     },
     {
-      "key": "百度採集2-清徐",
-      "name": "百度採集2-清徐",
+      "key": "百度采集2-清徐",
+      "name": "百度采集2-清徐",
       "type": 1,
       "api": "https://api.bdjx.vip/api.php/provide/vod/",
       "searchable": 1,
@@ -127,8 +127,8 @@
       "filterable": 0
     },
     {
-      "key": "椰子資源-清徐",
-      "name": "椰子資源-清徐",
+      "key": "椰子资源-清徐",
+      "name": "椰子资源-清徐",
       "type": 1,
       "api": "https://zy.gbxy.net.cn/api.php/provide/vod/",
       "searchable": 1,
@@ -136,8 +136,8 @@
       "filterable": 0
     },
     {
-      "key": "百搜資源-清徐",
-      "name": "百搜資源-清徐",
+      "key": "百搜资源-清徐",
+      "name": "百搜资源-清徐",
       "type": 1,
       "api": "https://vip.baisou.ltd/api.php/provide/vod/",
       "searchable": 1,
@@ -145,8 +145,8 @@
       "filterable": 0
     },
     {
-      "key": "歐寶資源-清徐",
-      "name": "歐寶資源-清徐",
+      "key": "欧宝资源-清徐",
+      "name": "欧宝资源-清徐",
       "type": 1,
       "api": "http://obaowl.cn/api.php/provide/vod/",
       "searchable": 1,
@@ -173,8 +173,8 @@
       "filterable": 1
     },
     {
-      "key": "流星雨影視-清徐",
-      "name": "流星雨影視-清徐",
+      "key": "流星雨影视-清徐",
+      "name": "流星雨影视-清徐",
       "type": 1,
       "api": "http://syy.lxyyy.xyz/mv/api.php/provide/vod/",
       "searchable": 1,
@@ -182,8 +182,8 @@
       "filterable": 1
     },
     {
-      "key": "黃河影視-清徐",
-      "name": "黃河影視-清徐",
+      "key": "黄河影视-清徐",
+      "name": "黄河影视-清徐",
       "type": 1,
       "api": "http://i.ledu8.cn/api.php/provide/vod/",
       "searchable": 1,
@@ -191,8 +191,8 @@
       "filterable": 1
     },
     {
-      "key": "江湖影視-清徐",
-      "name": "江湖影視-清徐",
+      "key": "江湖影视-清徐",
+      "name": "江湖影视-清徐",
       "type": 1,
       "api": "http://app.jhdyw.vip:1234/api.php/provide/vod/",
       "searchable": 1,
@@ -200,8 +200,8 @@
       "filterable": 1
     },
     {
-      "key": "麒麟資源-清徐",
-      "name": "麒麟資源-清徐",
+      "key": "麒麟资源-清徐",
+      "name": "麒麟资源-清徐",
       "type": 1,
       "api": "https://www.qilinzyz.com/api.php/provide/vod/",
       "searchable": 1,
@@ -209,8 +209,8 @@
       "filterable": 1
     },
     {
-      "key": "清歡資源-清徐",
-      "name": "清歡資源-清徐",
+      "key": "清欢资源-清徐",
+      "name": "清欢资源-清徐",
       "type": 1,
       "api": "https://free.qinghuanzy.com/api.php/provide/vod/",
       "searchable": 1,
@@ -218,8 +218,8 @@
       "filterable": 0
     },
     {
-      "key": "好好資源-清徐",
-      "name": "好好資源-清徐",
+      "key": "好好资源-清徐",
+      "name": "好好资源-清徐",
       "type": 1,
       "api": "http://haohaozy.com/api.php/provide/vod/",
       "searchable": 1,
@@ -227,8 +227,8 @@
       "filterable": 1
     },
     {
-      "key": "天堂資源-清徐",
-      "name": "天堂資源-清徐",
+      "key": "天堂资源-清徐",
+      "name": "天堂资源-清徐",
       "type": 1,
       "api": "http://vipmv.cc/api.php/provide/vod/",
       "searchable": 1,
@@ -236,8 +236,8 @@
       "filterable": 1
     },
     {
-      "key": "藍果app-清徐",
-      "name": "藍果app-清徐",
+      "key": "蓝果app-清徐",
+      "name": "蓝果app-清徐",
       "type": 1,
       "api": "http://www.languotv.com/api.php/provide/vod/",
       "searchable": 1,
@@ -245,8 +245,8 @@
       "filterable": 0
     },
     {
-      "key": "8090資源-清徐",
-      "name": "8090資源-清徐",
+      "key": "8090资源-清徐",
+      "name": "8090资源-清徐",
       "type": 1,
       "api": "http://zy.yilans.net:8090/api.php/provide/vod/",
       "searchable": 1,
@@ -254,8 +254,8 @@
       "filterable": 1
     },
     {
-      "key": "萌果資源-清徐",
-      "name": "萌果資源-清徐",
+      "key": "萌果资源-清徐",
+      "name": "萌果资源-清徐",
       "type": 1,
       "api": "http://api.appearoo.top/api.php/provide/vod/",
       "searchable": 1,
@@ -263,8 +263,8 @@
       "filterable": 1
     },
     {
-      "key": "2A資源站-清徐",
-      "name": "2A資源站-清徐",
+      "key": "2A资源站-清徐",
+      "name": "2A资源站-清徐",
       "type": 1,
       "api": "http://zy.zcocc.com/api.php/provide/vod/",
       "searchable": 1,
@@ -272,8 +272,8 @@
       "filterable": 1
     },
     {
-      "key": "千尋影視-清徐",
-      "name": "千尋影視-清徐",
+      "key": "千寻影视-清徐",
+      "name": "千寻影视-清徐",
       "type": 1,
       "api": "http://wy.dqyhg.cn/api.php/provide/vod/",
       "searchable": 1,
@@ -281,8 +281,8 @@
       "filterable": 0
     },
     {
-      "key": "蝦米資源-清徐",
-      "name": "蝦米資源-清徐",
+      "key": "虾米资源-清徐",
+      "name": "虾米资源-清徐",
       "type": 1,
       "api": "https://zy.xmflv.vip/api.php/provide/vod/",
       "searchable": 1,
@@ -299,8 +299,8 @@
       "filterable": 1
     },
     {
-      "key": "竹嘎資源-清徐",
-      "name": "竹嘎資源-清徐",
+      "key": "竹嘎资源-清徐",
+      "name": "竹嘎资源-清徐",
       "type": 1,
       "api": "http://m.ycccyk.cn/api.php/provide/vod/",
       "searchable": 1,
@@ -308,8 +308,8 @@
       "filterable": 1
     },
     {
-      "key": "蘑菇資源-清徐",
-      "name": "蘑菇資源-清徐",
+      "key": "蘑菇资源-清徐",
+      "name": "蘑菇资源-清徐",
       "type": 1,
       "api": "http://www.moguzyw.com:520/moguzy.php/provide/vod/",
       "searchable": 1,
@@ -317,8 +317,8 @@
       "filterable": 1
     },
     {
-      "key": "遊藝資源-清徐",
-      "name": "遊藝資源-清徐",
+      "key": "游艺资源-清徐",
+      "name": "游艺资源-清徐",
       "type": 1,
       "api": "https://zhicai.u1o.net/api.php/provide/vod/",
       "searchable": 1,
@@ -326,8 +326,8 @@
       "filterable": 1
     },
     {
-      "key": "迷你庫-清徐",
-      "name": "迷你庫-清徐",
+      "key": "迷你库-清徐",
+      "name": "迷你库-清徐",
       "type": 1,
       "api": "https://www.miniku.cc/api.php/provide/vod/",
       "playUrl": "https://jiexi.moeamv.com/?url=",
@@ -345,8 +345,8 @@
       "filterable": 0
     },
     {
-      "key": "三零資源-清徐",
-      "name": "三零資源-清徐",
+      "key": "三零资源-清徐",
+      "name": "三零资源-清徐",
       "type": 1,
       "api": "http://api.000zy.com/provide/vod/",
       "searchable": 1,
@@ -354,8 +354,8 @@
       "filterable": 1
     },
     {
-      "key": "u酷資源-清徐",
-      "name": "u酷資源-清徐",
+      "key": "u酷资源-清徐",
+      "name": "u酷资源-清徐",
       "type": 1,
       "api": "http://www.ukuzy.com/api.php/provide/vod/1",
       "searchable": 1,
@@ -363,8 +363,8 @@
       "filterable": 1
     },
     {
-      "key": "愛看影視-清徐",
-      "name": "愛看影視-清徐",
+      "key": "爱看影视-清徐",
+      "name": "爱看影视-清徐",
       "type": 1,
       "api": "http://v.aik.la/api.php/provide/vod/",
       "searchable": 1,
@@ -372,8 +372,8 @@
       "filterable": 1
     },
     {
-      "key": "核桃影視-清徐",
-      "name": "核桃影視-清徐",
+      "key": "核桃影视-清徐",
+      "name": "核桃影视-清徐",
       "type": 1,
       "api": "http://app.hetaoys.vip/api.php/provide/vod/",
       "searchable": 1,
@@ -381,8 +381,8 @@
       "filterable": 1
     },
     {
-      "key": "呆呆影視-清徐",
-      "name": "呆呆影視-清徐",
+      "key": "呆呆影视-清徐",
+      "name": "呆呆影视-清徐",
       "type": 1,
       "api": "http://tv.daidaitv.top:43800/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -390,8 +390,8 @@
       "filterable": 1
     },
     {
-      "key": "零玖影視-清徐",
-      "name": "零玖影視-清徐",
+      "key": "零玖影视-清徐",
+      "name": "零玖影视-清徐",
       "type": 1,
       "api": "https://09tv.top/api.php/provide/vod/",
       "searchable": 1,
@@ -408,8 +408,8 @@
       "filterable": 1
     },
     {
-      "key": "蜂鳥視訊-清徐",
-      "name": "蜂鳥視訊-清徐",
+      "key": "蜂鸟视频-清徐",
+      "name": "蜂鸟视频-清徐",
       "type": 0,
       "api": "https://v.fnsp0.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -426,8 +426,8 @@
       "filterable": 1
     },
     {
-      "key": "融興資源-清徐",
-      "name": "融興資源-清徐",
+      "key": "融兴资源-清徐",
+      "name": "融兴资源-清徐",
       "type": 0,
       "api": "https://www.rongxingvr.com/api.php/provide/vod/at/xml",
       "playUrl": "https://vip.bljiex.com/?v=",
@@ -436,8 +436,8 @@
       "filterable": 0
     },
     {
-      "key": "隨便看-清徐",
-      "name": "隨便看-清徐",
+      "key": "随便看-清徐",
+      "name": "随便看-清徐",
       "type": 0,
       "api": "https://www.sbkdy.com/inc/api.php",
       "searchable": 1,
@@ -445,8 +445,8 @@
       "filterable": 0
     },
     {
-      "key": "啟靈資源-清徐",
-      "name": "啟靈資源-清徐",
+      "key": "启灵资源-清徐",
+      "name": "启灵资源-清徐",
       "type": 0,
       "api": "http://www.qilinzyz.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -454,8 +454,8 @@
       "filterable": 0
     },
     {
-      "key": "X8資源-清徐",
-      "name": "X8資源-清徐",
+      "key": "X8资源-清徐",
+      "name": "X8资源-清徐",
       "type": 0,
       "api": "https://www.x8x8-vip-2.ru/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -463,8 +463,8 @@
       "filterable": 0
     },
     {
-      "key": "比鄰影視-清徐",
-      "name": "比鄰影視-清徐",
+      "key": "比邻影视-清徐",
+      "name": "比邻影视-清徐",
       "type": 1,
       "api": "http://0hzy.cn:9990/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -491,8 +491,8 @@
       "filterable": 0
     },
     {
-      "key": "MBO影視-清徐",
-      "name": "MBO影視-清徐",
+      "key": "MBO影视-清徐",
+      "name": "MBO影视-清徐",
       "type": 0,
       "api": "https://www.mbomovie.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -500,8 +500,8 @@
       "filterable": 0
     },
     {
-      "key": "暢視資源-清徐",
-      "name": "暢視資源-清徐",
+      "key": "畅视资源-清徐",
+      "name": "畅视资源-清徐",
       "type": 1,
       "api": "http://app.reboju.net/api.php/provide/vod",
       "searchable": 1,
@@ -509,8 +509,8 @@
       "filterable": 0
     },
     {
-      "key": "3號港劇-清徐",
-      "name": "3號港劇-清徐",
+      "key": "3号港剧-清徐",
+      "name": "3号港剧-清徐",
       "type": 0,
       "api": "https://www.hktv03.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -518,8 +518,8 @@
       "filterable": 0
     },
     {
-      "key": "J8電影-清徐",
-      "name": "J8電影-清徐",
+      "key": "J8电影-清徐",
+      "name": "J8电影-清徐",
       "type": 0,
       "api": "https://www.j8dy.org/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -527,8 +527,8 @@
       "filterable": 0
     },
     {
-      "key": "電影牛資源-清徐",
-      "name": "電影牛資源-清徐",
+      "key": "电影牛资源-清徐",
+      "name": "电影牛资源-清徐",
       "type": 1,
       "api": "https://www.dianyingn.com/api.php/provide/vod/",
       "searchable": 1,
@@ -536,8 +536,8 @@
       "filterable": 1
     },
     {
-      "key": "番茄資源-清徐",
-      "name": "番茄資源-清徐",
+      "key": "番茄资源-清徐",
+      "name": "番茄资源-清徐",
       "type": 1,
       "api": "http://api.fqzy.cc/api.php/provide/vod/",
       "playUrl": "https://jx.fqzy.cc/jx.php?url=",
@@ -546,8 +546,8 @@
       "filterable": 1
     },
     {
-      "key": "zy採集-清徐",
-      "name": "zy採集-清徐",
+      "key": "zy采集-清徐",
+      "name": "zy采集-清徐",
       "type": 1,
       "api": "http://www.zycaiji.net:7788/api.php/provide/vod/",
       "searchable": 1,
@@ -555,8 +555,8 @@
       "filterable": 1
     },
     {
-      "key": "愛搜影視-清徐",
-      "name": "愛搜影視-清徐",
+      "key": "爱搜影视-清徐",
+      "name": "爱搜影视-清徐",
       "type": 1,
       "api": "https://www.yunbangcheng.com/api.php/provide/vod/from/qiepian/",
       "searchable": 1,
@@ -564,8 +564,8 @@
       "filterable": 1
     },
     {
-      "key": "BL視訊-清徐",
-      "name": "BL視訊-清徐",
+      "key": "BL视频-清徐",
+      "name": "BL视频-清徐",
       "type": 1,
       "api": "https://bljiex.com/api.php/provide/vod/",
       "searchable": 1,
@@ -582,8 +582,8 @@
       "filterable": 0
     },
     {
-      "key": "柚子資源-清徐",
-      "name": "柚子資源-清徐",
+      "key": "柚子资源-清徐",
+      "name": "柚子资源-清徐",
       "type": 1,
       "api": "http://tv.aitesucai.xyz/api.php/provide/vod/",
       "searchable": 1,
@@ -600,8 +600,8 @@
       "filterable": 1
     },
     {
-      "key": "88資源-清徐",
-      "name": "88資源-清徐",
+      "key": "88资源-清徐",
+      "name": "88资源-清徐",
       "type": 0,
       "api": "http://www.88zyw.net/inc/api.php/provide/vod/",
       "searchable": 1,
@@ -609,8 +609,8 @@
       "filterable": 0
     },
     {
-      "key": "39影視-清徐",
-      "name": "39影視-清徐",
+      "key": "39影视-清徐",
+      "name": "39影视-清徐",
       "type": 1,
       "api": "https://www.39kan.com/api.php/provide/vod/",
       "searchable": 1,
@@ -618,8 +618,8 @@
       "filterable": 1
     },
     {
-      "key": "八戒採集-清徐",
-      "name": "八戒採集-清徐",
+      "key": "八戒采集-清徐",
+      "name": "八戒采集-清徐",
       "type": 0,
       "api": "http://cj.bajiecaiji.com/inc/api.php/provide/vod/",
       "searchable": 1,
@@ -627,8 +627,8 @@
       "filterable": 1
     },
     {
-      "key": "神馬採集-清徐",
-      "name": "神馬採集-清徐",
+      "key": "神马采集-清徐",
+      "name": "神马采集-清徐",
       "type": 1,
       "api": "http://www.zitv.cc/api.php/provide/vod/",
       "searchable": 1,
@@ -636,8 +636,8 @@
       "filterable": 1
     },
     {
-      "key": "樂多采集-清徐",
-      "name": "樂多采集-清徐",
+      "key": "乐多采集-清徐",
+      "name": "乐多采集-清徐",
       "type": 0,
       "api": "https://cj.leduocaiji.com/inc/api.php/provide/vod/",
       "playUrl": "https://api.xxctzy.com/1.php?vid=",
@@ -646,8 +646,8 @@
       "filterable": 0
     },
     {
-      "key": "熱播劇-清徐",
-      "name": "熱播劇-清徐",
+      "key": "热播剧-清徐",
+      "name": "热播剧-清徐",
       "type": 1,
       "api": "http://app.reboju.net/api.php/provide/vod",
       "playUrl": "https://m3u8.cachecha.com/?url=",
@@ -656,8 +656,8 @@
       "filterable": 0
     },
     {
-      "key": "9875影視-清徐",
-      "name": "9875影視-清徐",
+      "key": "9875影视-清徐",
+      "name": "9875影视-清徐",
       "type": 1,
       "api": "https://www.9875.xyz/api.php/provide/vod/",
       "searchable": 1,
@@ -665,8 +665,8 @@
       "filterable": 1
     },
     {
-      "key": "清蓮資源-清徐",
-      "name": "清蓮資源-清徐",
+      "key": "清莲资源-清徐",
+      "name": "清莲资源-清徐",
       "type": 1,
       "api": "https://www.qinglyy.com/api.php/provide/vod/at/xml24",
       "playUrl": "http://api.u1o.net/?url=",
@@ -684,8 +684,8 @@
       "filterable": 1
     },
     {
-      "key": "紅牛-清徐",
-      "name": "紅牛-清徐",
+      "key": "红牛-清徐",
+      "name": "红牛-清徐",
       "type": 0,
       "api": "https://www.hongniuzy.com/inc/seahnyun.php/provide/vod/",
       "searchable": 1,
@@ -693,8 +693,8 @@
       "filterable": 1
     },
     {
-      "key": "小蜻蜓採集-清徐",
-      "name": "小蜻蜓採集-清徐",
+      "key": "小蜻蜓采集-清徐",
+      "name": "小蜻蜓采集-清徐",
       "type": 0,
       "api": "http://3ketv.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -702,8 +702,8 @@
       "filterable": 0
     },
     {
-      "key": "阿貍採集-清徐",
-      "name": "阿貍採集-清徐",
+      "key": "阿狸采集-清徐",
+      "name": "阿狸采集-清徐",
       "type": 0,
       "api": "http://www.feishi.ltd/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -711,8 +711,8 @@
       "filterable": 0
     },
     {
-      "key": "追劇吧-清徐",
-      "name": "追劇吧-清徐",
+      "key": "追剧吧-清徐",
+      "name": "追剧吧-清徐",
       "type": 0,
       "api": "http://www.huaxiab.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -720,8 +720,8 @@
       "filterable": 0
     },
     {
-      "key": "飯糰資源-清徐",
-      "name": "飯糰資源-清徐",
+      "key": "饭团资源-清徐",
+      "name": "饭团资源-清徐",
       "type": 0,
       "api": "http://fantuan.wkfile.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -729,8 +729,8 @@
       "filterable": 0
     },
     {
-      "key": "77資源-清徐",
-      "name": "77資源-清徐",
+      "key": "77资源-清徐",
+      "name": "77资源-清徐",
       "type": 1,
       "api": "https://www.77diany.com/api.php/provide/vod/?ac=list",
       "playUrl": "https://jx.77diany.com/?url=",
@@ -739,8 +739,8 @@
       "filterable": 0
     },
     {
-      "key": "天空資源-清徐",
-      "name": "天空資源-清徐",
+      "key": "天空资源-清徐",
+      "name": "天空资源-清徐",
       "type": 0,
       "api": "http://api.tiankongapi.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -748,8 +748,8 @@
       "filterable": 0
     },
     {
-      "key": "飄花資源-清徐",
-      "name": "飄花資源-清徐",
+      "key": "飘花资源-清徐",
+      "name": "飘花资源-清徐",
       "type": 0,
       "api": "http://www.zzrhgg.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -757,8 +757,8 @@
       "filterable": 0
     },
     {
-      "key": "蝸牛看鴨-清徐",
-      "name": "蝸牛看鴨-清徐",
+      "key": "蜗牛看鸭-清徐",
+      "name": "蜗牛看鸭-清徐",
       "type": 0,
       "api": "http://snailkya.xyz/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -766,8 +766,8 @@
       "filterable": 0
     },
     {
-      "key": "紅牛2-清徐",
-      "name": "紅牛2-清徐",
+      "key": "红牛2-清徐",
+      "name": "红牛2-清徐",
       "type": 0,
       "api": "https://www.hongniuzy.com/inc/hnm3u8.php",
       "playUrl": "https://www.tutukiki.com/m3u8/?url=",
@@ -776,8 +776,8 @@
       "filterable": 0
     },
     {
-      "key": "偵探APP-清徐",
-      "name": "偵探APP-清徐",
+      "key": "侦探APP-清徐",
+      "name": "侦探APP-清徐",
       "type": 0,
       "api": "http://ys.huangguay.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -785,8 +785,8 @@
       "filterable": 0
     },
     {
-      "key": "KK看劇-清徐",
-      "name": "KK看劇-清徐",
+      "key": "KK看剧-清徐",
+      "name": "KK看剧-清徐",
       "type": 0,
       "api": "http://www.kkkanju.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -794,8 +794,8 @@
       "filterable": 0
     },
     {
-      "key": "One影視-清徐",
-      "name": "One影視-清徐",
+      "key": "One影视-清徐",
+      "name": "One影视-清徐",
       "type": 0,
       "api": "http://www.onedianshi.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -803,8 +803,8 @@
       "filterable": 0
     },
     {
-      "key": "靈智-清徐",
-      "name": "靈智-清徐",
+      "key": "灵智-清徐",
+      "name": "灵智-清徐",
       "type": 0,
       "api": "https://app.linzhiyuan.xyz/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -812,8 +812,8 @@
       "filterable": 0
     },
     {
-      "key": "趣看視訊-清徐",
-      "name": "趣看視訊-清徐",
+      "key": "趣看视频-清徐",
+      "name": "趣看视频-清徐",
       "type": 0,
       "api": "http://qkmp4.cn/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -830,8 +830,8 @@
       "filterable": 0
     },
     {
-      "key": "橘貓-清徐",
-      "name": "橘貓-清徐",
+      "key": "橘猫-清徐",
+      "name": "橘猫-清徐",
       "type": 0,
       "api": "http://www.zitv.cc/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -848,8 +848,8 @@
       "filterable": 0
     },
     {
-      "key": "淘片資源-清徐",
-      "name": "淘片資源-清徐",
+      "key": "淘片资源-清徐",
+      "name": "淘片资源-清徐",
       "type": 0,
       "api": "https://taopianzy.com/home/cjapi/c4ca4238a0b923820dcc509a6f75849b/vod/xml",
       "searchable": 1,
@@ -866,8 +866,8 @@
       "filterable": 0
     },
     {
-      "key": "云播影視-清徐",
-      "name": "云播影視-清徐",
+      "key": "云播影视-清徐",
+      "name": "云播影视-清徐",
       "type": 1,
       "api": "https://api.yunboys.cn/api.php/provide/vod/",
       "playUrl": "https://jx.yunboys.cn/?url=",
@@ -894,8 +894,8 @@
       "filterable": 1
     },
     {
-      "key": "片庫資源-清徐",
-      "name": "片庫資源-清徐",
+      "key": "片库资源-清徐",
+      "name": "片库资源-清徐",
       "type": 0,
       "api": "https://pianku.wang/api.php/provide/vod/at/xml",
       "playUrl": "https://api.jhdyw.vip/?url=",
@@ -904,8 +904,8 @@
       "filterable": 0
     },
     {
-      "key": "星辰資源-清徐",
-      "name": "星辰資源-清徐",
+      "key": "星辰资源-清徐",
+      "name": "星辰资源-清徐",
       "type": 1,
       "api": "http://www.zycaiji.net:7788/api.php/provide/vod",
       "searchable": 1,
@@ -913,8 +913,8 @@
       "filterable": 0
     },
     {
-      "key": "1905資源-清徐",
-      "name": "1905資源-清徐",
+      "key": "1905资源-清徐",
+      "name": "1905资源-清徐",
       "type": 0,
       "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/m1905/at/xml/",
       "playUrl": "http://vip.bljiex.com/?v=",
@@ -932,8 +932,8 @@
       "filterable": 0
     },
     {
-      "key": "7K(蝦米)資源-清徐",
-      "name": "7K(蝦米)資源-清徐",
+      "key": "7K(虾米)资源-清徐",
+      "name": "7K(虾米)资源-清徐",
       "type": 0,
       "api": "https://zy.xmflv.vip/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -941,8 +941,8 @@
       "filterable": 0
     },
     {
-      "key": "無極影院-清徐",
-      "name": "無極影院-清徐",
+      "key": "无极影院-清徐",
+      "name": "无极影院-清徐",
       "type": 0,
       "api": "http://wujiys.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -950,8 +950,8 @@
       "filterable": 0
     },
     {
-      "key": "北斗資源-清徐",
-      "name": "北斗資源-清徐",
+      "key": "北斗资源-清徐",
+      "name": "北斗资源-清徐",
       "type": 1,
       "api": "https://m3u8.bdxzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -968,8 +968,8 @@
       "filterable": 1
     },
     {
-      "key": "恐怖鴨-清徐",
-      "name": "恐怖鴨-清徐",
+      "key": "恐怖鸭-清徐",
+      "name": "恐怖鸭-清徐",
       "type": 1,
       "api": "http://snailkya.xyz/api.php/provide/vod/",
       "searchable": 1,
@@ -977,8 +977,8 @@
       "filterable": 0
     },
     {
-      "key": "1886採集-清徐",
-      "name": "1886採集-清徐",
+      "key": "1886采集-清徐",
+      "name": "1886采集-清徐",
       "type": 0,
       "api": "http://cj.1886zy.co/inc/seacmsapi.php/provide/vod/at/xml",
       "searchable": 1,
@@ -986,8 +986,8 @@
       "filterable": 0
     },
     {
-      "key": "韓劇資源-清徐",
-      "name": "韓劇資源-清徐",
+      "key": "韩剧资源-清徐",
+      "name": "韩剧资源-清徐",
       "type": 0,
       "api": "http://www.hanjuzy.com/inc/api.php",
       "playUrl": "https://jx.aidouer.net/?url=",
@@ -996,8 +996,8 @@
       "filterable": 0
     },
     {
-      "key": "三九美劇-清徐",
-      "name": "三九美劇-清徐",
+      "key": "三九美剧-清徐",
+      "name": "三九美剧-清徐",
       "type": 0,
       "api": "https://www.999meiju.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -1005,8 +1005,8 @@
       "filterable": 0
     },
     {
-      "key": "美劇星球-清徐",
-      "name": "美劇星球-清徐",
+      "key": "美剧星球-清徐",
+      "name": "美剧星球-清徐",
       "type": 0,
       "api": "https://www.meijuxq.com/inc/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -1025,8 +1025,8 @@
       "categories": []
     },
     {
-      "key": "紅牛資源-清徐",
-      "name": "紅牛資源-清徐",
+      "key": "红牛资源-清徐",
+      "name": "红牛资源-清徐",
       "type": 1,
       "api": "https://www.hongniuzy.com/inc/apijson_vodhnm3u8.php",
       "searchable": 1,
@@ -1034,8 +1034,8 @@
       "filterable": 0
     },
     {
-      "key": "博天堂-乃格蘭",
-      "name": "博天堂-乃格蘭",
+      "key": "博天堂-乃格兰",
+      "name": "博天堂-乃格兰",
       "type": 0,
       "api": "http://bttcj.com/inc/sapi.php",
       "searchable": 0,
@@ -1043,8 +1043,8 @@
       "filterable": 0
     },
     {
-      "key": "77資源-乃格蘭",
-      "name": "77資源-乃格蘭",
+      "key": "77资源-乃格兰",
+      "name": "77资源-乃格兰",
       "type": 0,
       "api": "https://www.77zy.vip/inc/m3u8.php",
       "searchable": 1,
@@ -1052,8 +1052,8 @@
       "filterable": 0
     },
     {
-      "key": "水蜜桃-乃格蘭",
-      "name": "水蜜桃-乃格蘭",
+      "key": "水蜜桃-乃格兰",
+      "name": "水蜜桃-乃格兰",
       "type": 0,
       "api": "http://51smt4.xyz/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -1061,8 +1061,8 @@
       "filterable": 0
     },
     {
-      "key": "大地資源-乃格蘭",
-      "name": "大地資源-乃格蘭",
+      "key": "大地资源-乃格兰",
+      "name": "大地资源-乃格兰",
       "type": 0,
       "api": "https://dadiapi.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -1070,8 +1070,8 @@
       "filterable": 0
     },
     {
-      "key": "老鴨資源2-乃格蘭",
-      "name": "老鴨資源2-乃格蘭",
+      "key": "老鸭资源2-乃格兰",
+      "name": "老鸭资源2-乃格兰",
       "type": 0,
       "api": "http://laoyazy.vip/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -1079,8 +1079,8 @@
       "filterable": 0
     },
     {
-      "key": "花菜資源-乃格蘭",
-      "name": "花菜資源-乃格蘭",
+      "key": "花菜资源-乃格兰",
+      "name": "花菜资源-乃格兰",
       "type": 0,
       "api": "https://apihjzy.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -1088,8 +1088,8 @@
       "filterable": 0
     },
     {
-      "key": "麻椒資源-乃格蘭",
-      "name": "麻椒資源-乃格蘭",
+      "key": "麻椒资源-乃格兰",
+      "name": "麻椒资源-乃格兰",
       "type": 0,
       "api": "http://api.11bat.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -1097,8 +1097,8 @@
       "filterable": 0
     },
     {
-      "key": "樂播資源-乃格蘭",
-      "name": "樂播資源-乃格蘭",
+      "key": "乐播资源-乃格兰",
+      "name": "乐播资源-乃格兰",
       "type": 0,
       "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -1106,8 +1106,8 @@
       "filterable": 0
     },
     {
-      "key": "趣播資源-乃格蘭",
-      "name": "趣播資源-乃格蘭",
+      "key": "趣播资源-乃格兰",
+      "name": "趣播资源-乃格兰",
       "type": 0,
       "api": "https://www.qbzyz.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -1115,8 +1115,8 @@
       "filterable": 0
     },
     {
-      "key": "環亞資源-乃格蘭",
-      "name": "環亞資源-乃格蘭",
+      "key": "环亚资源-乃格兰",
+      "name": "环亚资源-乃格兰",
       "type": 0,
       "api": "http://wmcj8.com/inc/sapi.php",
       "searchable": 1,
@@ -1124,8 +1124,8 @@
       "filterable": 0
     },
     {
-      "key": "JAV名優-乃格蘭",
-      "name": "JAV名優-乃格蘭",
+      "key": "JAV名优-乃格兰",
+      "name": "JAV名优-乃格兰",
       "type": 0,
       "api": "http://mygzycj.com/sapi.php?ac=videolist",
       "searchable": 1,
@@ -1133,8 +1133,8 @@
       "filterable": 0
     },
     {
-      "key": "AVZY6888資源-乃格蘭",
-      "name": "AVZY6888資源-乃格蘭",
+      "key": "AVZY6888资源-乃格兰",
+      "name": "AVZY6888资源-乃格兰",
       "type": 0,
       "api": "http://m.7777688.com/inc/api.php",
       "searchable": 1,
@@ -1142,8 +1142,8 @@
       "filterable": 0
     },
     {
-      "key": "佳麗資源-乃格蘭",
-      "name": "佳麗資源-乃格蘭",
+      "key": "佳丽资源-乃格兰",
+      "name": "佳丽资源-乃格兰",
       "type": 0,
       "api": "https://jialiapi.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -1151,8 +1151,8 @@
       "filterable": 0
     },
     {
-      "key": "番號資源-乃格蘭",
-      "name": "番號資源-乃格蘭",
+      "key": "番号资源-乃格兰",
+      "name": "番号资源-乃格兰",
       "type": 0,
       "api": "http://fhapi9.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -1160,8 +1160,8 @@
       "filterable": 0
     },
     {
-      "key": "蒼天資源-乃格蘭",
-      "name": "蒼天資源-乃格蘭",
+      "key": "苍天资源-乃格兰",
+      "name": "苍天资源-乃格兰",
       "type": 0,
       "api": "http://cj.cangtiancj.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -1169,8 +1169,8 @@
       "filterable": 0
     },
     {
-      "key": "速度資源-乃格蘭",
-      "name": "速度資源-乃格蘭",
+      "key": "速度资源-乃格兰",
+      "name": "速度资源-乃格兰",
       "type": 0,
       "api": "http://www.ggmmzy.com:9999/inc/xml",
       "searchable": 1,
@@ -1178,8 +1178,8 @@
       "filterable": 0
     },
     {
-      "key": "優梨-乃格蘭",
-      "name": "優梨-乃格蘭",
+      "key": "优梨-乃格兰",
+      "name": "优梨-乃格兰",
       "type": 0,
       "api": "https://www.ugzyz5.com/inc/zyapimac.php",
       "searchable": 1,
@@ -1187,8 +1187,8 @@
       "filterable": 0
     },
     {
-      "key": "桃色-乃格蘭",
-      "name": "桃色-乃格蘭",
+      "key": "桃色-乃格兰",
+      "name": "桃色-乃格兰",
       "type": 0,
       "api": "https://cj.taoseapi.com/inc/api.php",
       "searchable": 1,
@@ -1196,8 +1196,8 @@
       "filterable": 0
     },
     {
-      "key": "優果-乃格蘭",
-      "name": "優果-乃格蘭",
+      "key": "优果-乃格兰",
+      "name": "优果-乃格兰",
       "type": 0,
       "api": "https://www.ugvapi.com/inc/zyapimac.php",
       "searchable": 1,
@@ -1205,8 +1205,8 @@
       "filterable": 0
     },
     {
-      "key": "老鴨資源-乃格蘭",
-      "name": "老鴨資源-乃格蘭",
+      "key": "老鸭资源-乃格兰",
+      "name": "老鸭资源-乃格兰",
       "type": 0,
       "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml",
       "playUrl": "https://player.laoyam3u8.com/aliplayer/?url=",
@@ -1215,8 +1215,8 @@
       "filterable": 0
     },
     {
-      "key": "絲襪-乃格蘭",
-      "name": "絲襪-乃格蘭",
+      "key": "丝袜-乃格兰",
+      "name": "丝袜-乃格兰",
       "type": 0,
       "api": "https://www.siwazyw.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -1224,8 +1224,8 @@
       "filterable": 0
     },
     {
-      "key": "芒果1-乃格蘭",
-      "name": "芒果1-乃格蘭",
+      "key": "芒果1-乃格兰",
+      "name": "芒果1-乃格兰",
       "type": 0,
       "api": "https://www.mgav1.cc/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -1233,8 +1233,8 @@
       "filterable": 0
     },
     {
-      "key": "BT天堂-乃格蘭",
-      "name": "BT天堂-乃格蘭",
+      "key": "BT天堂-乃格兰",
+      "name": "BT天堂-乃格兰",
       "type": 0,
       "api": "http://bttcj.com/inc/sapi.php",
       "searchable": 1,
@@ -1242,8 +1242,8 @@
       "filterable": 0
     },
     {
-      "key": "秀色-乃格蘭",
-      "name": "秀色-乃格蘭",
+      "key": "秀色-乃格兰",
+      "name": "秀色-乃格兰",
       "type": 0,
       "api": "https://api.xiuseapi.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -1251,8 +1251,8 @@
       "filterable": 0
     },
     {
-      "key": "茄子-乃格蘭",
-      "name": "茄子-乃格蘭",
+      "key": "茄子-乃格兰",
+      "name": "茄子-乃格兰",
       "type": 0,
       "api": "https://qiezizy.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -1260,8 +1260,8 @@
       "filterable": 0
     },
     {
-      "key": "芒果2-乃格蘭",
-      "name": "芒果2-乃格蘭",
+      "key": "芒果2-乃格兰",
+      "name": "芒果2-乃格兰",
       "type": 0,
       "api": "https://mgzyz1.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -1269,8 +1269,8 @@
       "filterable": 0
     },
     {
-      "key": "桃色-乃格蘭",
-      "name": "桃色-乃格蘭",
+      "key": "桃色-乃格兰",
+      "name": "桃色-乃格兰",
       "type": 0,
       "api": "https://cj.taoseapi.com/inc/api.php",
       "searchable": 1,
@@ -1278,8 +1278,8 @@
       "filterable": 0
     },
     {
-      "key": "玖玖-乃格蘭",
-      "name": "玖玖-乃格蘭",
+      "key": "玖玖-乃格兰",
+      "name": "玖玖-乃格兰",
       "type": 0,
       "api": "http://99zywcj.com/inc/sck.php?ac=videolist",
       "searchable": 1,
@@ -1287,8 +1287,8 @@
       "filterable": 0
     },
     {
-      "key": "久草-乃格蘭",
-      "name": "久草-乃格蘭",
+      "key": "久草-乃格兰",
+      "name": "久草-乃格兰",
       "type": 0,
       "api": "http://jcspcj8.com/sapi?ac=videolist",
       "searchable": 1,
@@ -1296,8 +1296,8 @@
       "filterable": 0
     },
     {
-      "key": "利來-乃格蘭",
-      "name": "利來-乃格蘭",
+      "key": "利来-乃格兰",
+      "name": "利来-乃格兰",
       "type": 0,
       "api": "http://llzxcj.com/inc/sck.php?ac=videolist",
       "searchable": 1,
@@ -1305,8 +1305,8 @@
       "filterable": 0
     },
     {
-      "key": "字幕網-乃格蘭",
-      "name": "字幕網-乃格蘭",
+      "key": "字幕网-乃格兰",
+      "name": "字幕网-乃格兰",
       "type": 0,
       "api": "http://zmcj88.com/sapi?ac=videolist",
       "searchable": 1,
@@ -1314,8 +1314,8 @@
       "filterable": 0
     },
     {
-      "key": "優果-乃格蘭",
-      "name": "優果-乃格蘭",
+      "key": "优果-乃格兰",
+      "name": "优果-乃格兰",
       "type": 0,
       "api": "https://www.ugirl6.com/inc/zyapimac.php",
       "searchable": 1,
@@ -1323,8 +1323,8 @@
       "filterable": 0
     },
     {
-      "key": "辣椒-乃格蘭",
-      "name": "辣椒-乃格蘭",
+      "key": "辣椒-乃格兰",
+      "name": "辣椒-乃格兰",
       "type": 0,
       "api": "http://www.lajiaozy18.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -1332,8 +1332,8 @@
       "filterable": 0
     },
     {
-      "key": "老鴨-乃格蘭",
-      "name": "老鴨-乃格蘭",
+      "key": "老鸭-乃格兰",
+      "name": "老鸭-乃格兰",
       "type": 0,
       "api": "http://laoyazy5.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -1341,8 +1341,8 @@
       "filterable": 0
     },
     {
-      "key": "BB資源-乃格蘭",
-      "name": "BB資源-乃格蘭",
+      "key": "BB资源-乃格兰",
+      "name": "BB资源-乃格兰",
       "type": 0,
       "api": "http://bbzy.cc/inc/maccms10.php",
       "searchable": 1,
@@ -1350,8 +1350,8 @@
       "filterable": 0
     },
     {
-      "key": "番號-乃格蘭",
-      "name": "番號-乃格蘭",
+      "key": "番号-乃格兰",
+      "name": "番号-乃格兰",
       "type": 0,
       "api": "http://fhapi9.com/api.php/Seacms/vod/at/xml",
       "searchable": 1,
@@ -1359,8 +1359,8 @@
       "filterable": 0
     },
     {
-      "key": "100ai-乃格蘭",
-      "name": "100ai-乃格蘭",
+      "key": "100ai-乃格兰",
+      "name": "100ai-乃格兰",
       "type": 0,
       "api": "http://www.010aizy.com/API/maxs.php",
       "searchable": 1,
@@ -1368,8 +1368,8 @@
       "filterable": 0
     },
     {
-      "key": "狼少年-乃格蘭",
-      "name": "狼少年-乃格蘭",
+      "key": "狼少年-乃格兰",
+      "name": "狼少年-乃格兰",
       "type": 0,
       "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist",
       "searchable": 1,
@@ -1377,8 +1377,8 @@
       "filterable": 0
     },
     {
-      "key": "百度倫理-乃格蘭",
-      "name": "百度倫理-乃格蘭",
+      "key": "百度伦理-乃格兰",
+      "name": "百度伦理-乃格兰",
       "type": 0,
       "api": "http://www.llbdzy.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -1386,12 +1386,12 @@
       "filterable": 0,
       "categories": [
         null,
-        "倫理"
+        "伦理"
       ]
     },
     {
-      "key": "富二代-乃格蘭",
-      "name": "富二代-乃格蘭",
+      "key": "富二代-乃格兰",
+      "name": "富二代-乃格兰",
       "type": 0,
       "api": "http://f2dcj6.com/sapi?ac=videolist",
       "searchable": 1,
@@ -1399,8 +1399,8 @@
       "filterable": 0
     },
     {
-      "key": "鯊魚資源-乃格蘭",
-      "name": "鯊魚資源-乃格蘭",
+      "key": "鲨鱼资源-乃格兰",
+      "name": "鲨鱼资源-乃格兰",
       "type": 0,
       "api": "https://shayuapi.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -1408,8 +1408,8 @@
       "filterable": 0
     },
     {
-      "key": "itono採集-清徐",
-      "name": "itono採集-清徐",
+      "key": "itono采集-清徐",
+      "name": "itono采集-清徐",
       "type": 0,
       "api": "http://zy.itono.cn/inc/api.php/provide/vod/",
       "searchable": 1,
@@ -1417,8 +1417,8 @@
       "filterable": 1
     },
     {
-      "key": "17云採集-清徐",
-      "name": "17云採集-清徐",
+      "key": "17云采集-清徐",
+      "name": "17云采集-清徐",
       "type": 0,
       "api": "http://zy.itono.cn/inc/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -1426,8 +1426,8 @@
       "filterable": 0
     },
     {
-      "key": "8k影視之光-清徐",
-      "name": "8k影視之光-清徐",
+      "key": "8k影视之光-清徐",
+      "name": "8k影视之光-清徐",
       "type": 1,
       "api": "http://vip.8kvod.com:888/8kvodapilgxc.php/provide/vod/",
       "searchable": 1,
@@ -1435,8 +1435,8 @@
       "filterable": 0
     },
     {
-      "key": "8k影視之光2-清徐",
-      "name": "8k影視之光2-清徐",
+      "key": "8k影视之光2-清徐",
+      "name": "8k影视之光2-清徐",
       "type": 1,
       "api": "http://vip.8kvod.com:888/8kvodapilgxc.php/provide/vod/from/mgtv",
       "searchable": 1,
