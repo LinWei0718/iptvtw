@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "csp_Aidi",
-      "name": "爱迪-爬虫",
+      "name": "愛迪-爬蟲",
       "type": 3,
       "api": "csp_Aidi",
       "searchable": 1,
@@ -11,7 +11,7 @@
     },
     {
       "key": "csp_Enlienli",
-      "name": "嗯哩嗯哩-爬虫",
+      "name": "嗯哩嗯哩-爬蟲",
       "type": 3,
       "api": "csp_Enlienli",
       "searchable": 1,
@@ -20,7 +20,7 @@
     },
     {
       "key": "csp_Auete",
-      "name": "Auete-爬虫",
+      "name": "Auete-爬蟲",
       "type": 3,
       "api": "csp_Auete",
       "searchable": 1,
@@ -29,7 +29,7 @@
     },
     {
       "key": "csp_Cokemv",
-      "name": "Cokemv-爬虫",
+      "name": "Cokemv-爬蟲",
       "type": 3,
       "api": "csp_Cokemv",
       "searchable": 1,
@@ -38,7 +38,7 @@
     },
     {
       "key": "csp_Buka",
-      "name": "真不卡-爬虫",
+      "name": "真不卡-爬蟲",
       "type": 3,
       "api": "csp_Buka",
       "searchable": 1,
@@ -47,7 +47,7 @@
     },
     {
       "key": "csp_Ysgc",
-      "name": "影视工厂-爬虫",
+      "name": "影視工廠-爬蟲",
       "type": 3,
       "api": "csp_Ysgc",
       "searchable": 1,
@@ -56,7 +56,7 @@
     },
     {
       "key": "csp_N0ys",
-      "name": "90影视-爬虫",
+      "name": "90影視-爬蟲",
       "type": 3,
       "api": "csp_N0ys",
       "searchable": 1,
@@ -65,7 +65,7 @@
     },
    {
       "key": "csp_Ubo",
-      "name": "优播影院-爬虫",
+      "name": "優播影院-爬蟲",
       "type": 3,
       "api": "csp_Ubo",
       "searchable": 1,
@@ -73,8 +73,8 @@
       "filterable": 1
    },
     {
-      "key": "极品采集-清徐",
-      "name": "极品采集-清徐",
+      "key": "極品採集-清徐",
+      "name": "極品採集-清徐",
       "type": 0,
       "api": "https://www.jpysvip.net/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -82,8 +82,8 @@
       "filterable": 0
     },
     {
-      "key": "极品采集2-清徐",
-      "name": "极品采集2-清徐",
+      "key": "極品採集2-清徐",
+      "name": "極品採集2-清徐",
       "type": 1,
       "api": "https://www.jpysvip.net/api.php/provide/vod/",
       "searchable": 1,
@@ -91,8 +91,8 @@
       "filterable": 1
     },
     {
-      "key": "瓜皮采集-清徐",
-      "name": "瓜皮采集-清徐",
+      "key": "瓜皮採集-清徐",
+      "name": "瓜皮採集-清徐",
       "type": 1,
       "api": "http://www.dijiaxia.com/api.php/provide/vod/",
       "searchable": 1,
@@ -100,8 +100,8 @@
       "filterable": 1
     },
     {
-      "key": "百度采集-清徐",
-      "name": "百度采集-清徐",
+      "key": "百度採集-清徐",
+      "name": "百度採集-清徐",
       "type": 1,
       "api": "https://api.bdjx.vip/api.php/provide/vod/at/xml:",
       "searchable": 1,
@@ -109,8 +109,8 @@
       "filterable": 1
     },
     {
-      "key": "百度采集2-清徐",
-      "name": "百度采集2-清徐",
+      "key": "百度採集2-清徐",
+      "name": "百度採集2-清徐",
       "type": 1,
       "api": "https://api.bdjx.vip/api.php/provide/vod/",
       "searchable": 1,
@@ -127,8 +127,8 @@
       "filterable": 0
     },
     {
-      "key": "椰子资源-清徐",
-      "name": "椰子资源-清徐",
+      "key": "椰子資源-清徐",
+      "name": "椰子資源-清徐",
       "type": 1,
       "api": "https://zy.gbxy.net.cn/api.php/provide/vod/",
       "searchable": 1,
@@ -136,8 +136,8 @@
       "filterable": 0
     },
     {
-      "key": "百搜资源-清徐",
-      "name": "百搜资源-清徐",
+      "key": "百搜資源-清徐",
+      "name": "百搜資源-清徐",
       "type": 1,
       "api": "https://vip.baisou.ltd/api.php/provide/vod/",
       "searchable": 1,
@@ -145,8 +145,8 @@
       "filterable": 0
     },
     {
-      "key": "欧宝资源-清徐",
-      "name": "欧宝资源-清徐",
+      "key": "歐寶資源-清徐",
+      "name": "歐寶資源-清徐",
       "type": 1,
       "api": "http://obaowl.cn/api.php/provide/vod/",
       "searchable": 1,
@@ -173,8 +173,8 @@
       "filterable": 1
     },
     {
-      "key": "流星雨影视-清徐",
-      "name": "流星雨影视-清徐",
+      "key": "流星雨影視-清徐",
+      "name": "流星雨影視-清徐",
       "type": 1,
       "api": "http://syy.lxyyy.xyz/mv/api.php/provide/vod/",
       "searchable": 1,
@@ -182,8 +182,8 @@
       "filterable": 1
     },
     {
-      "key": "黄河影视-清徐",
-      "name": "黄河影视-清徐",
+      "key": "黃河影視-清徐",
+      "name": "黃河影視-清徐",
       "type": 1,
       "api": "http://i.ledu8.cn/api.php/provide/vod/",
       "searchable": 1,
@@ -191,8 +191,8 @@
       "filterable": 1
     },
     {
-      "key": "江湖影视-清徐",
-      "name": "江湖影视-清徐",
+      "key": "江湖影視-清徐",
+      "name": "江湖影視-清徐",
       "type": 1,
       "api": "http://app.jhdyw.vip:1234/api.php/provide/vod/",
       "searchable": 1,
@@ -200,8 +200,8 @@
       "filterable": 1
     },
     {
-      "key": "麒麟资源-清徐",
-      "name": "麒麟资源-清徐",
+      "key": "麒麟資源-清徐",
+      "name": "麒麟資源-清徐",
       "type": 1,
       "api": "https://www.qilinzyz.com/api.php/provide/vod/",
       "searchable": 1,
@@ -209,8 +209,8 @@
       "filterable": 1
     },
     {
-      "key": "清欢资源-清徐",
-      "name": "清欢资源-清徐",
+      "key": "清歡資源-清徐",
+      "name": "清歡資源-清徐",
       "type": 1,
       "api": "https://free.qinghuanzy.com/api.php/provide/vod/",
       "searchable": 1,
@@ -218,8 +218,8 @@
       "filterable": 0
     },
     {
-      "key": "好好资源-清徐",
-      "name": "好好资源-清徐",
+      "key": "好好資源-清徐",
+      "name": "好好資源-清徐",
       "type": 1,
       "api": "http://haohaozy.com/api.php/provide/vod/",
       "searchable": 1,
@@ -227,8 +227,8 @@
       "filterable": 1
     },
     {
-      "key": "天堂资源-清徐",
-      "name": "天堂资源-清徐",
+      "key": "天堂資源-清徐",
+      "name": "天堂資源-清徐",
       "type": 1,
       "api": "http://vipmv.cc/api.php/provide/vod/",
       "searchable": 1,
@@ -236,8 +236,8 @@
       "filterable": 1
     },
     {
-      "key": "蓝果app-清徐",
-      "name": "蓝果app-清徐",
+      "key": "藍果app-清徐",
+      "name": "藍果app-清徐",
       "type": 1,
       "api": "http://www.languotv.com/api.php/provide/vod/",
       "searchable": 1,
@@ -245,8 +245,8 @@
       "filterable": 0
     },
     {
-      "key": "8090资源-清徐",
-      "name": "8090资源-清徐",
+      "key": "8090資源-清徐",
+      "name": "8090資源-清徐",
       "type": 1,
       "api": "http://zy.yilans.net:8090/api.php/provide/vod/",
       "searchable": 1,
@@ -254,8 +254,8 @@
       "filterable": 1
     },
     {
-      "key": "萌果资源-清徐",
-      "name": "萌果资源-清徐",
+      "key": "萌果資源-清徐",
+      "name": "萌果資源-清徐",
       "type": 1,
       "api": "http://api.appearoo.top/api.php/provide/vod/",
       "searchable": 1,
@@ -263,8 +263,8 @@
       "filterable": 1
     },
     {
-      "key": "2A资源站-清徐",
-      "name": "2A资源站-清徐",
+      "key": "2A資源站-清徐",
+      "name": "2A資源站-清徐",
       "type": 1,
       "api": "http://zy.zcocc.com/api.php/provide/vod/",
       "searchable": 1,
@@ -272,8 +272,8 @@
       "filterable": 1
     },
     {
-      "key": "千寻影视-清徐",
-      "name": "千寻影视-清徐",
+      "key": "千尋影視-清徐",
+      "name": "千尋影視-清徐",
       "type": 1,
       "api": "http://wy.dqyhg.cn/api.php/provide/vod/",
       "searchable": 1,
@@ -281,8 +281,8 @@
       "filterable": 0
     },
     {
-      "key": "虾米资源-清徐",
-      "name": "虾米资源-清徐",
+      "key": "蝦米資源-清徐",
+      "name": "蝦米資源-清徐",
       "type": 1,
       "api": "https://zy.xmflv.vip/api.php/provide/vod/",
       "searchable": 1,
@@ -299,8 +299,8 @@
       "filterable": 1
     },
     {
-      "key": "竹嘎资源-清徐",
-      "name": "竹嘎资源-清徐",
+      "key": "竹嘎資源-清徐",
+      "name": "竹嘎資源-清徐",
       "type": 1,
       "api": "http://m.ycccyk.cn/api.php/provide/vod/",
       "searchable": 1,
@@ -308,8 +308,8 @@
       "filterable": 1
     },
     {
-      "key": "蘑菇资源-清徐",
-      "name": "蘑菇资源-清徐",
+      "key": "蘑菇資源-清徐",
+      "name": "蘑菇資源-清徐",
       "type": 1,
       "api": "http://www.moguzyw.com:520/moguzy.php/provide/vod/",
       "searchable": 1,
@@ -317,8 +317,8 @@
       "filterable": 1
     },
     {
-      "key": "游艺资源-清徐",
-      "name": "游艺资源-清徐",
+      "key": "遊藝資源-清徐",
+      "name": "遊藝資源-清徐",
       "type": 1,
       "api": "https://zhicai.u1o.net/api.php/provide/vod/",
       "searchable": 1,
@@ -326,8 +326,8 @@
       "filterable": 1
     },
     {
-      "key": "迷你库-清徐",
-      "name": "迷你库-清徐",
+      "key": "迷你庫-清徐",
+      "name": "迷你庫-清徐",
       "type": 1,
       "api": "https://www.miniku.cc/api.php/provide/vod/",
       "playUrl": "https://jiexi.moeamv.com/?url=",
@@ -345,8 +345,8 @@
       "filterable": 0
     },
     {
-      "key": "三零资源-清徐",
-      "name": "三零资源-清徐",
+      "key": "三零資源-清徐",
+      "name": "三零資源-清徐",
       "type": 1,
       "api": "http://api.000zy.com/provide/vod/",
       "searchable": 1,
@@ -354,8 +354,8 @@
       "filterable": 1
     },
     {
-      "key": "u酷资源-清徐",
-      "name": "u酷资源-清徐",
+      "key": "u酷資源-清徐",
+      "name": "u酷資源-清徐",
       "type": 1,
       "api": "http://www.ukuzy.com/api.php/provide/vod/1",
       "searchable": 1,
@@ -363,8 +363,8 @@
       "filterable": 1
     },
     {
-      "key": "爱看影视-清徐",
-      "name": "爱看影视-清徐",
+      "key": "愛看影視-清徐",
+      "name": "愛看影視-清徐",
       "type": 1,
       "api": "http://v.aik.la/api.php/provide/vod/",
       "searchable": 1,
@@ -372,8 +372,8 @@
       "filterable": 1
     },
     {
-      "key": "核桃影视-清徐",
-      "name": "核桃影视-清徐",
+      "key": "核桃影視-清徐",
+      "name": "核桃影視-清徐",
       "type": 1,
       "api": "http://app.hetaoys.vip/api.php/provide/vod/",
       "searchable": 1,
@@ -381,8 +381,8 @@
       "filterable": 1
     },
     {
-      "key": "呆呆影视-清徐",
-      "name": "呆呆影视-清徐",
+      "key": "呆呆影視-清徐",
+      "name": "呆呆影視-清徐",
       "type": 1,
       "api": "http://tv.daidaitv.top:43800/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -390,8 +390,8 @@
       "filterable": 1
     },
     {
-      "key": "零玖影视-清徐",
-      "name": "零玖影视-清徐",
+      "key": "零玖影視-清徐",
+      "name": "零玖影視-清徐",
       "type": 1,
       "api": "https://09tv.top/api.php/provide/vod/",
       "searchable": 1,
@@ -408,8 +408,8 @@
       "filterable": 1
     },
     {
-      "key": "蜂鸟视频-清徐",
-      "name": "蜂鸟视频-清徐",
+      "key": "蜂鳥視訊-清徐",
+      "name": "蜂鳥視訊-清徐",
       "type": 0,
       "api": "https://v.fnsp0.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -426,8 +426,8 @@
       "filterable": 1
     },
     {
-      "key": "融兴资源-清徐",
-      "name": "融兴资源-清徐",
+      "key": "融興資源-清徐",
+      "name": "融興資源-清徐",
       "type": 0,
       "api": "https://www.rongxingvr.com/api.php/provide/vod/at/xml",
       "playUrl": "https://vip.bljiex.com/?v=",
@@ -436,8 +436,8 @@
       "filterable": 0
     },
     {
-      "key": "随便看-清徐",
-      "name": "随便看-清徐",
+      "key": "隨便看-清徐",
+      "name": "隨便看-清徐",
       "type": 0,
       "api": "https://www.sbkdy.com/inc/api.php",
       "searchable": 1,
@@ -445,8 +445,8 @@
       "filterable": 0
     },
     {
-      "key": "启灵资源-清徐",
-      "name": "启灵资源-清徐",
+      "key": "啟靈資源-清徐",
+      "name": "啟靈資源-清徐",
       "type": 0,
       "api": "http://www.qilinzyz.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -454,8 +454,8 @@
       "filterable": 0
     },
     {
-      "key": "X8资源-清徐",
-      "name": "X8资源-清徐",
+      "key": "X8資源-清徐",
+      "name": "X8資源-清徐",
       "type": 0,
       "api": "https://www.x8x8-vip-2.ru/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -463,8 +463,8 @@
       "filterable": 0
     },
     {
-      "key": "比邻影视-清徐",
-      "name": "比邻影视-清徐",
+      "key": "比鄰影視-清徐",
+      "name": "比鄰影視-清徐",
       "type": 1,
       "api": "http://0hzy.cn:9990/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -491,8 +491,8 @@
       "filterable": 0
     },
     {
-      "key": "MBO影视-清徐",
-      "name": "MBO影视-清徐",
+      "key": "MBO影視-清徐",
+      "name": "MBO影視-清徐",
       "type": 0,
       "api": "https://www.mbomovie.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -500,8 +500,8 @@
       "filterable": 0
     },
     {
-      "key": "畅视资源-清徐",
-      "name": "畅视资源-清徐",
+      "key": "暢視資源-清徐",
+      "name": "暢視資源-清徐",
       "type": 1,
       "api": "http://app.reboju.net/api.php/provide/vod",
       "searchable": 1,
@@ -509,8 +509,8 @@
       "filterable": 0
     },
     {
-      "key": "3号港剧-清徐",
-      "name": "3号港剧-清徐",
+      "key": "3號港劇-清徐",
+      "name": "3號港劇-清徐",
       "type": 0,
       "api": "https://www.hktv03.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -518,8 +518,8 @@
       "filterable": 0
     },
     {
-      "key": "J8电影-清徐",
-      "name": "J8电影-清徐",
+      "key": "J8電影-清徐",
+      "name": "J8電影-清徐",
       "type": 0,
       "api": "https://www.j8dy.org/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -527,8 +527,8 @@
       "filterable": 0
     },
     {
-      "key": "电影牛资源-清徐",
-      "name": "电影牛资源-清徐",
+      "key": "電影牛資源-清徐",
+      "name": "電影牛資源-清徐",
       "type": 1,
       "api": "https://www.dianyingn.com/api.php/provide/vod/",
       "searchable": 1,
@@ -536,8 +536,8 @@
       "filterable": 1
     },
     {
-      "key": "番茄资源-清徐",
-      "name": "番茄资源-清徐",
+      "key": "番茄資源-清徐",
+      "name": "番茄資源-清徐",
       "type": 1,
       "api": "http://api.fqzy.cc/api.php/provide/vod/",
       "playUrl": "https://jx.fqzy.cc/jx.php?url=",
@@ -546,8 +546,8 @@
       "filterable": 1
     },
     {
-      "key": "zy采集-清徐",
-      "name": "zy采集-清徐",
+      "key": "zy採集-清徐",
+      "name": "zy採集-清徐",
       "type": 1,
       "api": "http://www.zycaiji.net:7788/api.php/provide/vod/",
       "searchable": 1,
@@ -555,8 +555,8 @@
       "filterable": 1
     },
     {
-      "key": "爱搜影视-清徐",
-      "name": "爱搜影视-清徐",
+      "key": "愛搜影視-清徐",
+      "name": "愛搜影視-清徐",
       "type": 1,
       "api": "https://www.yunbangcheng.com/api.php/provide/vod/from/qiepian/",
       "searchable": 1,
@@ -564,8 +564,8 @@
       "filterable": 1
     },
     {
-      "key": "BL视频-清徐",
-      "name": "BL视频-清徐",
+      "key": "BL視訊-清徐",
+      "name": "BL視訊-清徐",
       "type": 1,
       "api": "https://bljiex.com/api.php/provide/vod/",
       "searchable": 1,
@@ -582,8 +582,8 @@
       "filterable": 0
     },
     {
-      "key": "柚子资源-清徐",
-      "name": "柚子资源-清徐",
+      "key": "柚子資源-清徐",
+      "name": "柚子資源-清徐",
       "type": 1,
       "api": "http://tv.aitesucai.xyz/api.php/provide/vod/",
       "searchable": 1,
@@ -600,8 +600,8 @@
       "filterable": 1
     },
     {
-      "key": "88资源-清徐",
-      "name": "88资源-清徐",
+      "key": "88資源-清徐",
+      "name": "88資源-清徐",
       "type": 0,
       "api": "http://www.88zyw.net/inc/api.php/provide/vod/",
       "searchable": 1,
@@ -609,8 +609,8 @@
       "filterable": 0
     },
     {
-      "key": "39影视-清徐",
-      "name": "39影视-清徐",
+      "key": "39影視-清徐",
+      "name": "39影視-清徐",
       "type": 1,
       "api": "https://www.39kan.com/api.php/provide/vod/",
       "searchable": 1,
@@ -618,8 +618,8 @@
       "filterable": 1
     },
     {
-      "key": "八戒采集-清徐",
-      "name": "八戒采集-清徐",
+      "key": "八戒採集-清徐",
+      "name": "八戒採集-清徐",
       "type": 0,
       "api": "http://cj.bajiecaiji.com/inc/api.php/provide/vod/",
       "searchable": 1,
@@ -627,8 +627,8 @@
       "filterable": 1
     },
     {
-      "key": "神马采集-清徐",
-      "name": "神马采集-清徐",
+      "key": "神馬採集-清徐",
+      "name": "神馬採集-清徐",
       "type": 1,
       "api": "http://www.zitv.cc/api.php/provide/vod/",
       "searchable": 1,
@@ -636,8 +636,8 @@
       "filterable": 1
     },
     {
-      "key": "乐多采集-清徐",
-      "name": "乐多采集-清徐",
+      "key": "樂多采集-清徐",
+      "name": "樂多采集-清徐",
       "type": 0,
       "api": "https://cj.leduocaiji.com/inc/api.php/provide/vod/",
       "playUrl": "https://api.xxctzy.com/1.php?vid=",
@@ -646,8 +646,8 @@
       "filterable": 0
     },
     {
-      "key": "热播剧-清徐",
-      "name": "热播剧-清徐",
+      "key": "熱播劇-清徐",
+      "name": "熱播劇-清徐",
       "type": 1,
       "api": "http://app.reboju.net/api.php/provide/vod",
       "playUrl": "https://m3u8.cachecha.com/?url=",
@@ -656,8 +656,8 @@
       "filterable": 0
     },
     {
-      "key": "9875影视-清徐",
-      "name": "9875影视-清徐",
+      "key": "9875影視-清徐",
+      "name": "9875影視-清徐",
       "type": 1,
       "api": "https://www.9875.xyz/api.php/provide/vod/",
       "searchable": 1,
@@ -665,8 +665,8 @@
       "filterable": 1
     },
     {
-      "key": "清莲资源-清徐",
-      "name": "清莲资源-清徐",
+      "key": "清蓮資源-清徐",
+      "name": "清蓮資源-清徐",
       "type": 1,
       "api": "https://www.qinglyy.com/api.php/provide/vod/at/xml24",
       "playUrl": "http://api.u1o.net/?url=",
@@ -684,8 +684,8 @@
       "filterable": 1
     },
     {
-      "key": "红牛-清徐",
-      "name": "红牛-清徐",
+      "key": "紅牛-清徐",
+      "name": "紅牛-清徐",
       "type": 0,
       "api": "https://www.hongniuzy.com/inc/seahnyun.php/provide/vod/",
       "searchable": 1,
@@ -693,8 +693,8 @@
       "filterable": 1
     },
     {
-      "key": "小蜻蜓采集-清徐",
-      "name": "小蜻蜓采集-清徐",
+      "key": "小蜻蜓採集-清徐",
+      "name": "小蜻蜓採集-清徐",
       "type": 0,
       "api": "http://3ketv.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -702,8 +702,8 @@
       "filterable": 0
     },
     {
-      "key": "阿狸采集-清徐",
-      "name": "阿狸采集-清徐",
+      "key": "阿貍採集-清徐",
+      "name": "阿貍採集-清徐",
       "type": 0,
       "api": "http://www.feishi.ltd/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -711,8 +711,8 @@
       "filterable": 0
     },
     {
-      "key": "追剧吧-清徐",
-      "name": "追剧吧-清徐",
+      "key": "追劇吧-清徐",
+      "name": "追劇吧-清徐",
       "type": 0,
       "api": "http://www.huaxiab.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -720,8 +720,8 @@
       "filterable": 0
     },
     {
-      "key": "饭团资源-清徐",
-      "name": "饭团资源-清徐",
+      "key": "飯糰資源-清徐",
+      "name": "飯糰資源-清徐",
       "type": 0,
       "api": "http://fantuan.wkfile.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -729,8 +729,8 @@
       "filterable": 0
     },
     {
-      "key": "77资源-清徐",
-      "name": "77资源-清徐",
+      "key": "77資源-清徐",
+      "name": "77資源-清徐",
       "type": 1,
       "api": "https://www.77diany.com/api.php/provide/vod/?ac=list",
       "playUrl": "https://jx.77diany.com/?url=",
@@ -739,8 +739,8 @@
       "filterable": 0
     },
     {
-      "key": "天空资源-清徐",
-      "name": "天空资源-清徐",
+      "key": "天空資源-清徐",
+      "name": "天空資源-清徐",
       "type": 0,
       "api": "http://api.tiankongapi.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -748,8 +748,8 @@
       "filterable": 0
     },
     {
-      "key": "飘花资源-清徐",
-      "name": "飘花资源-清徐",
+      "key": "飄花資源-清徐",
+      "name": "飄花資源-清徐",
       "type": 0,
       "api": "http://www.zzrhgg.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -757,8 +757,8 @@
       "filterable": 0
     },
     {
-      "key": "蜗牛看鸭-清徐",
-      "name": "蜗牛看鸭-清徐",
+      "key": "蝸牛看鴨-清徐",
+      "name": "蝸牛看鴨-清徐",
       "type": 0,
       "api": "http://snailkya.xyz/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -766,8 +766,8 @@
       "filterable": 0
     },
     {
-      "key": "红牛2-清徐",
-      "name": "红牛2-清徐",
+      "key": "紅牛2-清徐",
+      "name": "紅牛2-清徐",
       "type": 0,
       "api": "https://www.hongniuzy.com/inc/hnm3u8.php",
       "playUrl": "https://www.tutukiki.com/m3u8/?url=",
@@ -776,8 +776,8 @@
       "filterable": 0
     },
     {
-      "key": "侦探APP-清徐",
-      "name": "侦探APP-清徐",
+      "key": "偵探APP-清徐",
+      "name": "偵探APP-清徐",
       "type": 0,
       "api": "http://ys.huangguay.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -785,8 +785,8 @@
       "filterable": 0
     },
     {
-      "key": "KK看剧-清徐",
-      "name": "KK看剧-清徐",
+      "key": "KK看劇-清徐",
+      "name": "KK看劇-清徐",
       "type": 0,
       "api": "http://www.kkkanju.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -794,8 +794,8 @@
       "filterable": 0
     },
     {
-      "key": "One影视-清徐",
-      "name": "One影视-清徐",
+      "key": "One影視-清徐",
+      "name": "One影視-清徐",
       "type": 0,
       "api": "http://www.onedianshi.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -803,8 +803,8 @@
       "filterable": 0
     },
     {
-      "key": "灵智-清徐",
-      "name": "灵智-清徐",
+      "key": "靈智-清徐",
+      "name": "靈智-清徐",
       "type": 0,
       "api": "https://app.linzhiyuan.xyz/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -812,8 +812,8 @@
       "filterable": 0
     },
     {
-      "key": "趣看视频-清徐",
-      "name": "趣看视频-清徐",
+      "key": "趣看視訊-清徐",
+      "name": "趣看視訊-清徐",
       "type": 0,
       "api": "http://qkmp4.cn/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -830,8 +830,8 @@
       "filterable": 0
     },
     {
-      "key": "橘猫-清徐",
-      "name": "橘猫-清徐",
+      "key": "橘貓-清徐",
+      "name": "橘貓-清徐",
       "type": 0,
       "api": "http://www.zitv.cc/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -848,8 +848,8 @@
       "filterable": 0
     },
     {
-      "key": "淘片资源-清徐",
-      "name": "淘片资源-清徐",
+      "key": "淘片資源-清徐",
+      "name": "淘片資源-清徐",
       "type": 0,
       "api": "https://taopianzy.com/home/cjapi/c4ca4238a0b923820dcc509a6f75849b/vod/xml",
       "searchable": 1,
@@ -866,8 +866,8 @@
       "filterable": 0
     },
     {
-      "key": "云播影视-清徐",
-      "name": "云播影视-清徐",
+      "key": "云播影視-清徐",
+      "name": "云播影視-清徐",
       "type": 1,
       "api": "https://api.yunboys.cn/api.php/provide/vod/",
       "playUrl": "https://jx.yunboys.cn/?url=",
@@ -894,8 +894,8 @@
       "filterable": 1
     },
     {
-      "key": "片库资源-清徐",
-      "name": "片库资源-清徐",
+      "key": "片庫資源-清徐",
+      "name": "片庫資源-清徐",
       "type": 0,
       "api": "https://pianku.wang/api.php/provide/vod/at/xml",
       "playUrl": "https://api.jhdyw.vip/?url=",
@@ -904,8 +904,8 @@
       "filterable": 0
     },
     {
-      "key": "星辰资源-清徐",
-      "name": "星辰资源-清徐",
+      "key": "星辰資源-清徐",
+      "name": "星辰資源-清徐",
       "type": 1,
       "api": "http://www.zycaiji.net:7788/api.php/provide/vod",
       "searchable": 1,
@@ -913,8 +913,8 @@
       "filterable": 0
     },
     {
-      "key": "1905资源-清徐",
-      "name": "1905资源-清徐",
+      "key": "1905資源-清徐",
+      "name": "1905資源-清徐",
       "type": 0,
       "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/m1905/at/xml/",
       "playUrl": "http://vip.bljiex.com/?v=",
@@ -932,8 +932,8 @@
       "filterable": 0
     },
     {
-      "key": "7K(虾米)资源-清徐",
-      "name": "7K(虾米)资源-清徐",
+      "key": "7K(蝦米)資源-清徐",
+      "name": "7K(蝦米)資源-清徐",
       "type": 0,
       "api": "https://zy.xmflv.vip/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -941,8 +941,8 @@
       "filterable": 0
     },
     {
-      "key": "无极影院-清徐",
-      "name": "无极影院-清徐",
+      "key": "無極影院-清徐",
+      "name": "無極影院-清徐",
       "type": 0,
       "api": "http://wujiys.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -950,8 +950,8 @@
       "filterable": 0
     },
     {
-      "key": "北斗资源-清徐",
-      "name": "北斗资源-清徐",
+      "key": "北斗資源-清徐",
+      "name": "北斗資源-清徐",
       "type": 1,
       "api": "https://m3u8.bdxzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -968,8 +968,8 @@
       "filterable": 1
     },
     {
-      "key": "恐怖鸭-清徐",
-      "name": "恐怖鸭-清徐",
+      "key": "恐怖鴨-清徐",
+      "name": "恐怖鴨-清徐",
       "type": 1,
       "api": "http://snailkya.xyz/api.php/provide/vod/",
       "searchable": 1,
@@ -977,8 +977,8 @@
       "filterable": 0
     },
     {
-      "key": "1886采集-清徐",
-      "name": "1886采集-清徐",
+      "key": "1886採集-清徐",
+      "name": "1886採集-清徐",
       "type": 0,
       "api": "http://cj.1886zy.co/inc/seacmsapi.php/provide/vod/at/xml",
       "searchable": 1,
@@ -986,8 +986,8 @@
       "filterable": 0
     },
     {
-      "key": "韩剧资源-清徐",
-      "name": "韩剧资源-清徐",
+      "key": "韓劇資源-清徐",
+      "name": "韓劇資源-清徐",
       "type": 0,
       "api": "http://www.hanjuzy.com/inc/api.php",
       "playUrl": "https://jx.aidouer.net/?url=",
@@ -996,8 +996,8 @@
       "filterable": 0
     },
     {
-      "key": "三九美剧-清徐",
-      "name": "三九美剧-清徐",
+      "key": "三九美劇-清徐",
+      "name": "三九美劇-清徐",
       "type": 0,
       "api": "https://www.999meiju.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -1005,8 +1005,8 @@
       "filterable": 0
     },
     {
-      "key": "美剧星球-清徐",
-      "name": "美剧星球-清徐",
+      "key": "美劇星球-清徐",
+      "name": "美劇星球-清徐",
       "type": 0,
       "api": "https://www.meijuxq.com/inc/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -1025,8 +1025,8 @@
       "categories": []
     },
     {
-      "key": "红牛资源-清徐",
-      "name": "红牛资源-清徐",
+      "key": "紅牛資源-清徐",
+      "name": "紅牛資源-清徐",
       "type": 1,
       "api": "https://www.hongniuzy.com/inc/apijson_vodhnm3u8.php",
       "searchable": 1,
@@ -1034,8 +1034,8 @@
       "filterable": 0
     },
     {
-      "key": "博天堂-乃格兰",
-      "name": "博天堂-乃格兰",
+      "key": "博天堂-乃格蘭",
+      "name": "博天堂-乃格蘭",
       "type": 0,
       "api": "http://bttcj.com/inc/sapi.php",
       "searchable": 0,
@@ -1043,8 +1043,8 @@
       "filterable": 0
     },
     {
-      "key": "77资源-乃格兰",
-      "name": "77资源-乃格兰",
+      "key": "77資源-乃格蘭",
+      "name": "77資源-乃格蘭",
       "type": 0,
       "api": "https://www.77zy.vip/inc/m3u8.php",
       "searchable": 1,
@@ -1052,8 +1052,8 @@
       "filterable": 0
     },
     {
-      "key": "水蜜桃-乃格兰",
-      "name": "水蜜桃-乃格兰",
+      "key": "水蜜桃-乃格蘭",
+      "name": "水蜜桃-乃格蘭",
       "type": 0,
       "api": "http://51smt4.xyz/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -1061,8 +1061,8 @@
       "filterable": 0
     },
     {
-      "key": "大地资源-乃格兰",
-      "name": "大地资源-乃格兰",
+      "key": "大地資源-乃格蘭",
+      "name": "大地資源-乃格蘭",
       "type": 0,
       "api": "https://dadiapi.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -1070,8 +1070,8 @@
       "filterable": 0
     },
     {
-      "key": "老鸭资源2-乃格兰",
-      "name": "老鸭资源2-乃格兰",
+      "key": "老鴨資源2-乃格蘭",
+      "name": "老鴨資源2-乃格蘭",
       "type": 0,
       "api": "http://laoyazy.vip/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -1079,8 +1079,8 @@
       "filterable": 0
     },
     {
-      "key": "花菜资源-乃格兰",
-      "name": "花菜资源-乃格兰",
+      "key": "花菜資源-乃格蘭",
+      "name": "花菜資源-乃格蘭",
       "type": 0,
       "api": "https://apihjzy.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -1088,8 +1088,8 @@
       "filterable": 0
     },
     {
-      "key": "麻椒资源-乃格兰",
-      "name": "麻椒资源-乃格兰",
+      "key": "麻椒資源-乃格蘭",
+      "name": "麻椒資源-乃格蘭",
       "type": 0,
       "api": "http://api.11bat.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -1097,8 +1097,8 @@
       "filterable": 0
     },
     {
-      "key": "乐播资源-乃格兰",
-      "name": "乐播资源-乃格兰",
+      "key": "樂播資源-乃格蘭",
+      "name": "樂播資源-乃格蘭",
       "type": 0,
       "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -1106,8 +1106,8 @@
       "filterable": 0
     },
     {
-      "key": "趣播资源-乃格兰",
-      "name": "趣播资源-乃格兰",
+      "key": "趣播資源-乃格蘭",
+      "name": "趣播資源-乃格蘭",
       "type": 0,
       "api": "https://www.qbzyz.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -1115,8 +1115,8 @@
       "filterable": 0
     },
     {
-      "key": "环亚资源-乃格兰",
-      "name": "环亚资源-乃格兰",
+      "key": "環亞資源-乃格蘭",
+      "name": "環亞資源-乃格蘭",
       "type": 0,
       "api": "http://wmcj8.com/inc/sapi.php",
       "searchable": 1,
@@ -1124,8 +1124,8 @@
       "filterable": 0
     },
     {
-      "key": "JAV名优-乃格兰",
-      "name": "JAV名优-乃格兰",
+      "key": "JAV名優-乃格蘭",
+      "name": "JAV名優-乃格蘭",
       "type": 0,
       "api": "http://mygzycj.com/sapi.php?ac=videolist",
       "searchable": 1,
@@ -1133,8 +1133,8 @@
       "filterable": 0
     },
     {
-      "key": "AVZY6888资源-乃格兰",
-      "name": "AVZY6888资源-乃格兰",
+      "key": "AVZY6888資源-乃格蘭",
+      "name": "AVZY6888資源-乃格蘭",
       "type": 0,
       "api": "http://m.7777688.com/inc/api.php",
       "searchable": 1,
@@ -1142,8 +1142,8 @@
       "filterable": 0
     },
     {
-      "key": "佳丽资源-乃格兰",
-      "name": "佳丽资源-乃格兰",
+      "key": "佳麗資源-乃格蘭",
+      "name": "佳麗資源-乃格蘭",
       "type": 0,
       "api": "https://jialiapi.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -1151,8 +1151,8 @@
       "filterable": 0
     },
     {
-      "key": "番号资源-乃格兰",
-      "name": "番号资源-乃格兰",
+      "key": "番號資源-乃格蘭",
+      "name": "番號資源-乃格蘭",
       "type": 0,
       "api": "http://fhapi9.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -1160,8 +1160,8 @@
       "filterable": 0
     },
     {
-      "key": "苍天资源-乃格兰",
-      "name": "苍天资源-乃格兰",
+      "key": "蒼天資源-乃格蘭",
+      "name": "蒼天資源-乃格蘭",
       "type": 0,
       "api": "http://cj.cangtiancj.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -1169,8 +1169,8 @@
       "filterable": 0
     },
     {
-      "key": "速度资源-乃格兰",
-      "name": "速度资源-乃格兰",
+      "key": "速度資源-乃格蘭",
+      "name": "速度資源-乃格蘭",
       "type": 0,
       "api": "http://www.ggmmzy.com:9999/inc/xml",
       "searchable": 1,
@@ -1178,8 +1178,8 @@
       "filterable": 0
     },
     {
-      "key": "优梨-乃格兰",
-      "name": "优梨-乃格兰",
+      "key": "優梨-乃格蘭",
+      "name": "優梨-乃格蘭",
       "type": 0,
       "api": "https://www.ugzyz5.com/inc/zyapimac.php",
       "searchable": 1,
@@ -1187,8 +1187,8 @@
       "filterable": 0
     },
     {
-      "key": "桃色-乃格兰",
-      "name": "桃色-乃格兰",
+      "key": "桃色-乃格蘭",
+      "name": "桃色-乃格蘭",
       "type": 0,
       "api": "https://cj.taoseapi.com/inc/api.php",
       "searchable": 1,
@@ -1196,8 +1196,8 @@
       "filterable": 0
     },
     {
-      "key": "优果-乃格兰",
-      "name": "优果-乃格兰",
+      "key": "優果-乃格蘭",
+      "name": "優果-乃格蘭",
       "type": 0,
       "api": "https://www.ugvapi.com/inc/zyapimac.php",
       "searchable": 1,
@@ -1205,8 +1205,8 @@
       "filterable": 0
     },
     {
-      "key": "老鸭资源-乃格兰",
-      "name": "老鸭资源-乃格兰",
+      "key": "老鴨資源-乃格蘭",
+      "name": "老鴨資源-乃格蘭",
       "type": 0,
       "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml",
       "playUrl": "https://player.laoyam3u8.com/aliplayer/?url=",
@@ -1215,8 +1215,8 @@
       "filterable": 0
     },
     {
-      "key": "丝袜-乃格兰",
-      "name": "丝袜-乃格兰",
+      "key": "絲襪-乃格蘭",
+      "name": "絲襪-乃格蘭",
       "type": 0,
       "api": "https://www.siwazyw.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -1224,8 +1224,8 @@
       "filterable": 0
     },
     {
-      "key": "芒果1-乃格兰",
-      "name": "芒果1-乃格兰",
+      "key": "芒果1-乃格蘭",
+      "name": "芒果1-乃格蘭",
       "type": 0,
       "api": "https://www.mgav1.cc/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -1233,8 +1233,8 @@
       "filterable": 0
     },
     {
-      "key": "BT天堂-乃格兰",
-      "name": "BT天堂-乃格兰",
+      "key": "BT天堂-乃格蘭",
+      "name": "BT天堂-乃格蘭",
       "type": 0,
       "api": "http://bttcj.com/inc/sapi.php",
       "searchable": 1,
@@ -1242,8 +1242,8 @@
       "filterable": 0
     },
     {
-      "key": "秀色-乃格兰",
-      "name": "秀色-乃格兰",
+      "key": "秀色-乃格蘭",
+      "name": "秀色-乃格蘭",
       "type": 0,
       "api": "https://api.xiuseapi.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -1251,8 +1251,8 @@
       "filterable": 0
     },
     {
-      "key": "茄子-乃格兰",
-      "name": "茄子-乃格兰",
+      "key": "茄子-乃格蘭",
+      "name": "茄子-乃格蘭",
       "type": 0,
       "api": "https://qiezizy.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -1260,8 +1260,8 @@
       "filterable": 0
     },
     {
-      "key": "芒果2-乃格兰",
-      "name": "芒果2-乃格兰",
+      "key": "芒果2-乃格蘭",
+      "name": "芒果2-乃格蘭",
       "type": 0,
       "api": "https://mgzyz1.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -1269,8 +1269,8 @@
       "filterable": 0
     },
     {
-      "key": "桃色-乃格兰",
-      "name": "桃色-乃格兰",
+      "key": "桃色-乃格蘭",
+      "name": "桃色-乃格蘭",
       "type": 0,
       "api": "https://cj.taoseapi.com/inc/api.php",
       "searchable": 1,
@@ -1278,8 +1278,8 @@
       "filterable": 0
     },
     {
-      "key": "玖玖-乃格兰",
-      "name": "玖玖-乃格兰",
+      "key": "玖玖-乃格蘭",
+      "name": "玖玖-乃格蘭",
       "type": 0,
       "api": "http://99zywcj.com/inc/sck.php?ac=videolist",
       "searchable": 1,
@@ -1287,8 +1287,8 @@
       "filterable": 0
     },
     {
-      "key": "久草-乃格兰",
-      "name": "久草-乃格兰",
+      "key": "久草-乃格蘭",
+      "name": "久草-乃格蘭",
       "type": 0,
       "api": "http://jcspcj8.com/sapi?ac=videolist",
       "searchable": 1,
@@ -1296,8 +1296,8 @@
       "filterable": 0
     },
     {
-      "key": "利来-乃格兰",
-      "name": "利来-乃格兰",
+      "key": "利來-乃格蘭",
+      "name": "利來-乃格蘭",
       "type": 0,
       "api": "http://llzxcj.com/inc/sck.php?ac=videolist",
       "searchable": 1,
@@ -1305,8 +1305,8 @@
       "filterable": 0
     },
     {
-      "key": "字幕网-乃格兰",
-      "name": "字幕网-乃格兰",
+      "key": "字幕網-乃格蘭",
+      "name": "字幕網-乃格蘭",
       "type": 0,
       "api": "http://zmcj88.com/sapi?ac=videolist",
       "searchable": 1,
@@ -1314,8 +1314,8 @@
       "filterable": 0
     },
     {
-      "key": "优果-乃格兰",
-      "name": "优果-乃格兰",
+      "key": "優果-乃格蘭",
+      "name": "優果-乃格蘭",
       "type": 0,
       "api": "https://www.ugirl6.com/inc/zyapimac.php",
       "searchable": 1,
@@ -1323,8 +1323,8 @@
       "filterable": 0
     },
     {
-      "key": "辣椒-乃格兰",
-      "name": "辣椒-乃格兰",
+      "key": "辣椒-乃格蘭",
+      "name": "辣椒-乃格蘭",
       "type": 0,
       "api": "http://www.lajiaozy18.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -1332,8 +1332,8 @@
       "filterable": 0
     },
     {
-      "key": "老鸭-乃格兰",
-      "name": "老鸭-乃格兰",
+      "key": "老鴨-乃格蘭",
+      "name": "老鴨-乃格蘭",
       "type": 0,
       "api": "http://laoyazy5.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -1341,8 +1341,8 @@
       "filterable": 0
     },
     {
-      "key": "BB资源-乃格兰",
-      "name": "BB资源-乃格兰",
+      "key": "BB資源-乃格蘭",
+      "name": "BB資源-乃格蘭",
       "type": 0,
       "api": "http://bbzy.cc/inc/maccms10.php",
       "searchable": 1,
@@ -1350,8 +1350,8 @@
       "filterable": 0
     },
     {
-      "key": "番号-乃格兰",
-      "name": "番号-乃格兰",
+      "key": "番號-乃格蘭",
+      "name": "番號-乃格蘭",
       "type": 0,
       "api": "http://fhapi9.com/api.php/Seacms/vod/at/xml",
       "searchable": 1,
@@ -1359,8 +1359,8 @@
       "filterable": 0
     },
     {
-      "key": "100ai-乃格兰",
-      "name": "100ai-乃格兰",
+      "key": "100ai-乃格蘭",
+      "name": "100ai-乃格蘭",
       "type": 0,
       "api": "http://www.010aizy.com/API/maxs.php",
       "searchable": 1,
@@ -1368,8 +1368,8 @@
       "filterable": 0
     },
     {
-      "key": "狼少年-乃格兰",
-      "name": "狼少年-乃格兰",
+      "key": "狼少年-乃格蘭",
+      "name": "狼少年-乃格蘭",
       "type": 0,
       "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist",
       "searchable": 1,
@@ -1377,8 +1377,8 @@
       "filterable": 0
     },
     {
-      "key": "百度伦理-乃格兰",
-      "name": "百度伦理-乃格兰",
+      "key": "百度倫理-乃格蘭",
+      "name": "百度倫理-乃格蘭",
       "type": 0,
       "api": "http://www.llbdzy.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -1386,12 +1386,12 @@
       "filterable": 0,
       "categories": [
         null,
-        "伦理"
+        "倫理"
       ]
     },
     {
-      "key": "富二代-乃格兰",
-      "name": "富二代-乃格兰",
+      "key": "富二代-乃格蘭",
+      "name": "富二代-乃格蘭",
       "type": 0,
       "api": "http://f2dcj6.com/sapi?ac=videolist",
       "searchable": 1,
@@ -1399,8 +1399,8 @@
       "filterable": 0
     },
     {
-      "key": "鲨鱼资源-乃格兰",
-      "name": "鲨鱼资源-乃格兰",
+      "key": "鯊魚資源-乃格蘭",
+      "name": "鯊魚資源-乃格蘭",
       "type": 0,
       "api": "https://shayuapi.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -1408,8 +1408,8 @@
       "filterable": 0
     },
     {
-      "key": "itono采集-清徐",
-      "name": "itono采集-清徐",
+      "key": "itono採集-清徐",
+      "name": "itono採集-清徐",
       "type": 0,
       "api": "http://zy.itono.cn/inc/api.php/provide/vod/",
       "searchable": 1,
@@ -1417,8 +1417,8 @@
       "filterable": 1
     },
     {
-      "key": "17云采集-清徐",
-      "name": "17云采集-清徐",
+      "key": "17云採集-清徐",
+      "name": "17云採集-清徐",
       "type": 0,
       "api": "http://zy.itono.cn/inc/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -1426,8 +1426,8 @@
       "filterable": 0
     },
     {
-      "key": "8k影视之光-清徐",
-      "name": "8k影视之光-清徐",
+      "key": "8k影視之光-清徐",
+      "name": "8k影視之光-清徐",
       "type": 1,
       "api": "http://vip.8kvod.com:888/8kvodapilgxc.php/provide/vod/",
       "searchable": 1,
@@ -1435,8 +1435,8 @@
       "filterable": 0
     },
     {
-      "key": "8k影视之光2-清徐",
-      "name": "8k影视之光2-清徐",
+      "key": "8k影視之光2-清徐",
+      "name": "8k影視之光2-清徐",
       "type": 1,
       "api": "http://vip.8kvod.com:888/8kvodapilgxc.php/provide/vod/from/mgtv",
       "searchable": 1,
@@ -1456,10 +1456,10 @@
   ],
   "lives": [
     {
-      "group": "自定义",
+      "group": "自定義",
       "channels": [
         {
-          "name": "纯享4K",
+          "name": "純享4K",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225726/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
@@ -1471,146 +1471,146 @@
           ]
         },
         {
-          "name": "4K超高清电影",
+          "name": "4K超高清電影",
           "urls": [
             "http://60.255.49.202/live/emdy4k_8000.m3u8"
           ]
         },
         {
-          "name": "极速汽车",
+          "name": "極速汽車",
           "urls": [
             "http://183.207.255.190/live/program/live/jsqchd/4000000/mnf.m3u8"
           ]
         },
         {
-          "name": "游戏风云",
+          "name": "遊戲風雲",
           "urls": [
             "http://183.207.255.190/live/program/live/yxfyhd/4000000/mnf.m3u8"
           ]
         },
         {
-          "name": "都市频道",
+          "name": "都市頻道",
           "urls": [
             "http://183.207.255.190/live/program/live/dsjchd/4000000/mnf.m3u8"
           ]
         },
         {
-          "name": "4K花园娱乐",
+          "name": "4K花園娛樂",
           "urls": [
             "http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8"
           ]
         },
         {
-          "name": "爱家庭",
+          "name": "愛家庭",
           "urls": [
             "http://112.15.230.41/PLTV/88888888/224/3221230118/index.m3u8"
           ]
         },
         {
-          "name": "爱经典",
+          "name": "愛經典",
           "urls": [
             "http://112.15.230.41/PLTV/88888888/224/3221230101/index.m3u8"
           ]
         },
         {
-          "name": "爱历史",
+          "name": "愛歷史",
           "urls": [
             "http://112.15.230.41/PLTV/88888888/224/3221230100/index.m3u8"
           ]
         },
         {
-          "name": "爱悬疑",
+          "name": "愛懸疑",
           "urls": [
             "http://112.15.230.41/PLTV/88888888/224/3221230098/index.m3u8"
           ]
         },
         {
-          "name": "爱谍战",
+          "name": "愛諜戰",
           "urls": [
             "http://112.15.230.41/PLTV/88888888/224/3221230092/index.m3u8"
           ]
         },
         {
-          "name": "爱幼教",
+          "name": "愛幼教",
           "urls": [
             "http://112.15.230.41/PLTV/88888888/224/3221230086/index.m3u8"
           ]
         },
         {
-          "name": "爱军武",
+          "name": "愛軍武",
           "urls": [
             "http://112.15.230.41/PLTV/88888888/224/3221230083/index.m3u8"
           ]
         },
         {
-          "name": "爱解密",
+          "name": "愛解密",
           "urls": [
             "http://112.15.230.41/PLTV/88888888/224/3221230080/index.m3u8"
           ]
         },
         {
-          "name": "爱娱乐",
+          "name": "愛娛樂",
           "urls": [
             "http://112.15.230.41/PLTV/88888888/224/3221230077/index.m3u8"
           ]
         },
         {
-          "name": "爱江湖",
+          "name": "愛江湖",
           "urls": [
             "http://112.15.230.41/PLTV/88888888/224/3221230074/index.m3u8"
           ]
         },
         {
-          "name": "爱怀旧",
+          "name": "愛懷舊",
           "urls": [
             "http://112.15.230.41/PLTV/88888888/224/3221230049/index.m3u8"
           ]
         },
         {
-          "name": "爱世界",
+          "name": "愛世界",
           "urls": [
             "http://112.15.230.41/PLTV/88888888/224/3221230046/index.m3u8"
           ]
         },
         {
-          "name": "爱体育",
+          "name": "愛體育",
           "urls": [
             "http://112.15.230.41/PLTV/88888888/224/3221230034/index.m3u8",
             "http://112.15.230.41/PLTV/88888888/224/3221230103/index.m3u8"
           ]
         },
         {
-          "name": "爱赛车",
+          "name": "愛賽車",
           "urls": [
             "http://112.15.230.41/PLTV/88888888/224/3221230032/index.m3u8"
           ]
         },
         {
-          "name": "爱电竞",
+          "name": "愛電競",
           "urls": [
             "http://112.15.230.41/PLTV/88888888/224/3221230029/index.m3u8"
           ]
         },
         {
-          "name": "爱奇谈",
+          "name": "愛奇談",
           "urls": [
             "http://112.15.230.41/PLTV/88888888/224/3221230023/index.m3u8"
           ]
         },
         {
-          "name": "韩国娱乐台",
+          "name": "韓國娛樂臺",
           "urls": [
             "http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8"
           ]
         },
         {
-          "name": "半岛新闻",
+          "name": "半島新聞",
           "urls": [
             "http://live-hls-web-aja.getaj.net/AJA/02.m3u8"
           ]
         },
         {
-          "name": "亚洲新闻",
+          "name": "亞洲新聞",
           "urls": [
             "http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8"
           ]
@@ -1622,13 +1622,13 @@
           ]
         },
         {
-          "name": "欢笑剧场4K",
+          "name": "歡笑劇場4K",
           "urls": [
             "http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8"
           ]
         },
         {
-          "name": "4K花园",
+          "name": "4K花園",
           "urls": [
             "http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8"
           ]
@@ -1640,13 +1640,13 @@
           ]
         },
         {
-          "name": "美国中文电视",
+          "name": "美國中文電視",
           "urls": [
             "https://jpts.sinovision.net/livestream.m3u8"
           ]
         },
         {
-          "name": "天元围棋",
+          "name": "天元圍棋",
           "urls": [
             "http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225714/1/index.m3u8?fmt=ts2hls"
           ]
@@ -1658,13 +1658,13 @@
           ]
         },
         {
-          "name": "淘电影",
+          "name": "淘電影",
           "urls": [
             "http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8"
           ]
         },
         {
-          "name": "淘娱乐",
+          "name": "淘娛樂",
           "urls": [
             "http://39.135.238.69/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8"
           ]
@@ -1682,67 +1682,67 @@
           ]
         },
         {
-          "name": "超级电影",
+          "name": "超級電影",
           "urls": [
             "http://39.135.138.59:18890/PLTV/88888910/224/3221225623/index.m3u8"
           ]
         },
         {
-          "name": "超级电视剧",
+          "name": "超級電視劇",
           "urls": [
             "http://39.135.138.59:18890/PLTV/88888910/224/3221225625/index.m3u8"
           ]
         },
         {
-          "name": "超级综艺",
+          "name": "超級綜藝",
           "urls": [
             "http://39.135.138.59:18890/PLTV/88888910/224/3221225768/index.m3u8"
           ]
         },
         {
-          "name": "中华美食",
+          "name": "中華美食",
           "urls": [
             "http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227017/index.m3u8"
           ]
         },
         {
-          "name": "发现之旅",
+          "name": "發現之旅",
           "urls": [
             "http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227030/index.m3u8"
           ]
         },
         {
-          "name": "SNH48剧场公演",
+          "name": "SNH48劇場公演",
           "urls": [
             "http://112.74.200.9:88/tv000000/m3u8.php?/migu/617432328"
           ]
         },
         {
-          "name": "周润发影院",
+          "name": "周潤發影院",
           "urls": [
             "http://112.74.200.9:88/tv000000/m3u8.php?/migu/639526984"
           ]
         },
         {
-          "name": "古龙影院",
+          "name": "古龍影院",
           "urls": [
             "http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528313"
           ]
         },
         {
-          "name": "周星驰影院",
+          "name": "周星馳影院",
           "urls": [
             "http://112.74.200.9:88/tv000000/m3u8.php?/migu/623338112"
           ]
         },
         {
-          "name": "成龙影院",
+          "name": "成龍影院",
           "urls": [
             "http://112.74.200.9:88/tv000000/m3u8.php?/migu/707671890"
           ]
         },
         {
-          "name": "张国荣影院",
+          "name": "張國榮影院",
           "urls": [
             "http://112.74.200.9:88/tv000000/m3u8.php?/migu/707689526"
           ]
@@ -1754,43 +1754,43 @@
           ]
         },
         {
-          "name": "吴京影院",
+          "name": "吳京影院",
           "urls": [
             "http://112.74.200.9:88/tv000000/m3u8.php?/migu/625681368"
           ]
         },
         {
-          "name": "刘德华影院",
+          "name": "劉德華影院",
           "urls": [
             "http://112.74.200.9:88/tv000000/m3u8.php?/migu/659315648"
           ]
         },
         {
-          "name": "经典影视",
+          "name": "經典影視",
           "urls": [
             "http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198751"
           ]
         },
         {
-          "name": "试胆大会",
+          "name": "試膽大會",
           "urls": [
             "http://112.74.200.9:88/tv000000/m3u8.php?/migu/637483721"
           ]
         },
         {
-          "name": "高能烧脑",
+          "name": "高能燒腦",
           "urls": [
             "http://112.74.200.9:88/tv000000/m3u8.php?/migu/625542365"
           ]
         },
         {
-          "name": "杨幂影院",
+          "name": "楊冪影院",
           "urls": [
             "http://112.74.200.9:88/tv000000/m3u8.php?/migu/625542372"
           ]
         },
         {
-          "name": "刘亦菲影院",
+          "name": "劉亦菲影院",
           "urls": [
             "http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528386"
           ]
@@ -1808,19 +1808,19 @@
           ]
         },
         {
-          "name": "黄金剧场",
+          "name": "黃金劇場",
           "urls": [
             "http://112.74.200.9:88/tv000000/m3u8.php?/migu/625155140"
           ]
         },
         {
-          "name": "军旅剧场",
+          "name": "軍旅劇場",
           "urls": [
             "http://112.74.200.9:88/tv000000/m3u8.php?/migu/625643517"
           ]
         },
         {
-          "name": "少林剧场",
+          "name": "少林劇場",
           "urls": [
             "http://112.74.200.9:88/tv000000/m3u8.php?/migu/625526423"
           ]
@@ -1832,19 +1832,19 @@
           ]
         },
         {
-          "name": "古天乐影院",
+          "name": "古天樂影院",
           "urls": [
             "http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198610"
           ]
         },
         {
-          "name": "喜剧联盟",
+          "name": "喜劇聯盟",
           "urls": [
             "http://112.74.200.9:88/tv000000/m3u8.php?/migu/637444830"
           ]
         },
         {
-          "name": "僵尸剧场",
+          "name": "殭屍劇場",
           "urls": [
             "http://112.74.200.9:88/tv000000/m3u8.php?/migu/627033504"
           ]
@@ -1856,19 +1856,19 @@
           ]
         },
         {
-          "name": "神探狄仁杰",
+          "name": "神探狄仁傑",
           "urls": [
             "http://112.74.200.9:88/tv000000/m3u8.php?/migu/625574493"
           ]
         },
         {
-          "name": "红色谍战",
+          "name": "紅色諜戰",
           "urls": [
             "http://112.74.200.9:88/tv000000/m3u8.php?/migu/634274665"
           ]
         },
         {
-          "name": "经典贺梦",
+          "name": "經典賀夢",
           "urls": [
             "http://112.74.200.9:88/tv000000/m3u8.php?/migu/625774662"
           ]
@@ -1880,37 +1880,37 @@
           ]
         },
         {
-          "name": "追剧少女",
+          "name": "追劇少女",
           "urls": [
             "http://112.74.200.9:88/tv000000/m3u8.php?/migu/617432318"
           ]
         },
         {
-          "name": "怀旧老片",
+          "name": "懷舊老片",
           "urls": [
             "http://112.74.200.9:88/tv000000/m3u8.php?/migu/621640582"
           ]
         },
         {
-          "name": "米俠剧场",
+          "name": "米俠劇場",
           "urls": [
             "http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198822"
           ]
         },
         {
-          "name": "爱情公寓",
+          "name": "愛情公寓",
           "urls": [
             "http://112.74.200.9:88/tv000000/m3u8.php?/migu/625681367"
           ]
         },
         {
-          "name": "金庸频道",
+          "name": "金庸頻道",
           "urls": [
             "http://112.74.200.9:88/tv000000/m3u8.php?/migu/625774640"
           ]
         },
         {
-          "name": "新片放映厅",
+          "name": "新片放映廳",
           "urls": [
             "http://112.74.200.9:88/tv000000/m3u8.php?/migu/619495952"
           ]
@@ -1922,67 +1922,67 @@
           ]
         },
         {
-          "name": "欢笑剧场",
+          "name": "歡笑劇場",
           "urls": [
             "http://112.74.200.9:88/tv000000/m3u8.php?/migu/623674859"
           ]
         },
         {
-          "name": "盗墓方法论",
+          "name": "盜墓方法論",
           "urls": [
             "http://112.74.200.9:88/tv000000/m3u8.php?/migu/625525181"
           ]
         },
         {
-          "name": "空中一年级",
+          "name": "空中一年級",
           "urls": [
             "http://112.74.200.9:88/tv000000/m3u8.php?/migu/670427084"
           ]
         },
         {
-          "name": "空中二年级",
+          "name": "空中二年級",
           "urls": [
             "http://112.74.200.9:88/tv000000/m3u8.php?/migu/670427069"
           ]
         },
         {
-          "name": "空中三年级",
+          "name": "空中三年級",
           "urls": [
             "http://112.74.200.9:88/tv000000/m3u8.php?/migu/670427087"
           ]
         },
         {
-          "name": "空中四年级",
+          "name": "空中四年級",
           "urls": [
             "http://112.74.200.9:88/tv000000/m3u8.php?/migu/670427102"
           ]
         },
         {
-          "name": "空中五年级",
+          "name": "空中五年級",
           "urls": [
             "http://112.74.200.9:88/tv000000/m3u8.php?/migu/670427124"
           ]
         },
         {
-          "name": "空中六年级",
+          "name": "空中六年級",
           "urls": [
             "http://112.74.200.9:88/tv000000/m3u8.php?/migu/670427112"
           ]
         },
         {
-          "name": "空中七年级",
+          "name": "空中七年級",
           "urls": [
             "http://112.74.200.9:88/tv000000/m3u8.php?/migu/670427116"
           ]
         },
         {
-          "name": "空中八年级",
+          "name": "空中八年級",
           "urls": [
             "http://112.74.200.9:88/tv000000/m3u8.php?/migu/670427201"
           ]
         },
         {
-          "name": "空中九年级",
+          "name": "空中九年級",
           "urls": [
             "http://112.74.200.9:88/tv000000/m3u8.php?/migu/670427227"
           ]
@@ -1990,10 +1990,10 @@
       ]
     },
     {
-      "group": "央视",
+      "group": "央視",
       "channels": [
         {
-          "name": "CCTV1综合",
+          "name": "CCTV1綜合",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225654/index.m3u8?servicetype=1&IASHttpSessionId=OTT",
             "http://39.130.202.114:6610/gitv_live/G_CCTV-1-CQ/G_CCTV-1-CQ.m3u8?IASHttpSessionId=OTT3669620210930135241021459",
@@ -2003,21 +2003,21 @@
           ]
         },
         {
-          "name": "CCTV2财经",
+          "name": "CCTV2財經",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225676/index.m3u8?servicetype=1&IASHttpSessionId=OTT",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225657/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "CCTV3综艺",
+          "name": "CCTV3綜藝",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225677/index.m3u8?servicetype=1&IASHttpSessionId=OTT",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225713/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "CCTV4国际",
+          "name": "CCTV4國際",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225761/index.m3u8?servicetype=1&IASHttpSessionId=OTT",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225775/index.m3u8?servicetype=1&IASHttpSessionId=OTT",
@@ -2025,7 +2025,7 @@
           ]
         },
         {
-          "name": "CCTV5体育",
+          "name": "CCTV5體育",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225680/index.m3u8?servicetype=1&IASHttpSessionId=OTT",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225660/index.m3u8?servicetype=1&IASHttpSessionId=OTT",
@@ -2033,35 +2033,35 @@
           ]
         },
         {
-          "name": "CCTV5+体育",
+          "name": "CCTV5+體育",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225712/index.m3u8?servicetype=1&IASHttpSessionId=OTT",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225621/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "CCTV6电影",
+          "name": "CCTV6電影",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225683/index.m3u8?servicetype=1&IASHttpSessionId=OTT",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225715/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "CCTV7军事",
+          "name": "CCTV7軍事",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225627/index.m3u8?servicetype=1&IASHttpSessionId=OTT",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225700/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "CCTV8电视",
+          "name": "CCTV8電視",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225630/index.m3u8?servicetype=1&IASHttpSessionId=OTT",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225716/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "CCTV9记录",
+          "name": "CCTV9記錄",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225663/index.m3u8?servicetype=1&IASHttpSessionId=OTT",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225633/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
@@ -2075,42 +2075,42 @@
           ]
         },
         {
-          "name": "CCTV11戏曲",
+          "name": "CCTV11戲曲",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225750/index.m3u8?servicetype=1&IASHttpSessionId=OTT",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225739/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "CCTV12社会",
+          "name": "CCTV12社會",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225670/index.m3u8?servicetype=1&IASHttpSessionId=OTT",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225645/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "CCTV13新闻",
+          "name": "CCTV13新聞",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225787/index.m3u8?servicetype=1&IASHttpSessionId=OTT",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225742/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "CCTV14少儿",
+          "name": "CCTV14少兒",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225673/index.m3u8?servicetype=1&IASHttpSessionId=OTT",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225648/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "CCTV15音乐",
+          "name": "CCTV15音樂",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225830/index.m3u8?servicetype=1&IASHttpSessionId=OTT",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225693/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "CCTV17农业",
+          "name": "CCTV17農業",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225766/index.m3u8?servicetype=1&IASHttpSessionId=OTT",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225513/index.m3u8?servicetype=1&IASHttpSessionId=OTT",
@@ -2146,19 +2146,19 @@
           ]
         },
         {
-          "name": "CCTV4欧洲",
+          "name": "CCTV4歐洲",
           "urls": [
             "http://117.148.179.160/PLTV/88888888/224/3221231615/index.m3u8"
           ]
         },
         {
-          "name": "女性时尚",
+          "name": "女性時尚",
           "urls": [
             "http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8"
           ]
         },
         {
-          "name": "央视台球",
+          "name": "央視檯球",
           "urls": [
             "http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls"
           ]
@@ -2188,7 +2188,7 @@
           ]
         },
         {
-          "name": "CCTV中学生",
+          "name": "CCTV中學生",
           "urls": [
             "http://112.74.200.9:88/tv000000/m3u8.php?/migu/708869532"
           ]
@@ -2196,23 +2196,23 @@
       ]
     },
     {
-      "group": "卫视",
+      "group": "衛視",
       "channels": [
         {
-          "name": "山西卫视",
+          "name": "山西衛視",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225785/index.m3u8?servicetype=1&IASHttpSessionId=OTT",
             "http://39.134.24.24/PLTV/88888888/224/3221225738/index.m3u8"
           ]
         },
         {
-          "name": "安多卫视",
+          "name": "安多衛視",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/anduostv/anduostv"
           ]
         },
         {
-          "name": "安徽卫视",
+          "name": "安徽衛視",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225701/index.m3u8?servicetype=1&IASHttpSessionId=OTT",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225671/index.m3u8?servicetype=1&IASHttpSessionId=OTT",
@@ -2220,7 +2220,7 @@
           ]
         },
         {
-          "name": "北京卫视",
+          "name": "北京衛視",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-beijingstv/HD-2500k-1080P-beijingstv",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225651/index.m3u8?servicetype=1&IASHttpSessionId=OTT",
@@ -2228,14 +2228,14 @@
           ]
         },
         {
-          "name": "兵团卫视",
+          "name": "兵團衛視",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/SD-4000k-576P-bingtuanstv/SD-4000k-576P-bingtuanstv",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225795/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "重庆卫视",
+          "name": "重慶衛視",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-chongqingstv/HD-8000k-1080P-chongqingstv",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225679/index.m3u8?servicetype=1&IASHttpSessionId=OTT",
@@ -2243,28 +2243,28 @@
           ]
         },
         {
-          "name": "东方卫视",
+          "name": "東方衛視",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225682/index.m3u8?servicetype=1&IASHttpSessionId=OTT",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225718/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "东南卫视",
+          "name": "東南衛視",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/n-dongnanstv/n-dongnanstv",
             "http://39.135.138.59:18890/PLTV/88888910/224/3221225657/index.m3u8"
           ]
         },
         {
-          "name": "甘肃卫视",
+          "name": "甘肅衛視",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225764/index.m3u8?servicetype=1&IASHttpSessionId=OTT",
             "http://183.207.248.71:80/cntv/live1/n-gansustv/n-gansustv"
           ]
         },
         {
-          "name": "广东卫视",
+          "name": "廣東衛視",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/n-guangdongstv/n-guangdongstv",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225666/index.m3u8?servicetype=1&IASHttpSessionId=OTT",
@@ -2272,45 +2272,45 @@
           ]
         },
         {
-          "name": "广西卫视",
+          "name": "廣西衛視",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225767/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "贵州卫视",
+          "name": "貴州衛視",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225770/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "海南卫视",
+          "name": "海南衛視",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225752/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "河北卫视",
+          "name": "河北衛視",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/n-hebeistv/n-hebeistv",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225773/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "河南卫视",
+          "name": "河南衛視",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225806/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "黑龙江卫视",
+          "name": "黑龍江衛視",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225686/index.m3u8?servicetype=1&IASHttpSessionId=OTT",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225734/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "湖北卫视",
+          "name": "湖北衛視",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225689/index.m3u8?servicetype=1&IASHttpSessionId=OTT",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225721/index.m3u8?servicetype=1&IASHttpSessionId=OTT",
@@ -2318,100 +2318,100 @@
           ]
         },
         {
-          "name": "湖南卫视",
+          "name": "湖南衛視",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225692/index.m3u8?servicetype=1&IASHttpSessionId=OTT",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225719/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "吉林卫视",
+          "name": "吉林衛視",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225678/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "江苏卫视",
+          "name": "江蘇衛視",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225636/index.m3u8?servicetype=1&IASHttpSessionId=OTT",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225722/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "江西卫视",
+          "name": "江西衛視",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225669/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "康巴卫视",
+          "name": "康巴衛視",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/SD-4000k-576P-kambatv/SD-4000k-576P-kambatv"
           ]
         },
         {
-          "name": "辽宁卫视",
+          "name": "遼寧衛視",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225639/index.m3u8?servicetype=1&IASHttpSessionId=OTT",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225779/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "内蒙古卫视",
+          "name": "內蒙古衛視",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225751/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "宁夏卫视",
+          "name": "寧夏衛視",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/n-ningxiastv/n-ningxiastv",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225782/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "青海卫视",
+          "name": "青海衛視",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/n-qinghaistv/n-qinghaistv",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225705/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "山东卫视",
+          "name": "山東衛視",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225642/index.m3u8?servicetype=1&IASHttpSessionId=OTT",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225672/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "山东教育卫视",
+          "name": "山東教育衛視",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225708/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "陕西卫视",
+          "name": "陜西衛視",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/n-shanxi1stv/n-shanxi1stv",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225754/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "深圳卫视",
+          "name": "深圳衛視",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225691/index.m3u8?servicetype=1&IASHttpSessionId=OTT",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225725/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "四川卫视",
+          "name": "四川衛視",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/n-sichuanstv/n-sichuanstv",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225757/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "天津卫视",
+          "name": "天津衛視",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-tianjinstv/HD-2500k-1080P-tianjinstv",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225675/index.m3u8?servicetype=1&IASHttpSessionId=OTT",
@@ -2419,59 +2419,59 @@
           ]
         },
         {
-          "name": "西藏卫视",
+          "name": "西藏衛視",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/n-xizangstv/n-xizangstv",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225800/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "香港卫视",
+          "name": "香港衛視",
           "urls": [
             "http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8"
           ]
         },
         {
-          "name": "新疆卫视",
+          "name": "新疆衛視",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225788/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "云南卫视",
+          "name": "雲南衛視",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225794/index.m3u8?servicetype=1&IASHttpSessionId=OTT",
             "http://183.207.248.71:80/cntv/live1/n-yntv1/n-yntv1"
           ]
         },
         {
-          "name": "浙江卫视",
+          "name": "浙江衛視",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225695/index.m3u8?servicetype=1&IASHttpSessionId=OTT",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225731/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "澳门卫视",
+          "name": "澳門衛視",
           "urls": [
             "http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8",
             "http://61.244.22.4/ch3/ch3.live/chunklist_w415594313.m3u8"
           ]
         },
         {
-          "name": "南方卫视",
+          "name": "南方衛視",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225748/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "三沙卫视",
+          "name": "三沙衛視",
           "urls": [
             "http://pull2.ssws.tv/live/SswsTV20210803.m3u8"
           ]
         },
         {
-          "name": "农林卫视",
+          "name": "農林衛視",
           "urls": [
             "http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225696/1/index.m3u8?fmt=ts2hls"
           ]
@@ -2488,41 +2488,41 @@
           ]
         },
         {
-          "name": "山西影视",
+          "name": "山西影視",
           "urls": [
             "http://live2.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiFilm&start=0&provider=www.tvmining.com",
             "http://149.129.100.78/cutv.php?id=sxys"
           ]
         },
         {
-          "name": "山西经济与科技",
+          "name": "山西經濟與科技",
           "urls": [
             "http://live3.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiFinance&start=0&provider=www.tvmining.com",
             "http://149.129.100.78/cutv.php?id=sxjj"
           ]
         },
         {
-          "name": "山西社会与法治",
+          "name": "山西社會與法治",
           "urls": [
             "http://live3.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiEdu&start=0&provider=www.tvmining.com",
             "http://149.129.100.78/cutv.php?id=sxkj"
           ]
         },
         {
-          "name": "黄河电视台",
+          "name": "黃河電視臺",
           "urls": [
             "http://live3.sxrtv.com/flvss?bitrate=512000&channel=HuangHeNews&start=0&provider=www.tvmining.com",
             "http://149.129.100.78/cutv.php?id=sxhh"
           ]
         },
         {
-          "name": "太原新闻综合",
+          "name": "太原新聞綜合",
           "urls": [
             "http://149.129.100.78/cutv.php?id=tyxwzh"
           ]
         },
         {
-          "name": "太原经济生活",
+          "name": "太原經濟生活",
           "urls": [
             "http://149.129.100.78/cutv.php?id=tyjjsh"
           ]
@@ -2534,50 +2534,50 @@
           ]
         },
         {
-          "name": "太原影视",
+          "name": "太原影視",
           "urls": [
             "http://149.129.100.78/cutv.php?id=tyys"
           ]
         },
         {
-          "name": "太原文体",
+          "name": "太原文體",
           "urls": [
             "http://149.129.100.78/cutv.php?id=tywt"
           ]
         },
         {
-          "name": "晋中综合",
+          "name": "晉中綜合",
           "urls": [
             "http://jzlive.jztvnews.com:90/live/jzzh.m3u8"
           ]
         },
         {
-          "name": "晋中公共",
+          "name": "晉中公共",
           "urls": [
             "http://jzlive.jztvnews.com:90/live/jzgg.m3u8"
           ]
         },
         {
-          "name": "榆社电视台",
+          "name": "榆社電視臺",
           "urls": [
             "https://hb2stream1.baoxinwen.com/2527ebd712334a70/6616141643588305925_1600914820.m3u8?auth_key=1893456000-0-0-700f7561f8b4f86818c5d7bae4afd140"
           ]
         },
         {
-          "name": "北京新闻",
+          "name": "北京新聞",
           "urls": [
             "http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8? ",
             "http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time= "
           ]
         },
         {
-          "name": "北京影视",
+          "name": "北京影視",
           "urls": [
             "http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time= "
           ]
         },
         {
-          "name": "北京文艺",
+          "name": "北京文藝",
           "urls": [
             "http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time= "
           ]
@@ -2601,13 +2601,13 @@
           ]
         },
         {
-          "name": "北京财经",
+          "name": "北京財經",
           "urls": [
             "http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time= "
           ]
         },
         {
-          "name": "北京东奥",
+          "name": "北京東奧",
           "urls": [
             "http://39.135.138.58:18890/PLTV/88888888/224/3221225676/index.m3u8"
           ]
@@ -2619,21 +2619,21 @@
           ]
         },
         {
-          "name": "上海外语",
+          "name": "上海外語",
           "urls": [
             "http://39.134.39.39/PLTV/88888888/224/3221226201/index.m3u8",
             "http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8"
           ]
         },
         {
-          "name": "上海第一财经",
+          "name": "上海第一財經",
           "urls": [
             "http://39.134.39.39/PLTV/88888888/224/3221226172/index.m3u8",
             "http://183.207.255.188/live/program/live/dycjhd/4000000/mnf.m3u8"
           ]
         },
         {
-          "name": "上海纪实人文",
+          "name": "上海紀實人文",
           "urls": [
             "http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8",
             "http://183.207.255.190/live/program/live/jspdhd/4000000/mnf.m3u8",
@@ -2642,19 +2642,19 @@
           ]
         },
         {
-          "name": "上海这一刻魔都眼",
+          "name": "上海這一刻魔都眼",
           "urls": [
             "http://bililive.kksmg.com/hls/sdi80/playlist.m3u8"
           ]
         },
         {
-          "name": "上海金山电视台",
+          "name": "上海金山電視臺",
           "urls": [
             "http://live.mudu.tv/watch/4zbn2f.m3u8"
           ]
         },
         {
-          "name": "上海新闻综合",
+          "name": "上海新聞綜合",
           "urls": [
             "http://183.207.255.190/live/program/live/xwzhhd/4000000/mnf.m3u8",
             "http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8",
@@ -2663,7 +2663,7 @@
           ]
         },
         {
-          "name": "生活时尚",
+          "name": "生活時尚",
           "urls": [
             "http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8",
             "http://39.134.39.39/PLTV/88888888/224/3221225874/index.m3u8",
@@ -2671,26 +2671,26 @@
           ]
         },
         {
-          "name": "全纪实",
+          "name": "全紀實",
           "urls": [
             "http://183.207.255.190/live/program/live/qjshd/4000000/mnf.m3u8"
           ]
         },
         {
-          "name": "东奥纪实",
+          "name": "東奧紀實",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225667/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "上海东方影视",
+          "name": "上海東方影視",
           "urls": [
             "http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8",
             "http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/4000000/mnf.m3u8"
           ]
         },
         {
-          "name": "上海五星体育",
+          "name": "上海五星體育",
           "urls": [
             "http://183.207.255.188/live/program/live/ssty/4000000/mnf.m3u8"
           ]
@@ -2702,31 +2702,31 @@
           ]
         },
         {
-          "name": "上海ICS外语",
+          "name": "上海ICS外語",
           "urls": [
             "http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8"
           ]
         },
         {
-          "name": "劲爆体育",
+          "name": "勁爆體育",
           "urls": [
             "http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8"
           ]
         },
         {
-          "name": "上海五星体育",
+          "name": "上海五星體育",
           "urls": [
             "http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8"
           ]
         },
         {
-          "name": "上海新视觉",
+          "name": "上海新視覺",
           "urls": [
             "http://183.207.255.190/live/program/live/xsjhd/2300000/mnf.m3u8"
           ]
         },
         {
-          "name": "峨眉电影",
+          "name": "峨眉電影",
           "urls": [
             "http://60.255.49.202/live/emdygqH265_4000.m3u8"
           ]
@@ -2737,127 +2737,127 @@
       "group": "NewTV",
       "channels": [
         {
-          "name": "NewTV爱情喜剧",
+          "name": "NewTV愛情喜劇",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/n-aiqingxj/n-aiqingxj",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225698/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "NewTV潮妈辣婆",
+          "name": "NewTV潮媽辣婆",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/n-cmlapo/n-cmlapo",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225709/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "NewTV动作电影",
+          "name": "NewTV動作電影",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/n-dongzuody/n-dongzuody",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225703/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "NewTV古装剧场",
+          "name": "NewTV古裝劇場",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/n-guzhuangjc/n-guzhuangjc",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225706/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "NewTV黑莓电竞之夜",
+          "name": "NewTV黑莓電競之夜",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/wmyx/wmyx",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225760/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "NewTV黑莓电影",
+          "name": "NewTV黑莓電影",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-Supermovie/HD-8000k-1080P-Supermovie",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225740/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "NewTV黑莓动画",
+          "name": "NewTV黑莓動畫",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/donghuawg/donghuawg",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225710/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "NewTV家庭剧场",
+          "name": "NewTV家庭劇場",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/n-jiatingjc/n-jiatingjc",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225743/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "NewTV金牌综艺",
+          "name": "NewTV金牌綜藝",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/n-saishijx/n-saishijx",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225755/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "NewTV精品大剧",
+          "name": "NewTV精品大劇",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/n-jdaju/n-jdaju",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225737/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "NewTV精品体育",
+          "name": "NewTV精品體育",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/n-jtiyu/n-jtiyu",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225724/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "NewTV精品综合",
+          "name": "NewTV精品綜合",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/n-mingxingdp/n-mingxingdp"
           ]
         },
         {
-          "name": "NewTV军旅剧场",
+          "name": "NewTV軍旅劇場",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/n-junlvjc/n-junlvjc",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225727/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "NewTV军事评论",
+          "name": "NewTV軍事評論",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/n-junshipl/n-junshipl",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225749/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "NewTV农业致富",
+          "name": "NewTV農業致富",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/n-nongyezf/n-nongyezf",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225687/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "NewTV热播精选",
+          "name": "NewTV熱播精選",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/n-xiqumd/n-xiqumd"
           ]
         },
         {
-          "name": "NewTV中国功夫",
+          "name": "NewTV中國功夫",
           "urls": [
             "http://183.207.248.71:80/cntv/live1/n-gzkongfu/n-gzkongfu",
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225690/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "NewTV精品记录"
+          "name": "NewTV精品記錄"
         },
         {
-          "name": "NewTV惊悚电影",
+          "name": "NewTV驚悚電影",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225746/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
@@ -2869,37 +2869,37 @@
           ]
         },
         {
-          "name": "NewTV炫舞未来",
+          "name": "NewTV炫舞未來",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225728/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "NewTV无台标1",
+          "name": "NewTV無臺標1",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225763/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "NewTV无台标2",
+          "name": "NewTV無臺標2",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225789/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "NewTV无台标3",
+          "name": "NewTV無臺標3",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225854/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "NewTV无台标4",
+          "name": "NewTV無臺標4",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225863/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
         },
         {
-          "name": "NewTV无台标5",
+          "name": "NewTV無臺標5",
           "urls": [
             "http://111.12.101.23:6610/PLTV/77777777/224/3221225733/index.m3u8?servicetype=1&IASHttpSessionId=OTT"
           ]
@@ -2907,22 +2907,22 @@
       ]
     },
     {
-      "group": "港澳台1",
+      "group": "港澳臺1",
       "channels": [
         {
-          "name": "大爱1台",
+          "name": "大愛1臺",
           "urls": [
             "https://pulltv1.wanfudaluye.com/live/tv1.m3u8"
           ]
         },
         {
-          "name": "大爱2台",
+          "name": "大愛2臺",
           "urls": [
             "https://pulltv2.wanfudaluye.com/live/tv2.m3u8"
           ]
         },
         {
-          "name": "东森超视",
+          "name": "東森超視",
           "urls": [
             "rtmp://161.202.204.248/sat/tv771",
             "rtmp://161.202.204.248/sat/tv772",
@@ -2930,7 +2930,7 @@
           ]
         },
         {
-          "name": "翡翠台",
+          "name": "翡翠臺",
           "urls": [
             "http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8"
           ]
@@ -2942,56 +2942,56 @@
           ]
         },
         {
-          "name": "香港新闻",
+          "name": "香港新聞",
           "urls": [
             "https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8"
           ]
         },
         {
-          "name": "澳门综艺",
+          "name": "澳門綜藝",
           "urls": [
             "http://61.244.22.5/ch6/_definst_/hd_ch6.live/playlist.m3u8"
           ]
         },
         {
-          "name": "澳门卫星",
+          "name": "澳門衛星",
           "urls": [
             "http://61.244.22.4/ch3/ch3.live/index.m3u8"
           ]
         },
         {
-          "name": "澳门葡语",
+          "name": "澳門葡語",
           "urls": [
             "http://61.244.22.4/ch2/ch2.live/index.m3u8"
           ]
         },
         {
-          "name": "澳视澳门",
+          "name": "澳視澳門",
           "urls": [
             "http://61.244.22.4/ch1/ch1.live/index.m3u8"
           ]
         },
         {
-          "name": "C+频道",
+          "name": "C+頻道",
           "urls": [
             "http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8"
           ]
         },
         {
-          "name": "凤凰咨询",
+          "name": "鳳凰諮詢",
           "urls": [
             "http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8",
             "http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8"
           ]
         },
         {
-          "name": "凤凰中文",
+          "name": "鳳凰中文",
           "urls": [
             "http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8"
           ]
         },
         {
-          "name": "凤凰香港",
+          "name": "鳳凰香港",
           "urls": [
             "http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8",
             "http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=3804 "
@@ -3004,13 +3004,13 @@
           ]
         },
         {
-          "name": "TVB星河台1",
+          "name": "TVB星河臺1",
           "urls": [
             "http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8"
           ]
         },
         {
-          "name": "香港卫视文旅",
+          "name": "香港衛視文旅",
           "urls": [
             "https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8"
           ]
@@ -3022,19 +3022,19 @@
           ]
         },
         {
-          "name": "大爱海外",
+          "name": "大愛海外",
           "urls": [
             "https://pulltv3.wanfudaluye.com/live/tv3.m3u8"
           ]
         },
         {
-          "name": "NHK华语视界",
+          "name": "NHK華語視界",
           "urls": [
             "https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8"
           ]
         },
         {
-          "name": "CHC动作电影",
+          "name": "CHC動作電影",
           "urls": [
             "http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8"
           ]
@@ -3046,103 +3046,103 @@
           ]
         },
         {
-          "name": "CHC高清电影",
+          "name": "CHC高清電影",
           "urls": [
             "http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8"
           ]
         },
         {
-          "name": "CHC家庭电影",
+          "name": "CHC家庭電影",
           "urls": [
             "http://93.190.139.36:8278/streams/d/chcfamily/playlist.m3u8"
           ]
         },
         {
-          "name": "TVBJ2台",
+          "name": "TVBJ2臺",
           "urls": [
             "https://cdn.hkdtmb.com/hls/82/index.m3u8"
           ]
         },
         {
-          "name": "TVB明珠台",
+          "name": "TVB明珠臺",
           "urls": [
             "https://cdn.hkdtmb.com/hls/84/index.m3u8"
           ]
         },
         {
-          "name": "TVB翡翠台",
+          "name": "TVB翡翠臺",
           "urls": [
             "https://cdn.hkdtmb.com/hls/81/index.m3u8"
           ]
         },
         {
-          "name": "香港开电视",
+          "name": "香港開電視",
           "urls": [
             "https://cdn.hkdtmb.com/hls/77/index.m3u8"
           ]
         },
         {
-          "name": "香港国际财经台",
+          "name": "香港國際財經臺",
           "urls": [
             "https://cdn.hkdtmb.com/hls/76/index.m3u8"
           ]
         },
         {
-          "name": "港台电视RTHK31",
+          "name": "港臺電視RTHK31",
           "urls": [
             "https://cdn.hkdtmb.com/hls/31/index.m3u8"
           ]
         },
         {
-          "name": "港台新闻RTHK32",
+          "name": "港臺新聞RTHK32",
           "urls": [
             "https://cdn.hkdtmb.com/hls/32/index.m3u8"
           ]
         },
         {
-          "name": "TVB星河台2",
+          "name": "TVB星河臺2",
           "urls": [
             "http://93.190.139.36:8278/streams/d/tvbxinhe_twn/playlist.m3u8"
           ]
         },
         {
-          "name": "TVB剧场",
+          "name": "TVB劇場",
           "urls": [
             "http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/virtuallive/5101059662/150/index.m3u8?&encrypt=1"
           ]
         },
         {
-          "name": "无线新闻台",
+          "name": "無線新聞臺",
           "urls": [
             "https://cdn.hkdtmb.com/hls/83/index.m3u8"
           ]
         },
         {
-          "name": "无线财经台",
+          "name": "無線財經臺",
           "urls": [
             "https://cdn.hkdtmb.com/hls/85/index.m3u8"
           ]
         },
         {
-          "name": "山里苔完",
+          "name": "山裡苔完",
           "urls": [
             "https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on"
           ]
         },
         {
-          "name": "山里渡汇",
+          "name": "山裡渡匯",
           "urls": [
             "https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on"
           ]
         },
         {
-          "name": "无线",
+          "name": "無線",
           "urls": [
             "https://h.youtalk.top/hkj2b/49.m3u8"
           ]
         },
         {
-          "name": "天映电影",
+          "name": "天映電影",
           "urls": [
             "http://50.7.161.82:8277/streams/d/celestial_pye/playlist.m3u8"
           ]
@@ -3150,7 +3150,7 @@
       ]
     },
     {
-      "group": "港澳台2",
+      "group": "港澳臺2",
       "channels": [
         {
           "name": "民視",
@@ -3159,61 +3159,61 @@
           ]
         },
         {
-          "name": "民視第一台",
+          "name": "民視第一臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=msdy&token=free&user=free"
           ]
         },
         {
-          "name": "民視台灣台",
+          "name": "民視臺灣臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=mstw&token=free&user=free"
           ]
         },
         {
-          "name": "民視新聞台",
+          "name": "民視新聞臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=msxw&token=free&user=free"
           ]
         },
         {
-          "name": "民視影劇台",
+          "name": "民視影劇臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=msyj&token=free&user=free"
           ]
         },
         {
-          "name": "民視綜藝台",
+          "name": "民視綜藝臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=mszy&token=free&user=free"
           ]
         },
         {
-          "name": "民視旅遊台",
+          "name": "民視旅遊臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=msly&token=free&user=free"
           ]
         },
         {
-          "name": "台視",
+          "name": "臺視",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=ts&token=free&user=free"
           ]
         },
         {
-          "name": "台視新聞台",
+          "name": "臺視新聞臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=tsxw&token=free&user=free"
           ]
         },
         {
-          "name": "台視財經台",
+          "name": "臺視財經臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=tscj&token=free&user=free"
           ]
         },
         {
-          "name": "台視綜合台",
+          "name": "臺視綜合臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=tszh&token=free&user=free"
           ]
@@ -3225,19 +3225,19 @@
           ]
         },
         {
-          "name": "中視新聞台",
+          "name": "中視新聞臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=zsxw&token=free&user=free"
           ]
         },
         {
-          "name": "中視經典台",
+          "name": "中視經典臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=zsjd&token=free&user=free"
           ]
         },
         {
-          "name": "中視菁采台",
+          "name": "中視菁采臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=zsjc&token=free&user=free"
           ]
@@ -3249,13 +3249,13 @@
           ]
         },
         {
-          "name": "華視教育體育文化台",
+          "name": "華視教育體育文化臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=hsjy&token=free&user=free"
           ]
         },
         {
-          "name": "華視新聞資訊台",
+          "name": "華視新聞資訊臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=hsxw&token=free&user=free"
           ]
@@ -3267,13 +3267,13 @@
           ]
         },
         {
-          "name": "公視台語台",
+          "name": "公視臺語臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=gs2&token=free&user=free"
           ]
         },
         {
-          "name": "公視3台",
+          "name": "公視3臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=gs3&token=free&user=free"
           ]
@@ -3285,7 +3285,7 @@
           ]
         },
         {
-          "name": "客家電視台",
+          "name": "客家電視臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=kjds&token=free&user=free"
           ]
@@ -3345,73 +3345,73 @@
           ]
         },
         {
-          "name": "中天綜合台",
+          "name": "中天綜合臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=ztzh&token=free&user=free"
           ]
         },
         {
-          "name": "中天娛樂台",
+          "name": "中天娛樂臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=ztyl&token=free&user=free"
           ]
         },
         {
-          "name": "中天亞洲台",
+          "name": "中天亞洲臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=ztyz&token=free&user=free"
           ]
         },
         {
-          "name": "三立台灣台",
+          "name": "三立臺灣臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=sltw&token=free&user=free"
           ]
         },
         {
-          "name": "三立都會台",
+          "name": "三立都會臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=sldh&token=free&user=free"
           ]
         },
         {
-          "name": "三立新聞台",
+          "name": "三立新聞臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=slxw&token=free&user=free"
           ]
         },
         {
-          "name": "三立財經台",
+          "name": "三立財經臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=slcj&token=free&user=free"
           ]
         },
         {
-          "name": "三立綜合台",
+          "name": "三立綜合臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=slzh&token=free&user=free"
           ]
         },
         {
-          "name": "三立戲劇台",
+          "name": "三立戲劇臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=slxj&token=free&user=free"
           ]
         },
         {
-          "name": "MTV綜合台",
+          "name": "MTV綜合臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=mtv&token=free&user=free"
           ]
         },
         {
-          "name": "TVBS新聞台",
+          "name": "TVBS新聞臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=tvbsxw&token=free&user=free"
           ]
         },
         {
-          "name": "TVBS歡樂台",
+          "name": "TVBS歡樂臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=tvbshl&token=free&user=free"
           ]
@@ -3423,7 +3423,7 @@
           ]
         },
         {
-          "name": "TVBS精采台",
+          "name": "TVBS精采臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=tvbsjc&token=free&user=free"
           ]
@@ -3441,7 +3441,7 @@
           ]
         },
         {
-          "name": "JET綜合台",
+          "name": "JET綜合臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=jet&token=free&user=free"
           ]
@@ -3471,37 +3471,37 @@
           ]
         },
         {
-          "name": "非凡新聞台",
+          "name": "非凡新聞臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=ffxw&token=free&user=free"
           ]
         },
         {
-          "name": "非凡商業台",
+          "name": "非凡商業臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=ffsy&token=free&user=free"
           ]
         },
         {
-          "name": "寰宇新聞台",
+          "name": "寰宇新聞臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=hyxw&token=free&user=free"
           ]
         },
         {
-          "name": "寰宇新聞台灣台",
+          "name": "寰宇新聞臺灣臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=hyxw2&token=free&user=free"
           ]
         },
         {
-          "name": "寰宇綜合台",
+          "name": "寰宇綜合臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=hyzh&token=free&user=free"
           ]
         },
         {
-          "name": "亞洲旅遊台",
+          "name": "亞洲旅遊臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=yzly&token=free&user=free"
           ]
@@ -3543,7 +3543,7 @@
           ]
         },
         {
-          "name": "博斯運動一台",
+          "name": "博斯運動一臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=bsyd&token=free&user=free"
           ]
@@ -3555,7 +3555,7 @@
           ]
         },
         {
-          "name": "博斯運動二台",
+          "name": "博斯運動二臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=bsyd2&token=free&user=free"
           ]
@@ -3567,7 +3567,7 @@
           ]
         },
         {
-          "name": "博斯無限二台",
+          "name": "博斯無限二臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=bswx2&token=free&user=free"
           ]
@@ -3615,103 +3615,103 @@
           ]
         },
         {
-          "name": "緯來綜合台",
+          "name": "緯來綜合臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=wlzh&token=free&user=free"
           ]
         },
         {
-          "name": "緯來戲劇台",
+          "name": "緯來戲劇臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=wlxj&token=free&user=free"
           ]
         },
         {
-          "name": "緯來日本台",
+          "name": "緯來日本臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=wlrb&token=free&user=free"
           ]
         },
         {
-          "name": "緯來電影台",
+          "name": "緯來電影臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=wldy&token=free&user=free"
           ]
         },
         {
-          "name": "緯來體育台",
+          "name": "緯來體育臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=wlty&token=free&user=free"
           ]
         },
         {
-          "name": "緯來育樂台",
+          "name": "緯來育樂臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=wlyl&token=free&user=free"
           ]
         },
         {
-          "name": "八大第1台",
+          "name": "八大第1臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=bddy&token=free&user=free"
           ]
         },
         {
-          "name": "八大綜合台",
+          "name": "八大綜合臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=bdzh&token=free&user=free"
           ]
         },
         {
-          "name": "八大戲劇台",
+          "name": "八大戲劇臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=bdxj&token=free&user=free"
           ]
         },
         {
-          "name": "八大娛樂台",
+          "name": "八大娛樂臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=bdyl&token=free&user=free"
           ]
         },
         {
-          "name": "八大精彩台",
+          "name": "八大精彩臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=bdjc&token=free&user=free"
           ]
         },
         {
-          "name": "愛爾達體育1台",
+          "name": "愛爾達體育1臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=aedty&token=free&user=free"
           ]
         },
         {
-          "name": "愛爾達體育2台",
+          "name": "愛爾達體育2臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=aedty2&token=free&user=free"
           ]
         },
         {
-          "name": "愛爾達體育3台",
+          "name": "愛爾達體育3臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=aedty3&token=free&user=free"
           ]
         },
         {
-          "name": "愛爾達影劇台",
+          "name": "愛爾達影劇臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=aedyj&token=free&user=free"
           ]
         },
         {
-          "name": "愛爾達綜合台",
+          "name": "愛爾達綜合臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=aedzh&token=free&user=free"
           ]
         },
         {
-          "name": "愛爾達娛樂台",
+          "name": "愛爾達娛樂臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=aedyl&token=free&user=free"
           ]
@@ -3723,55 +3723,55 @@
           ]
         },
         {
-          "name": "智林體育台",
+          "name": "智林體育臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=zlty&token=free&user=free"
           ]
         },
         {
-          "name": "韓國娛樂台",
+          "name": "韓國娛樂臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=hgyl&token=free&user=free"
           ]
         },
         {
-          "name": "靖洋卡通台",
+          "name": "靖洋卡通臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=jykt&token=free&user=free"
           ]
         },
         {
-          "name": "靖天卡通台",
+          "name": "靖天卡通臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=jtkt&token=free&user=free"
           ]
         },
         {
-          "name": "靖天資訊台",
+          "name": "靖天資訊臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=jtzx&token=free&user=free"
           ]
         },
         {
-          "name": "靖天綜合台",
+          "name": "靖天綜合臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=jtzh&token=free&user=free"
           ]
         },
         {
-          "name": "靖天育樂台",
+          "name": "靖天育樂臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=jtyl&token=free&user=free"
           ]
         },
         {
-          "name": "靖天戲劇台",
+          "name": "靖天戲劇臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=jtxj&token=free&user=free"
           ]
         },
         {
-          "name": "靖洋戲劇台",
+          "name": "靖洋戲劇臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=jyxj&token=free&user=free"
           ]
@@ -3783,97 +3783,97 @@
           ]
         },
         {
-          "name": "靖天電影台",
+          "name": "靖天電影臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=jtdy&token=free&user=free"
           ]
         },
         {
-          "name": "靖天國際台",
+          "name": "靖天國際臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=jtgj&token=free&user=free"
           ]
         },
         {
-          "name": "靖天日本台",
+          "name": "靖天日本臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=jtrb&token=free&user=free"
           ]
         },
         {
-          "name": "靖天歡樂台",
+          "name": "靖天歡樂臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=jthl&token=free&user=free"
           ]
         },
         {
-          "name": "MOMO綜合台",
+          "name": "MOMO綜合臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=mmzh&token=free&user=free"
           ]
         },
         {
-          "name": "MOMO親子台",
+          "name": "MOMO親子臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=mmqz&token=free&user=free"
           ]
         },
         {
-          "name": "i-Fun動漫台",
+          "name": "i-Fun動漫臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=afdm&token=free&user=free"
           ]
         },
         {
-          "name": "高點綜合台",
+          "name": "高點綜合臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=gdzh&token=free&user=free"
           ]
         },
         {
-          "name": "高點育樂台",
+          "name": "高點育樂臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=gdyl&token=free&user=free"
           ]
         },
         {
-          "name": "采昌影劇台",
+          "name": "采昌影劇臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=ccyj&token=free&user=free"
           ]
         },
         {
-          "name": "影迷數位電影台",
+          "name": "影迷數位電影臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=ymswdy&token=free&user=free"
           ]
         },
         {
-          "name": "CATCHPLAY電影台",
+          "name": "CATCHPLAY電影臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=catchplay&token=free&user=free"
           ]
         },
         {
-          "name": "好萊塢電影台",
+          "name": "好萊塢電影臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=hlwdy&token=free&user=free"
           ]
         },
         {
-          "name": "EYE TV戲劇台",
+          "name": "EYE TV戲劇臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=eyexj&token=free&user=free"
           ]
         },
         {
-          "name": "EYE TV旅遊台",
+          "name": "EYE TV旅遊臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=eyely&token=free&user=free"
           ]
         },
         {
-          "name": "霹靂台灣台",
+          "name": "霹靂臺灣臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=pltw&token=free&user=free"
           ]
@@ -3885,13 +3885,13 @@
           ]
         },
         {
-          "name": "衛視電影台",
+          "name": "衛視電影臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=wsdy&token=free&user=free"
           ]
         },
         {
-          "name": "龍祥電影台",
+          "name": "龍祥電影臺",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=lxsd&token=free&user=free"
           ]
@@ -4278,7 +4278,7 @@
   ],
   "parses": [
     {
-      "name": "json影视工厂",
+      "name": "json影視工廠",
       "type": 1,
       "url": "http://jiexi.ysgc.xyz/home/api?type=ys&uid=29893&key=dfhiopvzBDJUYZ0246&url="
     },
@@ -4393,7 +4393,7 @@
       "url": "https://jiexi.bdjxfw.com/home/api?type=ys&uid=168882504&key=adfhjknyzACDFJOQU9&url="
     },
     {
-      "name": "追剧喵json",
+      "name": "追劇喵json",
       "type": 0,
       "url": "https://jiexi.bdjxfw.com/home/api?type=ys&uid=3247364&key=beghjkuxzABFHIO379&url="
     },
@@ -4453,7 +4453,7 @@
       "url": "http://jx.mmkv.cn/tv.php?url="
     },
     {
-      "name": "追剧达人",
+      "name": "追劇達人",
       "type": 0,
       "url": "https://vip123kan.vip/m3u8.php?url="
     },
@@ -4463,7 +4463,7 @@
       "url": "http://dm.199cn.cn/vip/?url="
     },
     {
-      "name": "极品解析",
+      "name": "極品解析",
       "type": 0,
       "url": "https://jxapp.jpysvip.net/m3u8.php?url="
     },
@@ -4483,17 +4483,17 @@
       "url": "https://player.5znn.pro/jiexi.php?url="
     },
     {
-      "name": "乐檬",
+      "name": "樂檬",
       "type": 0,
       "url": "http://jiexi.xm1314.top/?url="
     },
     {
-      "name": "熊猫解析",
+      "name": "熊貓解析",
       "type": 0,
       "url": "https://json.xiongmiao888.cn/?url="
     },
     {
-      "name": "亿汇通",
+      "name": "億匯通",
       "type": 0,
       "url": "https://www.json.yihuiton.com/?url="
     },
@@ -4513,12 +4513,12 @@
       "url": "https://vip.parwix.com:4433/player/analysis.php?v="
     },
     {
-      "name": "乐喵",
+      "name": "樂喵",
       "type": 0,
       "url": "http://jx.hao-zsj.cn/vip/?url="
     },
     {
-      "name": "人人蓝光",
+      "name": "人人藍光",
       "type": 0,
       "url": "https://www.ifreefans.com/jx2/?url="
     },
@@ -4528,7 +4528,7 @@
       "url": "https://app.diliktv.xyz/jx/?url="
     },
     {
-      "name": "麒麟蓝光",
+      "name": "麒麟藍光",
       "type": 0,
       "url": "https://jx.sujx.top/jiexi.php/?url="
     },
@@ -4538,7 +4538,7 @@
       "url": "https://vip.jianjians.com/?url="
     },
     {
-      "name": "数码",
+      "name": "數碼",
       "type": 0,
       "url": "http://tv.shuma.ink/?url="
     },
@@ -4558,12 +4558,12 @@
       "url": "https://jf.4z.cm/jx/?url="
     },
     {
-      "name": "秒开",
+      "name": "秒開",
       "type": 0,
       "url": "https://jx.ppflv.com/?url="
     },
     {
-      "name": "最强",
+      "name": "最強",
       "type": 0,
       "url": "https://player.maqq.cn/?url="
     },
@@ -4573,12 +4573,12 @@
       "url": "https://vip.2ktvb.com/player/?url="
     },
     {
-      "name": "蜂鸟",
+      "name": "蜂鳥",
       "type": 0,
       "url": "https://vip.mlego.top/?url="
     },
     {
-      "name": "云视频",
+      "name": "云視訊",
       "type": 0,
       "url": "http://titian.mgtv.com.ppzhu.vip/jx/?url="
     },
@@ -4618,7 +4618,7 @@
       "url": "https://1.api.80tvs.cn/?url="
     },
     {
-      "name": "小蒋",
+      "name": "小蔣",
       "type": 0,
       "url": "https://www.kpezp.cn/jlexi.php?url="
     },
@@ -4628,12 +4628,12 @@
       "url": "https://vip.jianjians.com/?url="
     },
     {
-      "name": "虾米(sohu)",
+      "name": "蝦米(sohu)",
       "type": 0,
       "url": "https://jx.xmflv.com/?url="
     },
     {
-      "name": "老板",
+      "name": "老闆",
       "type": 0,
       "url": "https://vip.laobandq.com/jiexi.php?url="
     },
@@ -4658,17 +4658,17 @@
       "url": "https://jx.quanmingjiexi.com/?url="
     },
     {
-      "name": "免费麒麟",
+      "name": "免費麒麟",
       "type": 0,
       "url": "https://mfjx.qilin.best/?url="
     },
     {
-      "name": "饭团解析",
+      "name": "飯糰解析",
       "type": 0,
       "url": "https://qian.wkfile.com/m3u8.php?url="
     },
     {
-      "name": "樱花·解析",
+      "name": "櫻花·解析",
       "type": 0,
       "url": "https://buaon.xyz/?url="
     },
@@ -4678,17 +4678,17 @@
       "url": "http://jx.13tv.top/?url="
     },
     {
-      "name": "VIP全网解析",
+      "name": "VIP全網解析",
       "type": 0,
       "url": "https://player.maqq.cn/?url="
     },
     {
-      "name": "爱豆解析",
+      "name": "愛豆解析",
       "type": 0,
       "url": "https://jx.aidouer.net/?url="
     },
     {
-      "name": "M3U8蓝光直解",
+      "name": "M3U8藍光直解",
       "type": 0,
       "url": "https://iptv.delphi9.com/play/json.php?url="
     },
@@ -4713,22 +4713,22 @@
       "url": "https://v.jhdyw.vip/jhcs/?url="
     },
     {
-      "name": "全网解析1",
+      "name": "全網解析1",
       "type": 0,
       "url": "https://jxx.smys8.cn/index.php?url="
     },
     {
-      "name": "猪蹄解析",
+      "name": "豬蹄解析",
       "type": 0,
       "url": "https://jx.iztyy.com/svip/?url="
     },
     {
-      "name": "全网解析2",
+      "name": "全網解析2",
       "type": 0,
       "url": "https://www.joey8.com/nba/?url="
     },
     {
-      "name": "云端",
+      "name": "雲端",
       "type": 0,
       "url": "https://jx.ergan.top/?url="
     },
@@ -4773,7 +4773,7 @@
       "url": "https://api.gaotian.love/lgjson.php?url="
     },
     {
-      "name": "云播专用解析",
+      "name": "云播專用解析",
       "type": 0,
       "url": "https://jx.yunboys.cn/?url="
     },
@@ -4783,7 +4783,7 @@
       "url": "https://v.znb.me/?url="
     },
     {
-      "name": "千艺",
+      "name": "千藝",
       "type": 0,
       "url": "https://www.qianyicp.com/jiexi/?url="
     },
@@ -4793,7 +4793,7 @@
       "url": "https://www.mtosz.com/m3u8.php?url="
     },
     {
-      "name": "无名",
+      "name": "無名",
       "type": 0,
       "url": "https://www.administratorw.com/video.php?url="
     },
@@ -4838,12 +4838,12 @@
       "url": "https://blog.ee7p.com/vip/8090/?url="
     },
     {
-      "name": "亿通云",
+      "name": "億通云",
       "type": 0,
       "url": "https://ytyyy.top/m3u8/?url="
     },
     {
-      "name": "我乐云",
+      "name": "我樂云",
       "type": 0,
       "url": "https://svip.56tvs.com/?url="
     },
@@ -4853,12 +4853,12 @@
       "url": "https://www.zao60.com/?url="
     },
     {
-      "name": "迪奥",
+      "name": "迪奧",
       "type": 0,
       "url": "https://123.1dior.cn/?url="
     },
     {
-      "name": "蓝海蓝光",
+      "name": "藍海藍光",
       "type": 0,
       "url": "https://j.sviplan.cn/?url="
     },
@@ -4868,7 +4868,7 @@
       "url": "http://www.jjxx.me/?url="
     },
     {
-      "name": "人人影视1080",
+      "name": "人人影視1080",
       "type": 0,
       "url": "https://jx.err.cc/?url="
     },
@@ -4893,7 +4893,7 @@
       "url": "http://jx.linqingyuan.top/?url="
     },
     {
-      "name": "乐多资源",
+      "name": "樂多資源",
       "type": 0,
       "url": "https://ldy.jx.cn/1.php?vid="
     },
@@ -4933,7 +4933,7 @@
       "url": "https://api.xxctzy.com/1.php?vid="
     },
     {
-      "name": "超级解析",
+      "name": "超級解析",
       "type": 0,
       "url": "http://al.tv758.com:547/?url="
     },
@@ -4943,12 +4943,12 @@
       "url": "https://84888.cantin.cc/analysis.php?v="
     },
     {
-      "name": "禁区解析",
+      "name": "禁區解析",
       "type": 0,
       "url": "https://bo.ban.cx/jianghu.php?url="
     },
     {
-      "name": "航海锚",
+      "name": "航海錨",
       "type": 0,
       "url": "https://vip.xrff.xyz/?url="
     },
@@ -4983,7 +4983,7 @@
       "url": "https://ckmov.ccyjjd.com/ckmov/?url="
     },
     {
-      "name": "游艺解析",
+      "name": "遊藝解析",
       "type": 0,
       "url": "http://api.u1o.net/?url="
     },
@@ -4993,12 +4993,12 @@
       "url": "http://api.jhdyw.vip/?url="
     },
     {
-      "name": "纯净解析",
+      "name": "純凈解析",
       "type": 0,
       "url": "https://z1.m1907.cn/?jx="
     },
     {
-      "name": "盘古",
+      "name": "盤古",
       "type": 0,
       "url": "https://www.pangujiexi.cc/jiexi.php?url="
     },
@@ -5043,17 +5043,17 @@
       "url": "https://jx.yingxiangbao.cn/vip.php?url="
     },
     {
-      "name": "维多",
+      "name": "維多",
       "type": 0,
       "url": "https://jx.ivito.cn/?url="
     },
     {
-      "name": "星驰1",
+      "name": "星馳1",
       "type": 0,
       "url": "https://vip.swuii.top/?url="
     },
     {
-      "name": "星驰2",
+      "name": "星馳2",
       "type": 0,
       "url": "https://vip.cjys.top/?url="
     },
@@ -5063,7 +5063,7 @@
       "url": "https://go.yh0523.cn/y.cy?url="
     },
     {
-      "name": "云端",
+      "name": "雲端",
       "type": 0,
       "url": "https://jx.ergan.top/?url="
     },
@@ -5118,7 +5118,7 @@
   ],
   "ijk": [
     {
-      "group": "软解码",
+      "group": "軟解碼",
       "options": [
         {
           "category": 4,
@@ -5198,7 +5198,7 @@
       ]
     },
     {
-      "group": "硬解码",
+      "group": "硬解碼",
       "options": [
         {
           "category": 4,
