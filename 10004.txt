@@ -161,7 +161,7 @@
         },
     {
       "key": "红牛资源",
-      "name": "红牛資源",
+      "name": "紅牛資源",
       "type": 0,
       "api": "https://www.hongniuzy.com/inc/hnm3u8.php",
       "playUrl": "https://www.tutukiki.com/m3u8/?url=",
@@ -2392,6 +2392,7 @@
           "name": "民視",
           "urls": [
             "http://50.7.61.147:30080/Entry/ftv",
+	    "rtmp://59.124.75.136/sat/tv051".
             "http://sytv.xtvants.fun/mytv.php?id=ms&token=free&user=free"
           ]
         },
@@ -2410,7 +2411,8 @@
         {
           "name": "民視新聞",
           "urls": [
-            "http://sytv.xtvants.fun/mytv.php?id=msxw&token=free&user=free"
+            "http://50.7.61.148:30080/Entry/ftvnews",
+	    "http://sytv.xtvants.fun/mytv.php?id=msxw&token=free&user=free"
           ]
         },
         {
@@ -2434,6 +2436,8 @@
         {
           "name": "台視",
           "urls": [
+	    "rtmp://59.124.75.136/sat/tv071",
+	    "http://50.7.61.148:30080/Entry/ttv",
             "http://sytv.xtvants.fun/mytv.php?id=ts&token=free&user=free"
           ]
         },
@@ -2459,6 +2463,7 @@
           "name": "中視",
           "urls": [
             "rtmp://59.124.75.136/sat/tv091",
+	    "http://50.7.61.148:30080/Entry/ctv",
             "http://sytv.xtvants.fun/mytv.php?id=zs&token=free&user=free"
           ]
         },
@@ -2483,7 +2488,9 @@
         {
           "name": "華視",
           "urls": [
-            "http://sytv.xtvants.fun/mytv.php?id=hs&token=free&user=free"
+            "rtmp://59.124.75.136/sat/tv111",
+	    "http://50.7.61.147:30080/Entry/cts",
+	    "http://sytv.xtvants.fun/mytv.php?id=hs&token=free&user=free"
           ]
         },
         {
@@ -2522,6 +2529,12 @@
             "http://sytv.xtvants.fun/mytv.php?id=gsxj&token=free&user=free"
           ]
         },
+	{
+          "name": "原住民電視",
+          "urls": [
+            "http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8"
+          ]
+        },
         {
           "name": "客家電視",
           "urls": [
@@ -2531,13 +2544,15 @@
         {
           "name": "東森新聞",
           "urls": [
-            "http://sytv.xtvants.fun/mytv.php?id=dsxw&token=free&user=free"
+            "http://50.7.61.147:30080/Entry/etnews",
+	    "http://sytv.xtvants.fun/mytv.php?id=dsxw&token=free&user=free"
           ]
         },
         {
           "name": "東森財經新聞",
           "urls": [
-            "http://sytv.xtvants.fun/mytv.php?id=dscj&token=free&user=free"
+            "rtmp://59.124.75.136/sat/tv571",
+	    "http://sytv.xtvants.fun/mytv.php?id=dscj&token=free&user=free"
           ]
         },
         {
@@ -2604,6 +2619,7 @@
           "name": "三立台灣",
           "urls": [
             "https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on",
+	    "http://50.7.61.148:30080/Entry/settw-",
             "http://sytv.xtvants.fun/mytv.php?id=sltw&token=free&user=free"
           ]
         },
@@ -2639,6 +2655,12 @@
           ]
         },
         {
+          "name": "MoMo綜合",
+          "urls": [
+            "rtmp://59.124.75.136/sat/tv761"
+          ]
+        },
+	{
           "name": "MTV綜合",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=mtv&token=free&user=free"
@@ -2647,19 +2669,23 @@
         {
           "name": "TVBS新聞",
           "urls": [
-            "http://sytv.xtvants.fun/mytv.php?id=tvbsxw&token=free&user=free"
+            "rtmp://59.124.75.136/sat/tv551",
+	    "http://50.7.61.148:30080/Entry/tvbsnews",
+	    "http://sytv.xtvants.fun/mytv.php?id=tvbsxw&token=free&user=free"
           ]
         },
         {
           "name": "TVBS歡樂",
           "urls": [
-            "http://sytv.xtvants.fun/mytv.php?id=tvbshl&token=free&user=free"
+            "rtmp://59.124.75.136/sat/tv421",
+	    "http://sytv.xtvants.fun/mytv.php?id=tvbshl&token=free&user=free"
           ]
         },
         {
           "name": "TVBS",
           "urls": [
-            "http://sytv.xtvants.fun/mytv.php?id=tvbs&token=free&user=free"
+            "http://50.7.61.148:30080/Entry/tvbs",
+	    "http://sytv.xtvants.fun/mytv.php?id=tvbs&token=free&user=free"
           ]
         },
         {
@@ -2683,7 +2709,8 @@
         {
           "name": "JET綜合",
           "urls": [
-            "http://sytv.xtvants.fun/mytv.php?id=jet&token=free&user=free"
+            "http://50.7.61.147:30080/Entry/jet",
+	    "http://sytv.xtvants.fun/mytv.php?id=jet&token=free&user=free"
           ]
         },
         {
@@ -2701,7 +2728,8 @@
         {
           "name": "壹新聞",
           "urls": [
-            "http://sytv.xtvants.fun/mytv.php?id=yxw&token=free&user=free"
+            "http://50.7.61.147:30080/Entry/etv",
+	    "http://sytv.xtvants.fun/mytv.php?id=yxw&token=free&user=free"
           ]
         },
         {
@@ -2719,7 +2747,8 @@
         {
           "name": "非凡商業",
           "urls": [
-            "http://sytv.xtvants.fun/mytv.php?id=ffsy&token=free&user=free"
+            "http://50.7.61.147:30080/Entry/ubnbus",
+	    "http://sytv.xtvants.fun/mytv.php?id=ffsy&token=free&user=free"
           ]
         },
         {
@@ -2869,7 +2898,8 @@
         {
           "name": "緯來日本",
           "urls": [
-            "http://sytv.xtvants.fun/mytv.php?id=wlrb&token=free&user=free"
+            "http://50.7.61.147:30080/Entry/vljp"
+	    "http://sytv.xtvants.fun/mytv.php?id=wlrb&token=free&user=free"
           ]
         },
         {
@@ -2891,7 +2921,7 @@
           ]
         },
         {
-          "name": "八大第1",
+          "name": "八大第一",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=bddy&token=free&user=free"
           ]
@@ -3112,6 +3142,12 @@
             "http://sytv.xtvants.fun/mytv.php?id=eyely&token=free&user=free"
           ]
         },
+	{
+          "name": "TLC旅遊生活",
+          "urls": [
+            "http://50.7.61.147:30080/Entry/tlc"
+          ]
+        },
         {
           "name": "霹靂臺灣",
           "urls": [
@@ -3128,6 +3164,24 @@
           "name": "衛視電影",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=wsdy&token=free&user=free"
+          ]
+        },
+	{
+          "name": "衛視中文",
+          "urls": [
+            "http://50.7.61.148:30080/Entry/starchinese"
+          ]
+        },
+	{
+          "name": "AXN",
+          "urls": [
+            "http://50.7.61.148:30080/Entry/axn"
+          ]
+        },
+	{
+          "name": "HBO",
+          "urls": [
+            "http://50.7.61.148:30080/Entry/hbo"
           ]
         },
         {
