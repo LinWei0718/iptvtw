@@ -89,6 +89,76 @@
 		"playUrl": "",
 		"categories": []
 	},
+	{
+            "key": "想看资源",
+            "name": "想看資源",
+            "type": 0,
+            "api": "https://m3u8.xiangkanapi.com/provide/vod/cms/sea/at/xml",
+            "playUrl": "",
+            "categories":[]
+   },
+   {
+            "key": "77电影",
+            "name": "77電影",
+            "type": 1,
+            "api": "https://www.77diany.com/api.php/provide/vod/",
+            "playUrl": "",
+            "categories":[]
+    },
+    {
+            "key": "虾米资源",
+            "name": "蝦米資源",
+            "type": 0,
+            "api": "https://zy.xmflv.vip/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "categories":[]
+    },
+    {
+            "key": "片库网",
+            "name": "片庫網",
+            "type": 0,
+            "api": "https://pianku.wang/api.php/provide/vod/at/xml",
+            "playUrl": ""
+     },
+     {
+            "key": "BL视频",
+            "name": "BL視頻",
+            "type": 0,
+            "api": "https://bljiex.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "categories":[]
+        },
+        {
+            "key": "独播库",
+            "name": "獨播庫",
+            "type": 1,
+            "api": "http://api.dbyunzy.com/api.php/provide/vod/?ac=list",
+            "playUrl": ""
+        },
+        {
+            "key": "看看屋",
+            "name": "看看屋",
+            "type": 0,
+            "api": "http://www.kkkanju.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "categories":[]
+        },
+        {
+            "key": "无极影视",
+            "name": "無極影視",
+            "type": 0,
+            "api": "http://wujiys.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "categories":[]
+        },
+        {
+            "key": "小蜻蜓",
+            "name": "小蜻蜓",
+            "type": 1,
+            "api": "http://3ketv.com/api.php/provide/vod/",
+            "playUrl": "",
+            "categories":[]
+        },
     {
       "key": "红牛资源",
       "name": "红牛資源",
@@ -2309,7 +2379,6 @@
           "name": "大愛2",
           "urls": [
             "https://pulltv2.wanfudaluye.com/live/tv2.m3u8"
-            "https://pulltv1.wanfudaluye.com/live/tv2.m3u8"
           ]
         },
         {
