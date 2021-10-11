@@ -80,9 +80,7 @@
             "type": 0,
             "api": "https://www.mgav1.cc/api.php/provide/vod/at/xml/",
             "playUrl": "",
-            "categories": [
-                
-            ]
+            "categories": []
         },
         {
            "key": "BT天堂（限成年人）",
@@ -90,9 +88,7 @@
             "type": 0,
             "api": "http://bttcj.com/inc/sapi.php",
             "playUrl": "",
-            "categories": [
-                
-            ]
+            "categories": []
         },
       {
                 "key": "极品资源",
