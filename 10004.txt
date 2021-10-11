@@ -3,7 +3,7 @@
   "sites": [
     {
     "key": "csp_Aidi",
-    "name": "爱迪(爬虫)",
+    "name": "愛迪(爬蟲)",
     "type": 3,
     "api": "csp_Aidi",
     "searchable": 1,
@@ -12,7 +12,7 @@
     },  
     {
     "key": "csp_Enlienli",
-    "name": "嗯哩嗯哩(爬虫)",
+    "name": "嗯哩嗯哩(爬蟲)",
     "type": 3,
     "api": "csp_Enlienli",
     "searchable": 1,
@@ -21,7 +21,7 @@
     },
 {
   "key": "csp_Auete",
-  "name": "Auete(爬虫)",
+  "name": "Auete(爬蟲)",
   "type": 3,
   "api": "csp_Auete",
   "searchable": 1,
@@ -30,7 +30,7 @@
 },
 {
   "key": "csp_Cokemv",
-  "name": "Cokemv(爬虫)",
+  "name": "Cokemv(爬蟲)",
   "type": 3,
   "api": "csp_Cokemv",
   "searchable": 1,
@@ -39,7 +39,7 @@
 },
 {
   "key": "csp_Buka",
-  "name": "真不卡(爬虫)",
+  "name": "真不卡(爬蟲)",
   "type": 3,
   "api": "csp_Buka",
   "searchable": 0,
@@ -48,7 +48,7 @@
 },
 {
   "key": "csp_Ysgc",
-  "name": "影视工厂(爬虫)",
+  "name": "影視工廠(爬蟲)",
   "type": 3,
   "api": "csp_Ysgc",
   "searchable": 1,
@@ -57,7 +57,7 @@
 },
 {
   "key": "csp_N0ys",
-  "name": "90影视(爬虫)",
+  "name": "90影視(爬蟲)",
   "type": 3,
   "api": "csp_N0ys",
   "searchable": 1,
@@ -66,7 +66,7 @@
 },
       {
       "key": "红牛资源",
-      "name": "红牛资源",
+      "name": "红牛資源",
       "type": 0,
       "api": "https://www.hongniuzy.com/inc/hnm3u8.php",
       "playUrl": "https://www.tutukiki.com/m3u8/?url=",
@@ -74,6 +74,206 @@
       "filterable": 0,
       "categories": []
     },
+    {
+            "key": "神馬影院",
+            "name": "神馬影院",
+            "type": 0,
+            "api": "http://www.zitv.cc/api.php/provide/vod/at/xml/",
+            "playUrl": "",
+            "categories": []
+        },
+        {
+            "key": "605資源",
+            "name": "605資源",
+            "type": 0,
+            "api": "http://www.605zy.co/inc/605m3u8.php",
+            "playUrl": "",
+            "categories": []
+        },
+        {        
+         "key": "番茄影院",
+            "name": "番茄影院",
+            "type": 0,
+            "api": "http://api.fqzy.cc/api.php/provide/vod/at/xml/",
+            "playUrl": "",
+            "categories": []
+        },
+        {
+         "key": "209資源",
+            "name": "209資源",
+            "type": 0,
+            "api": "http://api.fqzy.cc/api.php/provide/vod/at/xml/",
+            "playUrl": "",
+            "categories": []
+        },
+        {
+         "key": "豆瓣云",
+            "name": "豆瓣云",
+            "type": 0,
+            "api": "http://api.bdyunzy.com/api.php/provide/vod/at/xml/",
+            "playUrl": "",
+            "categories": []
+        },
+        {
+            "key": "8090資源",
+            "name": "8090資源",
+            "type": 0,
+            "api": "http://zy.yilans.net:8090/api.php/provide/vod/at/xml/",
+            "playUrl": "",
+            "categories": []
+        },
+        {
+            "key": "三零資源",
+            "name": "三零資源",
+            "type": 0,
+            "api": "http://api.000zy.com/provide/vod/at/xml/",
+            "playUrl": "",
+            "categories": []
+        },
+        {
+            "key": "ZY資源",
+            "name": "ZY資源",
+            "type": 0,
+            "api": "https://zy.zcocc.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "categories": []
+        },
+        {
+            "key": "明日資源",
+            "name": "明日資源",
+            "type": 0,
+            "api": "http://zy.zcocc.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "categories": []
+        },
+        {
+            "key": "偵探APP",
+            "name": "偵探APP",
+            "type": 0,
+            "api": "http://ys.huangguay.com/api.php/provide/vod/at/xml/",
+            "playUrl": "",
+            "categories": []
+        },
+        {
+            "key": "KK看劇",
+            "name": "KK看劇",
+            "type": 0,
+            "api": "http://www.kkkanju.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "categories": []
+        },
+        {
+            "key": "萌果資源",
+            "name": "萌果資源",
+            "type": 0,
+            "api": "http://api.appearoo.top/api.php/provide/vod/at/xml/",
+            "playUrl": "",
+            "categories": []
+        },
+        {
+            "key": "美劇星球",
+            "name": "美劇星球",
+            "type": 0,
+            "api": "https://www.meijuxq.com/inc/api.php",
+            "playUrl": "",
+            "categories": []
+        },
+        {
+            "key": "老鴨資源",
+            "name": "老鴨資源",
+            "type": 0,
+            "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "categories": []
+        },
+        {
+            "key": "天空資源",
+            "name": "天空資源",
+            "type": 0,
+            "api": "https://caiji.tiankongapi.com/inc/api.php",
+            "playUrl": "",
+            "categories": []
+        },
+        {
+            "key": "八戒云",
+            "name": "八戒云",
+            "type": 0,
+            "api": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
+            "playUrl": "",
+            "categories": []
+        },
+        {
+            "key": "穿梭資源",
+            "name": "穿梭資源",
+            "type": 0,
+            "api": "http://ok.888hyk.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "categories": []
+        },
+        {
+            "key": "速搜資源",
+            "name": "速搜資源",
+            "type": 0,
+            "api": "http://www.susouzy.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "categories": []
+        },
+        {
+            "key": "1886資源",
+            "name": "1886資源",
+            "type": 1,
+            "api": "http://cj.1886zy.co/inc/api.php",
+            "playUrl": "",
+            "categories": []
+        },
+        {
+            "key": "恐怖鴨資源",
+            "name": "恐怖鴨資源",
+            "type": 0,
+            "api": "https://kongbuya.com/api.php/provide/vod/at/xml/",
+            "playUrl": "",
+            "categories": []
+        },
+        {
+            "key": "北斗星",
+            "name": "北斗星",
+            "type": 0,
+            "api": "https://v8.bdxzyapi.com/inc/api.php",
+            "playUrl": "",
+            "categories": []
+        },
+        {
+            "key": "淘片資源",
+            "name": "淘片資源",
+            "type": 0,
+            "api": "https://taopianzy.com/home/cjapi/c4ca4238a0b923820dcc509a6f75849b/vod/xml",
+            "playUrl": "",
+            "categories": []
+        },
+        {
+            "key": "電影牛",
+            "name": "電影牛",
+            "type": 0,
+            "api": "https://www.dianyingn.com/api.php/provide/vod/at/xml/",
+            "playUrl": "",
+            "categories": []
+        },
+        {
+            "key": "好好資源",
+            "name": "好好資源",
+            "type": 0,
+            "api": "http://haohaozy.com/api.php/provide/vod/at/xml/",
+            "playUrl": "",
+            "categories": []
+        },
+        {
+            "key": "影派資源",
+            "name": "影派資源",
+            "type": 0,
+            "api": "https://v.dtjos.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "categories": []
+        },
         {
             "key": "芒果（限成年人）",
             "name": "芒果（限成年人）",
@@ -92,7 +292,7 @@
         },
       {
                 "key": "极品资源",
-                "name": "极品资源",
+                "name": "極品資源",
                 "type": 0,
                 "api": "https://www.jpysvip.net/api.php/provide/vod/at/xml/",
                 "categories": [
@@ -140,7 +340,7 @@
     },
     {
       "key": "柚子资源",
-      "name": "柚子资源",
+      "name": "柚子資源",
       "type": 0,
       "api": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml",
       "playUrl": "",
@@ -167,7 +367,7 @@
     },
     {
       "key": "乐多采集",
-      "name": "乐多采集",
+      "name": "樂多采集",
       "type": 0,
       "api": "https://cj.leduocaiji.com/inc/api.php",
       "playUrl": "https://api.xxctzy.com/1.php?vid=",
@@ -224,7 +424,7 @@
     },
     {
       "key": "2A资源站",
-      "name": "2A资源站",
+      "name": "2A資源站",
       "type": 1,
       "api": "http://zy.zcocc.com/api.php/provide/vod/",
       "playUrl": "",
@@ -266,7 +466,7 @@
     },
     {
       "key": "蘑菇资源",
-      "name": "蘑菇资源",
+      "name": "蘑菇資源",
       "type": 0,
       "api": "http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml/",
       "playUrl": "",
@@ -296,7 +496,7 @@
     },
     {
       "key": "88资源",
-      "name": "88资源",
+      "name": "88資源",
       "type": 0,
       "api": "http://www.88zyw.net/inc/api.php",
       "playUrl": "",
@@ -326,7 +526,7 @@
     },
     {
       "key": "39影视",
-      "name": "39影视",
+      "name": "39影視",
       "type": 0,
       "api": "https://www.39kan.com/api.php/provide/vod/at/xml",
       "playUrl": "",
@@ -348,7 +548,7 @@
     },
     {
       "key": "追剧吧",
-      "name": "追剧吧",
+      "name": "追劇吧",
       "type": 0,
       "api": "http://www.huaxiab.com/api.php/provide/vod/at/xml",
       "playUrl": "",
@@ -2072,7 +2272,7 @@
       ]
     },
     {
-      "group": "港澳臺2",
+      "group": "台灣電視",
       "channels": [
         {
           "name": "民視",
@@ -2081,61 +2281,61 @@
           ]
         },
         {
-          "name": "民視第一臺",
+          "name": "民視第一",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=msdy&token=free&user=free"
           ]
         },
         {
-          "name": "民視臺灣臺",
+          "name": "民視台灣",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=mstw&token=free&user=free"
           ]
         },
         {
-          "name": "民視新聞臺",
+          "name": "民視新聞",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=msxw&token=free&user=free"
           ]
         },
         {
-          "name": "民視影劇臺",
+          "name": "民視影劇",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=msyj&token=free&user=free"
           ]
         },
         {
-          "name": "民視綜藝臺",
+          "name": "民視綜藝",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=mszy&token=free&user=free"
           ]
         },
         {
-          "name": "民視旅遊臺",
+          "name": "民視旅遊",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=msly&token=free&user=free"
           ]
         },
         {
-          "name": "臺視",
+          "name": "台視",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=ts&token=free&user=free"
           ]
         },
         {
-          "name": "臺視新聞臺",
+          "name": "台視新聞",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=tsxw&token=free&user=free"
           ]
         },
         {
-          "name": "臺視財經臺",
+          "name": "台視財經",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=tscj&token=free&user=free"
           ]
         },
         {
-          "name": "臺視綜合臺",
+          "name": "台視綜合",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=tszh&token=free&user=free"
           ]
@@ -2147,19 +2347,19 @@
           ]
         },
         {
-          "name": "中視新聞臺",
+          "name": "中視新聞",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=zsxw&token=free&user=free"
           ]
         },
         {
-          "name": "中視經典臺",
+          "name": "中視經典",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=zsjd&token=free&user=free"
           ]
         },
         {
-          "name": "中視菁采臺",
+          "name": "中視菁采",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=zsjc&token=free&user=free"
           ]
@@ -2171,13 +2371,13 @@
           ]
         },
         {
-          "name": "華視教育體育文化臺",
+          "name": "華視教育體育文化",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=hsjy&token=free&user=free"
           ]
         },
         {
-          "name": "華視新聞資訊臺",
+          "name": "華視新聞資訊",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=hsxw&token=free&user=free"
           ]
@@ -2189,13 +2389,13 @@
           ]
         },
         {
-          "name": "公視臺語臺",
+          "name": "公視台語",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=gs2&token=free&user=free"
           ]
         },
         {
-          "name": "公視3臺",
+          "name": "公視3",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=gs3&token=free&user=free"
           ]
@@ -2207,7 +2407,7 @@
           ]
         },
         {
-          "name": "客家電視臺",
+          "name": "客家電視",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=kjds&token=free&user=free"
           ]
@@ -2267,73 +2467,73 @@
           ]
         },
         {
-          "name": "中天綜合臺",
+          "name": "中天綜合",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=ztzh&token=free&user=free"
           ]
         },
         {
-          "name": "中天娛樂臺",
+          "name": "中天娛樂",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=ztyl&token=free&user=free"
           ]
         },
         {
-          "name": "中天亞洲臺",
+          "name": "中天亞洲",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=ztyz&token=free&user=free"
           ]
         },
         {
-          "name": "三立臺灣臺",
+          "name": "三立台灣",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=sltw&token=free&user=free"
           ]
         },
         {
-          "name": "三立都會臺",
+          "name": "三立都會",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=sldh&token=free&user=free"
           ]
         },
         {
-          "name": "三立新聞臺",
+          "name": "三立新聞",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=slxw&token=free&user=free"
           ]
         },
         {
-          "name": "三立財經臺",
+          "name": "三立財經",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=slcj&token=free&user=free"
           ]
         },
         {
-          "name": "三立綜合臺",
+          "name": "三立綜合",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=slzh&token=free&user=free"
           ]
         },
         {
-          "name": "三立戲劇臺",
+          "name": "三立戲劇",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=slxj&token=free&user=free"
           ]
         },
         {
-          "name": "MTV綜合臺",
+          "name": "MTV綜合",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=mtv&token=free&user=free"
           ]
         },
         {
-          "name": "TVBS新聞臺",
+          "name": "TVBS新聞",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=tvbsxw&token=free&user=free"
           ]
         },
         {
-          "name": "TVBS歡樂臺",
+          "name": "TVBS歡樂",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=tvbshl&token=free&user=free"
           ]
@@ -2345,7 +2545,7 @@
           ]
         },
         {
-          "name": "TVBS精采臺",
+          "name": "TVBS精采",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=tvbsjc&token=free&user=free"
           ]
@@ -2363,7 +2563,7 @@
           ]
         },
         {
-          "name": "JET綜合臺",
+          "name": "JET綜合",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=jet&token=free&user=free"
           ]
@@ -2393,37 +2593,37 @@
           ]
         },
         {
-          "name": "非凡新聞臺",
+          "name": "非凡新聞",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=ffxw&token=free&user=free"
           ]
         },
         {
-          "name": "非凡商業臺",
+          "name": "非凡商業",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=ffsy&token=free&user=free"
           ]
         },
         {
-          "name": "寰宇新聞臺",
+          "name": "寰宇新聞",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=hyxw&token=free&user=free"
           ]
         },
         {
-          "name": "寰宇新聞臺灣臺",
+          "name": "寰宇新聞台灣",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=hyxw2&token=free&user=free"
           ]
         },
         {
-          "name": "寰宇綜合臺",
+          "name": "寰宇綜合",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=hyzh&token=free&user=free"
           ]
         },
         {
-          "name": "亞洲旅遊臺",
+          "name": "亞洲旅遊",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=yzly&token=free&user=free"
           ]
@@ -2465,7 +2665,7 @@
           ]
         },
         {
-          "name": "博斯運動一臺",
+          "name": "博斯運動一",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=bsyd&token=free&user=free"
           ]
@@ -2477,7 +2677,7 @@
           ]
         },
         {
-          "name": "博斯運動二臺",
+          "name": "博斯運動二",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=bsyd2&token=free&user=free"
           ]
@@ -2489,7 +2689,7 @@
           ]
         },
         {
-          "name": "博斯無限二臺",
+          "name": "博斯無限二",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=bswx2&token=free&user=free"
           ]
@@ -2537,103 +2737,103 @@
           ]
         },
         {
-          "name": "緯來綜合臺",
+          "name": "緯來綜合",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=wlzh&token=free&user=free"
           ]
         },
         {
-          "name": "緯來戲劇臺",
+          "name": "緯來戲劇",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=wlxj&token=free&user=free"
           ]
         },
         {
-          "name": "緯來日本臺",
+          "name": "緯來日本",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=wlrb&token=free&user=free"
           ]
         },
         {
-          "name": "緯來電影臺",
+          "name": "緯來電影",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=wldy&token=free&user=free"
           ]
         },
         {
-          "name": "緯來體育臺",
+          "name": "緯來體育",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=wlty&token=free&user=free"
           ]
         },
         {
-          "name": "緯來育樂臺",
+          "name": "緯來育樂",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=wlyl&token=free&user=free"
           ]
         },
         {
-          "name": "八大第1臺",
+          "name": "八大第1",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=bddy&token=free&user=free"
           ]
         },
         {
-          "name": "八大綜合臺",
+          "name": "八大綜合",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=bdzh&token=free&user=free"
           ]
         },
         {
-          "name": "八大戲劇臺",
+          "name": "八大戲劇",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=bdxj&token=free&user=free"
           ]
         },
         {
-          "name": "八大娛樂臺",
+          "name": "八大娛樂",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=bdyl&token=free&user=free"
           ]
         },
         {
-          "name": "八大精彩臺",
+          "name": "八大精彩",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=bdjc&token=free&user=free"
           ]
         },
         {
-          "name": "愛爾達體育1臺",
+          "name": "愛爾達體育1",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=aedty&token=free&user=free"
           ]
         },
         {
-          "name": "愛爾達體育2臺",
+          "name": "愛爾達體育2",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=aedty2&token=free&user=free"
           ]
         },
         {
-          "name": "愛爾達體育3臺",
+          "name": "愛爾達體育3",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=aedty3&token=free&user=free"
           ]
         },
         {
-          "name": "愛爾達影劇臺",
+          "name": "愛爾達影劇",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=aedyj&token=free&user=free"
           ]
         },
         {
-          "name": "愛爾達綜合臺",
+          "name": "愛爾達綜合",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=aedzh&token=free&user=free"
           ]
         },
         {
-          "name": "愛爾達娛樂臺",
+          "name": "愛爾達娛樂",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=aedyl&token=free&user=free"
           ]
@@ -2645,31 +2845,31 @@
           ]
         },
         {
-          "name": "智林體育臺",
+          "name": "智林體育",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=zlty&token=free&user=free"
           ]
         },
         {
-          "name": "韓國娛樂臺",
+          "name": "韓國娛樂",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=hgyl&token=free&user=free"
           ]
         },
         {
-          "name": "靖洋卡通臺",
+          "name": "靖洋卡通",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=jykt&token=free&user=free"
           ]
         },
         {
-          "name": "靖天卡通臺",
+          "name": "靖天卡通",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=jtkt&token=free&user=free"
           ]
         },
         {
-          "name": "靖天資訊臺",
+          "name": "靖天資訊",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=jtzx&token=free&user=free"
           ]
@@ -2681,19 +2881,19 @@
           ]
         },
         {
-          "name": "靖天育樂臺",
+          "name": "靖天育樂",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=jtyl&token=free&user=free"
           ]
         },
         {
-          "name": "靖天戲劇臺",
+          "name": "靖天戲劇",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=jtxj&token=free&user=free"
           ]
         },
         {
-          "name": "靖洋戲劇臺",
+          "name": "靖洋戲劇",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=jyxj&token=free&user=free"
           ]
@@ -2705,97 +2905,97 @@
           ]
         },
         {
-          "name": "靖天電影臺",
+          "name": "靖天電影",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=jtdy&token=free&user=free"
           ]
         },
         {
-          "name": "靖天國際臺",
+          "name": "靖天國際",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=jtgj&token=free&user=free"
           ]
         },
         {
-          "name": "靖天日本臺",
+          "name": "靖天日本",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=jtrb&token=free&user=free"
           ]
         },
         {
-          "name": "靖天歡樂臺",
+          "name": "靖天歡樂",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=jthl&token=free&user=free"
           ]
         },
         {
-          "name": "MOMO綜合臺",
+          "name": "MOMO綜合",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=mmzh&token=free&user=free"
           ]
         },
         {
-          "name": "MOMO親子臺",
+          "name": "MOMO親子",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=mmqz&token=free&user=free"
           ]
         },
         {
-          "name": "i-Fun動漫臺",
+          "name": "i-Fun動漫",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=afdm&token=free&user=free"
           ]
         },
         {
-          "name": "高點綜合臺",
+          "name": "高點綜合",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=gdzh&token=free&user=free"
           ]
         },
         {
-          "name": "高點育樂臺",
+          "name": "高點育樂",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=gdyl&token=free&user=free"
           ]
         },
         {
-          "name": "采昌影劇臺",
+          "name": "采昌影劇",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=ccyj&token=free&user=free"
           ]
         },
         {
-          "name": "影迷數位電影臺",
+          "name": "影迷數位電影",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=ymswdy&token=free&user=free"
           ]
         },
         {
-          "name": "CATCHPLAY電影臺",
+          "name": "CATCHPLAY電影",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=catchplay&token=free&user=free"
           ]
         },
         {
-          "name": "好萊塢電影臺",
+          "name": "好萊塢電影",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=hlwdy&token=free&user=free"
           ]
         },
         {
-          "name": "EYE TV戲劇臺",
+          "name": "EYE TV戲劇",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=eyexj&token=free&user=free"
           ]
         },
         {
-          "name": "EYE TV旅遊臺",
+          "name": "EYE TV旅遊",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=eyely&token=free&user=free"
           ]
         },
         {
-          "name": "霹靂臺灣臺",
+          "name": "霹靂臺灣",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=pltw&token=free&user=free"
           ]
@@ -2807,13 +3007,13 @@
           ]
         },
         {
-          "name": "衛視電影臺",
+          "name": "衛視電影",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=wsdy&token=free&user=free"
           ]
         },
         {
-          "name": "龍祥電影臺",
+          "name": "龍祥電影",
           "urls": [
             "http://sytv.xtvants.fun/mytv.php?id=lxsd&token=free&user=free"
           ]
