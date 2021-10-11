@@ -64,6 +64,101 @@
   "quickSearch": 0,
   "filterable": 0
 },
+{
+  "key": "csp_Ubo",
+  "name": "U播影視(爬蟲)",
+  "type": 3,
+  "api": "csp_Ubo",
+  "searchable": 1,
+  "quickSearch": 0,
+  "filterable": 1
+},
+{
+		"key": "星辰资源",
+		"name": "星辰資源",
+		"type": 1,
+		"api": "http://www.zycaiji.net:7788/api.php/provide/vod",
+		"playUrl": "",
+		"categories": []
+	},
+  {
+		"key": "乐喵资源",
+		"name": "樂喵資源",
+		"type": 0,
+		"api": "https://98hyk.cn/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+  {
+            "key": "想看资源",
+            "name": "想看資源",
+            "type": 0,
+            "api": "https://m3u8.xiangkanapi.com/provide/vod/cms/sea/at/xml",
+            "playUrl": "",
+            "categories":[]
+   },
+   {
+            "key": "77电影",
+            "name": "77電影",
+            "type": 1,
+            "api": "https://www.77diany.com/api.php/provide/vod/",
+            "playUrl": "",
+            "categories":[]
+    },
+    {
+            "key": "虾米资源",
+            "name": "蝦米資源",
+            "type": 0,
+            "api": "https://zy.xmflv.vip/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "categories":[]
+    },
+    {
+            "key": "片库网",
+            "name": "片庫網",
+            "type": 0,
+            "api": "https://pianku.wang/api.php/provide/vod/at/xml",
+            "playUrl": ""
+     },
+     {
+            "key": "BL视频",
+            "name": "BL視頻",
+            "type": 0,
+            "api": "https://bljiex.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "categories":[]
+        },
+        {
+            "key": "独播库",
+            "name": "獨播庫",
+            "type": 1,
+            "api": "http://api.dbyunzy.com/api.php/provide/vod/?ac=list",
+            "playUrl": ""
+        },
+        {
+            "key": "看看屋",
+            "name": "看看屋",
+            "type": 0,
+            "api": "http://www.kkkanju.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "categories":[]
+        },
+        {
+            "key": "无极影视",
+            "name": "無極影視",
+            "type": 0,
+            "api": "http://wujiys.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "categories":[]
+        },
+        {
+            "key": "小蜻蜓",
+            "name": "小蜻蜓",
+            "type": 1,
+            "api": "http://3ketv.com/api.php/provide/vod/",
+            "playUrl": "",
+            "categories":[]
+        },
       {
       "key": "红牛资源",
       "name": "红牛資源",
@@ -2275,8 +2370,28 @@
       "group": "台灣電視",
       "channels": [
         {
+          "name": "大愛",
+          "urls": [
+            "https://pulltv1.wanfudaluye.com/live/tv1.m3u8"
+          ]
+        },
+        {
+          "name": "大愛2",
+          "urls": [
+            "https://pulltv2.wanfudaluye.com/live/tv2.m3u8"
+            "https://pulltv1.wanfudaluye.com/live/tv2.m3u8"
+          ]
+        },
+        {
+          "name": "大愛海外",
+          "urls": [
+            "https://pulltv3.wanfudaluye.com/live/tv3.m3u8"
+          ]
+        },
+        {
           "name": "民視",
           "urls": [
+            "http://50.7.61.147:30080/Entry/ftv"
             "http://sytv.xtvants.fun/mytv.php?id=ms&token=free&user=free"
           ]
         },
@@ -2343,6 +2458,7 @@
         {
           "name": "中視",
           "urls": [
+            "rtmp://59.124.75.136/sat/tv091"
             "http://sytv.xtvants.fun/mytv.php?id=zs&token=free&user=free"
           ]
         },
@@ -2487,12 +2603,14 @@
         {
           "name": "三立台灣",
           "urls": [
+            "https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on"
             "http://sytv.xtvants.fun/mytv.php?id=sltw&token=free&user=free"
           ]
         },
         {
           "name": "三立都會",
           "urls": [
+            "https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on"
             "http://sytv.xtvants.fun/mytv.php?id=sldh&token=free&user=free"
           ]
         },
