@@ -74,6 +74,51 @@
   "filterable": 1
 },
 {
+    "key": "csp_EPangApp",
+    "name": "阿房影視(爬蟲)",
+    "type": 3,
+    "api": "csp_EPangApp",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+ },
+ {
+    "key": "csp_Zjdr",
+    "name": "追劇達人(爬蟲)",
+    "type": 3,
+    "api": "csp_Zjdr",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+   },
+   {
+      "key": "csp_Nekk",
+      "name": "9E看看(爬蟲)",
+      "type": 3,
+      "api": "csp_Nekk",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "百度采集",
+      "name": "百度采集",
+      "type": 1,
+      "api": "https://api.bdjx.vip/api.php/provide/vod/at/xml:",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "百度采集2",
+      "name": "百度采集2",
+      "type": 1,
+      "api": "https://api.bdjx.vip/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
 		"key": "星辰资源",
 		"name": "星辰資源",
 		"type": 1,
@@ -385,6 +430,30 @@
             "playUrl": "",
             "categories": []
         },
+	{
+      "key": "優果（限成年人）",
+      "name": "優果（限成年人）",
+      "type": 0,
+      "api": "https://www.ugirl6.com/inc/zyapimac.php",
+      "playUrl": "",
+      "categories": []
+        },
+	    {
+      "key": "番号（限成年人）",
+      "name": "番号（限成年人）",
+      "type": 0,
+      "api": "http://fhapi9.com/api.php/Seacms/vod/at/xml",
+      "playUrl": "",
+      "categories": []
+    },
+    {
+      "key": "桃色（限成年人）",
+      "name": "桃色（限成年人）",
+      "type": 0,
+      "api": "https://cj.taoseapi.com/inc/api.php",
+      "playUrl": "",
+      "categories": []
+    },
       {
                 "key": "极品资源",
                 "name": "極品資源",
