@@ -430,30 +430,6 @@
             "playUrl": "",
             "categories": []
         },
-	{
-      "key": "優果（限成年人）",
-      "name": "優果（限成年人）",
-      "type": 0,
-      "api": "https://www.ugirl6.com/inc/zyapimac.php",
-      "playUrl": "",
-      "categories": []
-        },
-	    {
-      "key": "番号（限成年人）",
-      "name": "番号（限成年人）",
-      "type": 0,
-      "api": "http://fhapi9.com/api.php/Seacms/vod/at/xml",
-      "playUrl": "",
-      "categories": []
-    },
-    {
-      "key": "桃色（限成年人）",
-      "name": "桃色（限成年人）",
-      "type": 0,
-      "api": "https://cj.taoseapi.com/inc/api.php",
-      "playUrl": "",
-      "categories": []
-    },
       {
                 "key": "极品资源",
                 "name": "極品資源",
@@ -738,6 +714,453 @@
         "泰国剧",
         "论理片"
       ]
+    },
+    {
+      "key": "韓劇資源",
+      "name": "韓劇資源",
+      "type": 0,
+      "api": "http://www.hanjuzy.com/inc/api.php",
+      "playUrl": "https://jx.aidouer.net/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "三九美劇",
+      "name": "三九美劇",
+      "type": 0,
+      "api": "https://www.999meiju.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "迪迪影院",
+      "name": "迪迪影院",
+      "type": 1,
+      "api": "http://dd88.icu:6080/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "飄花資源",
+      "name": "飄花資源",
+      "type": 0,
+      "api": "http://www.zzrhgg.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "蝸牛看鴨",
+      "name": "蝸牛看鴨",
+      "type": 0,
+      "api": "http://snailkya.xyz/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "One影視",
+      "name": "One影視",
+      "type": 0,
+      "api": "http://www.onedianshi.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "靈智",
+      "name": "靈智",
+      "type": 0,
+      "api": "https://app.linzhiyuan.xyz/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "趣看視訊",
+      "name": "趣看視訊",
+      "type": 0,
+      "api": "http://qkmp4.cn/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "博天堂（限成年人）",
+      "name": "博天堂（限成年人）",
+      "type": 0,
+      "api": "http://bttcj.com/inc/sapi.php",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "77資源（限成年人）",
+      "name": "77資源（限成年人）",
+      "type": 0,
+      "api": "https://www.77zy.vip/inc/m3u8.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "水蜜桃（限成年人）",
+      "name": "水蜜桃（限成年人）",
+      "type": 0,
+      "api": "http://51smt4.xyz/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "大地資源（限成年人）",
+      "name": "大地資源（限成年人）",
+      "type": 0,
+      "api": "https://dadiapi.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "老鴨資源2（限成年人）",
+      "name": "老鴨資源2（限成年人）",
+      "type": 0,
+      "api": "http://laoyazy.vip/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "花菜資源（限成年人）",
+      "name": "花菜資源（限成年人）",
+      "type": 0,
+      "api": "https://apihjzy.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "麻椒資源（限成年人）",
+      "name": "麻椒資源（限成年人）",
+      "type": 0,
+      "api": "http://api.11bat.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "樂播資源（限成年人）",
+      "name": "樂播資源（限成年人）",
+      "type": 0,
+      "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "趣播資源（限成年人）",
+      "name": "趣播資源（限成年人）",
+      "type": 0,
+      "api": "https://www.qbzyz.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "環亞資源（限成年人）",
+      "name": "環亞資源（限成年人）",
+      "type": 0,
+      "api": "http://wmcj8.com/inc/sapi.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "JAV名優（限成年人）",
+      "name": "JAV名優（限成年人）",
+      "type": 0,
+      "api": "http://mygzycj.com/sapi.php?ac=videolist",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "AVZY6888資源（限成年人）",
+      "name": "AVZY6888資源（限成年人）",
+      "type": 0,
+      "api": "http://m.7777688.com/inc/api.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "佳麗資源（限成年人）",
+      "name": "佳麗資源（限成年人）",
+      "type": 0,
+      "api": "https://jialiapi.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "番號資源（限成年人）",
+      "name": "番號資源（限成年人）",
+      "type": 0,
+      "api": "http://fhapi9.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "蒼天資源（限成年人）",
+      "name": "蒼天資源（限成年人）",
+      "type": 0,
+      "api": "http://cj.cangtiancj.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "速度資源（限成年人）",
+      "name": "速度資源（限成年人）",
+      "type": 0,
+      "api": "http://www.ggmmzy.com:9999/inc/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "優梨（限成年人）",
+      "name": "優梨（限成年人）",
+      "type": 0,
+      "api": "https://www.ugzyz5.com/inc/zyapimac.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "桃色（限成年人）",
+      "name": "桃色（限成年人）",
+      "type": 0,
+      "api": "https://cj.taoseapi.com/inc/api.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "優果（限成年人）",
+      "name": "優果（限成年人）",
+      "type": 0,
+      "api": "https://www.ugvapi.com/inc/zyapimac.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "老鴨資源（限成年人）",
+      "name": "老鴨資源（限成年人）",
+      "type": 0,
+      "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml",
+      "playUrl": "https://player.laoyam3u8.com/aliplayer/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "絲襪（限成年人）",
+      "name": "絲襪（限成年人）",
+      "type": 0,
+      "api": "https://www.siwazyw.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "芒果1（限成年人）",
+      "name": "芒果1（限成年人）",
+      "type": 0,
+      "api": "https://www.mgav1.cc/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "BT天堂（限成年人）",
+      "name": "BT天堂（限成年人）",
+      "type": 0,
+      "api": "http://bttcj.com/inc/sapi.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "秀色（限成年人）",
+      "name": "秀色（限成年人）",
+      "type": 0,
+      "api": "https://api.xiuseapi.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "茄子（限成年人）",
+      "name": "茄子（限成年人）",
+      "type": 0,
+      "api": "https://qiezizy.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "芒果2（限成年人）",
+      "name": "芒果2（限成年人）",
+      "type": 0,
+      "api": "https://mgzyz1.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "桃色（限成年人）",
+      "name": "桃色（限成年人）",
+      "type": 0,
+      "api": "https://cj.taoseapi.com/inc/api.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "玖玖（限成年人）",
+      "name": "玖玖（限成年人）",
+      "type": 0,
+      "api": "http://99zywcj.com/inc/sck.php?ac=videolist",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "久草（限成年人）",
+      "name": "久草（限成年人）",
+      "type": 0,
+      "api": "http://jcspcj8.com/sapi?ac=videolist",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "利來（限成年人）",
+      "name": "利來（限成年人）",
+      "type": 0,
+      "api": "http://llzxcj.com/inc/sck.php?ac=videolist",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "字幕網（限成年人）",
+      "name": "字幕網（限成年人）",
+      "type": 0,
+      "api": "http://zmcj88.com/sapi?ac=videolist",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "優果（限成年人）",
+      "name": "優果（限成年人）",
+      "type": 0,
+      "api": "https://www.ugirl6.com/inc/zyapimac.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "辣椒（限成年人）",
+      "name": "辣椒（限成年人）",
+      "type": 0,
+      "api": "http://www.lajiaozy18.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "老鴨（限成年人）",
+      "name": "老鴨（限成年人）",
+      "type": 0,
+      "api": "http://laoyazy5.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "BB資源（限成年人）",
+      "name": "BB資源（限成年人）",
+      "type": 0,
+      "api": "http://bbzy.cc/inc/maccms10.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "番號（限成年人）",
+      "name": "番號（限成年人）",
+      "type": 0,
+      "api": "http://fhapi9.com/api.php/Seacms/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "100ai（限成年人）",
+      "name": "100ai（限成年人）",
+      "type": 0,
+      "api": "http://www.010aizy.com/API/maxs.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "狼少年（限成年人）",
+      "name": "狼少年（限成年人）",
+      "type": 0,
+      "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "百度倫理（限成年人）",
+      "name": "百度倫理（限成年人）",
+      "type": 0,
+      "api": "http://www.llbdzy.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        null,
+        "倫理"
+      ]
+    },
+    {
+      "key": "富二代（限成年人）",
+      "name": "富二代（限成年人）",
+      "type": 0,
+      "api": "http://f2dcj6.com/sapi?ac=videolist",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "鯊魚資源（限成年人）",
+      "name": "鯊魚資源（限成年人）",
+      "type": 0,
+      "api": "https://shayuapi.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     }
   ],
   "lives": [
