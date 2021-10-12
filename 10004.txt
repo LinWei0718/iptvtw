@@ -2898,7 +2898,7 @@
         {
           "name": "緯來日本",
           "urls": [
-            "http://50.7.61.147:30080/Entry/vljp"
+            "http://50.7.61.147:30080/Entry/vljp",
 	    "http://sytv.xtvants.fun/mytv.php?id=wlrb&token=free&user=free"
           ]
         },
