@@ -2392,7 +2392,7 @@
           "name": "民視",
           "urls": [
             "http://50.7.61.147:30080/Entry/ftv",
-	    "rtmp://59.124.75.136/sat/tv051".
+	    "rtmp://59.124.75.136/sat/tv051",
             "http://sytv.xtvants.fun/mytv.php?id=ms&token=free&user=free"
           ]
         },
