@@ -106,39 +106,6 @@ TVBS,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs&tonken=32d1adfdffa
 龍華電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlhdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 緯來電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwldy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 緯來體育,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwlty&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
-民視新聞,http://sytv.xtvants.fun/mytv.php?id=msxw&token=free&user=free
-台視新聞,http://sytv.xtvants.fun/mytv.php?id=tsxw&token=free&user=free
-中視新聞,http://sytv.xtvants.fun/mytv.php?id=zsxw&token=free&user=free
-華視新聞,http://sytv.xtvants.fun/mytv.php?id=hsxw&token=free&user=free
-東森新聞,http://sytv.xtvants.fun/mytv.php?id=dsxw&token=free&user=free
-中天新聞,http://sytv.xtvants.fun/mytv.php?id=ztxw&token=free&user=free
-三立新聞,http://sytv.xtvants.fun/mytv.php?id=slxw&token=free&user=free
-TVBS,http://sytv.xtvants.fun/mytv.php?id=tvbsxw&token=free&user=free
-年代新聞,http://sytv.xtvants.fun/mytv.php?id=ndxw&token=free&user=free
-壹新聞,http://sytv.xtvants.fun/mytv.php?id=yxw&token=free&user=free
-非凡新聞,http://sytv.xtvants.fun/mytv.php?id=ffxw&token=free&user=free
-寰宇新聞,http://sytv.xtvants.fun/mytv.php?id=hyxw&token=free&user=free
-寰宇新聞2,http://sytv.xtvants.fun/mytv.php?id=hyxw2&token=free&user=free
-美亞電影,http://xiaojun.cyou/code/?code=iptv&c=3&id=89
-天映經典,http://xiaojun.cyou/code/?code=iptv&c=3&id=90
-天映頻道,http://xiaojun.cyou/code/?code=iptv&c=3&id=15
-東森電影,http://xiaojun.cyou/code/?code=iptv&c=3&id=29
-東森新聞,http://xiaojun.cyou/code/?code=iptv&c=3&id=33
-非凡新聞,http://xiaojun.cyou/code/?code=iptv&c=3&id=6
-寰宇新聞,http://xiaojun.cyou/code/?code=iptv&c=3&id=85
-龍翔時代,http://xiaojun.cyou/code/?code=iptv&c=3&id=14
-民視新聞,http://xiaojun.cyou/code/?code=iptv&c=3&id=5
-年代新聞,http://xiaojun.cyou/code/?code=iptv&c=3&id=7
-三立新聞,http://xiaojun.cyou/code/?code=iptv&c=3&id=26
-台視新聞,http://xiaojun.cyou/code/?code=iptv&c=3&id=45
-TVBS新聞,http://xiaojun.cyou/code/?code=iptv&c=3&id=38
-緯來電影,http://xiaojun.cyou/code/?code=iptv&c=3&id=9
-緯來體育,http://xiaojun.cyou/code/?code=iptv&c=3&id=11
-衛視電影,http://xiaojun.cyou/code/?code=iptv&c=3&id=16
-壹新聞,http://xiaojun.cyou/code/?code=iptv&c=3&id=34
-中視,http://xiaojun.cyou/code/?code=iptv800&id=82
-中視新聞,http://xiaojun.cyou/code/?code=iptv&c=3&id=19
-中天新聞,http://xiaojun.cyou/code/?code=iptv&c=3&id=42
 中視,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8
 中視經典,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
 中視菁采,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
@@ -154,11 +121,6 @@ TVBS新聞,http://xiaojun.cyou/code/?code=iptv&c=3&id=38
 星空音樂,rtmp://58.200.131.3:1935/livetv/channelv
 三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
-ELTA綜合,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
-亞洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
-HBO原創鉅獻,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
-BBC自然知性,http://198.16.106.62:8278/streams/d/bbcearthhd_zero/playlist.m3u8
-BBC生活風格,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 經典功夫台,http://103.140.229.13/BOBO/bibi.php?id=21715386
 經典功夫台,http://ftp9524803.host166.gotoip4.cn/bilibili.php?id=21715386
 ONe,http://93.190.139.35:8278/streams/d/One/playlist.m3u8
@@ -260,9 +222,6 @@ Hit Fm 107.7,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hitfm.m3u8
 孝廉電視,http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
 原住民電視,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 NHK華語,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-星空衛視,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/startv.m3u8
-國家地理,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/natlgeo.m3u8
-探索頻道,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/discovery.m3u8
 eleven體育1,http://125.227.210.37:10677/VideoInput/play.ts
 探索亞洲,http://125.227.210.37:10388/VideoInput/play.ts
 年代新聞,http://125.227.210.37:11055/VideoInput/play.ts
@@ -296,50 +255,7 @@ TV5亞洲,http://125.227.210.55:8937/VideoInput/play.ts#http://125.227.210.37:89
 NHKbs1,http://125.227.210.55:8939/VideoInput/play.ts#http://125.227.210.37:8939/VideoInput/play.ts
 NHKbsp,http://125.227.210.55:8940/VideoInput/play.ts#http://125.227.210.37:8940/VideoInput/play.ts
 BBCworld,http://125.227.210.55:10246/VideoInput/play.ts#http://125.227.210.37:10246/VideoInput/play.ts
-CNN,http://125.227.210.55:10797/VideoInput/play.ts#http://125.227.210.37:10797/VideoInput/play.ts   
-八大娛樂,p5p://45.92.126.18:9906/6044d70900008dea02faddc78bf8a126.ts
-衛視電影,p5p://45.92.126.18:9906/60494c90000347391465f5d2b8473dbe.ts
-星衛電影,p5p://45.92.126.18:9906/6044d33b0006a70302ec02a7d10a2600.ts
-美亞電影,p5p://45.92.126.18:9906/60494bf1000472fc14638907b18fe55b.ts
-龍華電影,p5p://45.92.126.18:9906/604426fa000c13eb004b26236e73affa.ts
-龍華洋片,p5p://45.92.126.18:9906/6044287d000e2bb500510e64fec426ab.ts
-龍華戲劇,p5p://45.92.126.18:9906/60442a110002751300573584bb335a71.ts
-愛爾達影劇,p5p://45.92.126.18:9906/6044382f0001bdea008e5a851f8cf009.ts
-好萊塢電影,p5p://45.92.126.18:9906/6044d78800021f9602fcce46b541cf65.ts
-壹電影,p5p://45.92.126.18:9906/60434a87000b209606cdef9cee9a8dfe.ts
-華納電影,p5p://45.92.126.18:9906/604414f400055b780004bcfa6ee82d22.ts
-龍祥時代電影,p5p://45.92.126.18:9906/6045bb31000469b906761b04cfa6bdb1.ts
-中天新聞,p5p://0198.02686.cc:16871/5f2f9178000c4ec022496d33f280ef95
-八大綜合,p5p://0198.02686.cc:16871/5f2e5a5b0000b78e1d8a20f34de5f2ac
-中視,p5p://0198.02686.cc:16871/5f3656bb000a656c3cbbfa6d262e3d24
-台視,p5p://0198.02686.cc:16871/5f2e53b0000e6e031d70187e387dbafc
-民視,p5p://0198.02686.cc:16871/5d8f08b60007eeea22db58419a492c10
-TVBS HD,p5p://0198.02686.cc:16871/5f2f921c0007177d224bec7d6634f95e
-TVBS新聞,p5p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5
-TVBS歡樂,p5p://0198.02686.cc:16871/5dbad7cb0007c9accdfc423fb19c38d1
-東森戲劇,p5p://0198.02686.cc:16871/5f2e5ed20008e6ef1d9b93e3bf1b4576
-緯來綜合,p5p://0198.02686.cc:16871/5f2e576a000315281d7ea426671c8418
-緯來戲劇,p5p://0198.02686.cc:16871/5e0f37bd00040a5217930a9af969bce1
-緯來電影,p5p://0198.02686.cc:16871/5d1a69ce0005e8e911be435423cf0509
-緯來體育,p5p://0198.02686.cc:16871/5f380f20000a96e143744502c1b95f9e
-龍華戲劇,p5p://0198.02686.cc:16871/5f380947000effbb435d6e7b21bc4ac1
-NBA體育,p5p://0198.02686.cc:16871/5f37fa45000952ee4322cd372e7f83d7
-Z頻道,p5p://0198.02686.cc:16871/5d1a69ac000bbbd711bdc002921c2017
-韓國娛樂,p5p://0198.02686.cc:16871/5f37e3320006cbf642c8aa594b534295
-華納電影,p5p://0198.02686.cc:16871/5f38036c000adb5e43468df4826231f4
-K PLUS,p5p://0198.02686.cc:16871/5f380ea60005e9564372673f4fa697fd
-FS2,p5p://0198.02686.cc:16871/5f380e240003cc3b43706ae59184d531
-FOX體育2,p5p://0198.02686.cc:16871/5f2fad7f0006356c22b6e6fb18281642
-技擊運動,p5p://0198.02686.cc:16871/5f3805dd0003b40b43501587f25789b3
-國家地理悠人,p5p://0198.02686.cc:16871/5f37d0fb00088f51428183f5a24c108a.ts
-罪案偵緝,p5p://0198.02686.cc:16871/5f37c7ab0006a300425d22f785b390d0.ts
-愛奇藝,p5p://0198.02686.cc:16871/5f38d81300083da4468539a0eb8d0c0a.ts#p5p://0198.02686.cc:16871/5f38d81300083da4468539a0eb8d0c0a.ts
-AEC,p5p://0198.02686.cc:16871/5ebce360000578b04d059fff4c2e3e3b.ts#p5p://0198.02686.cc:16871/5ebce360000578b04d059fff4c2e3e3b.ts
-OD,p5p://0198.02686.cc:16871/5f2c09ae00029cc4147efda7dcc27dfc.ts#p5p://0198.02686.cc:16871/5f2c09ae00029cc4147efda7dcc27dfc.ts
-双星,p5p://0198.02686.cc:16871/5f38d8fd000caa6e4688ccd211ea705f.ts#p5p://0198.02686.cc:16871/5f38d8fd000caa6e4688ccd211ea705f.ts
-欢喜台,p5p://0198.02686.cc:16871/5ecfb90800040601969837e0aa1efa5c.ts#p5p://0198.02686.cc:16871/5ecfb90800040601969837e0aa1efa5c.ts
-小太陽,p5p://0198.02686.cc:16871/5f38d9ab000293e0468b71ed0ce28214.ts#p5p://0198.02686.cc:16871/5f38d9ab000293e0468b71ed0ce28214.ts
-ONe,p5p://0198.02686.cc:16871/5f6ac2ff000df70f6abcbcb9c0ae25c3.ts
+CNN,http://125.227.210.55:10797/VideoInput/play.ts#http://125.227.210.37:10797/VideoInput/play.ts
 📻台灣4gTV,#genre#
 民視台灣,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv001
 民視,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv002
@@ -403,10 +319,10 @@ V0A美國之音,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv03
 民視旅遊,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv07
 民視影劇,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv09
 半島國際新聞,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv10
-民視新聞台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv13
+民視新聞,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv13
 愛放i-Fun動漫,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv15
-好訊息,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv16
-好訊息2,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv17
+好消息,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv16
+好消息2,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv17
 龍華卡通,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn01
 BabyFirst,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn02
 龍華電影,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn03
@@ -428,7 +344,7 @@ BabyFirst,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn02
 FashionOne,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn19
 ELTV英語,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn20
 龍華經典,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn21
-📺台灣TW直播,#genre#
+📺台灣直播,#genre#
 民視,http://sytv.xtvants.fun/mytv.php?id=ms&token=free&user=free
 民視第一,http://sytv.xtvants.fun/mytv.php?id=msdy&token=free&user=free
 民視台灣,http://sytv.xtvants.fun/mytv.php?id=mstw&token=free&user=free
@@ -580,6 +496,49 @@ VIU TV6,p5p://fccs.123178.top:9906/6048a78000060c3711e13007fb8dc89b.ts
 香港福斯電影,p5p://fccs.123178.top:9906/60693d0e000cf43215b666ef7701d76e.ts
 星空衛視,p5p://fccs.123178.top:9906/60463ee9000522e20878a1f4688ea89f.ts
 澳門蓮花台,p5p://fccs.123178.top:9906/613192f10005f0f11859aeaf78bfd050
+八大娛樂,p5p://45.92.126.18:9906/6044d70900008dea02faddc78bf8a126.ts
+衛視電影,p5p://45.92.126.18:9906/60494c90000347391465f5d2b8473dbe.ts
+星衛電影,p5p://45.92.126.18:9906/6044d33b0006a70302ec02a7d10a2600.ts
+美亞電影,p5p://45.92.126.18:9906/60494bf1000472fc14638907b18fe55b.ts
+龍華電影,p5p://45.92.126.18:9906/604426fa000c13eb004b26236e73affa.ts
+龍華洋片,p5p://45.92.126.18:9906/6044287d000e2bb500510e64fec426ab.ts
+龍華戲劇,p5p://45.92.126.18:9906/60442a110002751300573584bb335a71.ts
+愛爾達影劇,p5p://45.92.126.18:9906/6044382f0001bdea008e5a851f8cf009.ts
+好萊塢電影,p5p://45.92.126.18:9906/6044d78800021f9602fcce46b541cf65.ts
+壹電影,p5p://45.92.126.18:9906/60434a87000b209606cdef9cee9a8dfe.ts
+華納電影,p5p://45.92.126.18:9906/604414f400055b780004bcfa6ee82d22.ts
+龍祥時代電影,p5p://45.92.126.18:9906/6045bb31000469b906761b04cfa6bdb1.ts
+中天新聞,p5p://0198.02686.cc:16871/5f2f9178000c4ec022496d33f280ef95
+八大綜合,p5p://0198.02686.cc:16871/5f2e5a5b0000b78e1d8a20f34de5f2ac
+中視,p5p://0198.02686.cc:16871/5f3656bb000a656c3cbbfa6d262e3d24
+台視,p5p://0198.02686.cc:16871/5f2e53b0000e6e031d70187e387dbafc
+民視,p5p://0198.02686.cc:16871/5d8f08b60007eeea22db58419a492c10
+TVBS HD,p5p://0198.02686.cc:16871/5f2f921c0007177d224bec7d6634f95e
+TVBS新聞,p5p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5
+TVBS歡樂,p5p://0198.02686.cc:16871/5dbad7cb0007c9accdfc423fb19c38d1
+東森戲劇,p5p://0198.02686.cc:16871/5f2e5ed20008e6ef1d9b93e3bf1b4576
+緯來綜合,p5p://0198.02686.cc:16871/5f2e576a000315281d7ea426671c8418
+緯來戲劇,p5p://0198.02686.cc:16871/5e0f37bd00040a5217930a9af969bce1
+緯來電影,p5p://0198.02686.cc:16871/5d1a69ce0005e8e911be435423cf0509
+緯來體育,p5p://0198.02686.cc:16871/5f380f20000a96e143744502c1b95f9e
+龍華戲劇,p5p://0198.02686.cc:16871/5f380947000effbb435d6e7b21bc4ac1
+NBA體育,p5p://0198.02686.cc:16871/5f37fa45000952ee4322cd372e7f83d7
+Z頻道,p5p://0198.02686.cc:16871/5d1a69ac000bbbd711bdc002921c2017
+韓國娛樂,p5p://0198.02686.cc:16871/5f37e3320006cbf642c8aa594b534295
+華納電影,p5p://0198.02686.cc:16871/5f38036c000adb5e43468df4826231f4
+K PLUS,p5p://0198.02686.cc:16871/5f380ea60005e9564372673f4fa697fd
+FS2,p5p://0198.02686.cc:16871/5f380e240003cc3b43706ae59184d531
+FOX體育2,p5p://0198.02686.cc:16871/5f2fad7f0006356c22b6e6fb18281642
+技擊運動,p5p://0198.02686.cc:16871/5f3805dd0003b40b43501587f25789b3
+國家地理悠人,p5p://0198.02686.cc:16871/5f37d0fb00088f51428183f5a24c108a.ts
+罪案偵緝,p5p://0198.02686.cc:16871/5f37c7ab0006a300425d22f785b390d0.ts
+愛奇藝,p5p://0198.02686.cc:16871/5f38d81300083da4468539a0eb8d0c0a.ts#p5p://0198.02686.cc:16871/5f38d81300083da4468539a0eb8d0c0a.ts
+AEC,p5p://0198.02686.cc:16871/5ebce360000578b04d059fff4c2e3e3b.ts#p5p://0198.02686.cc:16871/5ebce360000578b04d059fff4c2e3e3b.ts
+OD,p5p://0198.02686.cc:16871/5f2c09ae00029cc4147efda7dcc27dfc.ts#p5p://0198.02686.cc:16871/5f2c09ae00029cc4147efda7dcc27dfc.ts
+双星,p5p://0198.02686.cc:16871/5f38d8fd000caa6e4688ccd211ea705f.ts#p5p://0198.02686.cc:16871/5f38d8fd000caa6e4688ccd211ea705f.ts
+欢喜台,p5p://0198.02686.cc:16871/5ecfb90800040601969837e0aa1efa5c.ts#p5p://0198.02686.cc:16871/5ecfb90800040601969837e0aa1efa5c.ts
+小太陽,p5p://0198.02686.cc:16871/5f38d9ab000293e0468b71ed0ce28214.ts#p5p://0198.02686.cc:16871/5f38d9ab000293e0468b71ed0ce28214.ts
+ONe,p5p://0198.02686.cc:16871/5f6ac2ff000df70f6abcbcb9c0ae25c3.ts
 民視台湾台,p5p://fccs.123178.top:9906/6044825e000bd32801b024b2f4ff7f01.ts
 民視第一台,p5p://fccs.123178.top:9906/604482f700022b0f01b277e16acd3ba1.ts
 民視新聞,p5p://fccs.123178.top:9906/604350c30004f22006e648675a9482b5.ts
