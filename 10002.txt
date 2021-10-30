@@ -14,29 +14,10 @@ ELEVEN2,rtmp://59.124.75.138/sat/tv741
 緯來日本,rtmp://59.124.75.138/sat/tv771
 MOMO綜合,rtmp://59.124.75.138/sat/tv761
 ELTA體育2,rtmp://59.124.75.138/sat/md011
-ELEVEN2,rtmp://59.124.75.138/sat/md021
-博斯網球,rtmp://59.124.75.138/sat/md031
-ELTA體育2,rtmp://59.124.75.138/sat/md041
-博斯運動II,rtmp://59.124.75.138/sat/md051
-民視,rtmp://161.202.204.248/sat/tv051
-台視,rtmp://161.202.204.248/sat/tv071
-中視,rtmp://161.202.204.248/sat/tv091
-華視,rtmp://161.202.204.248/sat/tv111
-TVBS新聞,rtmp://161.202.204.248/sat/tv551
-TVBS歡樂,rtmp://161.202.204.248/sat/tv421
-東森財經新聞,rtmp://161.202.204.248/sat/tv571
-東森超視,rtmp://161.202.204.248/sat/tv521
-緯來育樂,rtmp://161.202.204.248/sat/tv701
-緯來體育,rtmp://161.202.204.248/sat/tv721
-ELEVEN1,rtmp://161.202.204.248/sat/tv731
-ELEVEN2,rtmp://161.202.204.248/sat/tv741
-緯來日本,rtmp://161.202.204.248/sat/tv771
-MOMO綜合,rtmp://161.202.204.248/sat/tv761
-ELTA體育2,rtmp://161.202.204.248/sat/md011
-ELEVEN2,rtmp://161.202.204.248/sat/md021
-博斯網球,rtmp://161.202.204.248/sat/md031
-ELTA體育2,rtmp://161.202.204.248/sat/md041
-博斯運動II,rtmp://161.202.204.248/sat/md051
+ELEVEN+,rtmp://59.124.75.138/sat/md021
+ELEVEN2,rtmp://59.124.75.138/sat/md031
+ELTA體育1,rtmp://59.124.75.138/sat/md041
+ELTA體育3,rtmp://59.124.75.138/sat/md051
 東森新聞,http://50.7.61.147:30080/Entry/etnews
 HBO,http://50.7.61.148:30080/Entry/hbo
 緯來日本,http://50.7.61.147:30080/Entry/vljp
@@ -54,6 +35,20 @@ JET綜合,http://50.7.61.147:30080/Entry/jet
 三立臺灣,http://50.7.61.148:30080/Entry/settw-
 衛視中文,http://50.7.61.148:30080/Entry/starchinese
 AXN,http://50.7.61.148:30080/Entry/axn
+台視綜合,http://anan.jxin122.top/松鼠php/126net.php?id=11#https://flv3948069e.live.126.net/live/sytv_a3230bb77e846899c6cdded52e7732f3.flv
+華視教育文化,http://anan.jxin122.top/松鼠php/126net.php?id=17#https://flv3948069e.live.126.net/live/sytv_91030b1dae846205fdcdded56e773477.flv
+公視,http://anan.jxin122.top/松鼠php/126net.php?id=19#https://flv3948069e.live.126.net/live/sytv_9dd30b5c8e846938c26dde70be773545.flv
+公視台語,http://anan.jxin122.top/松鼠php/126net.php?id=20#https://flv3948069e.live.126.net/live/sytv_b2c30b53ae84670a8b8dde5c2e7733db.flv
+公視3,http://anan.jxin122.top/松鼠php/126net.php?id=21#https://flv3948069e.live.126.net/live/sytv_f8630b6a5e8461aca04dde1d5e773c81.flv
+三立iNEWS,http://anan.jxin122.top/松鼠php/126net.php?id=37#https://flv3948069e.live.126.net/live/sytv_aa430bd4ce8464e8df8dde26ce77300e.flv
+MTV,http://anan.jxin122.top/松鼠php/126net.php?id=40#https://flv3948069e.live.126.net/live/sytv_3c130b6e9e846d28029dde127e773f35.flv
+年代MUCH,http://anan.jxin122.top/松鼠php/126net.php?id=46#https://flv3948069e.live.126.net/live/sytv_29d30bed1e8460f70a0dde412e7737ff.flv
+JET綜合,http://anan.jxin122.top/松鼠php/126net.php?id=47#https://flv3948069e.live.126.net/live/sytv_95630b467e8461e8adedde4f4e7739ef.flv
+東風37,http://anan.jxin122.top/松鼠php/126net.php?id=48#https://flv3948069e.live.126.net/live/sytv_f1130b7efe8468c2a48dde3d0e773b13.flv
+高點綜合,https://flv3948069e.live.126.net/live/sytv_32630b02ce8468a2f27ddef1ae773d18.flv
+高點育樂,https://flv3948069e.live.126.net/live/sytv_2ec30b8dfe846e1ce5dddee84e7730f6.flv
+霹靂台灣,https://flv3948069e.live.126.net/live/sytv_e3d30bd35e84661fc99dde3c7e773f89.flv
+衛視電影,https://flv3948069e.live.126.net/live/sytv_72a30baf1e84656b6e2dde008e77399a.flv
 民視旅游,https://4gtvfreemobile-mozai.4gtv.tv/IqafKPO6LhtIQZTnC9ij5SSImd6W6xMRfy7M43nv0Ok%3d/master.m3u8?token=7d9OzD9bz7MYJ8OI0mAGkg&expires=1632748885&token1=zrYJ3X-FoQYbTPVw9OIKzw&expires1=1632777685&refer=ZWE4MGUwZmItYTVhNi00MGZmLWFiMGUtOTlmM2FlYzgwMTJj&y=0
 民視台灣,https://4gtvfreemobile-mozai.4gtv.tv/slAVCUpom9JFjummraq0XdPQudsoOPKLNepCbbhcNyY%3d/master.m3u8?token=llDa0BFeTkW49tww1pZMUw&expires=1632748531&token1=6tHAj4iWQhH7WBon7Bm2KQ&expires1=1632777331&refer=ZjEyMjJhYTAtMmUzYi00NDA2LTg4ZTYtMzIzZGMxNDZmZDc0&y=0
 民視影劇,https://4gtvfreemobile-mozai.4gtv.tv/zOasgBJ8DgMUILel39oEJ2U8DTxGgZU6H57t_SVdUz4=/master.m3u8?token=TzjibI-cpS4bIEK7Y0EWWQ&expires=1632748846&token1=vF-KGnstgkKnb_k3h8XJbA&expires1=1632777646&refer=YzY0MDRmMWQtMmNkNi00YWFhLTk3NjktMDk0MDU0MWFlNmU2&y=0
@@ -73,6 +68,16 @@ AXN,http://50.7.61.148:30080/Entry/axn
 華視,http://185.207.176.189:8080/channels/tw-501/playlist.m3u8
 華視教育體育文化,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
 華視新聞,http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
+TVB翡翠,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+TVB J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+無綫新聞,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
+TVB明珠,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
+無綫財經資訊,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
+RHK31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
+RHK32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
+RHK33,http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
+Viu TV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+Viu TV6,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 經典功夫台,http://103.140.229.13/BOBO/bibi.php?id=21715386
@@ -205,7 +210,7 @@ TV5亞洲,http://125.227.210.55:8937/VideoInput/play.ts#http://125.227.210.37:89
 NHKbs1,http://125.227.210.55:8939/VideoInput/play.ts#http://125.227.210.37:8939/VideoInput/play.ts
 NHKbsp,http://125.227.210.55:8940/VideoInput/play.ts#http://125.227.210.37:8940/VideoInput/play.ts
 BBCworld,http://125.227.210.55:10246/VideoInput/play.ts#http://125.227.210.37:10246/VideoInput/play.ts
-CNN,http://125.227.210.55:10797/VideoInput/play.ts#http://125.227.210.37:10797/VideoInput/play.ts
+CNN,http://125.227.210.55:10797/VideoInput/play.ts#http://125.227.210.37:10797/VideoInput/play.ts   
 📻台灣4gTV,#genre#
 民視台灣,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv001
 民視,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv002
