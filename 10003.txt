@@ -13,11 +13,10 @@ ELEVEN1,rtmp://59.124.75.138/sat/tv731
 ELEVEN2,rtmp://59.124.75.138/sat/tv741
 緯來日本,rtmp://59.124.75.138/sat/tv771
 MOMO綜合,rtmp://59.124.75.138/sat/tv761
-ELTA體育2,rtmp://59.124.75.138/sat/md011
-ELEVEN+,rtmp://59.124.75.138/sat/md021
-ELEVEN2,rtmp://59.124.75.138/sat/md031
-ELTA體育1,rtmp://59.124.75.138/sat/md041
-ELTA體育3,rtmp://59.124.75.138/sat/md051
+博斯網球,rtmp://59.124.75.138/sat/md021
+ELTA體育3,rtmp://59.124.75.138/sat/md031
+博斯網球,rtmp://59.124.75.138/sat/md041
+ELTA體育1,rtmp://59.124.75.138/sat/md051
 東森新聞,http://50.7.61.147:30080/Entry/etnews
 HBO,http://50.7.61.148:30080/Entry/hbo
 緯來日本,http://50.7.61.147:30080/Entry/vljp
@@ -35,20 +34,25 @@ JET綜合,http://50.7.61.147:30080/Entry/jet
 三立臺灣,http://50.7.61.148:30080/Entry/settw-
 衛視中文,http://50.7.61.148:30080/Entry/starchinese
 AXN,http://50.7.61.148:30080/Entry/axn
+東森電影,http://host496323.us.ooqr.com/pltv/gz.php?id=dsdy
+東森洋片,http://host496323.us.ooqr.com/pltv/gz.php?id=dsyp
 台視綜合,http://anan.jxin122.top/松鼠php/126net.php?id=11#https://flv3948069e.live.126.net/live/sytv_a3230bb77e846899c6cdded52e7732f3.flv
 華視教育文化,http://anan.jxin122.top/松鼠php/126net.php?id=17#https://flv3948069e.live.126.net/live/sytv_91030b1dae846205fdcdded56e773477.flv
-公視,http://anan.jxin122.top/松鼠php/126net.php?id=19#https://flv3948069e.live.126.net/live/sytv_9dd30b5c8e846938c26dde70be773545.flv
+公視,http://sytv.xtvants.fun/mytv.php?id=gs&token=qq3036107507&user=fmys#https://flv3948069e.live.126.net/live/sytv_9dd30b5c8e846938c26dde70be773545.flv
 公視台語,http://anan.jxin122.top/松鼠php/126net.php?id=20#https://flv3948069e.live.126.net/live/sytv_b2c30b53ae84670a8b8dde5c2e7733db.flv
-公視3,http://anan.jxin122.top/松鼠php/126net.php?id=21#https://flv3948069e.live.126.net/live/sytv_f8630b6a5e8461aca04dde1d5e773c81.flv
+公視3,http://sytv.xtvants.fun/mytv.php?id=gs3&token=qq3036107507&user=fmys#https://flv3948069e.live.126.net/live/sytv_f8630b6a5e8461aca04dde1d5e773c81.flv
 三立iNEWS,http://anan.jxin122.top/松鼠php/126net.php?id=37#https://flv3948069e.live.126.net/live/sytv_aa430bd4ce8464e8df8dde26ce77300e.flv
-MTV,http://anan.jxin122.top/松鼠php/126net.php?id=40#https://flv3948069e.live.126.net/live/sytv_3c130b6e9e846d28029dde127e773f35.flv
+MTV,http://sytv.xtvants.fun/mytv.php?id=mtv&token=qq3036107507&user=fmys#https://flv3948069e.live.126.net/live/sytv_3c130b6e9e846d28029dde127e773f35.flv
 年代MUCH,http://anan.jxin122.top/松鼠php/126net.php?id=46#https://flv3948069e.live.126.net/live/sytv_29d30bed1e8460f70a0dde412e7737ff.flv
-JET綜合,http://anan.jxin122.top/松鼠php/126net.php?id=47#https://flv3948069e.live.126.net/live/sytv_95630b467e8461e8adedde4f4e7739ef.flv
-東風37,http://anan.jxin122.top/松鼠php/126net.php?id=48#https://flv3948069e.live.126.net/live/sytv_f1130b7efe8468c2a48dde3d0e773b13.flv
+JET綜合,http://sytv.xtvants.fun/mytv.php?id=jet&token=qq3036107507&user=fmys#https://flv3948069e.live.126.net/live/sytv_95630b467e8461e8adedde4f4e7739ef.flv
+東風37,http://sytv.xtvants.fun/mytv.php?id=dfws&token=qq3036107507&user=fmys#https://flv3948069e.live.126.net/live/sytv_f1130b7efe8468c2a48dde3d0e773b13.flv
 高點綜合,https://flv3948069e.live.126.net/live/sytv_32630b02ce8468a2f27ddef1ae773d18.flv
 高點育樂,https://flv3948069e.live.126.net/live/sytv_2ec30b8dfe846e1ce5dddee84e7730f6.flv
 霹靂台灣,https://flv3948069e.live.126.net/live/sytv_e3d30bd35e84661fc99dde3c7e773f89.flv
 衛視電影,https://flv3948069e.live.126.net/live/sytv_72a30baf1e84656b6e2dde008e77399a.flv
+台視新聞,https://git.io/JgkxY
+民視,https://4gtvfreemobile-mozai.4gtv.tv/z-4Hg7N6vs50yhA6iX9n9elf1ikuJKEcMdR1IKqFOp4%3d/stream2.m3u8?token=q44SHDi8AXE1makMtVkjDw&expires=1632729656&token1=H38SB9bSUWCnbFIT-2H4Yw&expires1=1632758456&refer=MWRmMzMzMzQtMDBkNy00NTA2LWEwYzgtNzI4NzgyZGE1NDYw&y=0
+民視,https://4gtvfreemobile-mozai.4gtv.tv/EsGHR5kmmmdGF7ceX4JrxzFGr5EZWyRjqaKVoUJ3Gfk%3d/stream2.m3u8?token=gGyPozlBLrCzgcF_CMv2Tg&expires=1630484776&token1=XVXm7_bwqoA_ltNZssw8aA&expires1=1630513576&refer=ODI4MjVlNDItODhiMy00MDEzLTg4YzktZTk5MmJiM2E5OWU4&y=0
 民視旅游,https://4gtvfreemobile-mozai.4gtv.tv/IqafKPO6LhtIQZTnC9ij5SSImd6W6xMRfy7M43nv0Ok%3d/master.m3u8?token=7d9OzD9bz7MYJ8OI0mAGkg&expires=1632748885&token1=zrYJ3X-FoQYbTPVw9OIKzw&expires1=1632777685&refer=ZWE4MGUwZmItYTVhNi00MGZmLWFiMGUtOTlmM2FlYzgwMTJj&y=0
 民視台灣,https://4gtvfreemobile-mozai.4gtv.tv/slAVCUpom9JFjummraq0XdPQudsoOPKLNepCbbhcNyY%3d/master.m3u8?token=llDa0BFeTkW49tww1pZMUw&expires=1632748531&token1=6tHAj4iWQhH7WBon7Bm2KQ&expires1=1632777331&refer=ZjEyMjJhYTAtMmUzYi00NDA2LTg4ZTYtMzIzZGMxNDZmZDc0&y=0
 民視影劇,https://4gtvfreemobile-mozai.4gtv.tv/zOasgBJ8DgMUILel39oEJ2U8DTxGgZU6H57t_SVdUz4=/master.m3u8?token=TzjibI-cpS4bIEK7Y0EWWQ&expires=1632748846&token1=vF-KGnstgkKnb_k3h8XJbA&expires1=1632777646&refer=YzY0MDRmMWQtMmNkNi00YWFhLTk3NjktMDk0MDU0MWFlNmU2&y=0
@@ -177,6 +181,7 @@ Hit Fm 107.7,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hitfm.m3u8
 孝廉電視,http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
 原住民電視,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 NHK華語,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+FOX頻道,http://125.227.210.55:13498/VideoInput/play.ts#http://125.227.210.37:13498/VideoInput/play.ts
 eleven體育1,http://125.227.210.37:10677/VideoInput/play.ts
 探索亞洲,http://125.227.210.37:10388/VideoInput/play.ts
 年代新聞,http://125.227.210.37:11055/VideoInput/play.ts
@@ -210,7 +215,10 @@ TV5亞洲,http://125.227.210.55:8937/VideoInput/play.ts#http://125.227.210.37:89
 NHKbs1,http://125.227.210.55:8939/VideoInput/play.ts#http://125.227.210.37:8939/VideoInput/play.ts
 NHKbsp,http://125.227.210.55:8940/VideoInput/play.ts#http://125.227.210.37:8940/VideoInput/play.ts
 BBCworld,http://125.227.210.55:10246/VideoInput/play.ts#http://125.227.210.37:10246/VideoInput/play.ts
-CNN,http://125.227.210.55:10797/VideoInput/play.ts#http://125.227.210.37:10797/VideoInput/play.ts   
+CNN,http://125.227.210.55:10797/VideoInput/play.ts#http://125.227.210.37:10797/VideoInput/play.ts
+中天新聞,http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw/live
+KPOP,http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCoRXPcv8XK5fAplLbk9PTww/live
+網路流行音樂電,http://free.fullspeed.tv/query?url=https://www.youtube.com/watch?v=wrYF0HX7Kzc
 📻台灣4gTV,#genre#
 民視台灣,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv001
 民視,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv002
