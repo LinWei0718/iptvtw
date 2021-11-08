@@ -36,6 +36,7 @@ JET綜合,http://50.7.61.147:30080/Entry/jet
 AXN,http://50.7.61.148:30080/Entry/axn
 東森電影,http://host496323.us.ooqr.com/pltv/gz.php?id=dsdy
 東森洋片,http://host496323.us.ooqr.com/pltv/gz.php?id=dsyp
+龍祥時代,http://113.64.147.102:808/hls/38/index.m3u8?times=0
 台視綜合,http://anan.jxin122.top/松鼠php/126net.php?id=11#https://flv3948069e.live.126.net/live/sytv_a3230bb77e846899c6cdded52e7732f3.flv
 華視教育文化,http://anan.jxin122.top/松鼠php/126net.php?id=17#https://flv3948069e.live.126.net/live/sytv_91030b1dae846205fdcdded56e773477.flv
 公視,http://sytv.xtvants.fun/mytv.php?id=gs&token=qq3036107507&user=fmys#https://flv3948069e.live.126.net/live/sytv_9dd30b5c8e846938c26dde70be773545.flv
@@ -60,7 +61,7 @@ JET綜合,http://sytv.xtvants.fun/mytv.php?id=jet&token=qq3036107507&user=fmys#h
 民視綜藝,#https://4gtvfreemobile-mozai.4gtv.tv/rzJMQi7b9SKpe6kjY_v0Iy6tqx6nwL7nVB2IqtUgFwg%3d/master.m3u8?token=LJmGz7W_EHTqNvAscTHLrw&expires=1632748585&token1=pPXQyMCc1my7LEK3PKhJUQ&expires1=1632777385&refer=MmQ0YzBiNzEtNGJhMi00ZTVmLWJiYTYtNWYwNDIxZTdmYzhm&y=0
 民視第一,https://4gtvfreemobile-mozai.4gtv.tv/PtApXcUhkGk_Hnf3ax0z9Po5e_K-1I1_uHHZioSs1T4%3d/master.m3u8?token=CgGiZiA9OOSeL0ODq41KYg&expires=1632748949&token1=kheRX39Y5Z7eVD8jgi2LPA&expires1=1632777749&refer=MGM5YWRkODItMzNmNy00ODI4LTgwZjUtY2Y5YTFjZDhiYTFi&y=0
 天映頻道,http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
-天映經典,http://50.7.161.82:8278/streams/d/celestial2_pye/playlist.m3u8
+天映經典,http://113.64.147.102:808/hls/62/index.m3u8?times=0#http://50.7.161.82:8278/streams/d/celestial2_pye/playlist.m3u8
 中視,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8
 中視經典,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
 中視菁采,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
