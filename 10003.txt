@@ -1,150 +1,4 @@
 📺台灣電視,#genre#
-台視新聞,rtmp://45.88.148.178/channel/61003bbcf0618408855f374c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
-靖天綜合,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d50?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
-靖天日本,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d54?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
-靖天電影,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d58?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
-靖天歡樂,rtmp://45.88.148.178/channel/60c343c5961593122ebaf996?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
-動物星球,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
-探索頻道,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6e?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
-東森戲劇,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d88?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
-中視新聞,rtmp://45.92.126.226/channel/60c316c5961593122ebaf900?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
-中視經典,rtmp://45.88.148.178/channel/60c31708961593122ebaf902?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
-公視2,rtmp://45.92.126.226/channel/60c31796961593122ebaf908?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
-公視3,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c3e?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
-靖天映畫,rtmp://45.92.126.226/channel/60c34395961593122ebaf994?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
-ETtoday綜合,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d3a?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
-星衛娛樂,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d3c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
-寰宇財經,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d4e?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
-美食星球,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d4a?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
-TVBS精彩,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cd8?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
-HBO亞洲,p5p://45.92.126.18:9906/604340b2000af04c06a787875d674b81.ts
-HBO高清亞洲,p5p://45.92.126.18:9906/604338a40001163206880e5297cc95ab.ts
-HBO原創巨獻,p5p://45.92.126.18:9906/604339520007991f068ab7ad0427275f.ts
-HBO強檔巨獻,p5p://45.92.126.18:9906/60442428000dc9020040224339113352.ts
-HBO溫馨家庭,p5p://45.92.126.18:9906/604339d800036fb3068cc20c2898df9c.ts
-探索頻道,p5p://45.92.126.18:9906/60433c22000c069b0695b54fa99695c8.ts#p5p://45.92.126.18:9906/60433ccd000ca2740698516f2936f617.ts
-探索亞洲頻道,p5p://45.92.126.18:9906/60433ee00002fb7906a0692e6558cb55.ts
-探索動力DMAX,p5p://45.92.126.18:9906/604948f700077c3f1457e93ef52bbdb9.ts
-探索科學,p5p://45.92.126.18:9906/6043467c000301e806be22909a147731.ts
-Outdoor,p5p://45.92.126.18:9906/60434713000a12a206c07237b306369a.ts
-龍華影劇,p5p://45.92.126.18:9906/604347a3000cc1fe06c2a567b371c0d6.ts
-國家地理,p5p://45.92.126.18:9906/6043485f000c065106c583978afda437.ts
-國家地理人文,p5p://45.92.126.18:9906/6043ffe3000c6f3709925f52585be323.ts
-國家野生,p5p://45.92.126.18:9906/604401050005fe790996ca7b4ed24991.ts
-動物星球,p5p://45.92.126.18:9906/60440362000e75bc09a007eeaa0519c7.ts
-狼谷競技,p5p://45.92.126.18:9906/6045b7460004ba730666cd212d07958d.ts
-影迷數位紀實,p5p://45.92.126.18:9906/60494398000c2ccb1442ef592de01971.ts
-歷史頻道,p5p://45.92.126.18:9906/6049468f0008dae6144e835756f6d068.ts
-歷史頻道H2,p5p://45.92.126.18:9906/6049473c0005320614512630bb45841f.ts
-BBC Lifestyle,p5p://45.92.126.18:9906/604403fd0002ca1a09a262690b80ac95.ts
-BBC Earth,p5p://45.92.126.18:9906/6044049e000eb7a609a4da5fcd30cc43.ts
-EYE TV旅遊,p5p://45.92.126.18:9906/60494553000b340f1449b191f22032d6.ts
-TLC旅遊,p5p://45.92.126.18:9906/60440517000a918709a6b1f73be1eeb9.ts
-亞洲旅遊,p5p://45.92.126.18:9906/604405c80008412109a964c89ca82891.ts
-afc亞洲美食,p5p://45.92.126.18:9906/6044065f0003bace09abb177a024828d.ts
-FOOD美食,p5p://45.92.126.18:9906/604407250006a38d09aeb7a6e70be747.ts
-美食星球,p5p://45.92.126.18:9906/604945ed00053a5b144c099a65029d36.ts
-Classica古典音樂,p5p://45.92.126.18:906/60689dd9000cb8ae13487fd8feab0590.ts
-Mezzo Live,p5p://45.92.126.18:9906/6044084c000d934609b339c4b9e633ef.ts
-MTV綜合,p5p://45.92.126.18:9906/604408e9000a103309b59e2621263caa.ts
-MTV Live,p5p://45.92.126.18:9906/60440af600097aa009bda0c8f60b1cae.ts
-Lifetime,p5p://45.92.126.18:9906/60440d6800025fd909c72c46337e9f6b.ts
-FOX警匪,p5p://45.92.126.18:9906/60440e1600029d1f09c9d406f98d5158.ts
-FOX頻道,p5p://45.92.126.18:9906/60440eb10006690c09cc32777254e90a.ts
-FOX動作,p5p://45.92.126.18:9906/60440fd1000e6f3b09d0998515d1967d.ts
-FOX優質電影,p5p://45.92.126.18:9906/60441060000dae1309d2c7eb236de319.ts
-Fox福斯家庭,p5p://45.92.126.18:9906/6044114c0004d19e09d65f86a75bad6b.ts
-采昌影劇,p5p://45.92.126.18:9906/604411ec0004d59109d8d087e9645ce6.ts
-罪案偵緝頻道,p5p://45.92.126.18:9906/604947cc00047a751453588132b90a12.ts
-華納TV,p5p://45.92.126.18:9906/604414f400055b780004bcfa6ee82d22.ts
-CinemaWorld,p5p://45.92.126.18:9906/604415aa00054259000783e434297e54.ts
-衛視西片,p5p://45.92.126.18:9906/604416620003377d000a521e160e3141.ts
-BLUE ANT EXTREME,p5p://45.92.126.18:9906/60441771000d4807000e774ad2f62e16.ts
-CatchPlay電影,p5p://45.92.126.18:9906/6044191d000d8b620014ff3bef2f4594.ts
-WakuWakuJapan,p5p://45.92.126.18:9906/604419f4000340840018447096a9f004.ts
-三立綜合,p5p://45.92.126.18:9906/60441aa3000729ad001af109e515adad.ts
-三立戲劇,p5p://45.92.126.18:9906/60441b4f00036f62001d8ff40f884e87.ts
-靖天歡樂,p5p://45.92.126.18:9906/6045b810000a9ac50669e3b2b61b5383.ts
-靖天資訊,p5p://45.92.126.18:9906/6045b93800071301066e670ba6925741.ts
-靖洋戲劇,p5p://45.92.126.18:9906/60441bcb000e6baf001f77240fd6acd8.ts
-天映電影,p5p://45.92.126.18:9906/60441c660009af940021d366383a86ea.ts
-星衛電影,p5p://45.92.126.18:9906/60494c90000347391465f5d2b8473dbe.ts
-美亞電影,p5p://45.92.126.18:9906/60494bf1000472fc14638907b18fe55b.ts
-龍華電影,p5p://45.92.126.18:9906/604426fa000c13eb004b26236e73affa.ts
-龍華洋片,p5p://45.92.126.18:9906/6044287d000e2bb500510e64fec426ab.ts
-光影歐洲,p5p://45.92.126.18:9906/604420030008e014002ff07922c6f89b.ts
-華藝影劇,p5p://45.92.126.18:9906/604420fd000850e60033c0e469119c7f.ts
-華藝MBC綜合,p5p://45.92.126.18:9906/604421d400072b6600370871d6641107.ts
-thrill電影,p5p://45.92.126.18:9906/604413240002c04b09dd92bffd4adc1b.ts
-KIX電影,p5p://45.92.126.18:9906/6044145c000e8fb900026d95dbb7683a.ts
-龍華戲劇,p5p://45.92.126.18:9906/60442a110002751300573584bb335a71.ts
-星衛娛樂,p5p://45.92.126.18:9906/6044229300000d0a0039f0b6a59d1511.ts
-EYETV戲劇,p5p://45.92.126.18:9906/60442b6d000654ae005c85e289945252.ts
-愛爾達影劇,p5p://45.92.126.18:9906/6044382f0001bdea008e5a851f8cf009.ts
-愛爾達綜合,p5p://45.92.126.18:9906/60689fa0000c9dae134f712965a8f823.ts
-愛爾達體育1,p5p://45.92.126.18:9906/6044229300000d0a0039f0b6a59d1511.ts#p5p://45.92.126.18:9906/6044394f000bdf980092c21d614c13c6.ts
-愛爾達體育2,p5p://45.92.126.18:9906/60443b320005c061009a1f44d1793932.ts
-愛爾達體育3,p5p://45.92.126.18:9906/60443bfe00066777009d3c4f69ab187b.ts
-霹靂電視,p5p://45.92.126.18:9906/60443eff000b560c00a8f97ad079a022.ts
-Travel旅遊頻道,p5p://45.92.126.18:9906/604944bf0002e33c14476d50e1deb4e1.ts
-龍華動畫,p5p://45.92.126.18:9906/6044594300037550010f9116e9856cd9.ts
-博斯魅力,p5p://45.92.126.18:9906/60445a120003530d0112b9a5dc60ca35.ts
-Eleven運動1,p5p://45.92.126.18:9906/60446a54000b4ef801523d80af6dda12.ts
-Eleven運動2,p5p://45.92.126.18:9906/60447228000e0e420170d2547df9954a.ts
-NHK World,p5p://45.92.126.18:9906/6044741d0000e8b9017873ff81c638cb.ts
-美國高爾夫球,p5p://45.92.126.18:9906/60447654000dbd4101811e203ac3ee9f.ts
-Dreamworks,p5p://45.92.126.18:9906/60447d38000deb8b019c08cb6ec7c4d9.ts
-Animax,p5p://45.92.126.18:9906/60447df7000cbc13019ef29677465e40.ts
-MOMO親子,p5p://45.92.126.18:9906/604480210005726601a764c84f1d9e1c.ts
-CN卡通,p5p://45.92.126.18:9906/604480aa000baba001a97d8882607e75.ts
-迪士尼卡通,p5p://45.92.126.18:9906/604481b9000baf3801ada02160f76b5d.ts#p5p://45.92.126.18:9906/604481b9000baf3801ada02160f76b5d.ts
-東森幼幼,p5p://45.92.126.18:9906/6044812c00070c6401ab7829e94ee52d.ts
-民視,p5p://45.92.126.18:9906/6044825e000bd32801b024b2f4ff7f01.ts
-民視第一,p5p://45.92.126.18:9906/604482f700022b0f01b277e16acd3ba1.ts
-民視,p5p://45.92.126.18:9906/6043597b000602c20708576dff009975.ts
-華視教育體育文化,p5p://45.92.126.18:9906/60448d730005f21d01db6d390ab97993.ts
-好消息,p5p://45.92.126.18:9906/604492a5000ce2b901efba50aff106f3.ts
-ETtoday綜合,p5p://45.92.126.18:9906/6043494d000e362406c925d66b8448c9.ts
-壹新聞,p5p://45.92.126.18:9906/6069902f0003db1b16fb1d83c7d47b04.ts
-壹電影,p5p://45.92.126.18:9906/60434a87000b209606cdef9cee9a8dfe.ts
-寰宇新聞,p5p://45.92.126.18:9906/60434bdc0009a41d06d32342bef082c3.ts
-寰宇新聞二,p5p://45.92.126.18:9906/60434c6b000d588a06d552cd4d7910ec.ts
-寰宇綜合,p5p://45.92.126.18:9906/60434cfa0008763606d78025a8321e46.ts
-年代新聞,p5p://45.92.126.18:9906/60434d73000091e406d956c8607013df.ts
-東森新聞,p5p://45.92.126.18:9906/60434e0b0003696e06dba942fc6b06e1.ts
-寰宇財經新聞新聞,p5p://45.92.126.18:9906/60434e97000581d106ddccac446ea89d.ts
-中天新聞,p5p://45.92.126.18:9906/60434f2a000d760506e00ced16ed4f4d.ts
-民視新聞,p5p://45.92.126.18:9906/604350c30004f22006e648675a9482b5.ts
-三立新聞,p5p://45.92.126.18:9906/604351bb000723c406ea11b7e2f757c8.ts
-TVBS新聞,p5p://45.92.126.18:9906/60435300000abe3e06ef082bf48727a4.ts
-TVBS,p5p://45.92.126.18:9906/60435407000d43d906f30c28a0b64eda.ts
-東森財經,p5p://45.92.126.18:9906/60435ba7000123740710d20d0fa4a082.ts
-非凡新聞,p5p://45.92.126.18:9906/6044966b0006d57a01fe7633c96a5506.ts
-三立財經,p5p://45.92.126.18:9906/604496f8000b3b7b02009e1b5871dd53.ts
-靖天育樂,p5p://45.92.126.18:9906/60469f430002fd3e09f100f732da02a0.ts
-緯來體育,p5p://45.92.126.18:9906/6044a3c3000d96e6023297aef85769a2.ts
-三立台灣,p5p://45.92.126.18:9906/60435a1000013bcc070a9c3b0ad870c7.ts
-三立都會,p5p://45.92.126.18:9906/60435aa10002e65e070cd311539826d8.ts
-衛視電影,p5p://45.92.126.18:9906/6044d33b0006a70302ec02a7d10a2600.ts
-國興衛視,p5p://45.92.126.18:9906/6044d406000399b302ef1ad77f59ca13.ts
-JET綜合,p5p://45.92.126.18:9906/6044d49a0003828802f15cf1eb31478a.ts
-八大第一,p5p://45.92.126.18:9906/6044d526000cfe3b02f3823f7bc7c9f8.ts
-八大戲劇,p5p://45.92.126.18:9906/6044d5ac000936f902f58cb70525846f.ts
-八大綜合,p5p://45.92.126.18:9906/6044d641000e5dc002f7d411a124e035.ts
-八大娛樂,p5p://45.92.126.18:9906/6044d70900008dea02faddc78bf8a126.ts
-好萊塢電影,p5p://45.92.126.18:9906/6044d78800021f9602fcce46b541cf65.ts
-AXN,p5p://45.92.126.18:9906/60463ee9000522e20878a1f4688ea89f.ts
-Cinemax,p5p://45.92.126.18:9906/60463f7d000802da087ae4d0305dfcaf.ts
-龍祥電影,p5p://45.92.126.18:9906/6045bb31000469b906761b04cfa6bdb1.ts
-衛視中文,p5p://45.92.126.18:9906/6045bbb2000922ef0678142229e89274.ts
-緯來電影,p5p://45.92.126.18:9906/6045bc330008915e067a0be52c863eff.ts
-緯來綜合,p5p://45.92.126.18:9906/6045be33000be06a0681dcbdb39f2973.ts
-TVB星河,p5p://45.92.126.18:9906/60463cd5000f308a087086672166e0af.ts
-生命電視,p5p://45.92.126.18:9906/60463d9a0001f1630873848a76accc36.ts
-華藏衛視,p5p://45.92.126.18:9906/60463e4f0004c7480876484c7d16a8e0.ts
-高點綜合,p5p://45.92.126.18:9906/604640070003e1f8087cfed268004b6c.ts
-東風衛視,p5p://45.92.126.18:9906/604640af000dbd7a087f919857110af4.ts
-龍祥時代,p5p://45.92.126.18:9906/6045bb31000469b906761b04cfa6bdb1.ts
 民視,rtmp://59.124.75.138/sat/tv051
 台視,rtmp://59.124.75.138/sat/tv071
 中視,rtmp://59.124.75.138/sat/tv091
@@ -200,27 +54,24 @@ AXN,http://50.7.61.148:30080/Entry/axn
 民視第一,https://4gtvfreemobile-mozai.4gtv.tv/PtApXcUhkGk_Hnf3ax0z9Po5e_K-1I1_uHHZioSs1T4%3d/master.m3u8?token=CgGiZiA9OOSeL0ODq41KYg&expires=1632748949&token1=kheRX39Y5Z7eVD8jgi2LPA&expires1=1632777749&refer=MGM5YWRkODItMzNmNy00ODI4LTgwZjUtY2Y5YTFjZDhiYTFi&y=0
 天映頻道,http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
 天映經典,http://113.64.147.102:808/hls/62/index.m3u8?times=0#http://50.7.161.82:8278/streams/d/celestial2_pye/playlist.m3u8
-中視,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8
-中視經典,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
-中視菁采,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
-中視新聞,http://185.207.176.189:8080/channels/tw-101/playlist.m3u8
-民視,http://185.207.176.189:8080/channels/tw-300/playlist.m3u8
-民視台灣,http://185.207.176.189:8080/channels/tw-304/playlist.m3u8
-民視第一,http://185.207.176.189:8080/channels/tw-301/playlist.m3u8
-民視新聞,http://185.207.176.189:8080/channels/tw-302/playlist.m3u8
-華視,http://185.207.176.189:8080/channels/tw-501/playlist.m3u8
-華視教育體育文化,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
-華視新聞,http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
-TVB翡翠,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
-TVB J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
-無綫新聞,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
-TVB明珠,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
-無綫財經資訊,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
-RHK31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
-RHK32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
-RHK33,http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
-Viu TV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
-Viu TV6,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
+台視新聞,rtmp://45.88.148.178/channel/61003bbcf0618408855f374c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
+靖天綜合,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d50?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
+靖天日本,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d54?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
+靖天電影,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d58?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
+靖天歡樂,rtmp://45.88.148.178/channel/60c343c5961593122ebaf996?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
+動物星球,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
+探索頻道,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6e?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
+東森戲劇,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d88?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
+中視新聞,rtmp://45.92.126.226/channel/60c316c5961593122ebaf900?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
+中視經典,rtmp://45.88.148.178/channel/60c31708961593122ebaf902?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
+公視2,rtmp://45.92.126.226/channel/60c31796961593122ebaf908?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
+公視3,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c3e?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
+靖天映畫,rtmp://45.92.126.226/channel/60c34395961593122ebaf994?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
+ETtoday綜合,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d3a?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
+星衛娛樂,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d3c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
+寰宇財經,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d4e?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
+美食星球,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d4a?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
+TVBS精彩,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cd8?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
 三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 經典功夫台,http://103.140.229.13/BOBO/bibi.php?id=21715386
