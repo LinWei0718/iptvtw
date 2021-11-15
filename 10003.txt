@@ -34,7 +34,7 @@ TLC旅遊生活,http://50.7.61.147:30080/Entry/tlc#http://50.7.61.149:30080/Entr
 AFC亞洲旅遊,http://50.7.61.147:30080/Entry/asiatravel#http://50.7.61.149:30080/Entry/asiatravel
 JET綜合,http://50.7.61.147:30080/Entry/jet
 緯來日本,http://50.7.61.147:30080/Entry/vljp
-三立臺灣,http://50.7.61.148:30080/Entry/settw-
+三立台灣,http://50.7.61.148:30080/Entry/settw-
 衛視中文,http://50.7.61.148:30080/Entry/starchinese
 HBO,http://50.7.61.148:30080/Entry/hbo
 AXN,http://50.7.61.148:30080/Entry/axn
@@ -100,7 +100,7 @@ FOX MOVIES,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca8
 冠軍電視,rtmp://45.92.126.226/channel/611a83133e4da143c015987c
 靖天電影,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d58
 東森戲劇,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d88
-MOD桌面,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d3a
+ETtoday綜合,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d3a
 台視新聞,rtmp://45.88.148.178/channel/61003bbcf0618408855f374c
 TV5MONDE ASIE,rtmp://45.88.148.178/channel/60c2f5bb961593122ebaf8d4
 寰宇財經,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d4e
