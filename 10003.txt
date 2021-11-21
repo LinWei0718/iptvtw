@@ -60,10 +60,7 @@ HBO,http://50.7.61.148:30080/Entry/hbo
 AXN,http://50.7.61.148:30080/Entry/axn
 衛視電影,http://50.7.61.147:30080/Entry/starmovie#http://50.7.61.149:30080/Entry/starmovie
 緯來電影,http://50.7.61.148:30080/Entry/vlmovie
-東森電影,http://host496323.us.ooqr.com/pltv/gz.php?id=dsdy
-東森洋片,http://host496323.us.ooqr.com/pltv/gz.php?id=dsyp
-龍祥時代,http://host496323.us.ooqr.com/pltv/gz.php?id=lxsd#http://113.64.147.102:808/hls/38/index.m3u8?times=0
-台視新聞,https://git.io/JgkxY
+東森電影,p5p://45.92.126.18:9906/60449ece0009c6ea021f39ac30bce072.ts
 民視,https://4gtvfreemobile-mozai.4gtv.tv/z-4Hg7N6vs50yhA6iX9n9elf1ikuJKEcMdR1IKqFOp4%3d/stream2.m3u8?token=q44SHDi8AXE1makMtVkjDw&expires=1632729656&token1=H38SB9bSUWCnbFIT-2H4Yw&expires1=1632758456&refer=MWRmMzMzMzQtMDBkNy00NTA2LWEwYzgtNzI4NzgyZGE1NDYw&y=0
 民視,https://4gtvfreemobile-mozai.4gtv.tv/EsGHR5kmmmdGF7ceX4JrxzFGr5EZWyRjqaKVoUJ3Gfk%3d/stream2.m3u8?token=gGyPozlBLrCzgcF_CMv2Tg&expires=1630484776&token1=XVXm7_bwqoA_ltNZssw8aA&expires1=1630513576&refer=ODI4MjVlNDItODhiMy00MDEzLTg4YzktZTk5MmJiM2E5OWU4&y=0
 民視旅游,https://4gtvfreemobile-mozai.4gtv.tv/IqafKPO6LhtIQZTnC9ij5SSImd6W6xMRfy7M43nv0Ok%3d/master.m3u8?token=7d9OzD9bz7MYJ8OI0mAGkg&expires=1632748885&token1=zrYJ3X-FoQYbTPVw9OIKzw&expires1=1632777685&refer=ZWE4MGUwZmItYTVhNi00MGZmLWFiMGUtOTlmM2FlYzgwMTJj&y=0
