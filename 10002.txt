@@ -1,42 +1,4 @@
 🇹🇼台灣電視,#genre#
-民視,rtmp://59.124.75.157/sat/tv051
-台視,rtmp://59.124.75.157/sat/tv071
-中視,rtmp://59.124.75.157/sat/tv091
-華視,rtmp://59.124.75.157/sat/tv111
-TVBS新聞,rtmp://59.124.75.157/sat/tv551
-TVBS歡樂,rtmp://59.124.75.157/sat/tv421
-東森財經新聞,rtmp://59.124.75.157/sat/tv571
-東森超視,rtmp://59.124.75.157/sat/tv521
-緯來育樂,rtmp://59.124.75.157/sat/tv701
-緯來體育,rtmp://59.124.75.157/sat/tv721
-ELEVEN1,rtmp://59.124.75.157/sat/tv731
-ELEVEN2,rtmp://59.124.75.157/sat/tv741
-緯來日本,rtmp://59.124.75.157/sat/tv771
-MOMO綜合,rtmp://59.124.75.157/sat/tv761
-ELTA體育2,rtmp://59.124.75.157/sat/md011
-ELEVEN2,rtmp://59.124.75.157/sat/md021
-博斯網球,rtmp://59.124.75.157/sat/md031
-ELTA體育3,rtmp://59.124.75.157/sat/md041
-ELTA體育1,rtmp://59.124.75.157/sat/md051
-民視,rtmp://59.124.75.138/sat/tv051
-台視,rtmp://59.124.75.138/sat/tv071
-中視,rtmp://59.124.75.138/sat/tv091
-華視,rtmp://59.124.75.138/sat/tv111
-TVBS新聞,rtmp://59.124.75.138/sat/tv551
-TVBS歡樂,rtmp://59.124.75.138/sat/tv421
-東森財經新聞,rtmp://59.124.75.138/sat/tv571
-東森超視,rtmp://59.124.75.138/sat/tv521
-緯來育樂,rtmp://59.124.75.138/sat/tv701
-緯來體育,rtmp://59.124.75.138/sat/tv721
-ELEVEN1,rtmp://59.124.75.138/sat/tv731
-ELEVEN2,rtmp://59.124.75.138/sat/tv741
-緯來日本,rtmp://59.124.75.138/sat/tv771
-MOMO綜合,rtmp://59.124.75.138/sat/tv761
-ELTA體育2,rtmp://59.124.75.138/sat/md011
-ELEVEN2,rtmp://59.124.75.138/sat/md021
-博斯網球,rtmp://59.124.75.138/sat/md031
-ELTA體育3,rtmp://59.124.75.138/sat/md041
-ELTA體育1,rtmp://59.124.75.138/sat/md051
 民視,http://50.7.61.147:30080/Entry/ftv
 台視,http://50.7.61.148:30080/Entry/ttv
 中視,http://50.7.61.148:30080/Entry/ctv
@@ -60,10 +22,7 @@ HBO,http://50.7.61.148:30080/Entry/hbo
 AXN,http://50.7.61.148:30080/Entry/axn
 衛視電影,http://50.7.61.147:30080/Entry/starmovie#http://50.7.61.149:30080/Entry/starmovie
 緯來電影,http://50.7.61.148:30080/Entry/vlmovie
-東森電影,http://host496323.us.ooqr.com/pltv/gz.php?id=dsdy
-東森洋片,http://host496323.us.ooqr.com/pltv/gz.php?id=dsyp
-龍祥時代,http://host496323.us.ooqr.com/pltv/gz.php?id=lxsd#http://113.64.147.102:808/hls/38/index.m3u8?times=0
-台視新聞,https://git.io/JgkxY
+東森電影,p5p://45.92.126.18:9906/60449ece0009c6ea021f39ac30bce072.ts
 民視,https://4gtvfreemobile-mozai.4gtv.tv/z-4Hg7N6vs50yhA6iX9n9elf1ikuJKEcMdR1IKqFOp4%3d/stream2.m3u8?token=q44SHDi8AXE1makMtVkjDw&expires=1632729656&token1=H38SB9bSUWCnbFIT-2H4Yw&expires1=1632758456&refer=MWRmMzMzMzQtMDBkNy00NTA2LWEwYzgtNzI4NzgyZGE1NDYw&y=0
 民視,https://4gtvfreemobile-mozai.4gtv.tv/EsGHR5kmmmdGF7ceX4JrxzFGr5EZWyRjqaKVoUJ3Gfk%3d/stream2.m3u8?token=gGyPozlBLrCzgcF_CMv2Tg&expires=1630484776&token1=XVXm7_bwqoA_ltNZssw8aA&expires1=1630513576&refer=ODI4MjVlNDItODhiMy00MDEzLTg4YzktZTk5MmJiM2E5OWU4&y=0
 民視旅游,https://4gtvfreemobile-mozai.4gtv.tv/IqafKPO6LhtIQZTnC9ij5SSImd6W6xMRfy7M43nv0Ok%3d/master.m3u8?token=7d9OzD9bz7MYJ8OI0mAGkg&expires=1632748885&token1=zrYJ3X-FoQYbTPVw9OIKzw&expires1=1632777685&refer=ZWE4MGUwZmItYTVhNi00MGZmLWFiMGUtOTlmM2FlYzgwMTJj&y=0
@@ -74,78 +33,95 @@ AXN,http://50.7.61.148:30080/Entry/axn
 民視第一,https://4gtvfreemobile-mozai.4gtv.tv/PtApXcUhkGk_Hnf3ax0z9Po5e_K-1I1_uHHZioSs1T4%3d/master.m3u8?token=CgGiZiA9OOSeL0ODq41KYg&expires=1632748949&token1=kheRX39Y5Z7eVD8jgi2LPA&expires1=1632777749&refer=MGM5YWRkODItMzNmNy00ODI4LTgwZjUtY2Y5YTFjZDhiYTFi&y=0
 天映頻道,http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
 天映經典,http://113.64.147.102:808/hls/62/index.m3u8?times=0#http://50.7.161.82:8278/streams/d/celestial2_pye/playlist.m3u8
-台視新聞,rtmp://45.88.148.178/channel/61003bbcf0618408855f374c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
-靖天綜合,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d50?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
-靖天日本,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d54?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
-靖天電影,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d58?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
-靖天歡樂,rtmp://45.88.148.178/channel/60c343c5961593122ebaf996?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
-動物星球,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
-探索頻道,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6e?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
-東森戲劇,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d88?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
+AXN,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c9c
+BBC世界新聞,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d42
+CATCHPLAY電影,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d2
+CNA亞洲新聞,rtmp://45.88.148.178/channel/60c2f49c961593122ebaf8cd
+CNBC亞洲財經,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d44
+DREAMWORKS,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cd2
+DW德國之聲,rtmp://45.88.148.178/channel/60c2f625961593122ebaf8d6
+ELEVEN2,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d62
+ELTA體育1,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cb4
+ELTA體育2,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cb6
+ELTA體育3,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cb8
+ETtoday綜合,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d3a
+ETtoday綜合,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d3a?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
+FOOD美食,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cd6
+FOX MOVIES,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca8
+HBO原創鉅獻,rtmp://45.92.126.226/channel/60c2f6ca961593122ebaf8dc
+HBO強檔鉅獻,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cce
+JET綜合,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c74
+KIX,rtmp://45.88.148.178/channel/60c30db3961593122ebaf8e8
+MOMO親子,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cc8
+MTV音樂台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d82
+NHK WORLD JAPAN,rtmp://45.88.148.178/channel/60c2f52d961593122ebaf8d2
+NHK,rtmp://45.88.148.178/channel/60c2f4fb961593122ebaf8d0
+Thrill,rtmp://45.92.126.226/channel/60c30d59961593122ebaf8e6
+TV5MONDE ASIE,rtmp://45.88.148.178/channel/60c2f5bb961593122ebaf8d4
+TVBS精采,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cd8
+TVBS精彩,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cd8?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
+TVB星河(粵語),rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d7a
+Z頻道,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d64
+三立台灣,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910c78
+三立都會,rtmp://45.92.126.226/channel/60c53f4a961593122ebafa48
+中視新聞,rtmp://45.92.126.226/channel/60c316c5961593122ebaf900
 中視新聞,rtmp://45.92.126.226/channel/60c316c5961593122ebaf900?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
+中視經典,rtmp://45.88.148.178/channel/60c31708961593122ebaf902
 中視經典,rtmp://45.88.148.178/channel/60c31708961593122ebaf902?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
 公視2,rtmp://45.92.126.226/channel/60c31796961593122ebaf908?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
-公視3,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c3e?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
-靖天映畫,rtmp://45.92.126.226/channel/60c34395961593122ebaf994?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
-ETtoday綜合,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d3a?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
-星衛娛樂,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d3c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
-寰宇財經,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d4e?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
-美食星球,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d4a?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
-TVBS精彩,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cd8?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
-美食星球,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d4a
-HBO原創鉅獻,rtmp://45.92.126.226/channel/60c2f6ca961593122ebaf8dc
-CNBC亞洲財經,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d44
-ELEVEN2,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d62
-HBO強檔鉅獻,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cce
-國家地理,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca6
-探索頻道,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6e
-華藏衛視,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910c56
-靖天映畫,rtmp://45.92.126.226/channel/60c34395961593122ebaf994
-thrill,rtmp://45.92.126.226/channel/60c30d59961593122ebaf8e6
-海豚綜合,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d76
-BBC世界新聞,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d42
-緯來育樂,rtmp://45.92.126.226/channel/60c31357961593122ebaf8f8
-博斯高球2,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cd0
-中視新聞,rtmp://45.92.126.226/channel/60c316c5961593122ebaf900
-台視財經,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910c48
-靖天綜合,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d50
-民視,rtmp://45.92.126.226/channel/60c317bd961593122ebaf90a
-FOX MOVIES,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca8
-探索科學,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d72
-好消息2,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d82
-靖天日本,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d54
-動物星球,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6c
-客家頻道,rtmp://45.92.126.226/channel/61003b23f0618408855f3748
-台視台語,rtmp://45.92.126.226/channel/60c31796961593122ebaf908
-冠軍電視,rtmp://45.92.126.226/channel/611a83133e4da143c015987c
-靖天電影,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d58
-東森戲劇,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d88
-ETtoday綜合,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d3a
-台視新聞,rtmp://45.88.148.178/channel/61003bbcf0618408855f374c
-TV5MONDE ASIE,rtmp://45.88.148.178/channel/60c2f5bb961593122ebaf8d4
-寰宇財經,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d4e
-KIX,rtmp://45.88.148.178/channel/60c30db3961593122ebaf8e8
-NHK,rtmp://45.88.148.178/channel/60c2f4fb961593122ebaf8d0
-探索動力,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d74
-JET綜合,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c74
-星衛娛樂,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d3c
-DW德國之聲,rtmp://45.88.148.178/channel/60c2f625961593122ebaf8d6
 公視3,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c3e
-中視經典,rtmp://45.88.148.178/channel/60c31708961593122ebaf902
-TVBS精采,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cd8
-Z頻道,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d64
-靖天歡樂,rtmp://45.88.148.178/channel/60c343c5961593122ebaf996
-好消息,rtmp://45.88.148.178/channel/60c31888961593122ebaf912
-華視教育體育文化,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c4e
-CNA亞洲新聞,rtmp://45.88.148.178/channel/60c2f49c961593122ebaf8cd
+公視3,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c3e?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
 天映經典,rtmp://45.88.148.178/channel/61002e1ff0618408855f3711
+天映電影,rtmp://45.88.148.178/channel/61002e1ff0618408855f3711
+台視台語,rtmp://45.92.126.226/channel/60c31796961593122ebaf908
+台視財經,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910c48
+台視新聞,rtmp://45.88.148.178/channel/61003bbcf0618408855f374c
+台視新聞,rtmp://45.88.148.178/channel/61003bbcf0618408855f374c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
+民視,rtmp://45.92.126.226/channel/60c317bd961593122ebaf90a
 光影歐洲,rtmp://45.88.148.178/channel/60c2f712961593122ebaf8de
+好消息,rtmp://45.88.148.178/channel/60c31888961593122ebaf912
+好消息2,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d82
+年代新聞,rtmp://45.88.148.178/channel/60c3181e961593122ebaf90e
 私人影院,rtmp://45.88.148.178/channel/610006dcf0618408855f36bd
+東森幼幼,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d84
+東森新聞,rtmp://45.88.148.178/channel/6100144cf0618408855f36e1
+東森戲劇,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d88
+東森戲劇,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d88?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
+采昌戲劇,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cd4
+冠軍電視,rtmp://45.92.126.226/channel/611a83133e4da143c015987c
+客家頻道,rtmp://45.92.126.226/channel/61003b23f0618408855f3748
+星衛娛樂,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d3c
+星衛娛樂,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d3c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
+美食星球,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d4a
+美食星球,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d4a?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
+海豚綜合,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d76
+動物星球,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6c
+動物星球,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
+國家地理,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca6
+探索科學,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d72
+探索動力,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d74
+探索頻道,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6e
+探索頻道,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6e?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
+博斯高球2,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cd0
+華視教育體育文化,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c4e
+華藏衛視,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910c56
+愛放動漫,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d02
+靖天日本,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d54
+靖天日本,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d54?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
+靖天映畫,rtmp://45.92.126.226/channel/60c34395961593122ebaf994
+靖天映畫,rtmp://45.92.126.226/channel/60c34395961593122ebaf994?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
+靖天電影,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d58
+靖天電影,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d58?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
+靖天綜合,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d50
+靖天綜合,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d50?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
+靖天歡樂,rtmp://45.88.148.178/channel/60c343c5961593122ebaf996
+靖天歡樂,rtmp://45.88.148.178/channel/60c343c5961593122ebaf996?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
 靖洋卡通,rtmp://45.88.148.178/channel/60c344bf961593122ebaf9a0
-NHK WORLD JAPAN,rtmp://45.88.148.178/channel/60c2f52d961593122ebaf8d2
-CATCHPLAY電影,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d2
 歐洲新聞,rtmp://45.92.126.226/channel/61002dbef0618408855f370f 
-ELTA體育1,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cb4
+緯來育樂,rtmp://45.92.126.226/channel/60c31357961593122ebaf8f8
+衛視中文,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cc4
+寰宇財經,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d4e
+寰宇財經,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d4e?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
 公視,https://flv3948069e.live.126.net/live/sytv_9dd30b5c8e846938c26dde70be773545.flv
 三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
@@ -371,6 +347,343 @@ BabyFirst,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn02
 FashionOne,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn19
 ELTV英語,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn20
 龍華經典,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn21
+📺虎牙直播,#genre#
+成龍,http://api.phoves.com.cn/iptv/huya.php?id=11342386
+吳京,http://api.phoves.com.cn/iptv/huya.php?id=11602045
+徐崢,http://api.phoves.com.cn/iptv/huya.php?id=11602043
+古天樂,http://api.phoves.com.cn/iptv/huya.php?id=10871113
+周星馳,http://api.phoves.com.cn/iptv/huya.php?id=11342412
+林正英,http://api.phoves.com.cn/iptv/huya.php?id=11342421
+劉德華,http://api.phoves.com.cn/iptv/huya.php?id=11342424
+周潤發,http://api.phoves.com.cn/iptv/huya.php?id=11342387
+梁朝偉,http://api.phoves.com.cn/iptv/huya.php?id=11602046
+洪金寶,http://api.phoves.com.cn/iptv/huya.php?id=11342427
+孫紅雷,http://api.phoves.com.cn/iptv/huya.php?id=11352973
+李連杰,http://api.phoves.com.cn/iptv/huya.php?id=11342390
+張國榮,http://api.phoves.com.cn/iptv/huya.php?id=11602034
+釋小龍,http://api.phoves.com.cn/iptv/huya.php?id=11342402
+女神系列,http://api.phoves.com.cn/iptv/huya.php?id=11336571
+周星馳放映廳,http://api.phoves.com.cn/iptv/huya.php?id=19105261
+五福星系列,http://api.phoves.com.cn/iptv/huya.php?id=11282233
+快樂同居生活,http://api.phoves.com.cn/iptv/huya.php?id=11336726
+武林外傳,http://api.phoves.com.cn/iptv/huya.php?id=11352915
+賀歲片,http://api.phoves.com.cn/iptv/huya.php?id=11601986
+蠟筆小新,http://api.phoves.com.cn/iptv/huya.php?id=11352970
+新三國,http://api.phoves.com.cn/iptv/huya.php?id=11352944
+鐵齒銅牙紀曉嵐,http://api.phoves.com.cn/iptv/huya.php?id=11342396#http://api.phoves.com.cn/iptv/bili.php?id=6694373
+奔跑吧兄弟,http://api.phoves.com.cn/iptv/huya.php?id=11601972
+極限挑戰,http://api.phoves.com.cn/iptv/huya.php?id=11352914
+虎牙八點檔,http://api.phoves.com.cn/iptv/huya.php?id=880261
+我是特種兵,http://api.phoves.com.cn/iptv/huya.php?id=11342385
+黑幫大片,http://api.phoves.com.cn/iptv/huya.php?id=11336719
+人民的名義,http://api.phoves.com.cn/iptv/huya.php?id=11342425
+亮劍,http://api.phoves.com.cn/iptv/huya.php?id=11342434
+少年包青天,http://api.phoves.com.cn/iptv/huya.php?id=11342393
+神探狄仁傑,http://api.phoves.com.cn/iptv/huya.php?id=11352958#http://api.phoves.com.cn/iptv/bili.php?id=258604
+各國賭片,http://api.phoves.com.cn/iptv/huya.php?id=11342399
+高智商犯罪片,http://api.phoves.com.cn/iptv/huya.php?id=11352962
+新水滸傳,http://api.phoves.com.cn/iptv/huya.php?id=11342383#http://api.phoves.com.cn/iptv/bili.php?id=21747822
+奧特曼,http://api.phoves.com.cn/iptv/huya.php?id=11601977#http://api.phoves.com.cn/iptv/bili.php?id=278452
+鹿鼎記,http://api.phoves.com.cn/iptv/huya.php?id=11352910
+龍門鏢局,http://api.phoves.com.cn/iptv/huya.php?id=11352874#http://api.phoves.com.cn/iptv/bili.php?id=633367
+網球王子,http://api.phoves.com.cn/iptv/huya.php?id=11352822
+三國演義,http://api.phoves.com.cn/iptv/huya.php?id=11602081#http://api.phoves.com.cn/iptv/bili.php?id=3491383
+沈騰賈玲黃渤,http://api.phoves.com.cn/iptv/huya.php?id=11601961
+父母愛情,http://api.phoves.com.cn/iptv/huya.php?id=11342439
+家有兒女,http://api.phoves.com.cn/iptv/huya.php?id=11352872
+美劇越獄,http://api.phoves.com.cn/iptv/huya.php?id=20488841
+康熙微服私訪記,http://api.phoves.com.cn/iptv/huya.php?id=11342418
+貓和老鼠,http://api.phoves.com.cn/iptv/huya.php?id=11352879#http://api.phoves.com.cn/iptv/bili.php?id=14300538
+港產搞笑,http://api.phoves.com.cn/iptv/huya.php?id=11601960
+神醫喜來樂,http://api.phoves.com.cn/iptv/huya.php?id=11601978
+熱血女子摔跤,http://api.phoves.com.cn/iptv/huya.php?id=20072872
+雍正王朝,http://api.phoves.com.cn/iptv/huya.php?id=11352936
+張衛健班西遊記,http://api.phoves.com.cn/iptv/huya.php?id=11342395
+相聲小品,http://api.phoves.com.cn/iptv/huya.php?id=11336593
+金庸系列,http://api.phoves.com.cn/iptv/huya.php?id=11352878
+倚天屠龍記,http://api.phoves.com.cn/iptv/huya.php?id=11342403
+新還珠格格,http://api.phoves.com.cn/iptv/huya.php?id=11342415
+回家的誘惑,http://api.phoves.com.cn/iptv/huya.php?id=11352920
+隋唐英雄傳,http://api.phoves.com.cn/iptv/huya.php?id=11352890
+動作懸疑片,http://api.phoves.com.cn/iptv/huya.php?id=11602077
+西遊記,http://api.phoves.com.cn/iptv/huya.php?id=11602031#http://api.phoves.com.cn/iptv/bili.php?id=21777080
+任達華,http://api.phoves.com.cn/iptv/huya.php?id=11352883
+剃刀邊緣,http://api.phoves.com.cn/iptv/huya.php?id=11602036
+咱們結婚吧,http://api.phoves.com.cn/iptv/huya.php?id=11342394
+世紀賊王張子強,http://api.phoves.com.cn/iptv/huya.php?id=11352940
+國產喜劇電影,http://api.phoves.com.cn/iptv/huya.php?id=11602044
+水滸傳,http://api.phoves.com.cn/iptv/huya.php?id=11352892#http://api.phoves.com.cn/iptv/bili.php?id=5611634
+大秦帝國裂變,http://api.phoves.com.cn/iptv/huya.php?id=11352918
+美食紀錄片,http://api.phoves.com.cn/iptv/huya.php?id=11352955
+岳雲鵬賈玲宋小寶,http://api.phoves.com.cn/iptv/huya.php?id=11352907
+中華小當家,http://api.phoves.com.cn/iptv/huya.php?id=11342413#http://api.phoves.com.cn/iptv/bili.php?id=3136881
+醫館笑傳,http://api.phoves.com.cn/iptv/huya.php?id=11352891#http://api.phoves.com.cn/iptv/bili.php?id=21070400
+勇敢的心,http://api.phoves.com.cn/iptv/huya.php?id=11602037
+甄子丹電影,http://api.phoves.com.cn/iptv/huya.php?id=11352935
+楚漢傳奇,http://api.phoves.com.cn/iptv/huya.php?id=11342392
+殭屍電影,http://api.phoves.com.cn/iptv/huya.php?id=19285234
+情深深雨濛濛,http://api.phoves.com.cn/iptv/huya.php?id=11352885#http://api.phoves.com.cn/iptv/bili.php?id=22402462
+花千骨,http://api.phoves.com.cn/iptv/huya.php?id=11342433
+魔幻神劇,http://api.phoves.com.cn/iptv/huya.php?id=11602065
+粵語經典喜劇,http://api.phoves.com.cn/iptv/huya.php?id=11352894
+屌絲男士,http://api.phoves.com.cn/iptv/huya.php?id=11342420
+法醫秦明,http://api.phoves.com.cn/iptv/huya.php?id=11352950
+懷念金庸,http://api.phoves.com.cn/iptv/huya.php?id=11352897
+尋秦記,http://api.phoves.com.cn/iptv/huya.php?id=11342417
+血色浪漫,http://api.phoves.com.cn/iptv/huya.php?id=11602055
+國產動作大片,http://api.phoves.com.cn/iptv/huya.php?id=11352896
+陸小鳳系列,http://api.phoves.com.cn/iptv/huya.php?id=11336725
+步步驚心,http://api.phoves.com.cn/iptv/huya.php?id=11601965
+奮鬥,http://api.phoves.com.cn/iptv/huya.php?id=11352959
+仙劍奇俠傳,http://api.phoves.com.cn/iptv/huya.php?id=11336579
+封神榜,http://api.phoves.com.cn/iptv/huya.php?id=11342404
+楊門女將,http://api.phoves.com.cn/iptv/huya.php?id=11336590
+火線追兇系列,http://api.phoves.com.cn/iptv/huya.php?id=11602069
+國產青春愛情,http://api.phoves.com.cn/iptv/huya.php?id=11602075
+張家輝梁家輝,http://api.phoves.com.cn/iptv/huya.php?id=11352916
+港片女神,http://api.phoves.com.cn/iptv/huya.php?id=11342429
+黑貓警長,http://api.phoves.com.cn/iptv/huya.php?id=11352974
+災難片,http://api.phoves.com.cn/iptv/huya.php?id=11352871
+郭富城合集,http://api.phoves.com.cn/iptv/huya.php?id=11352876
+張學友合集,http://api.phoves.com.cn/iptv/huya.php?id=11352906
+乾隆王朝,http://api.phoves.com.cn/iptv/huya.php?id=11352954
+笑傲江湖,http://api.phoves.com.cn/iptv/huya.php?id=11352837
+殭屍道長,http://api.phoves.com.cn/iptv/huya.php?id=11352963
+今晚80后,http://api.phoves.com.cn/iptv/huya.php?id=11352961
+武媚娘傳奇,http://api.phoves.com.cn/iptv/huya.php?id=11601964
+中國刑偵一號案,http://api.phoves.com.cn/iptv/huya.php?id=11352967
+櫻桃小丸子,http://api.phoves.com.cn/iptv/huya.php?id=11602067#http://api.phoves.com.cn/iptv/bili.php?id=21614203
+俠侶探案系列,http://api.phoves.com.cn/iptv/huya.php?id=11352893
+古裝探案系列,http://api.phoves.com.cn/iptv/huya.php?id=11352917
+感人高分電影,http://api.phoves.com.cn/iptv/huya.php?id=15452736
+光頭神探,http://api.phoves.com.cn/iptv/huya.php?id=11342397
+射鵰英雄傳,http://api.phoves.com.cn/iptv/huya.php?id=21674665
+飛車電影,http://api.phoves.com.cn/iptv/huya.php?id=11279247
+中國達人秀,http://api.phoves.com.cn/iptv/huya.php?id=11602047
+臥底警匪片,http://api.phoves.com.cn/iptv/huya.php?id=11352886
+郭德綱脫口秀,http://api.phoves.com.cn/iptv/huya.php?id=11352945
+國內動畫,http://api.phoves.com.cn/iptv/huya.php?id=11342428
+鏢行天下,http://api.phoves.com.cn/iptv/huya.php?id=11352969
+小公舉,http://api.phoves.com.cn/iptv/huya.php?id=11601968
+陳翔六點半,http://api.phoves.com.cn/iptv/huya.php?id=11274154
+阿斗歸來了,http://api.phoves.com.cn/iptv/huya.php?id=13303478
+小蘑菇,http://api.phoves.com.cn/iptv/huya.php?id=11601981
+初心,http://api.phoves.com.cn/iptv/huya.php?id=11352941
+小丑講電影,http://api.phoves.com.cn/iptv/huya.php?id=16857432
+扁豆看電影,http://api.phoves.com.cn/iptv/huya.php?id=16028551
+美少女咸兒,http://api.phoves.com.cn/iptv/huya.php?id=11336572
+魚塘塘主張年年,http://api.phoves.com.cn/iptv/huya.php?id=11342384
+Dae陪你看-動作系列,http://api.phoves.com.cn/iptv/huya.php?id=22897556
+領帶哥,http://api.phoves.com.cn/iptv/huya.php?id=11342430
+老王夸我帥,http://api.phoves.com.cn/iptv/huya.php?id=11352964
+軍武直播,http://api.phoves.com.cn/iptv/huya.php?id=20230374
+北島南城,http://api.phoves.com.cn/iptv/huya.php?id=11601962
+狗哥吃火鍋,http://api.phoves.com.cn/iptv/huya.php?id=17269326
+面對疾風-,http://api.phoves.com.cn/iptv/huya.php?id=11352904
+我要在你頭上暴扣,http://api.phoves.com.cn/iptv/huya.php?id=19524135
+荒野達人,http://api.phoves.com.cn/iptv/huya.php?id=11352975
+4號流水線的李小花,http://api.phoves.com.cn/iptv/huya.php?id=11601957
+Yummy,http://api.phoves.com.cn/iptv/huya.php?id=11336587
+亮哥講電影,http://api.phoves.com.cn/iptv/huya.php?id=16144175
+Sir說電影,http://api.phoves.com.cn/iptv/huya.php?id=16626185
+科幻夢工場,http://api.phoves.com.cn/iptv/huya.php?id=15152155
+可愛的小強,http://api.phoves.com.cn/iptv/huya.php?id=11342435
+斌哥漫說,http://api.phoves.com.cn/iptv/huya.php?id=18632116
+茱麗葉,http://api.phoves.com.cn/iptv/huya.php?id=11602072
+西紅柿,http://api.phoves.com.cn/iptv/huya.php?id=11601979
+音樂小石榴,http://api.phoves.com.cn/iptv/huya.php?id=17091681
+持槍者-土豆哥,http://api.phoves.com.cn/iptv/huya.php?id=11336578
+傻妞,http://api.phoves.com.cn/iptv/huya.php?id=11342426
+蔥花,http://api.phoves.com.cn/iptv/huya.php?id=11352938
+瞬間爆炸,http://api.phoves.com.cn/iptv/huya.php?id=11352960
+張冰心,http://api.phoves.com.cn/iptv/huya.php?id=2688
+小豬豬,http://api.phoves.com.cn/iptv/huya.php?id=11342416
+來聽歌呀,http://api.phoves.com.cn/iptv/huya.php?id=11352913
+斯國一,http://api.phoves.com.cn/iptv/huya.php?id=11352905
+yao不能停,http://api.phoves.com.cn/iptv/huya.php?id=11601980
+南西視訊,http://api.phoves.com.cn/iptv/huya.php?id=16913382
+一隻大懶蟲,http://api.phoves.com.cn/iptv/huya.php?id=11279251
+電影最TOP,http://api.phoves.com.cn/iptv/huya.php?id=11774959
+萌新司機,http://api.phoves.com.cn/iptv/huya.php?id=11352881
+凌蓮,http://api.phoves.com.cn/iptv/huya.php?id=11602086
+阿森木木木,http://api.phoves.com.cn/iptv/huya.php?id=11601971
+晴天-小曦,http://api.phoves.com.cn/iptv/huya.php?id=11352937
+元芳看不到,http://api.phoves.com.cn/iptv/huya.php?id=11342414
+我愛黑科技,http://api.phoves.com.cn/iptv/huya.php?id=11602068
+我的寶貝baby,http://api.phoves.com.cn/iptv/huya.php?id=11352880
+包蛋超人,http://api.phoves.com.cn/iptv/huya.php?id=11342400
+loVe、飄零,http://api.phoves.com.cn/iptv/huya.php?id=11602074
+假裝,http://api.phoves.com.cn/iptv/huya.php?id=11352948
+小軒,http://api.phoves.com.cn/iptv/huya.php?id=11352899
+呆萌君,http://api.phoves.com.cn/iptv/huya.php?id=13138378
+雅痞不是帥,http://api.phoves.com.cn/iptv/huya.php?id=11352953
+Dae陪你看-喜劇系列,http://api.phoves.com.cn/iptv/huya.php?id=22897634
+吞針主播,http://api.phoves.com.cn/iptv/huya.php?id=11352887
+好尸,http://api.phoves.com.cn/iptv/huya.php?id=15981239
+胖次過肩摔,http://api.phoves.com.cn/iptv/huya.php?id=11352903
+二次元控,http://api.phoves.com.cn/iptv/huya.php?id=11352912
+長島冰茶-,http://api.phoves.com.cn/iptv/huya.php?id=11352884
+哀是麥子的球迷,http://api.phoves.com.cn/iptv/huya.php?id=16162176
+飛天女警,http://api.phoves.com.cn/iptv/huya.php?id=11601958
+呆萌小嶽嶽,http://api.phoves.com.cn/iptv/huya.php?id=11342398
+四大裁子之首,http://api.phoves.com.cn/iptv/huya.php?id=11602058
+ 舞王駕到,http://api.phoves.com.cn/iptv/huya.php?id=11342438
+Big笑工坊,http://api.phoves.com.cn/iptv/huya.php?id=14776702
+野食小哥,http://api.phoves.com.cn/iptv/huya.php?id=14363949
+越哥說電影,http://api.phoves.com.cn/iptv/huya.php?id=15894162
+玩味陪你看-心隨影動,http://api.phoves.com.cn/iptv/huya.php?id=22295876
+DK陪你看-觀影團,http://api.phoves.com.cn/iptv/huya.php?id=22895177
+小百合,http://api.phoves.com.cn/iptv/huya.php?id=11601956
+四次元先生,http://api.phoves.com.cn/iptv/huya.php?id=11602071
+母胎solo二百年,http://api.phoves.com.cn/iptv/huya.php?id=11601982
+小妖孽,http://api.phoves.com.cn/iptv/huya.php?id=11602088
+李小哇絮叨叨,http://api.phoves.com.cn/iptv/huya.php?id=18441722
+大俠,http://api.phoves.com.cn/iptv/huya.php?id=11602085
+小川侃電影,http://api.phoves.com.cn/iptv/huya.php?id=15870999
+喬我說動漫頻道,http://api.phoves.com.cn/iptv/huya.php?id=17941367
+喬我說遊戲頻道,http://api.phoves.com.cn/iptv/huya.php?id=17943364
+來呀官人,http://api.phoves.com.cn/iptv/huya.php?id=15763558
+大型忙內的宅姐姐,http://api.phoves.com.cn/iptv/huya.php?id=11602084
+止戈電影,http://api.phoves.com.cn/iptv/huya.php?id=19863777
+地獄ヽ妖妖,http://api.phoves.com.cn/iptv/huya.php?id=11352869
+Adam短髮,http://api.phoves.com.cn/iptv/huya.php?id=21339980
+Fighter,http://api.phoves.com.cn/iptv/huya.php?id=11352949
+周星馳吧,http://api.phoves.com.cn/iptv/huya.php?id=21136378
+灕江塔景區售票阿姨,http://api.phoves.com.cn/iptv/huya.php?id=11602082
+第一放映室,http://api.phoves.com.cn/iptv/huya.php?id=11352979
+逆火行,http://api.phoves.com.cn/iptv/huya.php?id=15824466
+大象放映室,http://api.phoves.com.cn/iptv/huya.php?id=21277391
+牙縫多了根青菜,http://api.phoves.com.cn/iptv/huya.php?id=11352877
+魚丸說電影,http://api.phoves.com.cn/iptv/huya.php?id=16615910
+笙歌,http://api.phoves.com.cn/iptv/huya.php?id=11352965
+魯班愛看劇,http://api.phoves.com.cn/iptv/huya.php?id=17139168
+小亮亮,http://api.phoves.com.cn/iptv/huya.php?id=11342432
+腦殼不太好,http://api.phoves.com.cn/iptv/huya.php?id=11602042
+幻海航行,http://api.phoves.com.cn/iptv/huya.php?id=17105786
+青年電影館,http://api.phoves.com.cn/iptv/huya.php?id=21388479
+貓眼下的魚,http://api.phoves.com.cn/iptv/huya.php?id=20236200
+劉老師說電影,http://api.phoves.com.cn/iptv/huya.php?id=20289754
+熊妹撩電影,http://api.phoves.com.cn/iptv/huya.php?id=15966357
+北島的詩,http://api.phoves.com.cn/iptv/huya.php?id=11336591
+電影狂人A,http://api.phoves.com.cn/iptv/huya.php?id=18715610
+老電影故事,http://api.phoves.com.cn/iptv/huya.php?id=15267139
+王知無,http://api.phoves.com.cn/iptv/huya.php?id=16010446
+噔噔懸疑社,http://api.phoves.com.cn/iptv/huya.php?id=17445539
+如意菜頭,http://api.phoves.com.cn/iptv/huya.php?id=11352966
+酒後探真言,http://api.phoves.com.cn/iptv/huya.php?id=660260
+老皮講電影,http://api.phoves.com.cn/iptv/huya.php?id=16968572
+了不起的烏賊君,http://api.phoves.com.cn/iptv/huya.php?id=16604522
+低調新說,http://api.phoves.com.cn/iptv/huya.php?id=20578977
+殺馬特死神,http://api.phoves.com.cn/iptv/huya.php?id=11352875
+微微愛寶寶,http://api.phoves.com.cn/iptv/huya.php?id=11342422
+一口毒奶,http://api.phoves.com.cn/iptv/huya.php?id=16144261
+秋葉海棠君,http://api.phoves.com.cn/iptv/huya.php?id=21254214
+老吳說電影,http://api.phoves.com.cn/iptv/huya.php?id=16740471
+星君說電影,http://api.phoves.com.cn/iptv/huya.php?id=13622409
+桃白柏,http://api.phoves.com.cn/iptv/huya.php?id=15958655
+空空說電影,http://api.phoves.com.cn/iptv/huya.php?id=15923500
+西瓜劉海,http://api.phoves.com.cn/iptv/huya.php?id=11352908
+吐槽運動,http://api.phoves.com.cn/iptv/huya.php?id=11342436
+九叔說電影,http://api.phoves.com.cn/iptv/huya.php?id=21339153
+可樂撩電影,http://api.phoves.com.cn/iptv/huya.php?id=20045465
+小冉看電影,http://api.phoves.com.cn/iptv/huya.php?id=17341907
+聖逗事,http://api.phoves.com.cn/iptv/huya.php?id=18390254
+Fight、Girl,http://api.phoves.com.cn/iptv/huya.php?id=11352895
+撩電影8,http://api.phoves.com.cn/iptv/huya.php?id=16920698
+蟲哥說電影,http://api.phoves.com.cn/iptv/huya.php?id=20173443
+谷阿莫,http://api.phoves.com.cn/iptv/huya.php?id=593573
+電影筆記,http://api.phoves.com.cn/iptv/huya.php?id=16920222
+一朵老香菇,http://api.phoves.com.cn/iptv/huya.php?id=15967689
+馬桶吐槽,http://api.phoves.com.cn/iptv/huya.php?id=17089779
+中二的騷年,http://api.phoves.com.cn/iptv/huya.php?id=11602054
+雷舌電影,http://api.phoves.com.cn/iptv/huya.php?id=18368038
+西小笙,http://api.phoves.com.cn/iptv/huya.php?id=11352947
+老炮說電影,http://api.phoves.com.cn/iptv/huya.php?id=15454716
+西施撩電影,http://api.phoves.com.cn/iptv/huya.php?id=15253966
+你的小美吖,http://api.phoves.com.cn/iptv/huya.php?id=17489431
+涵哥評電影,http://api.phoves.com.cn/iptv/huya.php?id=16865726
+方頭人講故事,http://api.phoves.com.cn/iptv/huya.php?id=16604314
+電影享不停,http://api.phoves.com.cn/iptv/huya.php?id=16873147
+Low君,http://api.phoves.com.cn/iptv/huya.php?id=17147314
+暴影君,http://api.phoves.com.cn/iptv/huya.php?id=15695263
+曉杰侃電影,http://api.phoves.com.cn/iptv/huya.php?id=17279509
+電影間諜,http://api.phoves.com.cn/iptv/huya.php?id=16149609
+影音炫客,http://api.phoves.com.cn/iptv/huya.php?id=17811579
+比爾電影,http://api.phoves.com.cn/iptv/huya.php?id=17227870
+花花與三貓CatLive,http://api.phoves.com.cn/iptv/huya.php?id=15927359
+阿皮快看,http://api.phoves.com.cn/iptv/huya.php?id=17013162
+寞尛北,http://api.phoves.com.cn/iptv/huya.php?id=11602076
+Hi我的星盆友,http://api.phoves.com.cn/iptv/huya.php?id=880220
+正經說電影,http://api.phoves.com.cn/iptv/huya.php?id=19583776
+雲兒,http://api.phoves.com.cn/iptv/huya.php?id=22176049
+三口看電影,http://api.phoves.com.cn/iptv/huya.php?id=15599787
+渣子看鬧劇,http://api.phoves.com.cn/iptv/huya.php?id=16837764
+沫漾電影,http://api.phoves.com.cn/iptv/huya.php?id=15556391
+韓小囧說電影,http://api.phoves.com.cn/iptv/huya.php?id=20695907
+虎妞說電影,http://api.phoves.com.cn/iptv/huya.php?id=20343144
+小貝食記,http://api.phoves.com.cn/iptv/huya.php?id=17198831
+小麗說電影,http://api.phoves.com.cn/iptv/huya.php?id=20056437
+嫦娥撩電影,http://api.phoves.com.cn/iptv/huya.php?id=18201106
+春寒一夜動千城,http://api.phoves.com.cn/iptv/huya.php?id=20702189
+洛基的小蛇,http://api.phoves.com.cn/iptv/huya.php?id=19582933
+導演我太難了,http://api.phoves.com.cn/iptv/huya.php?id=880248
+李嘉格是誰,http://api.phoves.com.cn/iptv/huya.php?id=22187977
+顧九撩電影,http://api.phoves.com.cn/iptv/huya.php?id=16422212
+無比看電影精選,http://api.phoves.com.cn/iptv/huya.php?id=19450129
+虎牙志願者,http://api.phoves.com.cn/iptv/huya.php?id=880232
+性格刺青,http://api.phoves.com.cn/iptv/huya.php?id=10386201
+萬人影視,http://api.phoves.com.cn/iptv/huya.php?id=16914870
+阿祥說電影,http://api.phoves.com.cn/iptv/huya.php?id=16868935
+王冠逸Lawrence,http://api.phoves.com.cn/iptv/huya.php?id=22175780
+正經的瓜皮醬,http://api.phoves.com.cn/iptv/huya.php?id=19810875
+演員方安娜,http://api.phoves.com.cn/iptv/huya.php?id=22151150
+豬豬妹說電影,http://api.phoves.com.cn/iptv/huya.php?id=16457533
+MIKOOOO,http://api.phoves.com.cn/iptv/huya.php?id=22142519
+遊戲小萌主,http://api.phoves.com.cn/iptv/huya.php?id=16915640
+大學Z課堂,http://api.phoves.com.cn/iptv/huya.php?id=11160272
+【態度】官方節目,http://api.phoves.com.cn/iptv/huya.php?id=21103951
+USA大蛇,http://api.phoves.com.cn/iptv/huya.php?id=19564134
+葫蘆娃小劇場,http://api.phoves.com.cn/iptv/huya.php?id=17323378
+趙方婧wimi,http://api.phoves.com.cn/iptv/huya.php?id=19284461
+蛋殼寶寶,http://api.phoves.com.cn/iptv/huya.php?id=16619039
+娛樂大王牌,http://api.phoves.com.cn/iptv/huya.php?id=880242
+中國加油,http://api.phoves.com.cn/iptv/huya.php?id=21059527
+短的發佈會,http://api.phoves.com.cn/iptv/huya.php?id=17142127
+關燈看大片,http://api.phoves.com.cn/iptv/huya.php?id=16135863
+阿鈣扒瞎,http://api.phoves.com.cn/iptv/huya.php?id=15978172
+甘露Vera,http://api.phoves.com.cn/iptv/huya.php?id=21399753
+黃霄雲,http://api.phoves.com.cn/iptv/huya.php?id=22180457
+音雄請回答,http://api.phoves.com.cn/iptv/huya.php?id=880269
+彤顏童語,http://api.phoves.com.cn/iptv/huya.php?id=19398022
+虎牙影視廳,http://api.phoves.com.cn/iptv/huya.php?id=16020072
+臧老師好,http://api.phoves.com.cn/iptv/huya.php?id=16616824
+小鬼律令,http://api.phoves.com.cn/iptv/huya.php?id=16847139
+我是一顆小虎牙,http://api.phoves.com.cn/iptv/huya.php?id=17904870
+電劇小班長,http://api.phoves.com.cn/iptv/huya.php?id=21847611
+嘀嗒強東玥,http://api.phoves.com.cn/iptv/huya.php?id=21392019
+新聲營業中,http://api.phoves.com.cn/iptv/huya.php?id=880257
+電影十里廊,http://api.phoves.com.cn/iptv/huya.php?id=16801558
+陳冰kiki,http://api.phoves.com.cn/iptv/huya.php?id=22144263
+虎牙校園俱樂部,http://api.phoves.com.cn/iptv/huya.php?id=21304740
+小南瓜解說,http://api.phoves.com.cn/iptv/huya.php?id=17462972
+粽子說,http://api.phoves.com.cn/iptv/huya.php?id=16549527
+AKB48China,http://api.phoves.com.cn/iptv/huya.php?id=22149408
+影視新起點,http://api.phoves.com.cn/iptv/huya.php?id=16102581
+郭其城,http://api.phoves.com.cn/iptv/huya.php?id=21467179
+電影充電站,http://api.phoves.com.cn/iptv/huya.php?id=20064385
+揚仔看權游,http://api.phoves.com.cn/iptv/huya.php?id=17089810
+Casper卡斯柏,http://api.phoves.com.cn/iptv/huya.php?id=21426772
+非同說電影,http://api.phoves.com.cn/iptv/huya.php?id=20482574
+飯前看電影,http://api.phoves.com.cn/iptv/huya.php?id=16278147
+LoseYourself,http://api.phoves.com.cn/iptv/huya.php?id=16061522
+雨婷講電影,http://api.phoves.com.cn/iptv/huya.php?id=21638737
+西哥來了,http://api.phoves.com.cn/iptv/huya.php?id=10849208
+娘子說電影,http://api.phoves.com.cn/iptv/huya.php?id=18964209
+陳澤希,http://api.phoves.com.cn/iptv/huya.php?id=21411905
+小冷說電影,http://api.phoves.com.cn/iptv/huya.php?id=16739452
+默爺侃電影,http://api.phoves.com.cn/iptv/huya.php?id=17204307
+電影七,http://api.phoves.com.cn/iptv/huya.php?id=16859944
+這劇很火,http://api.phoves.com.cn/iptv/huya.php?id=19811530
 📺全球P5P,#genre#
 鳳凰資訊台,p5p://fccs.123178.top:9906/604354a700001c2706f579cae17a48f1.ts
 鳳凰中文台,p5p://fccs.123178.top:9906/604355380000ff4606f7b06cbafec3a5.ts
