@@ -433,7 +433,7 @@ BabyFirst,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn02
 FashionOne,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn19
 ELTV英語,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn20
 龍華經典,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn21
-🇹🇼pP2p測試,#genre#
+🇹🇼P2p測試,#genre#
 中視,P2p://ns2.hellotvvod.com:9906/21fe3c316a13445a8a5b1f4afd39a5b1
 中天綜合,P2p://ns2.hellotvvod.com:9906/a23f89fde21341f3b172046c02ad688c
 中天娛樂,P2p://ns2.hellotvvod.com:9906/c23914b1e52c44a9b665e51f535d5b37
