@@ -60,75 +60,6 @@ HBO,http://50.7.61.148:30080/Entry/hbo
 AXN,http://50.7.61.148:30080/Entry/axn
 衛視電影,http://50.7.61.147:30080/Entry/starmovie#http://50.7.61.149:30080/Entry/starmovie
 緯來電影,http://50.7.61.148:30080/Entry/vlmovie
-台視,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8 
-中視,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8 
-華視,http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8 
-民視,http://211.23.114.106:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8 
-公視,http://211.23.114.106:8505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8 
-人間衛視,http://211.23.114.106:8506/http/61.221.81.94:8088/hls/69/811/ch36.m3u8 
-大愛,http://211.23.114.106:8507/http/61.221.81.94:8088/hls/73/815/ch52.m3u8 
-好消息,http://211.23.114.106:8508/http/61.221.81.94:8088/hls/74/816/ch53.m3u8 
-國家地理,http://211.23.114.106:8509/http/61.221.81.94:8088/hls/61/803/ch01.m3u8 
-探索頻道,http://211.23.114.106:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8 
-旅遊生活,http://211.23.114.106:8570/http/61.221.81.94:8088/hls/70/812/ch38.m3u8 
-動物星球,http://211.23.114.106:8512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8 
-八大綜合,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8 
-亞洲旅遊,http://211.23.114.106:8513/http/61.221.81.94:8088/hls/76/818/ch61.m3u8 
-迪士尼,http://211.23.114.106:8581/http/61.221.81.94:8088/hls/70/812/ch40.m3u8 
-東森幼幼,http://211.23.114.106:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8 
-ANIMAX,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/70/812/ch39.m3u8 
-龍華卡通,http://211.23.114.106:8528/http/59.120.8.187:8066/hls/210/10013/cstv13.m3u8 
-緯來綜合,http://211.23.114.106:8518/http/61.221.81.94:8088/hls/68/810/ch32.m3u8 
-八大第一,http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8 
-八大綜合,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8 
-三立台灣,http://211.23.114.106:8521/http/60.251.39.91:8081/hls/65/807/ch20.m3u8 
-三立都會,http://211.23.114.106:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8 
-衛視中文,http://211.23.114.106:8514/http/60.251.39.91:8081/hls/62/804/ch05.m3u8 
-東森綜合,http://211.23.114.106:8524/http/60.251.39.91:8081/hls/63/805/ch12.m3u8 
-東森超視,http://211.23.114.106:8525/http/60.251.39.91:8081/hls/64/806/ch14.m3u8 
-中天綜合,http://211.23.114.106:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8 
-中天娛樂,http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8 
-東風衛視,http://211.23.114.106:8578/http/60.251.39.91:8081/hls/68/810/ch31.m3u8 
-年代MUCH,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/72/814/ch45.m3u8 
-東森戲劇,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8 
-八大戲劇,http://211.23.114.106:8531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8 
-TVBS歡樂,http://211.23.114.106:8532/http/60.251.39.91:8081/hls/65/807/ch17.m3u8 
-緯來戲劇,http://211.23.114.106:8533/http/60.251.39.91:8081/hls/69/811/ch33.m3u8 
-龍華戲劇,http://211.23.114.106:8534/http/59.120.8.187:8066/hls/210/10010/cstv10.m3u8 
-龍華日韓,http://211.23.114.106:8535/http/59.120.8.187:8066/hls/210/10011/cstv11.m3u8 
-龍華偶像,http://211.23.114.106:8579/http/59.120.8.187:8066/hls/210/10012/cstv12.m3u8 
-未來日本,http://211.23.114.106:8537/http/60.251.39.91:8081/hls/69/811/ch34.m3u8 
-WAKUWAKU JAPAN,http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8 
-年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8 
-東森新聞,http://211.23.114.106:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8 
-中天新聞,http://211.23.114.106:8541/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8 
-民視新聞,http://211.23.114.106:8542/http/60.251.39.91:8081/hls/73/815/ch51.m3u8 
-三立新聞,http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8 
-TVBS新聞,http://211.23.114.106:8546/http/116.50.42.19:8081/hls/64/806/ch16.m3u8 
-TVBS,http://211.23.114.106:8545/http/116.50.42.19:8081/hls/64/806/ch15.m3u8 
-東森財經,http://211.23.114.106:8546/http/116.50.42.19:8081/hls/63/805/ch11.m3u8 
-寰宇新聞,http://211.23.114.106:8547/http/116.50.42.19:8081/hls/76/818/ch62.m3u8 
-壹新聞,http://211.23.114.106:8548/http/116.50.42.19:8081/hls/66/808/ch24.m3u8
-CNN新聞,http://211.23.114.106:8549/http/116.50.42.19:8081/hls/68/810/ch29.m3u8 
-CNBC新聞,http://211.23.114.106:8550/http/116.50.42.19:8078/hls/24/80/cnbc90.m3u8 
-Bloomberg,http://211.23.114.106:8551/http/116.50.42.19:8078/hls/43/80/bloomber.m3u8 
-NHK新聞,http://211.23.114.106:8552/http/116.50.42.19:8081/hls/62/804/ch06.m3u8 
-衛視電影,http://211.23.114.106:8553/http/116.50.42.19:8081/hls/62/804/ch07.m3u8 
-好萊塢電影,http://211.23.114.106:8554/http/116.50.42.19:8081/hls/74/816/ch55.m3u8 
-緯來電影,http://211.23.114.106:8555/http/116.50.42.19:8081/hls/69/811/ch35.m3u8 
-龍華電影,http://211.23.114.106:8556/http/116.50.42.19:8066/hls/210/10014/cstv14.m3u8 
-HBO,http://211.23.114.106:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8 
-AXN,http://211.23.114.106:8558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8 
-Cinemax,http://211.23.114.106:8559/http/116.50.42.19:8081/hls/71/813/ch42.m3u8 
-FOX MOVIES,http://211.23.114.106:8560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8 
-FOX頻道,http://211.23.114.106:8561/http/116.50.42.19:8081/hls/61/803/ch02.m3u8 
-緯來育樂,http://211.23.114.106:8562/http/116.50.42.19:8081/hls/68/810/ch30.m3u8 
-緯來體育,http://211.23.114.106:8563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8 
-博斯運動1,http://211.23.114.106:8564/http/59.120.8.187:8066/hls/210/1001 
-博斯運動2,http://211.23.114.106:8565/http/59.120.8.187:8081/hls/61/803/ch04.m3u8 
-ELEVEN SPORTS 1,http://211.23.114.106:8566/http/59.120.8.187:8078/hls/25/80/esport.m3u8 
-ELEVEN SPORTS 2,http://211.23.114.106:8567/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
-爆谷台,http://pullhls3948069e.live.126.net/live/baogu-superstars-movies-hd/playlist.m3u8
 美亞電影,http://v3948069e.live.126.net/live/hodtv4003.flv
 民視,https://4gtvfreemobile-mozai.4gtv.tv/z-4Hg7N6vs50yhA6iX9n9elf1ikuJKEcMdR1IKqFOp4%3d/stream2.m3u8?token=q44SHDi8AXE1makMtVkjDw&expires=1632729656&token1=H38SB9bSUWCnbFIT-2H4Yw&expires1=1632758456&refer=MWRmMzMzMzQtMDBkNy00NTA2LWEwYzgtNzI4NzgyZGE1NDYw&y=0
 民視,https://4gtvfreemobile-mozai.4gtv.tv/EsGHR5kmmmdGF7ceX4JrxzFGr5EZWyRjqaKVoUJ3Gfk%3d/stream2.m3u8?token=gGyPozlBLrCzgcF_CMv2Tg&expires=1630484776&token1=XVXm7_bwqoA_ltNZssw8aA&expires1=1630513576&refer=ODI4MjVlNDItODhiMy00MDEzLTg4YzktZTk5MmJiM2E5OWU4&y=0
@@ -367,6 +298,75 @@ CNN,http://125.227.210.55:10797/VideoInput/play.ts#http://125.227.210.37:10797/V
 中天新聞,http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw/live
 KPOP,http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCoRXPcv8XK5fAplLbk9PTww/live
 網路流行音樂電,http://free.fullspeed.tv/query?url=https://www.youtube.com/watch?v=wrYF0HX7Kzc
+🇹🇼MOD,#genre#
+台視,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8 
+中視,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8 
+華視,http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8 
+民視,http://211.23.114.106:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8 
+公視,http://211.23.114.106:8505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8 
+人間衛視,http://211.23.114.106:8506/http/61.221.81.94:8088/hls/69/811/ch36.m3u8 
+大愛,http://211.23.114.106:8507/http/61.221.81.94:8088/hls/73/815/ch52.m3u8 
+好消息,http://211.23.114.106:8508/http/61.221.81.94:8088/hls/74/816/ch53.m3u8 
+國家地理,http://211.23.114.106:8509/http/61.221.81.94:8088/hls/61/803/ch01.m3u8 
+探索頻道,http://211.23.114.106:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8 
+旅遊生活,http://211.23.114.106:8570/http/61.221.81.94:8088/hls/70/812/ch38.m3u8 
+動物星球,http://211.23.114.106:8512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8 
+八大綜合,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8 
+亞洲旅遊,http://211.23.114.106:8513/http/61.221.81.94:8088/hls/76/818/ch61.m3u8 
+迪士尼,http://211.23.114.106:8581/http/61.221.81.94:8088/hls/70/812/ch40.m3u8 
+東森幼幼,http://211.23.114.106:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8 
+ANIMAX,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/70/812/ch39.m3u8 
+龍華卡通,http://211.23.114.106:8528/http/59.120.8.187:8066/hls/210/10013/cstv13.m3u8 
+緯來綜合,http://211.23.114.106:8518/http/61.221.81.94:8088/hls/68/810/ch32.m3u8 
+八大第一,http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8 
+八大綜合,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8 
+三立台灣,http://211.23.114.106:8521/http/60.251.39.91:8081/hls/65/807/ch20.m3u8 
+三立都會,http://211.23.114.106:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8 
+衛視中文,http://211.23.114.106:8514/http/60.251.39.91:8081/hls/62/804/ch05.m3u8 
+東森綜合,http://211.23.114.106:8524/http/60.251.39.91:8081/hls/63/805/ch12.m3u8 
+東森超視,http://211.23.114.106:8525/http/60.251.39.91:8081/hls/64/806/ch14.m3u8 
+中天綜合,http://211.23.114.106:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8 
+中天娛樂,http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8 
+東風衛視,http://211.23.114.106:8578/http/60.251.39.91:8081/hls/68/810/ch31.m3u8 
+年代MUCH,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/72/814/ch45.m3u8 
+東森戲劇,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8 
+八大戲劇,http://211.23.114.106:8531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8 
+TVBS歡樂,http://211.23.114.106:8532/http/60.251.39.91:8081/hls/65/807/ch17.m3u8 
+緯來戲劇,http://211.23.114.106:8533/http/60.251.39.91:8081/hls/69/811/ch33.m3u8 
+龍華戲劇,http://211.23.114.106:8534/http/59.120.8.187:8066/hls/210/10010/cstv10.m3u8 
+龍華日韓,http://211.23.114.106:8535/http/59.120.8.187:8066/hls/210/10011/cstv11.m3u8 
+龍華偶像,http://211.23.114.106:8579/http/59.120.8.187:8066/hls/210/10012/cstv12.m3u8 
+未來日本,http://211.23.114.106:8537/http/60.251.39.91:8081/hls/69/811/ch34.m3u8 
+WAKUWAKU JAPAN,http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8 
+年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8 
+東森新聞,http://211.23.114.106:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8 
+中天新聞,http://211.23.114.106:8541/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8 
+民視新聞,http://211.23.114.106:8542/http/60.251.39.91:8081/hls/73/815/ch51.m3u8 
+三立新聞,http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8 
+TVBS新聞,http://211.23.114.106:8546/http/116.50.42.19:8081/hls/64/806/ch16.m3u8 
+TVBS,http://211.23.114.106:8545/http/116.50.42.19:8081/hls/64/806/ch15.m3u8 
+東森財經,http://211.23.114.106:8546/http/116.50.42.19:8081/hls/63/805/ch11.m3u8 
+寰宇新聞,http://211.23.114.106:8547/http/116.50.42.19:8081/hls/76/818/ch62.m3u8 
+壹新聞,http://211.23.114.106:8548/http/116.50.42.19:8081/hls/66/808/ch24.m3u8
+CNN新聞,http://211.23.114.106:8549/http/116.50.42.19:8081/hls/68/810/ch29.m3u8 
+CNBC新聞,http://211.23.114.106:8550/http/116.50.42.19:8078/hls/24/80/cnbc90.m3u8 
+Bloomberg,http://211.23.114.106:8551/http/116.50.42.19:8078/hls/43/80/bloomber.m3u8 
+NHK新聞,http://211.23.114.106:8552/http/116.50.42.19:8081/hls/62/804/ch06.m3u8 
+衛視電影,http://211.23.114.106:8553/http/116.50.42.19:8081/hls/62/804/ch07.m3u8 
+好萊塢電影,http://211.23.114.106:8554/http/116.50.42.19:8081/hls/74/816/ch55.m3u8 
+緯來電影,http://211.23.114.106:8555/http/116.50.42.19:8081/hls/69/811/ch35.m3u8 
+龍華電影,http://211.23.114.106:8556/http/116.50.42.19:8066/hls/210/10014/cstv14.m3u8 
+HBO,http://211.23.114.106:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8 
+AXN,http://211.23.114.106:8558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8 
+Cinemax,http://211.23.114.106:8559/http/116.50.42.19:8081/hls/71/813/ch42.m3u8 
+FOX MOVIES,http://211.23.114.106:8560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8 
+FOX頻道,http://211.23.114.106:8561/http/116.50.42.19:8081/hls/61/803/ch02.m3u8 
+緯來育樂,http://211.23.114.106:8562/http/116.50.42.19:8081/hls/68/810/ch30.m3u8 
+緯來體育,http://211.23.114.106:8563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8 
+博斯運動1,http://211.23.114.106:8564/http/59.120.8.187:8066/hls/210/1001 
+博斯運動2,http://211.23.114.106:8565/http/59.120.8.187:8081/hls/61/803/ch04.m3u8 
+ELEVEN SPORTS 1,http://211.23.114.106:8566/http/59.120.8.187:8078/hls/25/80/esport.m3u8 
+ELEVEN SPORTS 2,http://211.23.114.106:8567/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
 📻台灣4gTV,#genre#
 民視台灣,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv001
 民視,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv002
@@ -869,7 +869,7 @@ HUB都會,P2p://ns2.hellotvvod.com:9906/dd92eb8bcb094606800cb03e80011c54
 HUB娱家,P2p://ns2.hellotvvod.com:9906/da8e392d1e5e49e08e64e5ce00c0568e
 Horse Racing 89,P2p://ns2.hellotvvod.com:9906/c34e7bacdb5a4b879599a1b04ca55406
 Arirang,P2p://ns2.hellotvvod.com:9906/0a89887bb3604794b1fda5c3eae45021
-⚽日本,#genre#
+🇯🇵日本,#genre#
 NHK-G综合,P2p://ns2.hellotvvod.com:9906/eed71942476c49edadaa7df11f90446f
 NHK-E教育,P2p://ns2.hellotvvod.com:9906/506a99efe08149c79be96876b035d009
 日本テレビ,P2p://ns2.hellotvvod.com:9906/177a67e9aebc490e8f908f540614db87
@@ -910,7 +910,7 @@ Music Japan TV,P2p://ns2.hellotvvod.com:9906/16a8ff808b3649109d0f21a269682111
 ナショナル ジオグラフィッ,P2p://ns2.hellotvvod.com:9906/7c7e79fc9ba24e19907dad24d856ce9a
 日テレNEWS 24,P2p://ns2.hellotvvod.com:9906/0c2f40999c00436ab5e823a25e3d5c13
 Cartoon Network,P2p://ns2.hellotvvod.com:9906/5419e8cfbb6a496aade3406e257768a7
-⚽韓國,#genre#
+🇰🇷韓國,#genre#
 Arirang,P2p://ns2.hellotvvod.com:9906/0a89887bb3604794b1fda5c3eae45021
 KBS1,P2p://ns2.hellotvvod.com:9906/8bce97b04ee94db6a8a4153dd4c4fe6c
 KBS2,P2p://ns2.hellotvvod.com:9906/f9dbdcd019704498bed94495d0217ca1
@@ -944,7 +944,7 @@ Indosiar,P2p://ns2.hellotvvod.com:9906/60bd6dc1a3024ff1a4232f08d0e1fc94
 亞洲美食頻道,P2p://ns2.hellotvvod.com:9906/0c0dc1e0b4e643a6ae2a7901a249b711
 Mola Sport,P2p://ns2.hellotvvod.com:9906/969520237daa4f5a939c890871259772
 Lingua HD,P2p://ns2.hellotvvod.com:9906/99f24de081cd4d3bad8cacc6132484a6
-⚽泰國,#genre#
+🇹🇭泰國,#genre#
 Channel 5,P2p://ns2.hellotvvod.com:9906/28f5f261eda34cd394050fbe4b2feb48
 NBT,P2p://ns2.hellotvvod.com:9906/c086e007ee644a308fcc83bcb81c3abd
 Thai PBS,P2p://ns2.hellotvvod.com:9906/e5808de64e1c464ebf3f89bb42ac43cc
@@ -1000,6 +1000,82 @@ Fox News,P2p://ns2.hellotvvod.com:9906/710fa57697834a6aba081190b8aba7d3
 CBSN,P2p://ns2.hellotvvod.com:9906/8f9c3d1103124dd480b00bb645409cdc
 ESPN,P2p://ns2.hellotvvod.com:9906/9bbbfe9127d3493c9ebb4b95712222e2
 NBA,P2p://ns2.hellotvvod.com:9906/c26bb89ba7d44a83b47c52e7af180d77
+🇰🇷韓國,#genre#
+KBS-1,http://ye23.vip/z7z8/2021/kbs2020.php?id=1
+KBS-2,http://ye23.vip/z7z8/2021/kbs2020.php?id=2
+KBS-WORLD,http://ye23.vip/z7z8/2021/kbs2020.php?id=3
+KBS-24,http://ye23.vip/z7z8/2021/kbs2020.php?id=4
+KBS drama,http://ye23.vip/z7z8/2021/kbs2020.php?id=5
+KBS JOY,http://ye23.vip/z7z8/2021/kbs2020.php?id=6
+KBS N ,http://ye23.vip/z7z8/2021/kbs2020.php?id=7
+KBS W,http://ye23.vip/z7z8/2021/kbs2020.php?id=8
+KBS Kids,http://ye23.vip/z7z8/2021/kbs2020.php?id=9
+MBC-Drama,http://ye23.win/iptv/mbc2020.php?id=1
+MBC-Every1,http://ye23.win/iptv/mbc2020.php?id=2
+MBC-M,http://ye23.win/iptv/mbc2020.php?id=3
+MBC-Kpop,http://ye23.win/iptv/mbc2020.php?id=4
+MBC-On,http://ye23.win/iptv/mbc2020.php?id=5
+MBC,http://ye23.win/iptv/mbc2020.php?id=6
+MBC,http://ye23.win/iptv/mbc2020.php?id=7
+SBS,http://ye23.win/iptv/korea2021.php?id=SBS
+TJB SBS,http://ye23.win/iptv/korea2021.php?id=TJB
+CJB SBS,http://ye23.win/iptv/korea2021.php?id=CJB
+KBC SBS,http://ye23.win/iptv/korea2021.php?id=KBC
+SBS,http://ye23.win/iptv/sbs5.1.php?id=S01
+SBS-Sports,http://ye23.win/iptv/sbs5.1.php?id=S02
+SBS-Plus,http://ye23.win/iptv/sbs5.1.php?id=S03
+SBS-Fun,http://ye23.win/iptv/sbs5.1.php?id=S04
+SBS-Golf,http://ye23.win/iptv/sbs5.1.php?id=S05
+SBS-Biz,http://ye23.win/iptv/sbs5.1.php?id=S06
+SBS-MTV,http://ye23.win/iptv/sbs5.1.php?id=S09
+SBS-GorealraM,http://ye23.win/iptv/sbs5.1.php?id=S19
+SBS-POWER,http://ye23.win/iptv/sbs5.1.php?id=S07
+SBS-LOVE,http://ye23.win/iptv/sbs5.1.php?id=S08
+OBS,http://ye23.win/iptv/korea2021.php?id=OBS
+OBSW,http://ye23.win/iptv/korea2021.php?id=OBSW
+Arirang,http://ye23.win/iptv/korea2021.php?id=Arirang
+Good TV,http://ye23.win/iptv/korea2021.php?id=Good
+cgntv,http://ye23.win/iptv/korea2021.php?id=cgntv
+cpbc,http://ye23.win/iptv/korea2021.php?id=cpbc
+bbstv,http://ye23.win/iptv/korea2021.php?id=bbstv
+CTS,http://ye23.win/iptv/korea2021.php?id=CTS
+myStream,http://ye23.win/iptv/korea2021.php?id=myStream
+MTN,http://ye23.win/iptv/korea2021.php?id=MTN
+TBS,http://ye23.win/iptv/korea2021.php?id=tbstv
+FTV,http://ye23.win/iptv/korea2021.php?id=FTV
+Channel A,http://ye23.win/iptv/korea2021.php?id=Channela
+korea TV,http://ye23.win/iptv/korea2021.php?id=korea
+YTN,http://ye23.win/iptv/korea2021.php?id=ytn
+YTN 2,http://ye23.win/iptv/korea2021.php?id=YTN_2
+YTN,http://ye23.win/iptv/korea2021.php?id=YTN_b
+YTN DMB,http://ye23.win/iptv/korea2021.php?id=YTN-D
+YTN A,http://ye23.win/iptv/korea2021.php?id=YTN_a
+MBN,http://ye23.win/iptv/korea2021.php?id=MBN
+Channel A,http://ye23.win/iptv/korea2021.php?id=Channel
+TBS,http://ye23.win/iptv/korea2021.php?id=TBS-a
+TBS,http://ye23.win/iptv/korea2021.php?id=TBS-B
+KCTV,http://ye23.win/iptv/korea2021.php?id=KCTV
+EBS 1,http://ye23.win/iptv/korea2021.php?id=EBS1
+EBS 2,http://ye23.win/iptv/korea2021.php?id=EBS2
+EBS i,http://ye23.win/iptv/korea2021.php?id=EBSi
+EBS+2,http://ye23.win/iptv/korea2021.php?id=EBS_2
+EBS E,http://ye23.win/iptv/korea2021.php?id=EBS_E
+EBS KIDS,http://ye23.win/iptv/korea2021.php?id=EBS_KIDS
+flive,http://ye23.win/iptv/korea2021.php?id=flive
+dema,http://ye23.win/iptv/korea2021.php?id=dema
+阿里郎WORLD,http://ye23.win/iptv/korea2021.php?id=arirang_1
+阿里郎WORLD,http://ye23.win/iptv/korea2021.php?id=arirang_2
+SBS,https://www.navchina.cf/IPTV/sbs.php?id=S01
+SBS Sports,https://www.navchina.cf/IPTV/sbs.php?id=S02
+SBS Plus,https://www.navchina.cf/IPTV/sbs.php?id=S03
+SBS Fun,https://www.navchina.cf/IPTV/sbs.php?id=S04
+SBS Golf,https://www.navchina.cf/IPTV/sbs.php?id=S05
+SBS BIZ,https://www.navchina.cf/IPTV/sbs.php?id=S06
+SBS 1,https://www.navchina.cf/IPTV/sbs.php?id=S07
+SBS 2,https://www.navchina.cf/IPTV/sbs.php?id=S08
+SBS MTV,https://www.navchina.cf/IPTV/sbs.php?id=S09
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNA,https://i.mjh.nz/au/Sydney/tv.cna.m3u8
 🇹🇼新聞,#genre#
 壹電視新聞,P2p://ns2.hellotvvod.com:9906/c111818e11e8420aaad164543387473c
 年代新聞,P2p://ns2.hellotvvod.com:9906/a412a974b1c24427ba506b9fcd95d77b
