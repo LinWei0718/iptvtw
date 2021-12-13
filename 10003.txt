@@ -37,6 +37,10 @@ ELEVEN2,rtmp://59.124.75.138/sat/md021
 博斯網球,rtmp://59.124.75.138/sat/md031
 ELTA體育3,rtmp://59.124.75.138/sat/md041
 ELTA體育1,rtmp://59.124.75.138/sat/md051
+龍祥時代,http://113.64.147.44:808/hls/38/index.m3u8?times=0#http://host496323.us.ooqr.com/pltv/gdgz.php?id=lxsd&upt=7e4f8041b306488a
+東森電影,http://113.64.147.44:808/hls/58/index.m3u8?times=0#http://host496323.us.ooqr.com/pltv/gdgz.php?id=dsdy&upt=7e4f8041b306488a
+東森洋片,http://113.64.147.44:808/hls/59/index.m3u8?times=0#http://host496323.us.ooqr.com/pltv/gdgz.php?id=dsyp&upt=7e4f8041b306488a
+天映經典,http://113.64.147.44:808/hls/62/index.m3u8?times=0
 民視,http://50.7.61.147:30080/Entry/ftv
 台視,http://50.7.61.148:30080/Entry/ttv
 中視,http://50.7.61.148:30080/Entry/ctv
