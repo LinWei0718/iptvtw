@@ -37,10 +37,34 @@ ELEVEN2,rtmp://59.124.75.138/sat/md021
 博斯網球,rtmp://59.124.75.138/sat/md031
 ELTA體育3,rtmp://59.124.75.138/sat/md041
 ELTA體育1,rtmp://59.124.75.138/sat/md051
-龍祥時代,http://113.64.147.44:808/hls/38/index.m3u8?times=0#http://host496323.us.ooqr.com/pltv/gdgz.php?id=lxsd&upt=7e4f8041b306488a
-東森電影,http://113.64.147.44:808/hls/58/index.m3u8?times=0#http://host496323.us.ooqr.com/pltv/gdgz.php?id=dsdy&upt=7e4f8041b306488a
-東森洋片,http://113.64.147.44:808/hls/59/index.m3u8?times=0#http://host496323.us.ooqr.com/pltv/gdgz.php?id=dsyp&upt=7e4f8041b306488a
+龍祥時代,https://flv3948069e.live.126.net/live/fb8cf89bcd348c462bdb295f8809db7d.flv#http://113.64.147.44:808/hls/38/index.m3u8?times=0#http://host496323.us.ooqr.com/pltv/gdgz.php?id=lxsd&upt=7e4f8041b306488a
+東森電影,https://flv3948069e.live.126.net/live/82b1e3a078f9e5924d9c22b23e701c3d.flv#http://113.64.147.44:808/hls/58/index.m3u8?times=0#http://host496323.us.ooqr.com/pltv/gdgz.php?id=dsdy&upt=7e4f8041b306488a
+東森洋片,https://flv3948069e.live.126.net/live/0a06e0bb4f696a1a6496c9871c384aa0.flv#http://113.64.147.44:808/hls/59/index.m3u8?times=0#http://host496323.us.ooqr.com/pltv/gdgz.php?id=dsyp&upt=7e4f8041b306488a
 天映經典,http://113.64.147.44:808/hls/62/index.m3u8?times=0
+中視,http://anan.jxin122.top/cj.php?id=18&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+中視,http://anan.jxin122.top/cj.php?id=47&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+華視,http://anan.jxin122.top/cj.php?id=46&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+民視,http://anan.jxin122.top/cj.php?id=44&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+公視,http://anan.jxin122.top/cj.php?id=43&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+三立台灣,http://anan.jxin122.top/cj.php?id=24&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+三立都會,http://anan.jxin122.top/cj.php?id=25&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+三立綜合,http://anan.jxin122.top/cj.php?id=26&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+三立綜合,http://anan.jxin122.top/cj.php?id=26&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+民視新聞,http://anan.jxin122.top/cj.php?id=5&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+非凡新聞,http://anan.jxin122.top/cj.php?id=6&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+年代新聞,http://anan.jxin122.top/cj.php?id=7&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+緯來體育,http://anan.jxin122.top/cj.php?id=11&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+龍祥年代,http://anan.jxin122.top/cj.php?id=13&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+東森洋片,http://anan.jxin122.top/cj.php?id=28&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+東森電影,http://anan.jxin122.top/cj.php?id=29&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+中天娛樂,http://anan.jxin122.top/cj.php?id=40&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+中天綜合,http://anan.jxin122.top/cj.php?id=41&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+中天新聞,http://anan.jxin122.top/cj.php?id=42&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+中天亞洲,http://anan.jxin122.top/cj.php?id=39&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+東森綜合,http://anan.jxin122.top/cj.php?id=32&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+東森新聞,http://anan.jxin122.top/cj.php?id=33&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+TVBS歡樂,http://anan.jxin122.top/cj.php?id=36&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+TVBS,http://anan.jxin122.top/cj.php?id=37&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 民視,http://50.7.61.147:30080/Entry/ftv
 台視,http://50.7.61.148:30080/Entry/ttv
 中視,http://50.7.61.148:30080/Entry/ctv
@@ -348,6 +372,135 @@ BabyFirst,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn02
 FashionOne,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn19
 ELTV英語,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn20
 龍華經典,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn21
+🇹🇼湯圓台灣,#genre#
+民視,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/82
+台視,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/83
+中視,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/84
+華視,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/85
+公視,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/86
+好消息,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/87
+原住民電視,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/88
+緯來綜合,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/89
+愛爾達綜合,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/90
+CNEX DOC CHANNEL,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/91
+ELTV生活英語,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/92
+台灣藝術,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/93
+MTV Live,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/94
+亞洲旅遊,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/95
+八大第一,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/96
+八大綜合,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/97
+三立台灣,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/98
+三立都會,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/99
+衛視中文,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/100
+東森綜合,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/101
+東森超視,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/102
+中天綜合,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/103
+中天娛樂,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/104
+TVBS歡樂,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/105
+AMC,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/106
+緯來精彩,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/107
+人氣劇場,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/108
+八大娛樂,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/109
+好消息2,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/110
+中天亞洲,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/111
+民視綜藝,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/112
+民視第一,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/113
+民視台灣,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/114
+Baby TV,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/115
+客家電視,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/116
+娛樂綜藝,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/117
+東森幼幼,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/118
+MOMO親子,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/119
+CN卡通,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/120
+BabyFirst,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/121
+龍華日韓,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/122
+豬哥亮歌廳秀,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/123
+ELTA娛樂,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/124
+熱播華劇,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/125
+中視經典,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/126
+台視綜合,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/127
+TVBS,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/128
+三立LIVE新聞,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/129
+東森新聞,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/130
+中天新聞,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/131
+民視新聞,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/132
+TVBS新聞,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/133
+東森財經新聞,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/134
+華視新聞,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/135
+三立iNEWS新聞,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/136
+台視新聞,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/137
+非凡新聞,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/138
+年代新聞,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/139
+非凡商業,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/140
+台視財經,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/141
+寰宇新聞,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/142
+寰宇台灣,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/143
+壹電視新聞,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/144
+大愛1,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/145
+大愛2,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/146
+大愛3,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/147
+空中英語,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/184
+JET 綜合,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/149
+Celestial Movies,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/200
+Fox Family,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/201
+HGTV,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/202
+國家地理悠人,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/204
+AFC亞洲旅遊,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/206
+HBO,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/207
+HBO Hits,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/208
+Axn,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/209
+CI罪犯偵緝,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/329
+探索亞洲,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/331
+民視旅遊,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/333
+History,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/334
+EYETV旅遊,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/339
+緯來體育,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/341
+ELEVEN1體育,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/345
+ELEVEN2體育,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/346
+ELTA體育1,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/347
+ELTA體育2,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/348
+ELTA體育3,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/349
+博斯無限,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/351
+博斯無限2,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/352
+博斯網球,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/353
+博斯高球1,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/354
+博斯高球2,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/355
+博斯運動1,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/356
+博斯運動2,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/357
+博斯魅力,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/358
+時尚運動X,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/359
+風雲足球,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/360
+魅力足球,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/361
+星衛電影,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/382
+緯來電影,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/383
+龍華電影,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/387
+龍華戲劇,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/388
+龍華偶像,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/390
+西洋強檔,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/391
+靖天戲劇,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/394
+靖天映畫,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/395
+Mir-HD,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/396
+時代影像,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/397
+國際電影,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/401
+靖洋戲劇,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/402
+民視影劇,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/403
+影迷數位電影,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/404
+CHC家庭影院,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/405
+CHC動作電影,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/406
+采昌影劇,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/407
+靖天國際,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/408
+靖天綜合,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/409
+CATCHPLAY電影,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/410
+人間衛視,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/411
+龍華日韓,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/413
+潮流時尚,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/414
+華藏電視,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/415
+中視青采,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/416
+東森洋片,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/384
+東森戲劇,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/385
+東森電影,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/386
+美亞電影,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/389
+衛視電影,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/417
 🇹🇼P2p測試,#genre#
 中視,P2p://ns2.hellotvvod.com:9906/21fe3c316a13445a8a5b1f4afd39a5b1
 中天綜合,P2p://ns2.hellotvvod.com:9906/a23f89fde21341f3b172046c02ad688c
@@ -2473,6 +2626,35 @@ X特遣隊全員集結,https://sod.bunediy.com/20210806/zhCJwweF/index.m3u8
 失戀反攻隊,https://vod.bunediy.com/20210203/l3KUGh8t/index.m3u8
 無間風暴,https://vod.bunediy.com/20210523/uT4ghhN8/index.m3u8
 🔞VIP,#genre#
+MiamiTV18,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/490
+Jasmin TV,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/491
+香蕉台,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/493
+驚豔台,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/494
+Hot,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/495
+RougeTV,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/496
+紅色玫瑰,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/497
+黑色玫瑰,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/498
+FTV Midnight,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/500
+FTV Teens,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/501
+A3 Bikini,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/502
+FTV午夜,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/503
+FTV巴黎,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/504
+WFC時裝,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/505
+松視1,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/506
+松視2,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/6002
+松視3,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/18158
+巨乳頻道,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/507
+日本無碼,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/508
+制服誘惑,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/509
+D槽素人,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/510
+深夜劇情,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/511
+超強企劃,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/512
+西洋黑映畫,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/513
+國際放送,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/514
+全球同步,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/515
+零時差,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/516
+極限電影,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/492
+極限精選,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/81
 Aldult-1,http://125.227.210.55:9051/VideoInput/play.ts
 Aldult-2,http://125.227.210.55:9053/VideoInput/play.ts
 Aldult-3,http://125.227.210.55:9054/VideoInput/play.ts
