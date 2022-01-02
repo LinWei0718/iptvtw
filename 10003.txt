@@ -37,6 +37,26 @@ ELEVEN2,rtmp://59.124.75.138/sat/md021
 博斯網球,rtmp://59.124.75.138/sat/md031
 ELTA體育3,rtmp://59.124.75.138/sat/md041
 ELTA體育1,rtmp://59.124.75.138/sat/md051
+美亞電影,http://iptv.tvfix.org/hls/mydy2.m3u8
+Animax,http://iptv.tvfix.org/hls/animax.m3u8
+Thrill,http://iptv.tvfix.org/hls/thrill.m3u8
+探索頻道,http://iptv.tvfix.org/hls/discovery.m3u8
+動物星球,http://iptv.tvfix.org/hls/animal.m3u8
+Love Nature,http://iptv.tvfix.org/hls/lovenature4k.m3u8
+TVB功夫,http://iptv.tvfix.org/hls/tvbkf2.m3u8
+TVB星河,http://iptv.tvfix.org/hls/tvbxh2.m3u8
+TVB為食,http://iptv.tvfix.org/hls/tvbws.m3u8
+TVB經典,http://iptv.tvfix.org/hls/tvbjd.m3u8
+TVB翡翠,http://iptv.tvfix.org/hls/jade.m3u8
+TVB Jhttp://iptv.tvfix.org/hls/j2.m3u8
+TVB明珠,http://iptv.tvfix.org/hls/pearl.m3u8
+Hands Up,http://iptv.tvfix.org/hls/kid.m3u8
+ViuTV,http://iptv.tvfix.org/hls/viutv.m3u8
+ViuTV6,http://iptv.tvfix.org/hls/viutv6.m3u8
+TVBS新聞,http://iptv.tvfix.org/hls/tvbsnews.m3u8
+TVBS亞洲,http://iptv.tvfix.org/hls/tvbs.m3u8
+天映經典,http://iptv.tvfix.org/hls/tyjd2.m3u8#http://113.64.147.44:808/hls/62/index.m3u8?times=0
+蠟筆小新,http://121.12.115.158:80/txdirect.hls.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.m3u8
 龍祥時代,http://host496323.us.ooqr.com/pltv/gdgz.php?id=lxsd&upt=7e4f8041b306488a
 東森電影,http://host496323.us.ooqr.com/pltv/gdgz.php?id=dsdy&upt=7e4f8041b306488a
 東森洋片,http://host496323.us.ooqr.com/pltv/gdgz.php?id=dsyp&upt=7e4f8041b306488a
@@ -143,7 +163,6 @@ HBO,http://50.7.61.148:30080/Entry/hbo
 AXN,http://50.7.61.148:30080/Entry/axn
 衛視電影,http://50.7.61.147:30080/Entry/starmovie#http://50.7.61.149:30080/Entry/starmovie
 緯來電影,http://50.7.61.148:30080/Entry/vlmovie
-美亞電影,http://v3948069e.live.126.net/live/hodtv4003.flv
 民視,https://4gtvfreemobile-mozai.4gtv.tv/z-4Hg7N6vs50yhA6iX9n9elf1ikuJKEcMdR1IKqFOp4%3d/stream2.m3u8?token=q44SHDi8AXE1makMtVkjDw&expires=1632729656&token1=H38SB9bSUWCnbFIT-2H4Yw&expires1=1632758456&refer=MWRmMzMzMzQtMDBkNy00NTA2LWEwYzgtNzI4NzgyZGE1NDYw&y=0
 民視,https://4gtvfreemobile-mozai.4gtv.tv/EsGHR5kmmmdGF7ceX4JrxzFGr5EZWyRjqaKVoUJ3Gfk%3d/stream2.m3u8?token=gGyPozlBLrCzgcF_CMv2Tg&expires=1630484776&token1=XVXm7_bwqoA_ltNZssw8aA&expires1=1630513576&refer=ODI4MjVlNDItODhiMy00MDEzLTg4YzktZTk5MmJiM2E5OWU4&y=0
 民視旅游,https://4gtvfreemobile-mozai.4gtv.tv/IqafKPO6LhtIQZTnC9ij5SSImd6W6xMRfy7M43nv0Ok%3d/master.m3u8?token=7d9OzD9bz7MYJ8OI0mAGkg&expires=1632748885&token1=zrYJ3X-FoQYbTPVw9OIKzw&expires1=1632777685&refer=ZWE4MGUwZmItYTVhNi00MGZmLWFiMGUtOTlmM2FlYzgwMTJj&y=0
