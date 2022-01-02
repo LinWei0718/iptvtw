@@ -37,10 +37,28 @@ ELEVEN2,rtmp://59.124.75.138/sat/md021
 博斯網球,rtmp://59.124.75.138/sat/md031
 ELTA體育3,rtmp://59.124.75.138/sat/md041
 ELTA體育1,rtmp://59.124.75.138/sat/md051
-龍祥時代,https://flv3948069e.live.126.net/live/fb8cf89bcd348c462bdb295f8809db7d.flv#http://113.64.147.44:808/hls/38/index.m3u8?times=0#http://host496323.us.ooqr.com/pltv/gdgz.php?id=lxsd&upt=7e4f8041b306488a
-東森電影,https://flv3948069e.live.126.net/live/82b1e3a078f9e5924d9c22b23e701c3d.flv#http://113.64.147.44:808/hls/58/index.m3u8?times=0#http://host496323.us.ooqr.com/pltv/gdgz.php?id=dsdy&upt=7e4f8041b306488a
-東森洋片,https://flv3948069e.live.126.net/live/0a06e0bb4f696a1a6496c9871c384aa0.flv#http://113.64.147.44:808/hls/59/index.m3u8?times=0#http://host496323.us.ooqr.com/pltv/gdgz.php?id=dsyp&upt=7e4f8041b306488a
-天映經典,http://113.64.147.44:808/hls/62/index.m3u8?times=0
+龍祥時代,http://host496323.us.ooqr.com/pltv/gdgz.php?id=lxsd&upt=7e4f8041b306488a
+東森電影,http://host496323.us.ooqr.com/pltv/gdgz.php?id=dsdy&upt=7e4f8041b306488a
+東森洋片,http://host496323.us.ooqr.com/pltv/gdgz.php?id=dsyp&upt=7e4f8041b306488a
+美亞電影,http://iptv.tvfix.org/hls/mydy2.m3u8
+Animax,http://iptv.tvfix.org/hls/animax.m3u8
+Thrill,http://iptv.tvfix.org/hls/thrill.m3u8
+探索頻道,http://iptv.tvfix.org/hls/discovery.m3u8
+動物星球,http://iptv.tvfix.org/hls/animal.m3u8
+Love Nature,http://iptv.tvfix.org/hls/lovenature4k.m3u8
+TVB功夫,http://iptv.tvfix.org/hls/tvbkf2.m3u8
+TVB星河,http://iptv.tvfix.org/hls/tvbxh2.m3u8
+TVB為食,http://iptv.tvfix.org/hls/tvbws.m3u8
+TVB經典,http://iptv.tvfix.org/hls/tvbjd.m3u8
+TVB翡翠,http://iptv.tvfix.org/hls/jade.m3u8
+TVB Jhttp://iptv.tvfix.org/hls/j2.m3u8
+TVB明珠,http://iptv.tvfix.org/hls/pearl.m3u8
+Hands Up,http://iptv.tvfix.org/hls/kid.m3u8
+ViuTV,http://iptv.tvfix.org/hls/viutv.m3u8
+ViuTV6,http://iptv.tvfix.org/hls/viutv6.m3u8
+TVBS新聞,http://iptv.tvfix.org/hls/tvbsnews.m3u8
+TVBS亞洲,http://iptv.tvfix.org/hls/tvbs.m3u8
+天映經典,http://iptv.tvfix.org/hls/tyjd2.m3u8#http://113.64.147.44:808/hls/62/index.m3u8?times=0
 蠟筆小新,http://121.12.115.158:80/txdirect.hls.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.m3u8
 台視,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8 
 中視,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8 
