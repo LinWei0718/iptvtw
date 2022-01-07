@@ -57,9 +57,6 @@ TVBS新聞,http://iptv.tvfix.org/hls/tvbsnews.m3u8
 TVBS亞洲,http://iptv.tvfix.org/hls/tvbs.m3u8
 天映經典,http://iptv.tvfix.org/hls/tyjd2.m3u8#http://113.64.147.44:808/hls/62/index.m3u8?times=0
 蠟筆小新,http://121.12.115.158:80/txdirect.hls.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.m3u8
-龍祥時代,http://host496323.us.ooqr.com/pltv/gdgz.php?id=lxsd&upt=7e4f8041b306488a
-東森電影,http://host496323.us.ooqr.com/pltv/gdgz.php?id=dsdy&upt=7e4f8041b306488a
-東森洋片,http://host496323.us.ooqr.com/pltv/gdgz.php?id=dsyp&upt=7e4f8041b306488a
 民視新聞,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH24/24
 中視新聞,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH25/25
 台視新聞,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH26/26
