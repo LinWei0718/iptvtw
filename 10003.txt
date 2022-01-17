@@ -37,6 +37,7 @@ ELEVEN2,rtmp://59.124.75.138/sat/md021
 博斯網球,rtmp://59.124.75.138/sat/md031
 ELTA體育3,rtmp://59.124.75.138/sat/md041
 ELTA體育1,rtmp://59.124.75.138/sat/md051
+東森電影,P2p://147.135.39.171:9906/5defe13e0007d9d56eba3f090a5f5661&kss=333#P2p://ns2.hellotvvod.com:9906/e40a4dbcfc66445a83f8c06d53ac3b53#
 美亞電影,http://iptv.tvfix.org/hls/mydy2.m3u8
 Animax,http://iptv.tvfix.org/hls/animax.m3u8
 Thrill,http://iptv.tvfix.org/hls/thrill.m3u8
