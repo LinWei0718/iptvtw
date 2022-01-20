@@ -2508,40 +2508,22 @@ X特遣隊全員集結,https://sod.bunediy.com/20210806/zhCJwweF/index.m3u8
 失戀反攻隊,https://vod.bunediy.com/20210203/l3KUGh8t/index.m3u8
 無間風暴,https://vod.bunediy.com/20210523/uT4ghhN8/index.m3u8
 🔞VIP,#genre#
-MiamiTV18,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/490
-Jasmin TV,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/491
-香蕉台,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/493
-驚豔台,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/494
-Hot,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/495
-RougeTV,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/496
-紅色玫瑰,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/497
-黑色玫瑰,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/498
-FTV Midnight,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/500
-FTV Teens,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/501
-A3 Bikini,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/502
-FTV午夜,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/503
-FTV巴黎,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/504
-WFC時裝,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/505
-松視1,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/506
-松視2,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/6002
-松視3,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/18158
-巨乳頻道,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/507
-日本無碼,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/508
-制服誘惑,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/509
-D槽素人,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/510
-深夜劇情,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/511
-超強企劃,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/512
-西洋黑映畫,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/513
-國際放送,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/514
-全球同步,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/515
-零時差,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/516
-極限電影,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/492
-極限精選,http://tv.tangyuantv.cf:8080/2019-2022/2019-2022/81
 Aldult-1,http://125.227.210.55:9051/VideoInput/play.ts
 Aldult-2,http://125.227.210.55:9053/VideoInput/play.ts
 Aldult-3,http://125.227.210.55:9054/VideoInput/play.ts
 Aldult-4,http://125.227.210.55:9055/VideoInput/play.ts
 Aldult-5,http://125.227.210.55:9062/VideoInput/play.ts
+松視➊,rtmp://125.227.196.250:1935/live/PineVision1
+松視➋,rtmp://125.227.196.250:1935/live/PineVision2
+松視➌,rtmp://125.227.196.250:1935/live/PineVision3
+HAPPY,rtmp://125.227.196.250:1935/live/HAPPY
+香蕉台,rtmp://125.227.196.250:1935/live/BananaStation
+彩虹電影,rtmp://125.227.196.250:1935/live/Rainbowmovie
+驚艷成人電影,rtmp://125.227.196.250:1935/live/AmazingTaiwan
+K頻道,rtmp://125.227.196.250:1935/live/Kchannel
+JSTAR極限電影,rtmp://125.227.196.250:1935/live/JSTAR
+潘多拉玩美,rtmp://125.227.196.250:1935/live/PandoraPlays
+潘多拉粉紅,rtmp://125.227.196.250:1935/live/PandoraPink
 彩虹E,P2p://ns2.hellotvvod.com:9906/fa9fcb0ade2e4683a489497cda4861db
 彩虹電影,P2p://ns2.hellotvvod.com:9906/cc404855490643bb968e764f6e2f0fb9
 LOOK,P2p://ns2.hellotvvod.com:9906/0e9bdd262cc34bc0b2b6f55f12cd6ec8
