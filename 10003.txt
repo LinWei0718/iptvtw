@@ -339,6 +339,147 @@ CNN,http://125.227.210.55:10797/VideoInput/play.ts#http://125.227.210.37:10797/V
 中天新聞,http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw/live
 KPOP,http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCoRXPcv8XK5fAplLbk9PTww/live
 網路流行音樂電,http://free.fullspeed.tv/query?url=https://www.youtube.com/watch?v=wrYF0HX7Kzc
+🇹🇼夢想四季TV,#genre#
+阿里郎頻道,http://206.119.163.4/apitv/gtlive.php?id=15810&cid=15973
+CATCHPLAY Beyond,http://206.119.163.4/apitv/gtlive.php?id=14401&cid=14564
+CATCHPLAY電影,http://206.119.163.4/apitv/gtlive.php?id=14183&cid=14343
+CNA亞洲新聞,http://206.119.163.4/apitv/gtlive.php?id=14064&cid=14224
+CNBC,http://206.119.163.4/apitv/gtlive.php?id=13693&cid=13846
+CNEX DOC CHANNEL,http://206.119.163.4/apitv/gtlive.php?id=13694&cid=13847
+CNN國際新聞,http://206.119.163.4/apitv/gtlive.php?id=13643&cid=13795
+CNN頭條新聞,http://206.119.163.4/apitv/gtlive.php?id=13644&cid=13796
+CN卡通頻道,http://206.119.163.4/apitv/gtlive.php?id=13645&cid=13797
+CinemaWorld,http://206.119.163.4/apitv/gtlive.php?id=14061&cid=14221
+達文西教學,http://206.119.163.4/apitv/gtlive.php?id=13625&cid=13777
+ELTV生活英語,http://206.119.163.4/apitv/gtlive.php?id=13983&cid=14136
+FUN影音綜合,http://206.119.163.4/apitv/gtlive.php?id=12450&cid=12445
+FUN流行音樂,http://206.119.163.4/apitv/gtlive.php?id=11431&cid=11430
+FUN精選電影院,http://206.119.163.4/apitv/gtlive.php?id=12451&cid=12444
+Fashion one時尚娛樂,http://206.119.163.4/apitv/gtlive.php?id=13687&cid=13840
+GINX Esports TV,http://206.119.163.4/apitv/gtlive.php?id=14397&cid=14560
+GOOD TV一,http://206.119.163.4/apitv/gtlive.php?id=13696&cid=13849
+GOOD TV二,http://206.119.163.4/apitv/gtlive.php?id=13711&cid=13864
+HITS頻道,http://206.119.163.4/apitv/gtlive.php?id=14000&cid=14153
+History 2,http://206.119.163.4/apitv/gtlive.php?id=13640&cid=13792
+History,http://206.119.163.4/apitv/gtlive.php?id=14165&cid=14325
+靖天國際,http://206.119.163.4/apitv/gtlive.php?id=18953&cid=19116
+LUXE TV Channel,http://206.119.163.4/apitv/gtlive.php?id=14398&cid=14561
+Lifetime,http://206.119.163.4/apitv/gtlive.php?id=13664&cid=13817
+LiveABC互動英語頻道,http://206.119.163.4/apitv/gtlive.php?id=15808&cid=15971
+Love Nature,http://206.119.163.4/apitv/gtlive.php?id=14085&cid=14245
+MTV Live,http://206.119.163.4/apitv/gtlive.php?id=14166&cid=14326
+Mezzo Live,http://206.119.163.4/apitv/gtlive.php?id=13712&cid=13865
+的歐洲電影,http://206.119.163.4/apitv/gtlive.php?id=14399&cid=14562
+NICK Jr,http://206.119.163.4/apitv/gtlive.php?id=14167&cid=14327
+靖天歡樂,http://206.119.163.4/apitv/gtlive.php?id=18954&cid=19117
+Pet Club TV,http://206.119.163.4/apitv/gtlive.php?id=15213&cid=15376
+ROCK Extreme,http://206.119.163.4/apitv/gtlive.php?id=14084&cid=14244
+SBL超級籃球聯賽,http://206.119.163.4/apitv/gtlive.php?id=11450&cid=11453
+SBN全球財經,http://206.119.163.4/apitv/gtlive.php?id=13985&cid=14138
+Smart知識,http://206.119.163.4/apitv/gtlive.php?id=14050&cid=14210
+Smithsonian Channel,http://206.119.163.4/apitv/gtlive.php?id=14184&cid=14344
+TV5MONDE STYLE生活時尚,http://206.119.163.4/apitv/gtlive.php?id=14400&cid=14563
+TVBS,http://206.119.163.4/apitv/gtlive.php?id=15131&cid=15294
+TVBS新聞,http://206.119.163.4/apitv/gtlive.php?id=15132&cid=15295
+TVBS歡樂,http://206.119.163.4/apitv/gtlive.php?id=15133&cid=15296
+TVBS精采,http://206.119.163.4/apitv/gtlive.php?id=15134&cid=15297
+TechStorm,http://206.119.163.4/apitv/gtlive.php?id=15256&cid=15419
+Trace Sport Stars,http://206.119.163.4/apitv/gtlive.php?id=13704&cid=13857
+amc最愛電影,http://206.119.163.4/apitv/gtlive.php?id=14133&cid=14293
+CI罪犯偵緝,http://206.119.163.4/apitv/gtlive.php?id=14164&cid=14324
+i-Fun動漫,http://206.119.163.4/apitv/gtlive.php?id=13674&cid=13827
+momo親子,http://206.119.163.4/apitv/gtlive.php?id=13661&cid=13813
+三立iNEWS,http://206.119.163.4/apitv/gtlive.php?id=11419&cid=11420
+三立新聞,http://206.119.163.4/apitv/gtlive.php?id=11422&cid=11440
+中天全民最大黨,http://206.119.163.4/apitv/gtlive.php?id=14192&cid=14352
+中天新聞,http://206.119.163.4/apitv/gtlive.php?id=14143&cid=14303
+中天綜合,http://206.119.163.4/apitv/gtlive.php?id=14187&cid=14347
+中天美食旅遊,http://206.119.163.4/apitv/gtlive.php?id=14193&cid=14353
+中視新聞,http://206.119.163.4/apitv/gtlive.php?id=13682&cid=13835
+中視無線,http://206.119.163.4/apitv/gtlive.php?id=13681&cid=13834
+中視經典,http://206.119.163.4/apitv/gtlive.php?id=18949&cid=19112
+中視菁采,http://206.119.163.4/apitv/gtlive.php?id=18948&cid=19111
+亞洲人氣戲劇,http://206.119.163.4/apitv/gtlive.php?id=11429&cid=11441
+亞洲旅遊,http://206.119.163.4/apitv/gtlive.php?id=11462&cid=11462
+亞洲院線電影,http://206.119.163.4/apitv/gtlive.php?id=11426&cid=11426
+人間衛視,http://206.119.163.4/apitv/gtlive.php?id=13673&cid=13826
+八大精彩,http://206.119.163.4/apitv/gtlive.php?id=14213&cid=14373
+八大綜藝,http://206.119.163.4/apitv/gtlive.php?id=13660&cid=13812
+公視戲劇,http://206.119.163.4/apitv/gtlive.php?id=14159&cid=14319
+半島電視,http://206.119.163.4/apitv/gtlive.php?id=13678&cid=13831
+博斯無限,http://206.119.163.4/apitv/gtlive.php?id=11452&cid=11461
+博斯網球,http://206.119.163.4/apitv/gtlive.php?id=11453&cid=11459
+博斯運動一,http://206.119.163.4/apitv/gtlive.php?id=14152&cid=14312
+博斯運動二,http://206.119.163.4/apitv/gtlive.php?id=14126&cid=14286
+博斯高球二,http://206.119.163.4/apitv/gtlive.php?id=11456&cid=11456
+博斯高球,http://206.119.163.4/apitv/gtlive.php?id=11457&cid=11455
+博斯魅力,http://206.119.163.4/apitv/gtlive.php?id=11458&cid=11460
+古典音樂,http://206.119.163.4/apitv/gtlive.php?id=13666&cid=13819
+台視新聞,http://206.119.163.4/apitv/gtlive.php?id=18946&cid=19109
+台視財經,http://206.119.163.4/apitv/gtlive.php?id=18947&cid=19110
+唯心電視,http://206.119.163.4/apitv/gtlive.php?id=13977&cid=14130
+國會頻道1,http://206.119.163.4/apitv/gtlive.php?id=14018&cid=14171
+國會頻道2,http://206.119.163.4/apitv/gtlive.php?id=14021&cid=14174
+大愛二,http://206.119.163.4/apitv/gtlive.php?id=13698&cid=13851
+大愛電視,http://206.119.163.4/apitv/gtlive.php?id=13642&cid=13794
+客家電視,http://206.119.163.4/apitv/gtlive.php?id=14011&cid=14164
+寰宇新聞,http://206.119.163.4/apitv/gtlive.php?id=14170&cid=14330
+寰宇新聞台灣,http://206.119.163.4/apitv/gtlive.php?id=14172&cid=14332
+尼克兒童頻道,http://206.119.163.4/apitv/gtlive.php?id=14081&cid=14241
+幸福空間居家,http://206.119.163.4/apitv/gtlive.php?id=14199&cid=14359
+影迷數位紀實,http://206.119.163.4/apitv/gtlive.php?id=14132&cid=14292
+影迷數位電影,http://206.119.163.4/apitv/gtlive.php?id=13695&cid=13848
+德國之聲電視,http://206.119.163.4/apitv/gtlive.php?id=14163&cid=14323
+愛爾達娛樂,http://206.119.163.4/apitv/gtlive.php?id=13701&cid=13854
+新唐人亞太,http://206.119.163.4/apitv/gtlive.php?id=13984&cid=14137
+時代影像,http://206.119.163.4/apitv/gtlive.php?id=13183&cid=13334
+智林體育,http://206.119.163.4/apitv/gtlive.php?id=13706&cid=13859
+東森新聞,http://206.119.163.4/apitv/gtlive.php?id=13635&cid=13787
+東森財經新聞,http://206.119.163.4/apitv/gtlive.php?id=13636&cid=13788
+梅迪奇藝術頻道,http://206.119.163.4/apitv/gtlive.php?id=13988&cid=14141
+民視台灣,http://206.119.163.4/apitv/gtlive.php?id=13671&cid=13824
+民視戲劇,http://206.119.163.4/apitv/gtlive.php?id=13651&cid=13803
+民視新聞,http://206.119.163.4/apitv/gtlive.php?id=14119&cid=14279
+民視旅遊,http://206.119.163.4/apitv/gtlive.php?id=13655&cid=13807
+民視無線,http://206.119.163.4/apitv/gtlive.php?id=14124&cid=14284
+民視第一,http://206.119.163.4/apitv/gtlive.php?id=13672&cid=13825
+民視綜藝,http://206.119.163.4/apitv/gtlive.php?id=13653&cid=13805
+熱播華語戲劇,http://206.119.163.4/apitv/gtlive.php?id=11427&cid=11427
+空中英語教學,http://206.119.163.4/apitv/gtlive.php?id=13648&cid=13800
+美國之音,http://206.119.163.4/apitv/gtlive.php?id=13632&cid=13784
+台灣電視,http://206.119.163.4/apitv/gtlive.php?id=18945&cid=19108
+華藏電視,http://206.119.163.4/apitv/gtlive.php?id=13979&cid=14132
+華視新聞資訊,http://206.119.163.4/apitv/gtlive.php?id=13677&cid=13830
+華視無線,http://206.119.163.4/apitv/gtlive.php?id=14128&cid=14288
+西洋強檔電影,http://206.119.163.4/apitv/gtlive.php?id=11425&cid=11425
+豬哥亮歌廳秀,http://206.119.163.4/apitv/gtlive.php?id=13662&cid=13814
+車迷TV,http://206.119.163.4/apitv/gtlive.php?id=14190&cid=14350
+采昌影劇,http://206.119.163.4/apitv/gtlive.php?id=14161&cid=14321
+金光布袋戲,http://206.119.163.4/apitv/gtlive.php?id=14080&cid=14240
+隨身娛樂綜藝,http://206.119.163.4/apitv/gtlive.php?id=11430&cid=11429
+電影原聲CMusic,http://206.119.163.4/apitv/gtlive.php?id=14188&cid=14348
+靖天卡通,http://206.119.163.4/apitv/gtlive.php?id=18951&cid=19114
+靖天戲劇,http://206.119.163.4/apitv/gtlive.php?id=18952&cid=19115
+靖天日本,http://206.119.163.4/apitv/gtlive.php?id=18950&cid=19113
+靖天映畫,http://206.119.163.4/apitv/gtlive.php?id=13692&cid=13845
+靖天綜合,http://206.119.163.4/apitv/gtlive.php?id=18956&cid=19119
+靖天育樂,http://206.119.163.4/apitv/gtlive.php?id=18958&cid=19121
+靖天資訊,http://206.119.163.4/apitv/gtlive.php?id=18957&cid=19120
+靖天電影,http://206.119.163.4/apitv/gtlive.php?id=14162&cid=14322
+靖洋卡通,http://206.119.163.4/apitv/gtlive.php?id=18955&cid=19118
+靖洋戲劇,http://206.119.163.4/apitv/gtlive.php?id=13690&cid=13843
+非凡商業,http://206.119.163.4/apitv/gtlive.php?id=11328&cid=11346
+非凡新聞,http://206.119.163.4/apitv/gtlive.php?id=11327&cid=11345
+韓國娛樂,http://206.119.163.4/apitv/gtlive.php?id=13685&cid=13838
+麥卡貝網路電視,http://206.119.163.4/apitv/gtlive.php?id=11423&cid=11422
+麥卡貝運動2,http://206.119.163.4/apitv/gtlive.php?id=14062&cid=14222
+麥卡貝運動3,http://206.119.163.4/apitv/gtlive.php?id=18794&cid=18957
+麥卡貝運動頻道,http://206.119.163.4/apitv/gtlive.php?id=13981&cid=14134
+龍華偶像,http://206.119.163.4/apitv/gtlive.php?id=11459&cid=11463
+龍華卡通,http://206.119.163.4/apitv/gtlive.php?id=13188&cid=13338
+龍華戲劇,http://206.119.163.4/apitv/gtlive.php?id=14147&cid=14307
+龍華日韓,http://206.119.163.4/apitv/gtlive.php?id=11460&cid=11464
+龍華電影,http://206.119.163.4/apitv/gtlive.php?id=13187&cid=13339
 🇹🇼MOD,#genre#
 環球地理,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/61/803/ch01.m3u8?token=
 FOX,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/61/803/ch02.m3u8?token=
