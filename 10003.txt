@@ -490,6 +490,31 @@ ELEVEN2,http://59.125.101.187:8567/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
 人間衛視,http://59.125.101.187:8506/http/61.221.81.94:8088/hls/69/811/ch36.m3u8
 大愛,http://59.125.101.187:8507/http/61.221.81.94:8088/hls/73/815/ch52.m3u8
 好消息,http://59.125.101.187:8508/http/61.221.81.94:8088/hls/74/816/ch53.m3u8
+台視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
+民視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8
+華視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsnews.m3u8
+中視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
+中天新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctinews.m3u8
+中天電視,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctitv.m3u8
+TVBS新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/tvbsnews.m3u8
+TVBS新聞,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/tvbsnews.m3u8
+三立LIVE新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
+三立iNEWS新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setinews.m3u8
+寰宇新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
+寰宇新聞,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
+東森新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcnews.m3u8
+東森幼幼,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8
+東森幼幼,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/ebcyoyo.m3u8
+天才衝衝衝,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsshow.m3u8
+大愛一,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/daai1.m3u8
+大愛二,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/daai2.m3u8
+大愛海外,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/daai3.m3u8
+彰化生活,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/sdtv.m3u8
+幸福空間居家,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/gstv.m3u8
+SBN全球財經,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/sbn.m3u8
+運通財經,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/eftv.m3u8
+國會頻道1,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/palimentary1.m3u8
+國會頻道2,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/palimentary2.m3u8
 🍅水星台灣,#genre#
 民視,P2p://860969650:9906/44cf4d1e73cc4c34843382f2bf89d49f
 台視,P2p://860969650:9906/0cde14d20638479189443549d1b1005f
