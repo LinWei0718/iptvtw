@@ -3363,6 +3363,9 @@ K頻道,rtmp://125.227.196.250:1935/live/Kchannel
 JSTAR極限電影,rtmp://125.227.196.250:1935/live/JSTAR
 潘多拉玩美,rtmp://125.227.196.250:1935/live/PandoraPlays
 潘多拉粉紅,rtmp://125.227.196.250:1935/live/PandoraPink
+松視➋,https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv#http://ott3.alwaysdata.net/live/av.php?id=5#http://ott3.alwaysdata.net/live/test.php?id=1
+松視➌,https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv#http://ott3.alwaysdata.net/live/test.php?id=2
+潘多拉玩美,https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv#http://ott3.alwaysdata.net/live/test.php?id=3
 彩虹E,P2p://ns2.hellotvvod.com:9906/fa9fcb0ade2e4683a489497cda4861db
 彩虹電影,P2p://ns2.hellotvvod.com:9906/cc404855490643bb968e764f6e2f0fb9
 LOOK,P2p://ns2.hellotvvod.com:9906/0e9bdd262cc34bc0b2b6f55f12cd6ec8
