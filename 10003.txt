@@ -162,11 +162,12 @@ CATCHPLAY電影,http://50.7.218.42:8278/catchplay_twn/playlist.m3u8?tid=ma51023a
 龍翔時代,http://itv.my.to/gd?id=38&play=2
 東森電影,http://itv.my.to/gd/?id=58&play=2
 東森洋片,http://itv.my.to/gd/?id=59&play=2
-龍翔時代,http://113.64.147.181:808/hls/38/index.m3u8
-私人影院,http://113.64.147.181:808/hls/57/index.m3u8
-東森電影,http://113.64.147.181:808/hls/58/index.m3u8
-東森洋片,http://113.64.147.181:808/hls/59/index.m3u8
-天映電影,http://113.64.147.181:808/hls/62/index.m3u8
+天映電影,http://itv.my.to/gd/?id=62&play=2
+龍翔時代,http://120.84.96.29:808/hls/38/index.m3u8
+私人影院,http://120.84.96.29:808/hls/57/index.m3u8
+東森電影,http://120.84.96.29:808/hls/58/index.m3u8
+東森洋片,http://120.84.96.29:808/hls/59/index.m3u8
+天映電影,http://120.84.96.29:808/hls/62/index.m3u8
 ELEVEN1,http://125.227.210.37:10677/VideoInput/play.ts
 探索亞州,http://125.227.210.37:10388/VideoInput/play.ts
 年代新聞,http://125.227.210.37:11055/VideoInput/play.ts
