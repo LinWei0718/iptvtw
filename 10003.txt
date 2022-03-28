@@ -109,6 +109,10 @@ TVBS新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072
 金光布袋戲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
 寰宇新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
 TVBS新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
+三立台灣,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333290/index.m3u8
+三立都會,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333300/index.m3u8
+東森戲劇,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333540/index.m3u8
+衛視中文,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333660/index.m3u8
 衛視西片,http://59.125.101.187:8500/playlist.m3u8
 動物星球,http://59.125.101.187:8501/playlist.m3u8
 人間衛視,http://59.125.101.187:8506/playlist.m3u8
@@ -2828,6 +2832,11 @@ Aldult-2,http://125.227.210.55:9053/VideoInput/play.ts
 Aldult-3,http://125.227.210.55:9054/VideoInput/play.ts
 Aldult-4,http://125.227.210.55:9055/VideoInput/play.ts
 Aldult-5,http://125.227.210.55:9062/VideoInput/play.ts
+香蕉台,http://125.227.210.55:11055/VideoInput/play.ts#http://125.227.210.37:11055/VideoInput/play.ts
+驚艷成人電影,http://125.227.210.55:18789/VideoInput/play.ts#http://125.227.210.37:18789/VideoInput/play.ts
+JSTAR極限電影,http://125.227.210.55:19020/VideoInput/play.ts#http://125.227.210.37:19020/VideoInput/play.ts
+成人1,http://125.227.210.55:18685/VideoInput/play.ts#http://125.227.210.37:18685/VideoInput/play.ts
+成人2,http://125.227.210.55:14583/VideoInput/play.ts#http://125.227.210.37:14583/VideoInput/play.ts
 松視➋,https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv
 松視➌,https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv
 潘多拉玩美,https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv
