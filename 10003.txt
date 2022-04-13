@@ -217,27 +217,7 @@ TVBS新聞,https://git.io/Jgkp1
 中天新聞,https://git.io/Jgkpy
 幸福空間居家,https://git.io/JgYYF
 KPOP,https://git.io/JgYAE
-美亞電影,http://iptv.tvfix.org/hls/mydy2.m3u8
-Animax,http://iptv.tvfix.org/hls/animax.m3u8
-Thrill,http://iptv.tvfix.org/hls/thrill.m3u8
-探索頻道,http://iptv.tvfix.org/hls/discovery.m3u8
-動物星球,http://iptv.tvfix.org/hls/animal.m3u8
-Love Nature,http://iptv.tvfix.org/hls/lovenature4k.m3u8
-TVB功夫,http://iptv.tvfix.org/hls/tvbkf2.m3u8
-TVB星河,http://iptv.tvfix.org/hls/tvbxh2.m3u8
-TVB為食,http://iptv.tvfix.org/hls/tvbws.m3u8
-TVB經典,http://iptv.tvfix.org/hls/tvbjd.m3u8
-TVB翡翠,http://iptv.tvfix.org/hls/jade.m3u8
-TVB Jhttp://iptv.tvfix.org/hls/j2.m3u8
-TVB明珠,http://iptv.tvfix.org/hls/pearl.m3u8
-Hands Up,http://iptv.tvfix.org/hls/kid.m3u8
-HUB都會,http://iptv.tvfix.org/hls/hubcity.m3u8
-HUB娛家,http://iptv.tvfix.org/hls/hubvv.m3u8
-ViuTV,http://iptv.tvfix.org/hls/viutv.m3u8
-ViuTV6,http://iptv.tvfix.org/hls/viutv6.m3u8
-TVBS新聞,http://iptv.tvfix.org/hls/tvbsnews.m3u8
-TVBS亞洲,http://iptv.tvfix.org/hls/tvbs.m3u8
-天映經典,http://iptv.tvfix.org/hls/tyjd2.m3u8#http://113.64.147.44:808/hls/62/index.m3u8?times=0
+天映經典,http://113.64.147.44:808/hls/62/index.m3u8?times=0
 中天娛樂,http://60.250.91.85:8585/.m3u8
 TLC旅遊生活,http://60.250.91.85:8589/.m3u8
 Cinemax,http://60.250.91.85:8590/.m3u8
@@ -298,6 +278,64 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 孝廉電視,http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
 NHK華語,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+🇹🇼59港台,#genre#
+大爱2台,http://59.125.101.187:8758/http/192.168.77.24:8081/hls/75/817/ch60.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+正德佛教,http://59.125.101.187:8756/http/192.168.77.24:8081/hls/64/806/ch16.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+人间卫视,http://59.125.101.187:8757/http/192.168.77.24:8081/hls/69/811/ch36.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+非凡商业,http://59.125.101.187:8730/http/192.168.77.24:8081/hls/74/816/ch56.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+非凡新闻,http://59.125.101.187:8706/http/192.168.77.24:8081/hls/75/817/ch57.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+华视新闻,http://59.125.101.187:8704/http/192.168.77.24:8081/hls/75/817/ch58.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+亚洲旅游,http://59.125.101.187:8744/http/192.168.77.24:8081/hls/76/818/ch61.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+环宇新闻,http://59.125.101.187:8709/http/192.168.77.24:8081/hls/76/818/ch62.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+环宇新闻,http://59.125.101.187:8709/http/192.168.77.24:8066/hls/210/10016/cstv16.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+ELEVEN 2,http://59.125.101.187:8768/http/192.168.77.24:8078/hls/26/80/esport2.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+龙华戏剧,http://59.125.101.187:8764/http/192.168.77.24:8066/hls/210/10010/cstv10.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+龙华日韩,http://59.125.101.187:8763/http/192.168.77.24:8066/hls/210/10011/cstv11.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+龙华偶像,http://59.125.101.187:8762/http/192.168.77.24:8066/hls/210/10012/cstv12.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+龙华卡通,http://59.125.101.187:8761/http/192.168.77.24:8066/hls/210/10013/cstv13.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+龙华电影,http://59.125.101.187:8768/http/192.168.77.24:8066/hls/210/10014/cstv14.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+博斯运动I,http://59.125.101.187:8764/http/192.168.77.24:8066/hls/210/10018/cstv18.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+博斯运动II,http://59.125.101.187:8768/http/192.168.77.24:8081/hls/61/803/ch04.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+探索发现,http://59.125.101.187:8710/http/192.168.77.24:8081/hls/71/813/ch44.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+国家地理,http://59.125.101.187:8709/http/192.168.77.24:8081/hls/61/803/ch01.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+动物星球,http://59.125.101.187:8719/http/192.168.77.24:8088/hls/70/812/ch37.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+TLC旅游生活,http://59.125.101.187:8774/http/192.168.77.24:8081/hls/70/812/ch38.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+HBO,http://59.125.101.187:8757/http/192.168.77.24:8081/hls/71/813/ch41.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+霹雳台湾,http://59.125.101.187:8768/http/192.168.77.24:8081/hls/75/817/ch59.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+CINEMAX,http://59.125.101.187:8761/http/192.168.77.24:8081/hls/71/813/ch42.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+AXN,http://59.125.101.187:8759/http/192.168.77.24:8081/hls/71/813/ch43.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+Animax,http://59.125.101.187:8744/http/192.168.77.24:8081/hls/70/812/ch39.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+好莱坞电影,http://59.125.101.187:8754/http/192.168.77.24:8081/hls/74/816/ch55.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+StarWorld,http://59.125.101.187:8761/http/192.168.77.24:8081/hls/61/803/ch02.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+CNBC,http://59.125.101.187:8708/http/192.168.77.24:8078/hls/24/80/cnbc90.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+NHK新闻,http://59.125.101.187:8706/http/192.168.77.24:8081/hls/62/804/ch06.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+卫视中文,http://59.125.101.187:8720/http/192.168.77.24:8081/hls/62/804/ch05.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+卫视电影,http://59.125.101.187:8753/http/192.168.77.24:8081/hls/62/804/ch07.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+卫视电影GOLD,http://59.125.101.187:8745/http/192.168.77.24:8081/hls/62/804/ch08.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+东森幼幼,http://59.125.101.187:8725/http/192.168.77.24:8081/hls/63/805/ch09.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+东森新闻,http://59.125.101.187:8702/http/192.168.77.24:8081/hls/63/805/ch10.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+东森财经,http://59.125.101.187:8770/http/192.168.77.24:8081/hls/63/805/ch11.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+东森综合,http://59.125.101.187:8771/http/192.168.77.24:8081/hls/63/805/ch12.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+东森戏剧,http://59.125.101.187:8772/http/192.168.77.24:8081/hls/64/806/ch13.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+东森超视,http://59.125.101.187:8768/http/192.168.77.24:8081/hls/64/806/ch14.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+三立新闻,http://59.125.101.187:8756/http/192.168.77.24:8081/hls/65/807/ch18.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+三立都会,http://59.125.101.187:8732/http/192.168.77.24:8081/hls/65/807/ch19.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+三立台湾,http://59.125.101.187:8731/http/192.168.77.24:8081/hls/65/807/ch20.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+八大综合,http://59.125.101.187:8768/http/192.168.77.24:8081/hls/66/808/ch21.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+八大一台,http://59.125.101.187:8770/http/192.168.77.24:8081/hls/66/808/ch22.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+八大戏剧,http://59.125.101.187:8771/http/192.168.77.24:8081/hls/66/808/ch23.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+壹新闻,http://59.125.101.187:8710/http/192.168.77.24:8081/hls/66/808/ch24.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+中天新闻,http://59.125.101.187:8703/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+中天综合,http://59.125.101.187:8733/http/192.168.77.24:8081/hls/67/809/ch25.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+中天娱乐,http://59.125.101.187:8734/http/192.168.77.24:8081/hls/67/809/ch26.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+国兴卫视,http://59.125.101.187:8775/http/192.168.77.24:8081/hls/64/806/ch15.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+东风卫视,http://59.125.101.187:8719/http/192.168.77.24:8081/hls/68/810/ch31.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+纬来综合,http://59.125.101.187:8770/http/192.168.77.24:8081/hls/68/810/ch32.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+纬来日本,http://59.125.101.187:8771/http/192.168.77.24:8081/hls/69/811/ch34.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+纬来戏剧,http://59.125.101.187:8756/http/192.168.77.24:8081/hls/69/811/ch33.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+纬来电影,http://59.125.101.187:8710/http/192.168.77.24:8081/hls/69/811/ch35.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+纬来育乐,http://59.125.101.187:8762/http/192.168.77.24:8081/hls/68/810/ch30.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+纬来体育,http://59.125.101.187:8763/http/192.168.77.24:8081/hls/67/809/ch28.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 🇹🇼50港台,#genre#
 CINEMAX,http://50.7.218.42:8278/cinemax_twn/playlist.m3u8?tid=MEAE1417577214175772&ct=18392&tsum=5d6639abf9c0be1bdb8ded47c91e3af7
 CINEMAX,http://50.7.218.42:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=17874&tsum=63ee6bcdb705ee72ea3d0f0d84ed6df1
