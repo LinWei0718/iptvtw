@@ -56,32 +56,9 @@ ELTA體育2,rtmp://219.80.97.25/sat/md021
 博斯網球,rtmp://219.80.97.25/sat/md031
 ELTA體育3,rtmp://219.80.97.25/sat/md041
 ELEVEN2,rtmp://219.80.97.25/sat/md051
-中天娛樂,http://60.250.91.85:8585/.m3u8
-TLC旅遊生活,http://60.250.91.85:8589/.m3u8
-Cinemax,http://60.250.91.85:8590/.m3u8
-探索頻道,http://60.250.91.85:8588/.m3u8
 龍華戲劇,http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 龍華日韓,http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 龍華偶像,http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
-非凡新聞,http://liuy.usa7.20212021.ga/ns.php?id=6
-緯來電影,http://liuy.usa7.20212021.ga/ns.php?id=9
-緯來日本,http://liuy.usa7.20212021.ga/ns.php?id=10
-緯來綜合,http://liuy.usa7.20212021.ga/ns.php?id=12
-天映頻道,http://liuy.usa7.20212021.ga/ns.php?id=15
-中視新聞,http://liuy.usa7.20212021.ga/ns.php?id=19
-八大綜合,http://liuy.usa7.20212021.ga/ns.php?id=22
-東森電影,http://liuy.usa7.20212021.ga/ns.php?id=29
-東森幼幼,http://liuy.usa7.20212021.ga/ns.php?id=31
-東森新聞,http://liuy.usa7.20212021.ga/ns.php?id=33
-壹新聞,http://liuy.usa7.20212021.ga/ns.php?id=34
-TVBS,http://liuy.usa7.20212021.ga/ns.php?id=37
-TVBS新聞,http://liuy.usa7.20212021.ga/ns.php?id=38
-中天新聞http://liuy.usa7.20212021.ga/ns.php?id=42
-公視,http://liuy.usa7.20212021.ga/ns.php?id=43
-民視,http://liuy.usa7.20212021.ga/ns.php?id=44
-台視,http://liuy.usa7.20212021.ga/ns.php?id=45
-華視新聞資訊,http://liuy.usa7.20212021.ga/ns.php?id=46
-中視,http://liuy.usa7.20212021.ga/ns.php?id=47
 阿里郎頻道,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv079&nid=189
 德國之聲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
 ELTV生活英語,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn20&nid=106
@@ -135,10 +112,6 @@ TVBS新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072
 金光布袋戲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
 寰宇新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
 TVBS新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
-三立台灣,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333290/index.m3u8
-三立都會,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333300/index.m3u8
-東森戲劇,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333540/index.m3u8
-衛視中文,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333660/index.m3u8
 蠟筆小新,http://111.6.244.41:80/tx.hls.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.m3u8
 民視,http://50.7.218.42:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
 台視,http://50.7.218.42:8278/ttv_taiwan/playlist.m3u8?tid=mdea1ba75c9e516139101&ct=17874&tsum=95f1742d36f959fe6e241587a4f8e970
@@ -189,38 +162,6 @@ CATCHPLAY電影,http://50.7.218.42:8278/catchplay_twn/playlist.m3u8?tid=ma51023a
 博斯運動II,http://50.7.218.42:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
 博斯網球,http://50.7.218.42:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
 時尚頻道,http://50.7.218.42:8278/fashiontv_twn/playlist.m3u8?tid=ma97f669e7343&ct=18335&tsum=732ba26aa334bf6c1fad8812deda83d1
-ELEVEN1,http://125.227.210.37:10677/VideoInput/play.ts
-探索亞州,http://125.227.210.37:10388/VideoInput/play.ts
-衛視合家歡,http://125.227.210.37:13498/VideoInput/play.ts
-TVBS,http://125.227.210.37:14250/VideoInput/play.ts
-非凡新聞,http://125.227.210.37:15078/VideoInput/play.ts
-三立新聞,http://125.227.210.37:15589/VideoInput/play.ts
-三立台灣,http://125.227.210.37:15714/VideoInput/play.ts
-中天娛樂,http://125.227.210.37:15796/VideoInput/play.ts
-HBO,http://125.227.210.37:16027/VideoInput/play.ts
-TVBS新聞,http://125.227.210.37:16329/VideoInput/play.ts
-CNBC,http://125.227.210.37:16415/VideoInput/play.ts
-國家地理,http://125.227.210.37:16408/VideoInput/play.ts
-CN卡通,http://125.227.210.37:16671/VideoInput/play.ts
-東森戲劇,http://125.227.210.37:17524/VideoInput/play.ts
-彭博新聞,http://125.227.210.37:18184/VideoInput/play.ts
-緯來體育,http://125.227.210.37:18358/VideoInput/play.ts
-ELEVEN1,http://125.227.210.55:10677/VideoInput/play.ts
-探索亞州,http://125.227.210.55:10388/VideoInput/play.ts
-衛視合家歡,http://125.227.210.55:13498/VideoInput/play.ts
-TVBS,http://125.227.210.55:14250/VideoInput/play.ts
-非凡新聞,http://125.227.210.55:15078/VideoInput/play.ts
-三立新聞,http://125.227.210.55:15589/VideoInput/play.ts
-三立台灣,http://125.227.210.55:15714/VideoInput/play.ts
-中天娛樂,http://125.227.210.55:15796/VideoInput/play.ts
-HBO,http://125.227.210.55:16027/VideoInput/play.ts
-TVBS新聞,http://125.227.210.55:16329/VideoInput/play.ts
-CNBC,http://125.227.210.55:16415/VideoInput/play.ts
-國家地理,http://125.227.210.55:16408/VideoInput/play.ts
-CN卡通,http://125.227.210.55:16671/VideoInput/play.ts
-東森戲劇,http://125.227.210.55:17524/VideoInput/play.ts
-彭博新聞,http://125.227.210.55:18184/VideoInput/play.ts
-緯來體育,http://125.227.210.55:18358/VideoInput/play.ts
 民視新聞,https://git.io/JgkAb
 台視新聞,https://git.io/JgkxY
 中視新聞,https://git.io/Jgkxz
@@ -291,6 +232,7 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 孝廉電視,http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
 NHK華語,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+八大戲劇,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/fd6c3f009f3b6dd84fba624c3af4876b/4/b9681578-eb3b-45c4-b3e5-5f51c8daf2d4.m3u8
 🇹🇼50港台,#genre#
 三立台湾,http://59.125.101.187:8501/playlist.m3u8
 三立台湾,http://59.125.101.187:8731/playlist.m3u8
