@@ -1,4 +1,4 @@
-##🇹🇼臺灣電視##
+##台灣電視##
 民視,http://59.125.101.187:10714/http/192.168.77.24:8081/hls/73/815/ch49.m3u8
 台視,http://59.125.101.187:10702/http/192.168.77.24:8081/hls/72/814/ch46.m3u8
 華視,http://59.125.101.187:10713/http/192.168.77.24:8088/hls/72/814/ch48.m3u8
@@ -262,7 +262,7 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 NHK華語,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 公視,http://twxui.dyndns.tv:9991/gshd
 ##
-##🎬輪播##
+##輪播##
 蠟筆小新,http://111.6.244.41:80/tx.hls.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.m3u8
 小猪佩琪,http://118.26.120.23:55336/tslive/c53_lb_78_600_t10/c53_lb_78_600_t10.m3u8?key=0b292c335e5837e94a815c2c45ffe0057
 周星馳,http://111.6.244.41/tx.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.m3u8
@@ -277,7 +277,7 @@ NHK華語,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 王晶,http://111.6.244.41/tx.hls.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.m3u8
 黑幫大片,http://111.6.244.41/tx.hls.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1-imgplus.m3u8
 ##
-##🐱iptv12k##
+##iptv12k##
 翡翠台,http://iptv12k.com:35461/live/test167/12345/1021.m3u8
 明珠台,http://iptv12k.com:35461/live/test167/12345/1020.m3u8
 無線新聞,http://iptv12k.com:35461/live/test167/12345/1012.m3u8
