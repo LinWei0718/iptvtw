@@ -497,7 +497,7 @@
 ],
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "ijk":[
-{"group":"软解码","options":[
+{"group":"軟解碼","options":[
 {"category":4,"name":"opensles","value":"0"},
 {"category":4,"name":"overlay-format","value":"842225234"},
 {"category":4,"name":"framedrop","value":"1"},
@@ -514,7 +514,7 @@
 {"category":4,"name":"mediacodec-hevc","value":"0"},
 {"category":1,"name":"dns_cache_timeout","value":"600000000"}
 ]},
-{"group":"硬解码","options":[
+{"group":"硬解碼","options":[
 {"category":4,"name":"opensles","value":"0"},
 {"category":4,"name":"overlay-format","value":"842225234"},
 {"category":4,"name":"framedrop","value":"1"},
