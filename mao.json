@@ -1,5 +1,3 @@
-// 配置地址 --> https://linwei0718.github.io/iptvtw/mao.json
-
 {spider:'https://linwei0718.github.io/iptvtw/1001.jar',
 lives:[{group:'redirect',channels:[{name:'live',urls:['proxy://do=live&type=txt&ext=aHR0cHM6Ly9saW53ZWkwNzE4LmdpdGh1Yi5pby9pcHR2dHcvbWFvdHYudHh0']}]}],
 
