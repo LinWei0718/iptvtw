@@ -1,4 +1,8 @@
 🇹🇼臺灣電視,#genre#
+民視,http://pull-l3-cny.douyincdn.com/live/aa7869718ca94f4a10b21292aef69554.flv
+中視,http://pull-l3-cny.douyincdn.com/live/a89c21ffd01e7a9e94140d9c28e1d5bf.flv
+東森電影,http://pull-l3-cny.douyincdn.com/live/227bec99015420df318dace2068d65e6.flv
+東森洋片,http://pull-l3-cny.douyincdn.com/live/4bbbbb680346f614faa351765fb0c732.flv
 阿里郎頻道,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv079&nid=189
 德國之聲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
 ELTV生活英語,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn20&nid=106
