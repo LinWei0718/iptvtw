@@ -1,124 +1,80 @@
-🇹🇼哈TV,#genre#
-民視,https://315600.xyz/hatv.php?id=5
-CNN,https://315600.xyz/hatv.php?id=6
-台視,https://315600.xyz/hatv.php?id=7
-人間衛視,https://315600.xyz/hatv.php?id=8
-中視,https://315600.xyz/hatv.php?id=9
-華視,https://315600.xyz/hatv.php?id=11
-動物星球,https://315600.xyz/hatv.php?id=12
-公視,https://315600.xyz/hatv.php?id=13
-原住民頻道,https://315600.xyz/hatv.php?id=16
-客家頻道,https://315600.xyz/hatv.php?id=17
-國家地理頻道,https://315600.xyz/hatv.php?id=18
-Discovery,https://315600.xyz/hatv.php?id=19
-旅遊生活,https://315600.xyz/hatv.php?id=21
-Cartoon Network,https://315600.xyz/hatv.php?id=22
-迪士尼,https://315600.xyz/hatv.php?id=23
-MOMO親子,https://315600.xyz/hatv.php?id=24
-東森幼幼,https://315600.xyz/hatv.php?id=25
-緯來綜合,https://315600.xyz/hatv.php?id=26
-八大第一,https://315600.xyz/hatv.php?id=27
-八大綜合,https://315600.xyz/hatv.php?id=28
-三立台灣,https://315600.xyz/hatv.php?id=29
-三立都會,https://315600.xyz/hatv.php?id=30
-衛視中文,https://315600.xyz/hatv.php?id=31
-東森綜合,https://315600.xyz/hatv.php?id=32
-超視,https://315600.xyz/hatv.php?id=33
-中天綜合,https://315600.xyz/hatv.php?id=36
-東風衛視,https://315600.xyz/hatv.php?id=37
-Much TV,https://315600.xyz/hatv.php?id=38
-東森戲劇,https://315600.xyz/hatv.php?id=40
-八大戲劇,https://315600.xyz/hatv.php?id=41
-TVBS歡樂,https://315600.xyz/hatv.php?id=42
-緯來戲劇,https://315600.xyz/hatv.php?id=43
-高點,https://315600.xyz/hatv.php?id=44
-JET TV,https://315600.xyz/hatv.php?id=45
-壹電視新聞,https://315600.xyz/hatv.php?id=49
-年代新聞,https://315600.xyz/hatv.php?id=50
-東森新聞,https://315600.xyz/hatv.php?id=51
-中天新聞,https://315600.xyz/hatv.php?id=52
-民視新聞,https://315600.xyz/hatv.php?id=53
-三立新聞,https://315600.xyz/hatv.php?id=54
-TVBS新聞,https://315600.xyz/hatv.php?id=55
-TVBS,https://315600.xyz/hatv.php?id=56
-東森財經新聞,https://315600.xyz/hatv.php?id=57
-非凡新聞,https://315600.xyz/hatv.php?id=58
-衛視電影,https://315600.xyz/hatv.php?id=61
-東森電影,https://315600.xyz/hatv.php?id=62
-緯來電影,https://315600.xyz/hatv.php?id=63
-冠軍電視,https://315600.xyz/hatv.php?id=64
-東森洋片,https://315600.xyz/hatv.php?id=66
-中天娛樂,https://315600.xyz/hatv.php?id=67
-好萊塢電影,https://315600.xyz/hatv.php?id=68
-FOX MOVIES,https://315600.xyz/hatv.php?id=7
-CINEMAX,https://315600.xyz/hatv.php?id=71
-緯來體育,https://315600.xyz/hatv.php?id=72
-FOX SPORTS,https://315600.xyz/hatv.php?id=73
-FOX SPORTS 2,https://315600.xyz/hatv.php?id=74
-緯來日本,https://315600.xyz/hatv.php?id=75
-國興衛視,https://315600.xyz/hatv.php?id=76
-海豚綜合,https://315600.xyz/hatv.php?id=77
-民俗才藝,https://315600.xyz/hatv.php?id=78
-FOX,https://315600.xyz/hatv.php?id=101
-冠軍夢想,https://315600.xyz/hatv.php?id=111
-WIN綜合,https://315600.xyz/hatv.php?id=80
-信吉,https://315600.xyz/hatv.php?id=82
-生活資訊,https://315600.xyz/hatv.php?id=83
-AXN,https://315600.xyz/hatv.php?id=84
-Z頻道,https://315600.xyz/hatv.php?id=85
-信大電視,https://315600.xyz/hatv.php?id=86
-緯來育樂,https://315600.xyz/hatv.php?id=87
-三立財經新聞,https://315600.xyz/hatv.php?id=88
-凱亞綜合,https://315600.xyz/hatv.php?id=89
-臺灣藝術,https://315600.xyz/hatv.php?id=90
-龍祥時代,https://315600.xyz/hatv.php?id=93
-非凡商業,https://315600.xyz/hatv.php?id=95
-運通財經,https://315600.xyz/hatv.php?id=97
-霹靂臺灣,https://315600.xyz/hatv.php?id=99
-FOX頻道,https://315600.xyz/hatv.php?id=100
-十方法界,https://315600.xyz/hatv.php?id=102
-華藏衛星,https://315600.xyz/hatv.php?id=103
-佛衛電視慈悲,https://315600.xyz/hatv.php?id=105
-八大娛樂,https://315600.xyz/hatv.php?id=106
-唯心電視,https://315600.xyz/hatv.php?id=107
-NHK,https://315600.xyz/hatv.php?id=108
-ANIMAX,https://315600.xyz/hatv.php?id=109
-衛視閤家歡,https://315600.xyz/hatv.php?id=113
-大愛二,https://315600.xyz/hatv.php?id=121
-民視第一,https://315600.xyz/hatv.php?id=151
-台視新聞,https://315600.xyz/hatv.php?id=155
-公共電視,https://315600.xyz/hatv.php?id=159
-BBC World News,https://315600.xyz/hatv.php?id=164
-Channel News Asia,https://315600.xyz/hatv.php?id=165
-Discovery Asia,https://315600.xyz/hatv.php?id=200
-Discovery 科學頻道,https://315600.xyz/hatv.php?id=201
-DMAX,https://315600.xyz/hatv.php?id=202
-DREAMWORKS,https://315600.xyz/hatv.php?id=207
-亞洲美食,https://315600.xyz/hatv.php?id=211
-BBC Lifestyle,https://315600.xyz/hatv.php?id=214
-EVE,https://315600.xyz/hatv.php?id=215
-HBO,https://315600.xyz/hatv.php?id=220
-HBOSignature,https://315600.xyz/hatv.php?id=221
-HBOFamily,https://315600.xyz/hatv.php?id=222
-HBOHits,https://315600.xyz/hatv.php?id=223
-WAKUWAKUJAPAN,https://315600.xyz/hatv.php?id=224
-博斯高球1,https://315600.xyz/hatv.php?id=242
-博斯網球網,https://315600.xyz/hatv.php?id=243
-博斯運動2,https://315600.xyz/hatv.php?id=244
-博斯高球2,https://315600.xyz/hatv.php?id=245
-松視1臺,https://315600.xyz/hatv.php?id=405
-松視2臺,https://315600.xyz/hatv.php?id=406
-松視3臺,https://315600.xyz/hatv.php?id=407
-松視4臺,https://315600.xyz/hatv.php?id=404
-潘朵啦粉紅,https://315600.xyz/hatv.php?id=412
-潘朵啦完美,https://315600.xyz/hatv.php?id=411
-驚艷臺,https://315600.xyz/hatv.php?id=413
-香蕉臺,https://315600.xyz/hatv.php?id=414
-香蕉臺,https://315600.xyz/hatv.php?id=415
-叮噹成人電視,https://315600.xyz/hatv.php?id=409
-彩虹頻道,https://315600.xyz/hatv.php?id=408
-Happy頻道,https://315600.xyz/hatv.php?id=402
-HOT頻道,https://315600.xyz/hatv.php?id=403
+🇹🇼台灣,#genre#
+民視台灣,http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8
+民視,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
+民視第一,http://www.336699.live:1935/blockfour/4gtv-4gtv003.stream/playlist.m3u8
+民視綜藝,http://www.336699.live:1935/blockfour/4gtv-4gtv004.stream/playlist.m3u8
+豬哥亮歌廳秀,http://www.336699.live:1935/blockfour/4gtv-4gtv006.stream/playlist.m3u8
+中天新聞,http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
+八大綜合,http://www.336699.live:1935/blockfour/4gtv-4gtv010.stream/playlist.m3u8
+影迷數位電影,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/playlist.m3u8
+cnex,http://www.336699.live:1935/blockfour/4gtv-4gtv013.stream/playlist.m3u8
+時尚運動X,http://www.336699.live:1935/blockfour/4gtv-4gtv014.stream/playlist.m3u8
+東森新聞,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live114&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
+TVBS精采,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live086&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
+LiveABC,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live030&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
+達文西頻道,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv018&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
+ELTV生活英語,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=litv-longturn20&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
+Nick Jr.,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live032&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
+尼克兒童,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live105&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
+靖天卡通,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv044&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
+靖洋卡通,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv057&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
+iFun動漫,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=litv-ftv15&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
+MOMO親子,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live107&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
+CN卡通,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live205&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
+豬哥亮歌廳秀,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv006&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
+靖天育樂,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv062&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
+靖天國際,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv063&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
+靖天歡樂,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv054&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
+TVBS歡樂,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv068&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
+Lifetime娛樂,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live029&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
+電影原聲CMusic,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live031&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
+TRACE Urban,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv082&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
+MTV Live,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live025&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
+Mezzo Live,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv083&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
+CLASSICA古典樂,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv059&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
+博斯高球,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=litv-longturn05&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
+博斯運動一,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=litv-longturn07&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
+博斯無限,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=litv-longturn10&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
+博斯網球,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=litv-longturn09&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
+TRACE Sport Stars,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv077&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
+智林體育,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv101&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
+時尚運動X,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv014&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
+車迷TV,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live201&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
+GINX Esports,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv053&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
+Pet Club,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live110&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
+滾動力rollor,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live012&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
+亞洲旅遊,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=litv-longturn17&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
+幸福空間居家,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live206&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
+Love Nature,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live208&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
+History,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live026&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
+Smithsonian Channel,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live088&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
+愛爾達生活旅遊,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live120&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
+LUXE TV,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live121&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
+TV5MONDE STYLE生活時尚,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live122&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
+中天美食旅遊,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live123&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
+公視戲劇,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv042&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
+民視影劇,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=litv-ftv09&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
+龍華戲劇,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=litv-longturn18&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
+HITS頻道,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live620&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
+八大精彩,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv034&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
+靖天戲劇,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv058&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
+靖洋戲劇,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv045&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
+CI罪案偵查,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live027&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
+金光布袋戲,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live144&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
+采昌影劇,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv049&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
+靖天映畫,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv055&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
+靖天電影,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv061&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
+龍華電影,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=litv-longturn03&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
+影迷數位電影,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv011&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
+amc最愛電影,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv017&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
+CinemaWorld,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live069&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
+CATCHPLAY Beyond,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live155&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
+CATCHPLAY電影,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv076&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
+我的歐洲電影.https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live157&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
+經典電影,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live021&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
+經典卡通,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live022&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
+精選動漫,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live024&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
+華語戲劇,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live005&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
 🎬輪播,#genre#
 蠟筆小新,http://111.6.244.41:80/tx.hls.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.m3u8
 蠟筆小新新番,http://zzy789.xyz/bili.php?id=21570935#https://d1--ov-gotcha105.bilivideo.com/live-bvc/994033/live_456924462_14930225_1500.m3u8?cdn=ov-gotcha05&expires=1656515371&len=0&oi=2418197863&pt=h5&qn=150&trid=10032f9a2bb6f0c2455b9fda4dfccd27c15c&sigparams=cdn,expires,len,oi,pt,qn,trid&sign=9c4a91a38da1fba64ae8e807059a0285&ptype=0&src=57345&sl=2&source=one&sche=ban&sk=9cb5fa1da6fe10638ca787952b18c932&order=1
