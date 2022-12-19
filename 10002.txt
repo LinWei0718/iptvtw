@@ -39,6 +39,13 @@ TRACE,http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m3u8
 HITS,http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
 mezzo live,http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
 智林體育,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
+龍華電影,http://www.336699.live:1935/blockfour/litv-longturn03.stream/playlist.m3u8
+博斯高球I,http://www.336699.live:1935/blockfour/litv-longturn05.stream/playlist.m3u8
+博斯運動I,http://www.336699.live:1935/blockfour/litv-longturn07.stream/playlist.m3u8
+博斯網球,http://www.336699.live:1935/blockfour/litv-longturn09.stream/playlist.m3u8
+博斯無限,http://www.336699.live:1935/blockfour/litv-longturn10.stream/playlist.m3u8
+龍華日韓,http://www.336699.live:1935/blockfour/litv-longturn11.stream/playlist.m3u8
+寰宇新聞,http://www.336699.live:1935/blockfour/litv-longturn14.stream/playlist.m3u8
 東森新聞,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live114&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
 TVBS精采,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live086&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
 LiveABC,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live030&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
