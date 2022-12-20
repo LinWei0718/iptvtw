@@ -69,72 +69,72 @@ KPOP,https://git.io/JgYAE
 大愛2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8#https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 大愛海外,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 原住民電視,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-東森新聞,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live114&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
-TVBS精采,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live086&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
-LiveABC,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live030&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
-達文西頻道,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv018&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
-ELTV生活英語,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=litv-longturn20&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
-Nick Jr.,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live032&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
-尼克兒童,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live105&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
-靖天卡通,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv044&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
-靖洋卡通,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv057&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
-iFun動漫,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=litv-ftv15&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
-MOMO親子,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live107&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
-CN卡通,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live205&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
-豬哥亮歌廳秀,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv006&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
-靖天育樂,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv062&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
-靖天國際,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv063&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
-靖天歡樂,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv054&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
-TVBS歡樂,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv068&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
-Lifetime娛樂,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live029&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
-電影原聲CMusic,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live031&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
-TRACE Urban,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv082&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
-MTV Live,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live025&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
-Mezzo Live,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv083&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
-CLASSICA古典樂,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv059&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
-博斯高球,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=litv-longturn05&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
-博斯運動一,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=litv-longturn07&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
-博斯無限,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=litv-longturn10&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
-博斯網球,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=litv-longturn09&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
-TRACE Sport Stars,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv077&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
-智林體育,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv101&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
-時尚運動X,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv014&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
-車迷TV,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live201&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
-GINX Esports,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv053&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
-Pet Club,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live110&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
-滾動力rollor,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live012&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
-亞洲旅遊,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=litv-longturn17&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
-幸福空間居家,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live206&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
-Love Nature,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live208&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
-History,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live026&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
-Smithsonian Channel,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live088&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
-愛爾達生活旅遊,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live120&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
-LUXE TV,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live121&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
-TV5MONDE STYLE生活時尚,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live122&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
-中天美食旅遊,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live123&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
-公視戲劇,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv042&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
-民視影劇,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=litv-ftv09&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
-龍華戲劇,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=litv-longturn18&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
-HITS頻道,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live620&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
-八大精彩,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv034&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
-靖天戲劇,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv058&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
-靖洋戲劇,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv045&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
-CI罪案偵查,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live027&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
-金光布袋戲,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live144&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
-采昌影劇,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv049&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
-靖天映畫,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv055&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
-靖天電影,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv061&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
-龍華電影,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=litv-longturn03&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
-影迷數位電影,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv011&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
-amc最愛電影,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv017&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
-CinemaWorld,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live069&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
-CATCHPLAY Beyond,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live155&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
-CATCHPLAY電影,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-4gtv076&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
-我的歐洲電影.https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live157&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
-經典電影,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live021&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
-經典卡通,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live022&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
-精選動漫,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live024&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
-華語戲劇,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=4gtv-live005&hd=720&host=https://4gtvfree-cds.cdn.hinet.net
+東森新聞,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live114&hd=1080&host=https://4gtvfree-cds.cdn.hinet.net
+TVBS精采,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live086&hd=1080&host=https://4gtvfree-cds.cdn.hinet.net
+LiveABC,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live030&hd=1080&host=https://4gtvfree-cds.cdn.hinet.net
+達文西頻道,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv018&hd=1080&host=https://4gtvfreepc-cds.cdn.hinet.net
+ELTV生活英語,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=litv-longturn20&hd=1080&host=https://4gtvfreepc-cds.cdn.hinet.net
+Nick Jr.,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live032&hd=1080&host=https://4gtvfree-cds.cdn.hinet.net
+尼克兒童,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live105&hd=1080&host=https://4gtvfree-cds.cdn.hinet.net
+靖天卡通,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv044&hd=1080&host=https://4gtvfreepc-cds.cdn.hinet.net
+靖洋卡通,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv057&hd=1080&host=https://4gtvfreepc-cds.cdn.hinet.net
+iFun動漫,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=litv-ftv15&hd=1080&host=https://4gtvfreepc-cds.cdn.hinet.net
+MOMO親子,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live107&hd=1080&host=https://4gtvfree-cds.cdn.hinet.net
+CN卡通,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live205&hd=1080&host=https://4gtvfree-cds.cdn.hinet.net
+豬哥亮歌廳秀,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv006&hd=1080&host=https://4gtvfreepc-cds.cdn.hinet.net
+靖天育樂,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv062&hd=1080&host=https://4gtvfreepc-cds.cdn.hinet.net
+靖天國際,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv063&hd=1080&host=https://4gtvfreepc-cds.cdn.hinet.net
+靖天歡樂,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv054&hd=1080&host=https://4gtvfreepc-cds.cdn.hinet.net
+TVBS歡樂,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv068&hd=1080&host=https://4gtvfreepc-cds.cdn.hinet.net
+Lifetime娛樂,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live029&hd=1080&host=https://4gtvfree-cds.cdn.hinet.net
+電影原聲CMusic,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live031&hd=1080&host=https://4gtvfree-cds.cdn.hinet.net
+TRACE Urban,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv082&hd=1080&host=https://4gtvfreepc-cds.cdn.hinet.net
+MTV Live,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live025&hd=1080&host=https://4gtvfree-cds.cdn.hinet.net
+Mezzo Live,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv083&hd=1080&host=https://4gtvfreepc-cds.cdn.hinet.net
+CLASSICA古典樂,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv059&hd=1080&host=https://4gtvfreepc-cds.cdn.hinet.net
+博斯高球,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=litv-longturn05&hd=1080&host=https://4gtvfreepc-cds.cdn.hinet.net
+博斯運動一,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=litv-longturn07&hd=1080&host=https://4gtvfreepc-cds.cdn.hinet.net
+博斯無限,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=litv-longturn10&hd=1080&host=https://4gtvfreepc-cds.cdn.hinet.net
+博斯網球,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=litv-longturn09&hd=1080&host=https://4gtvfreepc-cds.cdn.hinet.net
+TRACE Sport Stars,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv077&hd=1080&host=https://4gtvfreepc-cds.cdn.hinet.net
+智林體育,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv101&hd=1080&host=https://4gtvfreepc-cds.cdn.hinet.net
+時尚運動X,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv014&hd=1080&host=https://4gtvfreepc-cds.cdn.hinet.net
+車迷TV,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live201&hd=1080&host=https://4gtvfree-cds.cdn.hinet.net
+GINX Esports,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv053&hd=1080&host=https://4gtvfreepc-cds.cdn.hinet.net
+Pet Club,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live110&hd=1080&host=https://4gtvfree-cds.cdn.hinet.net
+滾動力rollor,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live012&hd=1080&host=https://4gtvfree-cds.cdn.hinet.net
+亞洲旅遊,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=litv-longturn17&hd=1080&host=https://4gtvfreepc-cds.cdn.hinet.net
+幸福空間居家,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live206&hd=1080&host=https://4gtvfree-cds.cdn.hinet.net
+Love Nature,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live208&hd=1080&host=https://4gtvfree-cds.cdn.hinet.net
+History,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live026&hd=1080&host=https://4gtvfree-cds.cdn.hinet.net
+Smithsonian Channel,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live088&hd=1080&host=https://4gtvfree-cds.cdn.hinet.net
+愛爾達生活旅遊,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live120&hd=1080&host=https://4gtvfree-cds.cdn.hinet.net
+LUXE TV,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live121&hd=1080&host=https://4gtvfree-cds.cdn.hinet.net
+TV5MONDE STYLE生活時尚,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live122&hd=1080&host=https://4gtvfree-cds.cdn.hinet.net
+中天美食旅遊,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live123&hd=1080&host=https://4gtvfree-cds.cdn.hinet.net
+公視戲劇,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv042&hd=1080&host=https://4gtvfreepc-cds.cdn.hinet.net
+民視影劇,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=litv-ftv09&hd=1080&host=https://4gtvfreepc-cds.cdn.hinet.net
+龍華戲劇,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=litv-longturn18&hd=1080&host=https://4gtvfreepc-cds.cdn.hinet.net
+HITS頻道,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live620&hd=1080&host=https://4gtvfree-cds.cdn.hinet.net
+八大精彩,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv034&hd=1080&host=https://4gtvfreepc-cds.cdn.hinet.net
+靖天戲劇,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv058&hd=1080&host=https://4gtvfreepc-cds.cdn.hinet.net
+靖洋戲劇,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv045&hd=1080&host=https://4gtvfreepc-cds.cdn.hinet.net
+CI罪案偵查,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live027&hd=1080&host=https://4gtvfree-cds.cdn.hinet.net
+金光布袋戲,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live144&hd=1080&host=https://4gtvfree-cds.cdn.hinet.net
+采昌影劇,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv049&hd=1080&host=https://4gtvfreepc-cds.cdn.hinet.net
+靖天映畫,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv055&hd=1080&host=https://4gtvfreepc-cds.cdn.hinet.net
+靖天電影,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv061&hd=1080&host=https://4gtvfreepc-cds.cdn.hinet.net
+龍華電影,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=litv-longturn03&hd=1080&host=https://4gtvfreepc-cds.cdn.hinet.net
+影迷數位電影,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv011&hd=1080&host=https://4gtvfreepc-cds.cdn.hinet.net
+amc最愛電影,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv017&hd=1080&host=https://4gtvfreepc-cds.cdn.hinet.net
+CinemaWorld,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live069&hd=1080&host=https://4gtvfree-cds.cdn.hinet.net
+CATCHPLAY Beyond,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live155&hd=1080&host=https://4gtvfree-cds.cdn.hinet.net
+CATCHPLAY電影,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv076&hd=1080&host=https://4gtvfreepc-cds.cdn.hinet.net
+我的歐洲電影.https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live157&hd=1080&host=https://4gtvfree-cds.cdn.hinet.net
+經典電影,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live021&hd=1080&host=https://4gtvfree-cds.cdn.hinet.net
+經典卡通,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live022&hd=1080&host=https://4gtvfree-cds.cdn.hinet.net
+精選動漫,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live024&hd=1080&host=https://4gtvfree-cds.cdn.hinet.net
+華語戲劇,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live005&hd=1080&host=https://4gtvfree-cds.cdn.hinet.net
 🎬輪播,#genre#
 蠟筆小新,http://111.6.244.41:80/tx.hls.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.m3u8
 蠟筆小新新番,http://zzy789.xyz/bili.php?id=21570935#https://d1--ov-gotcha105.bilivideo.com/live-bvc/994033/live_456924462_14930225_1500.m3u8?cdn=ov-gotcha05&expires=1656515371&len=0&oi=2418197863&pt=h5&qn=150&trid=10032f9a2bb6f0c2455b9fda4dfccd27c15c&sigparams=cdn,expires,len,oi,pt,qn,trid&sign=9c4a91a38da1fba64ae8e807059a0285&ptype=0&src=57345&sl=2&source=one&sche=ban&sk=9cb5fa1da6fe10638ca787952b18c932&order=1
