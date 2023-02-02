@@ -56,9 +56,13 @@ i-Fun愛放,http://www.336699.live:1935/blockfour/litv-ftv15.stream/playlist.m3u
 愛爾達體育3,http://www.best336699.com:1935/besttv/IR33.stream/playlist.m3u8
 龍華電影,https://epg.pw/stream/e4f21acda4343622520728335bad935a0f525b0afb005d52e8cb4f96c1c0f423.m3u8
 龍華電影,https://epg.pw/stream/48e65c7ee2e32cd94bd6ef41b978802804253539e7a5d4bc156ed6bd27543d87.m3u8
+台視,http://23.237.10.66:16344
+民視,http://23.237.10.66:16334
+星衛娛樂,http://23.237.10.66:16359
+中天綜合,http://23.237.10.66:16372
 中天綜合,https://epg.pw/stream/9ffc906d37cf095d0fb596c3cba6c6253e8e445f4ccd24563c7a2e9e99c39f39.m3u8
 中天綜合,https://epg.pw/stream/4c3c400280fb3d1f5b27322fe4827f5ba43f09963e114b0973bea7b5a85f7d73.ctv
-台視,https://epg.pw/stream/fda76a6bb8b43c6fcc3fd9ad7aea048137b4520441112a9f0d0122b1b8945dde.ctv
+台視,https://epg.pw/味stream/fda76a6bb8b43c6fcc3fd9ad7aea048137b4520441112a9f0d0122b1b8945dde.ctv
 天映經典,https://epg.pw/stream/c144b6e78dae226aaf5d3ea400c87707189b5f1ab750e1d1ca5b7e00706dd47d.m3u8
 天映經典,https://epg.pw/stream/87617e79441d46b5917a3bdca13259e4de2d9e11f828a88f1cb1c80d377f76f4.m3u8
 原住民頻道,https://epg.pw/stream/3d0b93fe5f3ae06d96d0d4bc7931ec323ee5ef2721d880629f50a6672c2c7bb3.m3u8
