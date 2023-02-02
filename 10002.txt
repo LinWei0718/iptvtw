@@ -56,6 +56,8 @@ i-Fun愛放,http://www.336699.live:1935/blockfour/litv-ftv15.stream/playlist.m3u
 愛爾達體育3,http://www.best336699.com:1935/besttv/IR33.stream/playlist.m3u8
 龍華電影,https://epg.pw/stream/e4f21acda4343622520728335bad935a0f525b0afb005d52e8cb4f96c1c0f423.m3u8
 龍華電影,https://epg.pw/stream/48e65c7ee2e32cd94bd6ef41b978802804253539e7a5d4bc156ed6bd27543d87.m3u8
+鏡新聞,http://tv.redrainl.site:9500/live.m3u8?c=28
+鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 台視,http://23.237.10.66:16344
 民視,http://23.237.10.66:16334
 星衛娛樂,http://23.237.10.66:16359
