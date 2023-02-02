@@ -47,3 +47,15 @@ ROLLOR,http://www.336699.live:1935/blocksix/4gtv-live012.stream/chunklist.m3u8
 愛爾達體育3,http://www.best336699.com:1935/besttv/IR33.stream/playlist.m3u8
 龍華電影,https://epg.pw/stream/e4f21acda4343622520728335bad935a0f525b0afb005d52e8cb4f96c1c0f423.m3u8
 龍華電影,https://epg.pw/stream/48e65c7ee2e32cd94bd6ef41b978802804253539e7a5d4bc156ed6bd27543d87.m3u8
+中天綜合,https://epg.pw/stream/9ffc906d37cf095d0fb596c3cba6c6253e8e445f4ccd24563c7a2e9e99c39f39.m3u8
+中天綜合,https://epg.pw/stream/4c3c400280fb3d1f5b27322fe4827f5ba43f09963e114b0973bea7b5a85f7d73.ctv
+台視,https://epg.pw/stream/fda76a6bb8b43c6fcc3fd9ad7aea048137b4520441112a9f0d0122b1b8945dde.ctv
+天映經典,https://epg.pw/stream/c144b6e78dae226aaf5d3ea400c87707189b5f1ab750e1d1ca5b7e00706dd47d.m3u8
+天映經典,https://epg.pw/stream/87617e79441d46b5917a3bdca13259e4de2d9e11f828a88f1cb1c80d377f76f4.m3u8
+原住民頻道,https://epg.pw/stream/3d0b93fe5f3ae06d96d0d4bc7931ec323ee5ef2721d880629f50a6672c2c7bb3.m3u8
+TVBS歡樂,https://epg.pw/stream/a0e38cabd293735287ad24ea12d5e2e3d2f0ecd3a9984895501def1ccc98f1e6.m3u8
+TVBS新聞,https://epg.pw/stream/18fc21d67cb93b0bd6acebdb5c6e5268ea50abb890acb9e78643189d36326e6c.ctv
+TVBS,https://epg.pw/stream/c69d1cc112b64d809dcd6b9359153d668abbca671102437a920d36072581f7c6.ctv
+三立都會.https://epg.pw/stream/313345d3e4c73171c55ae7c27654790b0863d0bfc465df7d937a69f0dff587f5.ctv
+
+
