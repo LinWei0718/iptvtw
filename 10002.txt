@@ -66,6 +66,7 @@ TVBS歡樂,https://epg.pw/stream/a0e38cabd293735287ad24ea12d5e2e3d2f0ecd3a998489
 TVBS新聞,https://epg.pw/stream/18fc21d67cb93b0bd6acebdb5c6e5268ea50abb890acb9e78643189d36326e6c.ctv
 TVBS,https://epg.pw/stream/c69d1cc112b64d809dcd6b9359153d668abbca671102437a920d36072581f7c6.ctv
 三立都會,https://epg.pw/stream/313345d3e4c73171c55ae7c27654790b0863d0bfc465df7d937a69f0dff587f5.ctv
+衛視中文,https://epg.pw/stream/e90bbc4d59eaed31098c2ee4ecbaee0c686b15379e52c5bc09b56fcb4386e12a.m3u8
 民視新聞,https://git.io/JgkAb
 台視新聞,https://git.io/JgkxY
 中視新聞,https://git.io/Jgkxz
