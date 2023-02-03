@@ -51,6 +51,54 @@ mezzo live,http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3
 民視新聞,http://www.336699.live:1935/blockfour/litv-ftv13.stream/playlist.m3u8
 i-Fun愛放,http://www.336699.live:1935/blockfour/litv-ftv15.stream/playlist.m3u8
 好消息,http://www.336699.live:1935/blockfour/litv-ftv16.stream/playlist.m3u8
+HITS,http://www.336699.live:1935/blocksix/4gtv-live620.stream/chunklist.m3u8
+民視新聞,https://pull-l3-cny.douyincdn.com/live/304b8e04a437299311112b7f4902c9dd.m3u8
+台灣戲劇,http://www.336699.live:1935/blocksix/4gtv-live005.stream/chunklist.m3u8
+台灣綜藝,http://www.336699.live:1935/blocksix/4gtv-live006.stream/chunklist.m3u8
+大愛,http://www.336699.live:1935/blocksix/4gtv-live007.stream/chunklist.m3u8
+人間衛視,http://www.336699.live:1935/blocksix/4gtv-live008.stream/chunklist.m3u8
+ROLLOR,http://www.336699.live:1935/blocksix/4gtv-live012.stream/chunklist.m3u8
+東森財經新聞,http://www.336699.live:1935/blocksix/4gtv-live019.stream/chunklist.m3u8
+老電影,http://www.336699.live:1935/blocksix/4gtv-live021.stream/chunklist.m3u8
+經典卡通,http://www.336699.live:1935/blocksix/4gtv-live022.stream/chunklist.m3u8
+精選動漫,http://www.336699.live:1935/blocksix/4gtv-live024.stream/chunklist.m3u8
+影迷紀實,http://www.336699.live:1935/blocksix/4gtv-live023.stream/chunklist.m3u8
+History,http://www.336699.live:1935/blocksix/4gtv-live026.stream/chunklist.m3u8
+MTV,http://www.336699.live:1935/blocksix/4gtv-live025.stream/chunklist.m3u8
+CI罪案現場,http://www.336699.live:1935/blocksix/4gtv-live027.stream/chunklist.m3u8
+Lifetime,http://www.336699.live:1935/blocksix/4gtv-live029.stream/chunklist.m3u8
+LIVE互動英語,http://www.336699.live:1935/blocksix/4gtv-live030.stream/chunklist.m3u8
+nickjr.,http://www.336699.live:1935/blocksix/4gtv-live032.stream/chunklist.m3u8
+中天綜合,http://www.336699.live:1935/blocksix/4gtv-live033.stream/chunklist.m3u8
+東森購物,http://www.336699.live:1935/blocksix/4gtv-live046.stream/chunklist.m3u8
+東森購物2,http://www.336699.live:1935/blocksix/4gtv-live047.stream/chunklist.m3u8
+新唐人亞太,http://www.336699.live:1935/blocksix/4gtv-live050.stream/chunklist.m3u8
+全球財經,http://www.336699.live:1935/blocksix/4gtv-live060.stream/chunklist.m3u8
+Cinema worid,http://www.336699.live:1935/blocksix/4gtv-live069.stream/chunklist.m3u8
+DW,http://www.336699.live:1935/blocksix/4gtv-live071.stream/chunklist.m3u8
+TVBS HD,http://www.336699.live:1935/blocksix/4gtv-live072.stream/chunklist.m3u8
+全民最大黨,http://www.336699.live:1935/blocksix/4gtv-live076.stream/chunklist.m3u8
+TVBS精采,http://www.336699.live:1935/blocksix/4gtv-live086.stream/chunklist.m3u8
+三立新聞,http://www.336699.live:1935/blocksix/4gtv-live089.stream/chunklist.m3u8
+nickelodeon,http://www.336699.live:1935/blocksix/4gtv-live105.stream/chunklist.m3u8
+大愛2,http://www.336699.live:1935/blocksix/4gtv-live106.stream/chunklist.m3u8
+momo親子,http://www.336699.live:1935/blocksix/4gtv-live107.stream/chunklist.m3u8
+TECHStorm,http://www.336699.live:1935/blocksix/4gtv-live109.stream/chunklist.m3u8
+Pet Club,http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m3u8
+東森新聞,http://www.336699.live:1935/blocksix/4gtv-live114.stream/chunklist.m3u8
+Gobal Trekker,http://www.336699.live:1935/blocksix/4gtv-live112.stream/chunklist.m3u8
+LUXE,http://www.336699.live:1935/blocksix/4gtv-live121.stream/chunklist.m3u8
+ELTA生活旅遊,http://www.336699.live:1935/blocksix/4gtv-live120.stream/chunklist.m3u8
+Style,http://www.336699.live:1935/blocksix/4gtv-live122.stream/chunklist.m3u8
+中天美食旅遊,http://www.336699.live:1935/blocksix/4gtv-live123.stream/chunklist.m3u8
+CNN,http://www.336699.live:1935/blocksix/4gtv-live130.stream/chunklist.m3u8
+ROCK ACTION,http://www.336699.live:1935/blocksix/4gtv-live138.stream/chunklist.m3u8
+金光布袋戲,http://www.336699.live:1935/blocksix/4gtv-live144.stream/chunklist.m3u8
+Catchplay,http://www.336699.live:1935/blocksix/4gtv-live155.stream/chunklist.m3u8
+MCE,http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8
+幸福空間居家,http://www.336699.live:1935/blocksix/4gtv-live206.stream/chunklist.m3u8
+三立綜合,http://www.336699.live:1935/blocksix/4gtv-live207.stream/chunklist.m3u8
+LOVE Nature,http://www.336699.live:1935/blocksix/4gtv-live208.stream/chunklist.m3u8
 愛爾達體育1,http://www.best336699.com:1935/besttv/IR11.stream/playlist.m3u8
 愛爾達體育2,http://www.best336699.com:1935/besttv/IR22.stream/playlist.m3u8
 愛爾達體育3,http://www.best336699.com:1935/besttv/IR33.stream/playlist.m3u8
@@ -58,6 +106,12 @@ i-Fun愛放,http://www.336699.live:1935/blockfour/litv-ftv15.stream/playlist.m3u
 龍華電影,https://epg.pw/stream/48e65c7ee2e32cd94bd6ef41b978802804253539e7a5d4bc156ed6bd27543d87.m3u8
 鏡新聞,http://tv.redrainl.site:9500/live.m3u8?c=28
 鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+緯來體育,http://123.51.230.108:18509/.m3u8
+東森戲劇,http://123.51.230.108:18538/.m3u8
+八大第一,http://123.51.230.108:18539/.m3u8
+民視新聞,http://123.51.230.108:18663/.m3u8
+東森財經,http://123.51.230.108:18515/.m3u8
+東風37,http://123.51.230.108:18560/.m3u8
 台視,http://23.237.10.66:16344
 民視,http://23.237.10.66:16334
 星衛娛樂,http://23.237.10.66:16359
