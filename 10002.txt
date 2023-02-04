@@ -104,6 +104,7 @@ LOVE Nature,http://www.336699.live:1935/blocksix/4gtv-live208.stream/chunklist.m
 愛爾達體育3,http://www.best336699.com:1935/besttv/IR33.stream/playlist.m3u8
 龍華電影,https://epg.pw/stream/e4f21acda4343622520728335bad935a0f525b0afb005d52e8cb4f96c1c0f423.m3u8
 龍華電影,https://epg.pw/stream/48e65c7ee2e32cd94bd6ef41b978802804253539e7a5d4bc156ed6bd27543d87.m3u8
+ELTA生活旅遊,https://epg.pw/stream/37d6f76bc0d5547f52c9c7e1d03721182a0c1588cf3747fec2f7dc7c265bc49b.m3u8
 鏡新聞,http://tv.redrainl.site:9500/live.m3u8?c=28
 鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 緯來體育,http://123.51.230.108:18509/.m3u8
@@ -176,8 +177,10 @@ TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 國會頻道2,http://61.58.60.230:9319/live/124.m3u8
 🎬輪播,#genre#
 蠟筆小新,http://111.6.244.41:80/tx.hls.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.m3u8
+蠟筆小新新番,https://epg.pw/stream/2db322f881888449890ef1e9185adf1f5008e97ae1405f654702168e17faaa6b.ctv
 蠟筆小新新番,http://zzy789.xyz/bili.php?id=21570935#https://d1--ov-gotcha105.bilivideo.com/live-bvc/994033/live_456924462_14930225_1500.m3u8?cdn=ov-gotcha05&expires=1656515371&len=0&oi=2418197863&pt=h5&qn=150&trid=10032f9a2bb6f0c2455b9fda4dfccd27c15c&sigparams=cdn,expires,len,oi,pt,qn,trid&sign=9c4a91a38da1fba64ae8e807059a0285&ptype=0&src=57345&sl=2&source=one&sche=ban&sk=9cb5fa1da6fe10638ca787952b18c932&order=1
 七龍珠改,https://epg.112114.xyz/huya/11601966
+小豬佩琪,https://epg.pw/stream/603679f02214b1699654f996932ce811a8a02436ea2be3db54f481600cd73bbf.m3u8
 小豬佩琪,http://baiducdncmn2.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8#http://lvbaiducdncmn.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8
 獵人X獵人,http://epg.112114.xyz/douyu/6610883
 名偵探柯南,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_157_600_t10/c54_lb_157_600_t10.m3u8?key=0b292c335e5837e948e91dd5d11efa525
