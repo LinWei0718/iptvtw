@@ -121,7 +121,7 @@ TVBS新聞,http://2023.stream-link.org/playlist/tvbs_news.flv
 中天綜合,http://2023.stream-link.org/playlist/cti_zh.flv
 東森財經新聞,https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
 中天新聞,https://ytm2.yuanhsing.cf/ctitv.m3u8
-鏡新聞Mnews,https://ytm2.yuanhsing.cf/mnews.m3u8
+鏡新聞,https://ytm2.yuanhsing.cf/mnews.m3u8
 TVBS新聞,https://ytm2.yuanhsing.cf/TVBSNEWS01.m3u8
 中視新聞,https://ytm2.yuanhsing.cf/twctvnews.m3u8
 台視新聞,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -134,20 +134,3 @@ TVBS新聞,https://ytm2.yuanhsing.cf/TVBSNEWS01.m3u8
 天才衝衝衝,https://ytm2.yuanhsing.cf/TBSCTSSHOW.m3u8
 新玫瑰瞳鈴眼,https://ytm2.yuanhsing.cf/FTVDRAMA.m3u8
 粉紅豬小妹,https://ytm2.yuanhsing.cf/PeppaPig.m3u8
-🔞台灣VIP,#genre#
-彩虹e台,mitv://generationnexxxt.com:19806/3d8f43de242d49b6be4616aa4ef40f8d
-彩虹電影台,mitv://generationnexxxt.com:19806/d39f0c9d15df42aaa2486ecaac9ed5a8
-LOOK TV,mitv://generationnexxxt.com:19806/a058f3e33b5f4b28ab0a035345a7762e
-潘朵啦玩美台,mitv://generationnexxxt.com:19806/05e56c737cc044a5acd6a4e76a9b8d61
-驚豔成人電影台,mitv://generationnexxxt.com:19806/e015a3821629475e9c73694dbc170d9d
-松視1台,mitv://generationnexxxt.com:19806/c89103eeecc64e2eb26b4cb6c9b89a07
-松視2台,mitv://generationnexxxt.com:19806/468e47f4b4ae47879a171eb0dd75f463
-PLAYBOY,mitv://generationnexxxt.com:19806/0a3f9dba3ca34135971374b62deb50c0
-香蕉台,mitv://generationnexxxt.com:19806/eda0fc87e17349c5a8e94c1ffceed3b3
-松視3台,mitv://generationnexxxt.com:19806/c41a63bb2c364ee39e7909477f1fba8f
-JStar極限台,mitv://generationnexxxt.com:19806/ede07f651b8048d0afe848d448faad1e
-HAPPY,mitv://generationnexxxt.com:19806/dce67c84705846808666973c4fd4efd9
-K,mitv://generationnexxxt.com:19806/c0a11fa2d2964825956fa8ba2f980b68
-Japan HDV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6225/index.m3u8
-Fake Taxi HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6202/index.m3u8
-
