@@ -81,6 +81,17 @@ TaiwanPlus,https://ythls.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
 ELEVEN1,http://61.221.81.93:8078/hls/25/80/esport.m3u8
 ELEVEN2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 華視新聞資訊,http://stream.dsichannel.com/hls/cts-news.m3u8
+STAR Movie Gold,http://61.221.81.93:8524/hls/65/807/ch843.m3u8
+Star World,http://61.221.81.93:8521/hls/65/807/ch843.m3u8
+衛視電影,http://61.221.81.93:8523/hls/65/807/ch843.m3u8
+東森幼幼,http://61.221.81.93:8525/hls/65/807/ch843.m3u8
+八大綜合,http://61.221.81.93:8530/hls/65/807/ch843.m3u8
+八大第一,http://61.221.81.93:8531/hls/65/807/ch843.m3u8
+年代新聞,http://61.221.81.93:8532/hls/65/807/ch843.m3u8
+寰宇新聞,http://61.221.81.93:8513/hls/65/807/ch843.m3u8
+東森新聞,http://61.221.81.93:8527/hls/65/807/ch843.m3u8
+ELEVEN1,http://61.221.81.93:8534/hls/65/807/ch843.m3u8
+ELEVEN2,http://61.221.81.93:8539/hls/65/807/ch843.m3u8
 好消息,http://123.51.230.108:18507/.m3u8
 緯來體育,http://123.51.230.108:18509/.m3u8
 龍華戲劇,http://123.51.230.108:18513/.m3u8
