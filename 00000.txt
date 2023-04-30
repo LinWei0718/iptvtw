@@ -31,10 +31,6 @@ MOMO綜合,rtmp://219.80.97.77/sat/tv761
 ELTA體育1,rtmp://219.80.97.77/sat/md031
 ELEVEN2,rtmp://219.80.97.77/sat/md041
 博斯魅力,rtmp://219.80.97.77/sat/md051
-TVBS新聞,http://pull-l3-cny.douyincdn.com/third/stream-e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
-TVBS亞洲,http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8
-中天綜合,http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.m3u8
-天映頻道：http://210.210.155.35:80/dr9445/h/h14/01.m3u8
 靖天卡通,http://www.336699.live:1935/blockfour/4gtv-4gtv044.stream/playlist.m3u8
 靖洋戲劇,http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
 采昌影劇,http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
@@ -81,6 +77,12 @@ TaiwanPlus,https://ythls.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
 ELEVEN1,http://61.221.81.93:8078/hls/25/80/esport.m3u8
 ELEVEN2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 華視新聞資訊,http://stream.dsichannel.com/hls/cts-news.m3u8
+東森戲劇,http://162.19.247.76:22222/live/dsxj/index.m3u8
+東森電影,http://162.19.247.76:22222/live/dsdyt/index.m3u8
+東森洋片,http://162.19.247.76:22222/live/dsypt/index.m3u8
+華視,http://162.19.247.76:22222/live/huashi/index.m3u8
+中天娛樂,http://162.19.247.76:22222/live/ztyl/index.m3u8
+天映頻道：http://210.210.155.35:80/dr9445/h/h14/01.m3u8
 STAR Movie Gold,http://61.221.81.93:8524/hls/65/807/ch843.m3u8
 Star World,http://61.221.81.93:8521/hls/65/807/ch843.m3u8
 衛視電影,http://61.221.81.93:8523/hls/65/807/ch843.m3u8
