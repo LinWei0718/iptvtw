@@ -80,6 +80,8 @@ ELEVEN2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 東森戲劇,http://162.19.247.76:22222/live/dsxj/index.m3u8
 東森電影,http://162.19.247.76:22222/live/dsdyt/index.m3u8
 東森洋片,http://162.19.247.76:22222/live/dsypt/index.m3u8
+台視,http://162.19.247.76:22222/live/taishi/index.m3u8
+中視,http://162.19.247.76:22222/live/zhongshi/index.m3u8
 華視,http://162.19.247.76:22222/live/huashi/index.m3u8
 中天娛樂,http://162.19.247.76:22222/live/ztyl/index.m3u8
 天映頻道：http://210.210.155.35:80/dr9445/h/h14/01.m3u8
