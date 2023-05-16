@@ -1,4 +1,5 @@
 🇹🇼台灣,#genre#
+🇹🇼臺灣電視,#genre#
 民視,rtmp://119.81.124.89/sat/tv051
 台視,rtmp://119.81.124.89/sat/tv071
 中視,rtmp://119.81.124.89/sat/tv091
@@ -36,6 +37,8 @@ ELEVEN2,rtmp://219.80.97.77/sat/md041
 TaiwanPlus,https://ythls.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
 ELEVEN1,http://61.221.81.93:8078/hls/25/80/esport.m3u8
 ELEVEN2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+東森新聞,http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
+東森戲劇,http://61.221.81.93:8078/hls/34/80/ebcdrama.m3u8
 華視新聞資訊,http://stream.dsichannel.com/hls/cts-news.m3u8
 天映頻道：http://210.210.155.35:80/dr9445/h/h14/01.m3u8
 STAR Movie Gold,http://61.221.81.93:8524/hls/65/807/ch843.m3u8
