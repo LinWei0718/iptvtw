@@ -32,6 +32,13 @@ MOMO綜合,rtmp://219.80.97.77/sat/tv761
 ELTA體育1,rtmp://219.80.97.77/sat/md031
 ELEVEN2,rtmp://219.80.97.77/sat/md041
 博斯魅力,rtmp://219.80.97.77/sat/md051
+民視,http://seb.sason.top/ptv/ftv.php?id=ms
+民視台灣,http://seb.sason.top/ptv/ftv.php?id=tw
+民視旅游,http://seb.sason.top/ptv/ftv.php?id=ly
+民視第一,http://seb.sason.top/ptv/ftv.php?id=dy
+民視新聞,http://seb.sason.top/sc/msxw_fhd.m3u8
+民視綜藝,http://seb.sason.top/ptv/ftv.php?id=zy
+民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
 三立台灣,https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
 三立都會,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
 TaiwanPlus,https://ythls.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
