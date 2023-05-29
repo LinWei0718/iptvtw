@@ -108,7 +108,7 @@ NHK,http://123.51.230.108:18525/.m3u8
 三立新聞,http://123.51.230.64:18543/http/192.168.1.9:8081/hls/65/807/ch18.m3u8
 原住民電視,http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500
 LOVENATURE,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-VIP_8888,#genre#
+🇹🇼VIP,#genre#
 彩虹e台(新),mitv://135.148.104.228:19806/3f5f22df9a324f759e43967b0d3ffe65
 彩虹电影台(新),mitv://135.148.104.228:19806/65b9f44984e749a8b14455a173779644
 LOOK TV(新),mitv://135.148.104.228:19806/c8aab8c8683c4f35aba0e745535afd41
