@@ -142,7 +142,6 @@ LOVENATURE,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 凤凰卫视,http://xztv.hk3.20212021.ml.cdn.cloudflare.net/xztv.php?id=2c0a3717-940f-42c5-b347-2419f40af84f
 凤凰卫视,http://xztv.hk3.20212021.ml.cdn.cloudflare.net/xztv.php?id=2c0a3717-940f-42c5-b347-2419f40af84f
 凤凰卫视,https://dispatch.ulivetv.
-
 net/v/live/cfxsdwcdynk0.m3u8?stream_id=cfxsdwcdynk0&timestamp=1686276351&rand=LJ9wX3x29g&uuid=9b647b3816b2a66a&from=web&sign=941de40e58692774205a9ced5f746313
 凤凰卫视,https://dispatch.ulivetv.net/v/live/cfxsdwcdynk0.m3u8?stream_id=cfxsdwcdynk0&timestamp=1686276586&rand=IHtuwtns3K&uuid=9b647b3816b2a66a&from=web&sign=40d229eab7359f25230443b141fe878a
 凤凰咨询,https://dispatch.ulivetv.net/v/live/cfxskn7pjv0g.m3u8?stream_id=cfxskn7pjv0g&timestamp=1686272611&rand=L0EMwvvEsh&uuid=9b647b3816b2a66a&from=web&sign=aa283c67b0fc598ba2eb5ed7d31095dd
@@ -176,9 +175,7 @@ net/v/live/cfxsdwcdynk0.m3u8?stream_id=cfxsdwcdynk0&timestamp=1686276351&rand=LJ
 三立台湾台,http://xztv.hk3.20212021.ml.cdn.cloudflare.net/xztv.php?id=ab7c868d-3788-4bfa-8352-930399e5c78a
 三立综合台 HD,http://xztv.hk3.20212021.ml.cdn.cloudflare.net/xztv.php?id=95db1e0a-0eee-423f-a8e4-b05fef9c21c8
 双星 HD,http://xztv.hk3.20212021.ml.cdn.cloudflare.net/xztv.php?id=6ffebc04-382a-4b8d-9fd4-82085417ed58
-双星 HD,http://xztv.hk3.20212021.ml.cdn.cloudflare.
-
-net/xztv.php?id=a114fe08-b694-4da0-afda-1a85e916b057
+双星 HD,http://xztv.hk3.20212021.ml.cdn.cloudflare.net/xztv.php?id=a114fe08-b694-4da0-afda-1a85e916b057
 双星 HD,http://xztv.hk3.20212021.ml.cdn.cloudflare.net/xztv.php?id=d9f49521-ed15-4998-a10e-89d1a56190d7
 台视 HD,http://xztv.hk3.20212021.ml.cdn.cloudflare.net/xztv.php?id=fa9c215a-4fbe-48c8-8264-42a72ab6e2b4
 台视新闻台,http://xztv.hk3.20212021.ml.cdn.cloudflare.net/xztv.php?id=8153b94d-cbd9-49e8-a105-45a5fed98f84
@@ -208,9 +205,7 @@ net/xztv.php?id=a114fe08-b694-4da0-afda-1a85e916b057
 中天综合 HD,http://xztv.hk3.20212021.ml.cdn.cloudflare.net/xztv.php?id=4026260e-ec58-4e70-9083-7b632257880b
 TVB Classic,http://xztv.hk3.20212021.ml.cdn.cloudflare.net/xztv.php?id=519d0628-c56d-47af-a860-b764a411bd91
 TVB j2,https://dispatch.ulivetv.net/v/live/ccns1caueri8.m3u8?stream_id=ccns1caueri8&timestamp=1686272799&rand=6dyXTNoJdG&uuid=9b647b3816b2a66a&from=web&sign=50cae9aee7b5e02e178c22e2becd0262
-TVB j2,https://dispatch.ulivetv.net/v/live/ccns1caueri8.
-
-m3u8?stream_id=ccns1caueri8&timestamp=1686272799&rand=6dyXTNoJdG&uuid=9b647b3816b2a66a&from=web&sign=50cae9aee7b5e02e178c22e2becd0262
+TVB j2,https://dispatch.ulivetv.net/v/live/ccns1caueri8.m3u8?stream_id=ccns1caueri8&timestamp=1686272799&rand=6dyXTNoJdG&uuid=9b647b3816b2a66a&from=web&sign=50cae9aee7b5e02e178c22e2becd0262
 TVB 星河,http://xztv.hk3.20212021.ml.cdn.cloudflare.net/xztv.php?id=09248387-fa48-493b-898d-077ca91fa7c1
 TVB 星河,http://xztv.hk3.20212021.ml.cdn.cloudflare.net/xztv.php?id=23602031-b648-4230-8246-17e0bf3ee3a7
 TVBS Asia,http://xztv.hk3.20212021.ml.cdn.cloudflare.net/xztv.php?id=59dd3330-bdc4-451e-950b-6f33746c79f4
@@ -220,7 +215,6 @@ TVB翡翠台,https://dispatch.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccn
 TVB星河,http://xztv.hk3.20212021.ml.cdn.cloudflare.net/xztv.php?id=09248387-fa48-493b-898d-077ca91fa7c1
 TVB星河,http://xztv.hk3.20212021.ml.cdn.cloudflare.net/xztv.php?id=23602031-b648-4230-8246-17e0bf3ee3a7
 爱尔达影剧台,http://xztv.hk3.20212021.ml.cdn.cloudflare.net/xztv.php?id=5bd937d8-a211-4be2-8c5c-a0fb8e62b23f
-
 🇹🇼臺灣測試,#genre#
 美亚电影台,http://pull-l3-cny.douyincdn.com/third/stream-b16e0049bdda5f54e62d3c9b694d81ff.m3u8
 EYE戏剧台,https://dispatch.ulivetv.net/v/live/cl7crqv0voao.m3u8?stream_id=cl7crqv0voao&timestamp=1686304189&rand=uMAK02acjC&uuid=9b647b3816b2a66a&from=web&sign=517a829fbd8ea9707a557092b2922244
