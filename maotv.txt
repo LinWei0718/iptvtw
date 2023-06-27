@@ -214,6 +214,49 @@ TVB翡翠台,https://dispatch.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccn
 TVB星河,http://xztv.hk3.20212021.ml.cdn.cloudflare.net/xztv.php?id=09248387-fa48-493b-898d-077ca91fa7c1
 TVB星河,http://xztv.hk3.20212021.ml.cdn.cloudflare.net/xztv.php?id=23602031-b648-4230-8246-17e0bf3ee3a7
 爱尔达影剧台,http://xztv.hk3.20212021.ml.cdn.cloudflare.net/xztv.php?id=5bd937d8-a211-4be2-8c5c-a0fb8e62b23f
+農家 二世:
+寰宇新闻台,https://dispatch.ulivetv.net/v/live/cfxws90rpmf4.m3u8?stream_id=cfxws90rpmf4&timestamp=1686970679&rand=gYyZKGHQ90&uuid=9b647b3816b2a66a&from=web&sign=10d681f602b5f0a2a89a08c8611a4608
+非凡新闻台,https://dispatch.ulivetv.net/v/live/cl7cc13lsxc0.m3u8?stream_id=cl7cc13lsxc0&timestamp=1686971953&rand=3DzsZ1vCMq&uuid=9b647b3816b2a66a&from=web&sign=379502772638d94a6f291c234867d7c4
+年代新闻台,https://dispatch.ulivetv.net/v/live/cl7cbgg2j000.m3u8?stream_id=cl7cbgg2j000&token=c0vzuc7wqkzk&timestamp=1687002234&rand=jdSa1lBTDV&uuid=9b647b3816b2a66a&from=web&sign=c732f1ab9181dd5f3626eed9422db16c
+民视新闻台,http://123.51.230.108:18663/.m3u8
+中视新闻台,https://dispatch.ulivetv.net/v/live/clev54g636bk.m3u8?stream_id=clev54g636bk&timestamp=1687133334&rand=EVw0C8lav6&uuid=9b647b3816b2a66a&from=web&sign=357833d77d051d346bea4185c9f92deb
+台视新闻台,https://live.wcetv.com/hls/master-ttvnews.m3u8
+台视新闻台,https://dispatch.ulivetv.net/v/live/clevc7agnphc.m3u8?stream_id=clevc7agnphc&timestamp=1687133090&rand=soRHG8a96S&uuid=9b647b3816b2a66a&from=web&sign=dc83b6fdd8ef7832acb6169fe93f9ee9
+中天新闻 HD,https://dispatch.ulivetv.net/v/live/cg1049vjg14w.m3u8?stream_id=cg1049vjg14w&timestamp=1687133984&rand=KzCodTdKHt&uuid=9b647b3816b2a66a&from=web&sign=1172ba85c8bca9c2ddf3cf6d89c1393a
+中天新闻 HD,https://everydaytv.top/live/youtube/be7e330f917b717c546b7f75fa336669/playlist.m3u8
+TVBS新闻台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-736bb9f3-5b72-4442-b5bb-a33a0feb1932.m3u8?by=yeslivetv_com
+东森新闻台,https://dispatch.ulivetv.net/v/live/clecuz9d78ow.m3u8?stream_id=clecuz9d78ow&timestamp=1687136376&rand=q37DHeGbDB&uuid=9b647b3816b2a66a&from=web&sign=636d8e73dd0ff431b6c00a75006871ad
+三立新闻台,https://everydaytv.top/live/youtube/9a950a4c5d78038a4ca5f4257eb76d64/playlist.m3u8
+壹新闻台,https://dispatch.ulivetv.net/v/live/cfxwzsgnhnls.m3u8?stream_id=cfxwzsgnhnls&timestamp=1687140328&rand=mzBv1r3hTo&uuid=9b647b3816b2a66a&from=web&sign=8a4c0167e69b86a0ed09a9dac2cbddb1
+民视 HD,https://fsv4.yj011.net/sat/tv051.flv
+台视 HD,https://dispatch.ulivetv.net/v/live/clevc7agnphc.m3u8?stream_id=clevc7agnphc&timestamp=1687133090&rand=soRHG8a96S&uuid=9b647b3816b2a66a&from=web&sign=dc83b6fdd8ef7832acb6169fe93f9ee9
+TVBS HD,https://everydaytv.top/live/youtube/be3300c48d6d30a957ec723cdc2fb1c5/playlist.m3u8
+华视 CTS HD,https://fsv4.yj011.net/sat/tv111.flv
+中视 HD,https://fsv4.yj011.net/sat/tv091.flv
+TVBS 精采台,http://pull-l3-cny.douyincdn.com/third/stream-e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
+TVBS 欢乐台,https://fsv4.yj011.net/sat/tv421.flv
+公视,https://dispatch.ulivetv.net/v/live/cg0hhu6qlpz4.m3u8?stream_id=cg0hhu6qlpz4&timestamp=1686971220&rand=uE8O1nmFua&uuid=9b647b3816b2a66a&from=web&sign=43b58ca2bfe3c05709faf3215b4a01e2
+星卫电影台,http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8
+翡翠台,https://dispatch.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccns0yuvkzpc&timestamp=1686272589&rand=pj9N0CE1NQ&uuid=9b647b3816b2a66a&from=web&sign=252ae84528559cdc6a20b2650d802188
+美亚电影台,https://dispatch.ulivetv.net/v/live/cl7cpvwwclog.m3u8?stream_id=cl7cpvwwclog&timestamp=1687134725&rand=9NS5nqyCX4&uuid=9b647b3816b2a66a&from=web&sign=6a59b4fdccf2239d1fd39057efb0fe51
+八大第一台,https://dispatch.ulivetv.net/v/live/clijwtkn9eio.m3u8?stream_id=clijwtkn9eio&timestamp=1687136292&rand=lvv5FESQQ4&uuid=9b647b3816b2a66a&from=web&sign=475141e91884497841523769400f7cd6
+八大综合台,https://dispatch.ulivetv.net/v/live/cl7ckgyfn9vk.m3u8?stream_id=cl7ckgyfn9vk&timestamp=1687139181&rand=gOIQ3YXyzN&uuid=9b647b3816b2a66a&from=web&sign=8963c87f542f6b49a3b10cba84e2d9c5
+八大戏剧台,https://dispatch.ulivetv.net/v/live/cl7ckupkipc0.m3u8?stream_id=cl7ckupkipc0&timestamp=1687139256&rand=f5AMV5EWQm&uuid=9b647b3816b2a66a&from=web&sign=874942c0e364ec72c3e94ecf0fcdbc1b
+八大精采台,https://dispatch.ulivetv.net/v/live/cg0j44tc0kow.m3u8?stream_id=cg0j44tc0kow&timestamp=1687139317&rand=zYu9HI1v64&uuid=9b647b3816b2a66a&from=web&sign=03e96a2248cfee5ab19609717336fb07
+三立都会台,https://epg.pw/stream/3193c4cbab27252a840957c616b6b0c84df918e87061638d36c0a244b818fd8c.m3u8
+三立台湾台,https://epg.pw/stream/c7dbae714c89491ea3eea1f746be7982f4fa8a8c81d67b3854ff67d46931a191.m3u8
+
+中天综合台,https://dispatch.ulivetv.net/v/live/cg0ifkvu1hhc.m3u8?stream_id=cg0ifkvu1hhc&timestamp=1687137849&rand=0p3CCbOS7j&uuid=9b647b3816b2a66a&from=web&sign=573dcc1ee3a3d9408d16e1b9bdcf780e
+中天娱乐台,https://dispatch.ulivetv.net/v/live/cg0iacfwayf4.m3u8?stream_id=cg0iacfwayf4&timestamp=1687137851&rand=acnCWBjJGa&uuid=9b647b3816b2a66a&from=web&sign=96789615479a4504123970271a6f4f5f
+天映经典,https://dispatch.ulivetv.net/v/live/cg48ogf0pj28.m3u8?stream_id=cg48ogf0pj28&timestamp=1687140108&rand=QKK8htvtEp&uuid=9b647b3816b2a66a&from=web&sign=7a67baa8d6251db96a3d4311987cbba0
+东森综合台,https://dispatch.ulivetv.net/v/live/clecuafija9s.m3u8?stream_id=clecuafija9s&timestamp=1687137954&rand=rPIl72UgoY&uuid=9b647b3816b2a66a&from=web&sign=4b120552b7bda62ab1345c95fca3236f
+东森戏剧台,https://dispatch.ulivetv.net/v/live/cg1ka8auvmbk.m3u8?stream_id=cg1ka8auvmbk&token=c0vzuc7wqkzk&timestamp=1687140859&rand=1d5rxFLMZO&uuid=9b647b3816b2a66a&from=web&sign=b79a01d0d271e686796003b10c7bf18d
+卫视电影台,https://dispatch.ulivetv.net/v/live/cl7cjf5jgs00.m3u8?stream_id=cl7cjf5jgs00&timestamp=1687140273&rand=N8SSI5Z8XR&uuid=9b647b3816b2a66a&from=web&sign=059af3d5e9c389c7f90cb0aeb9cb5da8
+纬来电影台,https://dispatch.ulivetv.net/v/live/cl7cmdp021mo.m3u8?stream_id=cl7cmdp021mo&timestamp=1687140978&rand=YsPXPSCLBN&uuid=9b647b3816b2a66a&from=web&sign=01711b69a295ad91be9a7d371ddbd4b4
+东森电影台,https://epg.pw/stream/d49e9dca478b402e1943272ecd07fa8becf59329ffab68cbb84a9ba591de3203.m3u8
+龙祥电影台,http://pull-l3-cny.douyincdn.com/third/stream-c32278dece9f79334a2a878aaa730e95.m3u8
+龙华洋片,https://dispatch.ulivetv.net/v/live/cl7cn6bknxds.m3u8?stream_id=cl7cn6bknxds&timestamp=1687140204&rand=P71sEdgrAo&uuid=9b647b3816b2a66a&from=web&sign=4b7adccc3ef7f6b45c5f5aef715290a1
+纬来日本台,https://dispatch.ulivetv.net/v/live/cl7c7d6a1j28.m3u8?stream_id=cl7c7d6a1j28&timestamp=1687142164&rand=F83MEbwFw3&uuid=9b647b3816b2a66a&from=web&sign=3e8ed5b14c9007c6b2f10eec84802d42
 🇹🇼臺灣測試,#genre#
 美亚电影台,http://pull-l3-cny.douyincdn.com/third/stream-b16e0049bdda5f54e62d3c9b694d81ff.m3u8
 EYE戏剧台,https://dispatch.ulivetv.net/v/live/cl7crqv0voao.m3u8?stream_id=cl7crqv0voao&timestamp=1686304189&rand=uMAK02acjC&uuid=9b647b3816b2a66a&from=web&sign=517a829fbd8ea9707a557092b2922244
