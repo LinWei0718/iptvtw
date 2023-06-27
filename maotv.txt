@@ -214,7 +214,6 @@ TVB翡翠台,https://dispatch.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccn
 TVB星河,http://xztv.hk3.20212021.ml.cdn.cloudflare.net/xztv.php?id=09248387-fa48-493b-898d-077ca91fa7c1
 TVB星河,http://xztv.hk3.20212021.ml.cdn.cloudflare.net/xztv.php?id=23602031-b648-4230-8246-17e0bf3ee3a7
 爱尔达影剧台,http://xztv.hk3.20212021.ml.cdn.cloudflare.net/xztv.php?id=5bd937d8-a211-4be2-8c5c-a0fb8e62b23f
-農家 二世:
 寰宇新闻台,https://dispatch.ulivetv.net/v/live/cfxws90rpmf4.m3u8?stream_id=cfxws90rpmf4&timestamp=1686970679&rand=gYyZKGHQ90&uuid=9b647b3816b2a66a&from=web&sign=10d681f602b5f0a2a89a08c8611a4608
 非凡新闻台,https://dispatch.ulivetv.net/v/live/cl7cc13lsxc0.m3u8?stream_id=cl7cc13lsxc0&timestamp=1686971953&rand=3DzsZ1vCMq&uuid=9b647b3816b2a66a&from=web&sign=379502772638d94a6f291c234867d7c4
 年代新闻台,https://dispatch.ulivetv.net/v/live/cl7cbgg2j000.m3u8?stream_id=cl7cbgg2j000&token=c0vzuc7wqkzk&timestamp=1687002234&rand=jdSa1lBTDV&uuid=9b647b3816b2a66a&from=web&sign=c732f1ab9181dd5f3626eed9422db16c
@@ -245,7 +244,6 @@ TVBS 欢乐台,https://fsv4.yj011.net/sat/tv421.flv
 八大精采台,https://dispatch.ulivetv.net/v/live/cg0j44tc0kow.m3u8?stream_id=cg0j44tc0kow&timestamp=1687139317&rand=zYu9HI1v64&uuid=9b647b3816b2a66a&from=web&sign=03e96a2248cfee5ab19609717336fb07
 三立都会台,https://epg.pw/stream/3193c4cbab27252a840957c616b6b0c84df918e87061638d36c0a244b818fd8c.m3u8
 三立台湾台,https://epg.pw/stream/c7dbae714c89491ea3eea1f746be7982f4fa8a8c81d67b3854ff67d46931a191.m3u8
-
 中天综合台,https://dispatch.ulivetv.net/v/live/cg0ifkvu1hhc.m3u8?stream_id=cg0ifkvu1hhc&timestamp=1687137849&rand=0p3CCbOS7j&uuid=9b647b3816b2a66a&from=web&sign=573dcc1ee3a3d9408d16e1b9bdcf780e
 中天娱乐台,https://dispatch.ulivetv.net/v/live/cg0iacfwayf4.m3u8?stream_id=cg0iacfwayf4&timestamp=1687137851&rand=acnCWBjJGa&uuid=9b647b3816b2a66a&from=web&sign=96789615479a4504123970271a6f4f5f
 天映经典,https://dispatch.ulivetv.net/v/live/cg48ogf0pj28.m3u8?stream_id=cg48ogf0pj28&timestamp=1687140108&rand=QKK8htvtEp&uuid=9b647b3816b2a66a&from=web&sign=7a67baa8d6251db96a3d4311987cbba0
