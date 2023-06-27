@@ -141,8 +141,7 @@ LOVENATURE,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 翡翠台,https://dispatch.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccns0yuvkzpc&timestamp=1686272589&rand=pj9N0CE1NQ&uuid=9b647b3816b2a66a&from=web&sign=252ae84528559cdc6a20b2650d802188
 凤凰卫视,http://xztv.hk3.20212021.ml.cdn.cloudflare.net/xztv.php?id=2c0a3717-940f-42c5-b347-2419f40af84f
 凤凰卫视,http://xztv.hk3.20212021.ml.cdn.cloudflare.net/xztv.php?id=2c0a3717-940f-42c5-b347-2419f40af84f
-凤凰卫视,https://dispatch.ulivetv.
-net/v/live/cfxsdwcdynk0.m3u8?stream_id=cfxsdwcdynk0&timestamp=1686276351&rand=LJ9wX3x29g&uuid=9b647b3816b2a66a&from=web&sign=941de40e58692774205a9ced5f746313
+凤凰卫视,https://dispatch.ulivetv.net/v/live/cfxsdwcdynk0.m3u8?stream_id=cfxsdwcdynk0&timestamp=1686276351&rand=LJ9wX3x29g&uuid=9b647b3816b2a66a&from=web&sign=941de40e58692774205a9ced5f746313
 凤凰卫视,https://dispatch.ulivetv.net/v/live/cfxsdwcdynk0.m3u8?stream_id=cfxsdwcdynk0&timestamp=1686276586&rand=IHtuwtns3K&uuid=9b647b3816b2a66a&from=web&sign=40d229eab7359f25230443b141fe878a
 凤凰咨询,https://dispatch.ulivetv.net/v/live/cfxskn7pjv0g.m3u8?stream_id=cfxskn7pjv0g&timestamp=1686272611&rand=L0EMwvvEsh&uuid=9b647b3816b2a66a&from=web&sign=aa283c67b0fc598ba2eb5ed7d31095dd
 凤凰资讯台,http://xztv.hk3.20212021.ml.cdn.cloudflare.net/xztv.php?id=6885e715-f571-4397-ae38-6bdad7828176
