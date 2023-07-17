@@ -49,6 +49,14 @@ ELEVEN1,http://61.221.81.93:8078/hls/25/80/esport.m3u8
 ELEVEN2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 東森新聞,http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
 東森戲劇,http://61.221.81.93:8078/hls/34/80/ebcdrama.m3u8
+東森電影,http://103.112.191.9:880/LAOSAT1017.m3u8
+東森洋片,http://103.112.191.9:880/LAOSAT1018.m3u8
+天映頻道,http://103.112.191.9:880/LAOSAT1029.m3u8
+博斯高球Ⅱ,http://103.112.191.9:880/LAOSAT1081.m3u8
+星衛電影,http://103.112.191.9:880/LAOSAT1082.m3u8
+龍祥時代,http://103.112.191.9:880/LAOSAT1084.m3u8
+衛視電影,http://103.112.191.9:880/LAOSAT1085.m3u8
+TVB星河,http://103.112.191.9:880/LAOSAT1092.m3u8
 華視新聞資訊,http://stream.dsichannel.com/hls/cts-news.m3u8
 天映頻道：http://210.210.155.35:80/dr9445/h/h14/01.m3u8
 STAR Movie Gold,http://61.221.81.93:8524/hls/65/807/ch843.m3u8
