@@ -57,6 +57,7 @@ ELEVEN2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 龍祥時代,http://103.112.191.9:880/LAOSAT1084.m3u8
 衛視電影,http://103.112.191.9:880/LAOSAT1085.m3u8
 TVB星河,http://103.112.191.9:880/LAOSAT1092.m3u8
+Discovery Asia,http://103.112.191.9:880/LAOSAT1095.m3u8
 華視新聞資訊,http://stream.dsichannel.com/hls/cts-news.m3u8
 天映頻道：http://210.210.155.35:80/dr9445/h/h14/01.m3u8
 STAR Movie Gold,http://61.221.81.93:8524/hls/65/807/ch843.m3u8
