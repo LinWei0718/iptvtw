@@ -81,8 +81,16 @@ AXN,http://103.112.191.9:880/LAOSAT1029.m3u8
 衛視電影,http://103.112.191.9:880/LAOSAT1085.m3u8
 TVB星河,http://103.112.191.9:880/LAOSAT1092.m3u8
 Discovery Asia,http://103.112.191.9:880/LAOSAT1095.m3u8
+東森戲劇,http://162.19.247.76:22222/live/dsxj/index.m3u8
+東森電影,http://162.19.247.76:22222/live/dsdyt/index.m3u8
+東森洋片,http://162.19.247.76:22222/live/dsypt/index.m3u8
+中天亞洲,http://162.19.247.76:22222/live/ztyz/index.m3u8
+台視,http://162.19.247.76:22222/live/taishi/index.m3u8
+中視,http://162.19.247.76:22222/live/zhongshi/index.m3u8
+天映經典,http://162.19.247.76:22222/live/tyjd/index.m3u8
+華視,http://162.19.247.76:22222/live/huashi/index.m3u8
 華視新聞資訊,http://stream.dsichannel.com/hls/cts-news.m3u8
-天映頻道：http://210.210.155.35:80/dr9445/h/h14/01.m3u8
+天映頻道,http://210.210.155.35:80/dr9445/h/h14/01.m3u8
 STAR Movie Gold,http://61.221.81.93:8524/hls/65/807/ch843.m3u8
 Star World,http://61.221.81.93:8521/hls/65/807/ch843.m3u8
 衛視電影,http://61.221.81.93:8523/hls/65/807/ch843.m3u8
@@ -304,6 +312,150 @@ Zee TV HD,http://198.16.100.90:8278/Zeetvhd/playlist.m3u8?tid=MC1C19717650197176
 靖天卡通台,http://198.16.100.90:8278/jingtiancartoon_twn/playlist.m3u8?tid=MD1D2636832926368329&ct=19226&tsum=22c17cfa6920f0b4a9d45746ac25c547
 靖天国际台,http://198.16.100.90:8278/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b
 靖天国际台,http://50.7.238.114:8278/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b
+66港台,#genre#
+中天新闻,http://66.181.39.224/ml.php?id=ctinews
+纬来日本,http://66.181.39.224/ml.php?id=videolandjapan
+纬来电影,http://66.181.39.224/ml.php?id=videolandmovie
+東森戏剧,http://66.181.39.224/ml.php?id=ettvdrama
+东森洋片,http://66.181.39.224/ml.php?id=ettvwestern
+爱尔达体育3台,http://66.181.39.224/ml.php?id=eltasport3_twn
+CN卡通频道,http://66.181.39.224/ml.php?id=momo1_twn
+国家地理,http://66.181.39.224/ml.php?id=natgeohd_twn
+纬来体育,http://66.181.39.224/ml.php?id=videolandsport
+东森超视,http://66.181.39.224/ml.php?id=ettvsuper
+无线新闻台,http://66.181.39.224/ml.php?id=inews_twn
+好莱坞电影,http://66.181.39.224/ml.php?id=hollywoodmovies_twn
+娱乐新闻台,http://66.181.39.224/ml.php?id=tvbxinhe_twn
+华纳电影台,http://66.181.39.224/ml.php?id=WarnerTV
+爱奇艺,http://66.181.39.224/ml.php?id=Qiyi_mega
+无线财经台,http://66.181.39.224/ml.php?id=tvbcaijing_twn
+卫视洋片台,http://66.181.39.224/ml.php?id=starmovies_raj
+大湾区卫视,http://66.181.39.224/ml.php?id=guangdongweishi_twn
+astro欢喜台,http://66.181.39.224/ml.php?id=Huahee
+astro小太阳,http://66.181.39.224/ml.php?id=Xiaotaiyang
+博斯运动 1,http://66.181.39.224/ml.php?id=bosisport1_twn
+Baby 卡通台,http://66.181.39.224/ml.php?id=babytv_twn
+DiscoveryTurbo,http://66.181.39.224/ml.php?id=discoveryturbo_twn
+TVBS新闻台,http://66.181.39.224/ml.php?id=tvbs_n
+TVBS欢乐台,http://66.181.39.224/ml.php?id=tvbshuanle_twn
+TLC 旅游台,http://66.181.39.224/ml.php?id=tlc_twn
+博斯运动2,http://66.181.39.224/ml.php?id=bosisport2_twn
+博斯高球1,http://66.181.39.224/ml.php?id=bosigolf1_twn
+博斯高球2,http://66.181.39.224/ml.php?id=bosigolf2_twn
+台视新闻,http://66.181.39.224/ml.php?id=ttvnews_twn
+中视经典,http://66.181.39.224/ml.php?id=zhongshi_twn
+中视新闻,http://66.181.39.224/ml.php?id=ca73a13c37
+中视新闻,http://66.181.39.224/ml.php?id=zhongshinews_twn
+非凡新闻,http://66.181.39.224/ml.php?id=feifannews_twn
+三立台湾,http://66.181.39.224/ml.php?id=sanlitaiwan
+中天综合,http://66.181.39.224/ml.php?id=ctizhonghe
+中天娱乐,http://66.181.39.224/ml.php?id=ctient
+爱尔达体育1台,http://66.181.39.224/ml.php?id=eltasport1_twn
+爱尔达体育2台,http://66.181.39.224/ml.php?id=eltasport2_twn
+TLC旅游生活频道,http://66.181.39.224/ml.php?id=Tlc
+东森财经新闻,http://66.181.39.224/ml.php?id=ettvcaijing_twn
+爱尔达影剧台,http://66.181.39.224/ml.php?id=eltadrama_twn
+爱尔达影剧台,http://66.181.39.224/ml.php?id=eltayingju_twn
+TVB 星河台,http://66.181.39.224/ml.php?id=Xinhe_mega
+国家地理野生,http://66.181.39.224/ml.php?id=natgeowild_twn
+民视台湾台,http://66.181.39.224/ml.php?id=ftvtaiwan_twn
+民视新闻台,http://66.181.39.224/ml.php?id=ftvnew_taiwan
+民视第一台,http://66.181.39.224/ml.php?id=lunghuajingdian_twn
+寰宇新闻台,http://66.181.39.224/ml.php?id=huanyuxinwen_twn
+年代新闻台,http://66.181.39.224/ml.php?id=niandainews_twn
+三立都会台,http://66.181.39.224/ml.php?id=sanlidouhui_twn
+三立综合台,http://66.181.39.224/ml.php?id=sanlizhonghe
+三立戏剧台,http://66.181.39.224/ml.php?id=sanlixiju_twn
+靖天国际台,http://66.181.39.224/ml.php?id=jingtianintl_twn
+八大第一台,http://66.181.39.224/ml.php?id=badafirst
+八大综合台,http://66.181.39.224/ml.php?id=badazhonghe
+八大戏剧台,http://66.181.39.224/ml.php?id=badadrama
+東森电影台,http://66.181.39.224/ml.php?id=ettvmovie
+东森综合台,http://66.181.39.224/ml.php?id=ettvzhonghe
+亚洲旅游台,http://66.181.39.224/ml.php?id=asiatravel_twn
+卫视中文台,http://66.181.39.224/ml.php?id=weishichinese_twn
+美亚电影台,http://66.181.39.224/ml.php?id=meiyamovie_twn
+凤凰中文,http://66.181.39.224/ml.php?id=phoenixtv_hd
+凤凰资讯,http://66.181.39.224/ml.php?id=phoenixinfo_hd
+星衛電影,http://66.181.39.224/ml.php?id=xingwei_movie
+动物星球,http://66.181.39.224/ml.php?id=animalplanet_twn
+探索频道,http://66.181.39.224/ml.php?id=ba86fcd935
+探索频道,http://66.181.39.224/ml.php?id=discoveryhd_twn
+探索亚洲,http://66.181.39.224/ml.php?id=discoverytwn_twn
+博斯网球,http://66.181.39.224/ml.php?id=bositennis_twn
+亚洲美食,http://66.181.39.224/ml.php?id=afc_twn
+美食星球,http://66.181.39.224/ml.php?id=foodplanet_twn
+astro双星,http://66.181.39.224/ml.php?id=Shuangxing
+astro全挂,http://66.181.39.224/ml.php?id=Quanjia
+東森LIVE,http://66.181.39.224/ml.php?id=ettvnews
+ELTA综合,http://66.181.39.224/ml.php?id=eltazonghe
+HBO-原创,http://66.181.39.224/ml.php?id=hbosignature_twn
+中视 HD,http://66.181.39.224/ml.php?id=zhongshihd_twn
+民视 HD,http://66.181.39.224/ml.php?id=ftvhd_taiwan
+翡翠台,http://66.181.39.224/ml.php?id=jade_twn
+华丽台,http://66.181.39.224/ml.php?id=Wlt
+TVB星河,http://66.181.39.224/ml.php?id=Xinhe
+香港台,http://66.181.39.224/ml.php?id=hkphoenix_twn
+爱奇艺,http://66.181.39.224/ml.php?id=Qiyi
+小太阳,http://66.181.39.224/ml.php?id=Xiaotaiyang_mega
+Channel 5,http://66.181.39.224/ml.php?id=Channel5HD
+Channel 8,http://66.181.39.224/ml.php?id=Channel8HD
+Channel 8,http://66.181.39.224/ml.php?id=Ch8114
+HBO家庭,http://66.181.39.224/ml.php?id=fyi_twn
+EYE戏剧,http://66.181.39.224/ml.php?id=eyetvxiju_twn
+EYE旅游,http://66.181.39.224/ml.php?id=eyetvtravel_twn
+明珠台,http://66.181.39.224/ml.php?id=pearl_twn
+BBC Earth,http://66.181.39.224/ml.php?id=bbcearth_twn
+ChannelU,http://66.181.39.224/ml.php?id=ChannelU
+HBO HITS,http://66.181.39.224/ml.php?id=hbohead_twn
+ELEVEN 1,http://66.181.39.224/ml.php?id=golfchannel_twn
+CINEMAX,http://66.181.39.224/ml.php?id=cinemax_twn
+台视,http://66.181.39.224/ml.php?id=ttv_taiwan
+华视,http://66.181.39.224/ml.php?id=ctshd_twn
+公视,http://66.181.39.224/ml.php?id=ctv_taiwan
+信吉,http://66.181.39.224/ml.php?id=huanyutaiwan_twn
+VIUTV6,http://66.181.39.224/ml.php?id=viusix_twn
+RTHK31,http://66.181.39.224/ml.php?id=rhk31_twn
+RTHK32,http://66.181.39.224/ml.php?id=rhk32_twn
+HBO_HD,http://66.181.39.224/ml.php?id=hbohd_twn
+探索,http://66.181.39.224/ml.php?id=discoverych_twn
+VIUTV1,http://66.181.39.224/ml.php?id=viu1_twn
+AXNTW,http://66.181.39.224/ml.php?id=axn_twn
+TVBS,http://66.181.39.224/ml.php?id=tvbs
+HGTV,http://66.181.39.224/ml.php?id=HGTV
+AXN,http://66.181.39.224/ml.php?id=Axn
+AEC,http://66.181.39.224/ml.php?id=AEC
+TV8,http://66.181.39.224/ml.php?id=TV8
+One,http://66.181.39.224/ml.php?id=One
+WWE,http://66.181.39.224/ml.php?id=wwe_twn
+无线新闻台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&stream=153399
+明珠台,http://nas.jdshipin.com:8801/gudoumz.php
+明珠台,http://r.jdshipin.com/ZQ4kN
+翡翠台,http://60.208.16.27:1505/gudou.php?id=364&id=1350_4500
+明珠台,http://60.208.16.27:1505/gudou.php?id=364&id=1351_4500
+BBC News,http://sc2022.stream-link.org/tv2306.php?id=e05
+CNA News,http://sc2022.stream-link.org/tv2306.php?id=e06
+EURO News,http://sc2022.stream-link.org/tv2306.php?id=e09
+France 24 English,http://sc2022.stream-link.org/tv2306.php?id=e11
+Lego,http://sc2022.stream-link.org/tv2306.php?id=e20
+Smithsonian Channel,http://sc2022.stream-link.org/tv2306.php?id=e18
+Love Nature,http://sc2022.stream-link.org/tv2306.php?id=e19
+TVB星河,http://sc2022.stream-link.org/tv2306.php?id=c01
+NOW新闻,http://sc2022.stream-link.org/tv2306.php?id=c04
+ABC News Australia,http://sc2022.stream-link.org/tv2306.php?id=e01
+ABC News,http://sc2022.stream-link.org/tv2306.php?id=e02
+Asianet News,http://sc2022.stream-link.org/tv2306.php?id=e04
+CNN Live,http://sc2022.stream-link.org/tv2306.php?id=e07
+Fox Live,http://sc2022.stream-link.org/tv2306.php?id=e10
+GB News,http://sc2022.stream-link.org/tv2306.php?id=e12
+NHK World Japan,http://sc2022.stream-link.org/tv2306.php?id=e15
+SKY News,http://sc2022.stream-link.org/tv2306.php?id=e16
+NOW新闻,http://sc2022.stream-link.org/tv2306.php?id=c03
+ANN News,http://sc2022.stream-link.org/tv2306.php?id=e03
+Haber Turk,http://sc2022.stream-link.org/tv2306.php?id=e13
+NBC News,http://sc2022.stream-link.org/tv2306.php?id=e14
+Radio Ticino,http://sc2022.stream-link.org/tv2306.php?id=e17
+m1905电影频道,http://zgntv.icu/live/1905.php?id=1905dy
 央视频道,#genre#	
 CCTV1,mitv://198.255.74.87:9906/640c500f000ead28467533d8a8d56f7e
 CCTV2,mitv://198.255.74.87:9906/640c500f000d882d4675338de112d0d7
@@ -331,6 +483,7 @@ CCTV13,mitv://198.255.74.87:9906/6411a6510009c5f65b4e2467b4214f8b
 劲爆体育HD,mitv://198.255.74.87:9906/641a17b500022a230018628bed9d2e16
 东方财经,mitv://198.255.74.87:9906/641a17b50000eafa0018623959262305
 珠江台,mitv://198.255.74.87:9906/641a17b4000e6dab001861c67795954d
+
 港澳频道,#genre#
 翡翠台,mitv://198.255.74.87:9906/63de1ea80006fb8700338b3056100e89
 TVB翡翠台(备),mitv://198.255.74.87:9906/6372e4cf0001b8173f3269df9c5fab9a
