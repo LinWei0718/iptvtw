@@ -1,5 +1,5 @@
 /*
-              🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝
+ 🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝
 
 -------APP下载链接--注释--范例--交流群--频道----------
 
@@ -115,7 +115,7 @@ https://t.me/fongmi_release
       },
   {
         "key": "duboku",
-        "name": "独播库",
+        "name": "獨播庫",
         "type": 3,
         "api": "https://qu.ax/EKrz.js"
      },
@@ -127,13 +127,13 @@ https://t.me/fongmi_release
      },
   {
         "key": "kuyun77_open",
-        "name": "酷云77",
+        "name": "酷雲77",
         "type": 3,
         "api": "https://qu.ax/npuC.js"
       },
   {
         "key": "czzy",
-        "name": "厂长资源",
+        "name": "廠長資源",
         "type": 3,
         "api": "https://qu.ax/NaaN.js"
       },
