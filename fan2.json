@@ -1,5 +1,5 @@
 /*
- 🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝
+              🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝
 
 -------APP下载链接--注释--范例--交流群--频道----------
 
@@ -73,6 +73,17 @@ https://t.me/fongmi_release
 */
 {
   "sites": [
+  {
+            "key": "俊俊",
+            "name": "俊俊(v2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
+},
 {
             "key": "lf_js_search",
             "name": "搜索 | lf_search",
@@ -115,7 +126,7 @@ https://t.me/fongmi_release
       },
   {
         "key": "duboku",
-        "name": "獨播庫",
+        "name": "独播库",
         "type": 3,
         "api": "https://qu.ax/EKrz.js"
      },
@@ -127,13 +138,13 @@ https://t.me/fongmi_release
      },
   {
         "key": "kuyun77_open",
-        "name": "酷雲77",
+        "name": "酷云77",
         "type": 3,
         "api": "https://qu.ax/npuC.js"
       },
   {
         "key": "czzy",
-        "name": "廠長資源",
+        "name": "厂长资源",
         "type": 3,
         "api": "https://qu.ax/NaaN.js"
       },
@@ -387,7 +398,7 @@ https://t.me/fongmi_release
       "ext": "https://qu.ax/baxP.js"
     },
     {"key": "csp_Mp4Mov","name": "🧲Mp4电影","jar":"https://qu.ax/qokd.jpg","type": 3,"api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1},
-        {"key": "csp_New6v","name": "🧲新6V","jar":"https://qu.ax/qokd.jpg","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://www.xb6v.com"},
+        {"key": "csp_New6v","name": "🧲新6V","jar":"https://qu.ax/qokd.jpg","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://www.66ss.org"},
         {"key":"csp_SeedHub","name":"🧲SeedHub","jar":"https://qu.ax/qokd.jpg","type":3,"api":"csp_SeedHub","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_KubaCL","name":"🧲酷吧电影","jar":"https://qu.ax/qokd.jpg","type":3,"api":"csp_KubaCL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_MeijuTT","name":"🧲美剧天堂","jar":"https://qu.ax/qokd.jpg","type":3,"api":"csp_MeijuTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
@@ -402,6 +413,7 @@ https://t.me/fongmi_release
       "filterable": 1,
       "ext": "https://download.kstore.space/download/4127/js/电影港.json","jar":"https://qu.ax/qokd.jpg"
     },
+    {"key":"drpy_js_磁力熊[磁]","name":"🧲磁力 | 磁力熊[磁][js]","type":3,"api":"./lib/drpy2.min.js","ext":"https://qu.ax/zGrL.js"},
     {
       "key": "drpy_js_DJ音乐",
       "name": " DJ音乐",
@@ -976,15 +988,6 @@ https://t.me/fongmi_release
       "quickSearch": 1
     },
     {
-      "key": "蜂蜜旧泥巴",
-      "name": "❤蜂蜜旧泥巴",
-      "type": 3,
-      "api": "csp_NiNi",
-      "searchable": 1,
-      "ext": 1,
-      "jar":"https://qu.ax/bmJu.js;md5;6976f6560b0b5ff9182651d9e4c43dac"
-    },
-    {
       "key":"路飞直播2点播",
       "name":"❤电视 | 路飞[js]",
       "type":3,
@@ -1074,6 +1077,16 @@ https://t.me/fongmi_release
       },
       "jar": "https://qu.ax/tkXa.js;md5;945ad30d5255359385ba59b8fb061bb7"
     },
+    {
+      "key": "蜂蜜旧泥巴",
+      "name": "❤蜂蜜旧泥巴",
+      "type": 3,
+      "api": "csp_NiNi",
+      "searchable": 1,
+      "ext": 1,
+      "jar":"https://qu.ax/bmJu.js;md5;6976f6560b0b5ff9182651d9e4c43dac"
+    },
+    {"key":"csp_JavDb","name":"🧲JavDb","type":3,"api":"csp_JavDb","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://qu.ax/QPQT.jpg"},
     {
             "key": "csp_Alist1",
             "name": "❤罗汉果",
