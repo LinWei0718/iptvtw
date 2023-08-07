@@ -149,7 +149,7 @@ NHK,http://123.51.230.108:18525/.m3u8
 民視新聞,http://123.51.230.108:18663/.m3u8
 原住民電視,http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500
 LOVENATURE,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-🇹🇼台灣50&198,#genre#
+❤台灣50&198,#genre#
 ABC News,http://50.7.238.114:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
 AFC 亚洲旅游台,http://50.7.238.114:8278/asiatravel_twn/playlist.m3u8?tid=MA8A2387916023879160&ct=19254&tsum=bd472a07b6e15f36c0540fb3becc3d6c
 AXN Taiwan,http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=MC6C9875939098759390&ct=19254&tsum=5a6772e6e852b06c1b5741eeb4002a1a
@@ -309,7 +309,6 @@ Zee TV HD,http://198.16.100.90:8278/Zeetvhd/playlist.m3u8?tid=MC1C19717650197176
 靖天卡通台,http://198.16.100.90:8278/jingtiancartoon_twn/playlist.m3u8?tid=MD1D2636832926368329&ct=19226&tsum=22c17cfa6920f0b4a9d45746ac25c547
 靖天国际台,http://198.16.100.90:8278/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b
 靖天国际台,http://50.7.238.114:8278/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b
-
 ﻿☁️台湾,#genre#
 民视,mitv://135.148.104.228:19806/412a0c47c1014e7d85da7d2d38631eb7
 台视,mitv://135.148.104.228:19806/d12a80dfeb36488db100bbca6c6378e1
@@ -982,4 +981,4 @@ EYE TV戏剧台,mitv://135.148.104.228:19806/adc2a4ea6a77409cb91369152f0baced
 爱尔达影剧台,mitv://135.148.104.228:19806/ac2f700992734a578b38655b30fb5166
 亚洲剧台,mitv://135.148.104.228:19806/ddd1f7ef6ccc486eb861a1215115d7d2
 
-🇹🇼VIP,#genre#
+💋VIP,#genre#
