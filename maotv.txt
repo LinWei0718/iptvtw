@@ -70,6 +70,9 @@ CINEMAX,http://66.181.39.224/ml.php?id=cinemax_twn
 TLC旅游生活,http://66.181.39.224/ml.php?id=tlc_twn
 TLC旅游生活,http://66.181.39.224/ml.php?id=Tlc
 國家地理,http://66.181.39.224/ml.php?id=natgeohd_twn
+國家地理野生,http://66.181.39.224/ml.php?id=natgeowild_twn
+三立台灣,http://66.181.39.224/ml.php?id=sanlitaiwan
+
 探索頻道,http://66.181.39.224/ml.php?id=ba86fcd935
 探索頻道,http://66.181.39.224/ml.php?id=discoveryhd_twn
 亞洲美食,http://66.181.39.224/ml.php?id=afc_twn
