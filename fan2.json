@@ -437,12 +437,13 @@ NokiaN97-1/20.0.019;Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebKit/525 (KH
       "key": "aikanbot",
       "name": "❤影视爱看机器人",
       "type": 3,
-      "api": "https://qu.ax/RO.js",
+      "api": "https://qu.ax/kHgM.js",
       "searchable": 1,
       "filterable": 1,
       "style":{ "type":"rect", "ratio":0.8 },
       "quickSearch": 1
     },
+    {"key":"4khdr","name":"4khdr", "type": 3,"searchable": 1,"quickSearch": 1,"style":{ "type":"rect", "ratio":0.8 },"changeable": 0,"api": "http://xhww.fun:63/js/drpy1.min.js","ext":"https://qu.ax/yhZO.js"},
      {"key":"drpy_js_爱看机器人","name":"爱看 | 机器[js]","style":{ "type":"rect", "ratio":0.8 },"type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"},
 
 {"key": "csp_Mp4Mov","name": "🧲Mp4电影","jar":"https://qu.ax/qokd.jpg","type": 3,"api": "csp_Mp4Mov","searchable": 1,"style":{ "type":"rect", "ratio":0.8 },"quickSearch": 1,"filterable": 1},
@@ -477,38 +478,95 @@ NokiaN97-1/20.0.019;Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebKit/525 (KH
 },
         
         /*猫系列*/
-{ 
-        "key": "断视频", 
-        "name": "🐱猫断视频", 
+        { 
+        "key": "在线之家", 
+        "name": "🐱猫在线之家", 
         "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-        "type": 3, 
+        "type": 3,"style":{ "type":"rect", "ratio":0.8 },
         "style":{ "type":"rect", "ratio":0.8 },
-        "api": "https://qu.ax/vOtl.js",
-        "ext":"操TMD猫影视"
+        "api": "https://qu.ax/TYNk.js"
       },
-              { 
-        "key": "利维奥", 
-        "name": "🐱猫利维奥", 
+        { 
+        "key": "贝乐虎", 
+        "name": "🐱猫贝乐", 
         "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-        "type": 3, 
+        "type": 3,"style":{ "type":"rect", "ratio":0.8 },
         "style":{ "type":"rect", "ratio":0.8 },
-        "api": "https://qu.ax/WaKD.js",
-        "ext":"操TMD猫影视"
+        "api": "https://qu.ax/ZCBe.js"
+      },
+        { 
+        "key": "兔小贝", 
+        "name": "🐱猫兔小贝", 
+        "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+        "type": 3,"style":{ "type":"rect", "ratio":0.8 },
+        "style":{ "type":"rect", "ratio":0.8 },
+        "api": "https://qu.ax/NEvU.js"
+      },
+        {
+        "key": "世纪DJ音乐网", 
+        "name": "🐱猫世纪DJ音乐网", 
+        "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+        "type": 3,"style":{ "type":"rect", "ratio":0.8 },
+        "style":{ "type":"rect", "ratio":0.8 },
+        "api": "https://qu.ax/UvyH.js"
+      },
+{ 
+        "key": "短视频", 
+        "name": "🐱猫短视频", 
+        "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+        "type": 3,"style":{ "type":"rect", "ratio":0.8 },
+        "style":{ "type":"rect", "ratio":0.8 },
+        "api": "https://qu.ax/vOtl.js"
       },
       { 
-        "key": "哭晕MV", 
-        "name": "🐱猫哭晕MV", 
+        "key": "视聚场", 
+        "name": "🐱猫视聚场", 
+        "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+        "type": 3,"style":{ "type":"rect", "ratio":0.8 },
+        "style":{ "type":"rect", "ratio":0.8 },
+        "api": "https://qu.ax/chcz.js"
+      },
+      { 
+        "key": "童趣", 
+        "name": "🐱猫童趣", 
+        "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+        "type": 3,"style":{ "type":"rect", "ratio":0.8 },
+        "style":{ "type":"rect", "ratio":0.8 },
+        "api": "https://qu.ax/ejyJ.js"
+      },
+              { 
+        "key": "libo", 
+        "name": "🐱猫立波", 
+        "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+        "type": 3,"style":{ "type":"rect", "ratio":0.8 },
+        "style":{ "type":"rect", "ratio":0.8 },
+        "api": "https://qu.ax/WaKD.js"
+      },
+      { 
+        "key": "酷奇MV", 
+        "name": "🐱猫酷奇MV", 
         "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
         "type": 3, 
         "style":{ "type":"rect", "ratio":0.8 },
-        "api": "https://qu.ax/mfvQ.js",
-        "ext":"操TMD猫影视"
+        "api": "https://qu.ax/mfvQ.js"
       },
         { 
         "key": "猫泥巴", 
@@ -560,6 +618,26 @@ NokiaN97-1/20.0.019;Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebKit/525 (KH
         "type": 3,
         "style":{ "type":"rect", "ratio":0.8 },
         "api": "https://qu.ax/FJzF.js"
+      },
+      {
+        "key": "猫18AV",
+        "name": "🐱猫18AV",
+        "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+        "type": 3,
+        "style":{ "type":"rect", "ratio":0.8 },
+        "api": "https://qu.ax/vkhG.js"
+      },
+      {
+        "key": "素白白",
+        "name": "🐱猫素白白",
+        "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+        "type": 3,
+        "style":{ "type":"rect", "ratio":0.8 },
+        "api": "https://qu.ax/XUlO.js"
       },
       
       /*mv系列*/
@@ -1105,9 +1183,10 @@ NokiaN97-1/20.0.019;Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebKit/525 (KH
       "changeable": 1,
       "jar": "https://qu.ax/tkXa.js;md5;945ad30d5255359385ba59b8fb061bb7"
     },
+    {"key":"追剧","name":"追剧","type":3,"api":"csp_Zjdros","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://1k.953365.cn/zhuijuos.php/v6/","jar":"https://jihulab.com/zhulr7765/tvbox/-/raw/main/jar/spider.jar"},
     
     /*采集系列*/
-    
+    {"key": "cj ","name": "采集 ","type": 1,"api": "https://caiji.kczyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动漫","电影","动作片","喜剧片","爱情片","科幻片","恐怖片","战争片","剧情片","伦理片","动画片","电视剧","国产剧","香港剧","台湾剧","欧美剧","韩国剧","日本剧","海外剧","动漫","国产动漫","日本动漫","欧美动漫","预留","综艺","大陆综艺","日韩综艺","港台综艺","欧美综艺","泰国剧","未分类"]},
     {"key": "csp_AppYsV2_光影猫","name": "光影猫☆影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://gymcms.xn--654a.cc/api.php/app/"},
     {"key": "xml_火狐","name": "🚄火狐🌎资源","type": 1,"style":{ "type":"rect", "ratio":0.8 },"api": "https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 0,"filterable": 1,"categories":["动作片","喜剧片","爱情片","科幻片",
 "恐怖片","剧情片","战争片","悬疑片","犯罪片","奇幻片","记录片","动画片","伦理片","内地剧","香港剧","台湾剧","日剧","韩剧","欧美剧","马泰剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","中国动漫","日本动漫","欧美动漫"]
@@ -2136,6 +2215,17 @@ NokiaN97-1/20.0.019;Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebKit/525 (KH
       "quickSearch": 0,
       "filterable": 0
     },
+        {
+             "key": "国产",
+            "name": "顶级",
+            "type": 3,
+             "直接播放":"1",
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://aoo.qoqoavideo2.sbs/aovaov#",
+                "分类": "国产$20#日本无码$22#饵食牝$136#欧美$23#欧美精品$104#三级$25#韩片$129#韩国唯美三级$132#韩国明星学生$130#韩国主播$131#AI换脸$41#国产精品$26#SWAG$135#偷拍自拍$29#精彩时刻$33#91大神$137#国产主播$35#3P群交$127#麻豆传媒$134#国产调教$81#美熟少妇$125#网红模特$86#女神学生$124#野合车震$90"
+            }
+        },
     {
       "key": "❤夜夜撸资源",
       "name": "❤夜夜撸资源",
@@ -2773,9 +2863,9 @@ NokiaN97-1/20.0.019;Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebKit/525 (KH
     "searchable": 0,
     "changeable": 1,
     "quickSearch": 0,
-    "filterable": 0,
-    "api": "https://qu.ax/vzXq.js",
-    "ext":"0bec59716cbd492796ea1d5b14f2ca67"
+    "filterable": 0,    
+    "api": "https://qu.ax/zdKQ.js",
+    "ext":"cd6f4c6641e4426db997ce82cb930269"
 }
       ],
       
@@ -2798,6 +2888,12 @@ NokiaN97-1/20.0.019;Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebKit/525 (KH
         "is_play_url="
       ]
     },
+{"name":"暴風廣告",
+"hosts":["bfzy","s5.bfzycdn"],
+"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+{"name": "星星",
+"hosts": ["aws.ulivetv.net"],
+"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
             {
    "name": "磁力廣告",
    "hosts": [
@@ -2891,7 +2987,7 @@ NokiaN97-1/20.0.019;Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebKit/525 (KH
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo":"https://epg.112114.xyz/logo/{name}.png"
         },
-        {
+/*        {
             "name":"范明",
             "type":0,
             "url":"https://hub.gitmirror.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u",
@@ -2905,6 +3001,7 @@ NokiaN97-1/20.0.019;Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebKit/525 (KH
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo":"https://epg.112114.xyz/logo/{name}.png"
         },
+        */
         {
             "name": "肥猫",
             "type": 0,
@@ -2944,6 +3041,13 @@ NokiaN97-1/20.0.019;Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebKit/525 (KH
             "name": "蜂蜜18+",
             "type": 0,
             "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo":"https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "三哥18+",
+            "type": 0,
+            "url": "https://qu.ax/fMNM.m3u",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo":"https://epg.112114.xyz/logo/{name}.png"
         },
@@ -3293,13 +3397,8 @@ NokiaN97-1/20.0.019;Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebKit/525 (KH
     },
       {      "name": "影探A",      "type": 1,      "url": "https://epay.99xim.cn/ccc/?url=",      "ext": {        "flag": [          "qq",          "腾讯",          "qiyi",          "爱奇艺",          "奇艺",          "youku",          "优酷",          "sohu",          "搜狐",          "letv",          "乐视",          "mgtv",          "芒果",          "rx",          "ltnb",          "bilibili",          "1905",          "xigua"        ]      }    },  
   
- {      "name": "影探B",      "type": 1,      "url": "http://lflong.lyyytv.cn/json.php?url=",      "ext": {        "flag": [          "qq",          "腾讯",          "qiyi",          "爱奇艺",          "奇艺",          "youku",          "优酷",          "sohu",          "搜狐",          "letv",          "乐视",          "mgtv",          "芒果",          "rx",          "ltnb",          "bilibili",          "1905",          "xigua"        ]      }    },   
-  
-
- 
-
- 
- 
+ {      "name": "影探B",      "type": 1,      "url": "http://lflong.lyyytv.cn/json.php?url=",      "ext": {        "flag": [          "qq",          "腾讯",          "qiyi",          "爱奇艺",          "奇艺",          "youku",          "优酷",          "sohu",          "搜狐",          "letv",          "乐视",          "mgtv",          "芒果",          "rx",          "ltnb",          "bilibili",          "1905",          "xigua"        ]      }    },
+ {"name":"LR","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
   {      "name": "影探C",      "type": 1,      "url": "https://kk.hdjh.xyz/home/api?type=ys&uid=5282164&key=cdfqstuwCFJSTWX679&url=",      "ext": {        "flag": [          "qq",          "腾讯",          "qiyi",          "爱奇艺",          "奇艺",          "youku",          "优酷",          "sohu",          "搜狐",          "letv",          "乐视",          "mgtv",          "芒果",          "rx",          "ltnb",          "bilibili",          "1905",          "xigua"        ]      }    },  
  
  {     "name": "影探D",      "type": 1,      "url": "http://m3u8.lyyytv.cn/json.php?url=",      "ext": {        "flag": [          "qq",          "腾讯",          "qiyi",          "爱奇艺",          "奇艺",          "youku",          "优酷",          "sohu",          "搜狐",          "letv",          "乐视",          "mgtv",          "芒果",          "rx",          "ltnb",          "bilibili",          "1905",          "xigua"        ]      }    },
