@@ -325,6 +325,17 @@ NokiaN97-1/20.0.019;Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebKit/525 (KH
       "changeable": 0,
       "style":{ "type":"rect", "ratio":0.8 },
       "jar": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;eea22614c071a32c3624ca99691f491a"
+    },{
+       "key":"萌番",
+       "name":"⭐️萌番 | 动漫",
+       "type":1,
+       "searchable":1,
+       "quickSearch":1,
+       "playerType":1,       
+       "api":"https://www.mengfan.tv/api.php/provide/vod/",
+     "header":{
+       "user-agent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+     }
     },
   {
       "key": "csp_Nbys",
@@ -362,6 +373,14 @@ NokiaN97-1/20.0.019;Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebKit/525 (KH
             "changeable": 0,
             "ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
 },
+{
+"key": "移动云盘",
+   "name": "移动云盘",
+   "type": 1, "playerType":1,
+   "api": "http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list",
+   "searchable": 1,
+   "quickSearch": 1
+   },
 
 /*磁力系列*/
 
@@ -450,30 +469,6 @@ NokiaN97-1/20.0.019;Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebKit/525 (KH
         {"key":"csp_SeedHub","name":"🧲SeedHub","jar":"https://qu.ax/qokd.jpg","type":3,"api":"csp_SeedHub","playerType":1,"style":{ "type":"rect", "ratio":0.8 },"searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_MeijuTT","name":"🧲美剧天堂","jar":"https://qu.ax/qokd.jpg","type":3,"api":"csp_MeijuTT","playerType":1,"style":{ "type":"rect", "ratio":0.8 },"searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_MeijuMi","name":"🧲美剧迷","jar":"https://qu.ax/qokd.jpg","type":3,"api":"csp_MeijuMi","playerType":1,"searchable":1,"style":{ "type":"rect", "ratio":0.8 },"quickSearch":1,"filterable":1},
-    {
-      "key": "电影港湾磁力",
-      "name": "pg大佬🧲电影港湾",
-      "type": 3,
-      "api": "https://qu.ax/rJOj.js",
-      "searchable": 1,
-      "style":{ "type":"rect", "ratio":0.8 },
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://qu.ax/owaw.js","jar":"https://raw.githubusercontent.com/lllyin/assets/master/😀.png"
-    },
-        {
-            "key": "csp_XYQHikerAL_4KHDR",
-            "name": "pg大佬🧲4KHDR(盘/磁)",
-            "jar":"https://raw.githubusercontent.com/lllyin/assets/master/😀.png",
-            "type": 3,
-            "style":{ "type":"rect", "ratio":0.8 },
-            "api": "https://qu.ax/rJOj.js",
-            "playerType": 0,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://qu.ax/hxea.js"
-        },
     {"key":"csp_JavDb","name":"🧲JavDb","type":3,"api":"csp_JavDb","searchable":1,"style":{ "type":"rect", "ratio":0.8 },"quickSearch":1,"filterable":1,"jar":"https://ghproxy.net/https://raw.githubusercontent.com/lllyin/assets/master/javdb.png;md5;efecb2d08257b153c65d46055f8d87d8"
 },
         
@@ -740,7 +735,7 @@ NokiaN97-1/20.0.019;Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebKit/525 (KH
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "0bec59716cbd492796ea1d5b14f2ca67"
+      "ext": "7984abb3f03c447196459eebd03eda63"
     },
 {
       "key": "csp_XYQHikerAL_阿里云盘网",
@@ -763,7 +758,7 @@ NokiaN97-1/20.0.019;Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebKit/525 (KH
       "searchable": 1, 
       "quickSearch": 1, 
       "filterable": 1, 
-      "ext": "0bec59716cbd492796ea1d5b14f2ca67",
+      "ext": "7984abb3f03c447196459eebd03eda63",
       "jar":"https://qu.ax/rski.js"
     },
     {
@@ -1186,7 +1181,50 @@ NokiaN97-1/20.0.019;Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebKit/525 (KH
     {"key":"追剧","name":"追剧","type":3,"api":"csp_Zjdros","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://1k.953365.cn/zhuijuos.php/v6/","jar":"https://jihulab.com/zhulr7765/tvbox/-/raw/main/jar/spider.jar"},
     
     /*采集系列*/
-    {"key": "cj ","name": "采集 ","type": 1,"api": "https://caiji.kczyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动漫","电影","动作片","喜剧片","爱情片","科幻片","恐怖片","战争片","剧情片","伦理片","动画片","电视剧","国产剧","香港剧","台湾剧","欧美剧","韩国剧","日本剧","海外剧","动漫","国产动漫","日本动漫","欧美动漫","预留","综艺","大陆综艺","日韩综艺","港台综艺","欧美综艺","泰国剧","未分类"]},
+    {"key": "msv ","name": "美少女 ","type": 0,"api": "https://www.msnii.com/api/xml.php ","searchable": 1,"changeable": 1},
+
+{"key": "ysj ","name": "饮水机 ","type": 0,"api": "https://www.xrbsp.com/api/xml.php ","searchable": 1,"changeable": 1},
+
+{"key": "xne ","name": "香奶儿 ","type": 0,"api": "https://www.gdlsp.com/api/xml.php ","searchable": 1,"changeable": 1},
+
+{"key": "bp ","name": "白嫖 ","type": 0,"api": "https://www.kxgav.com/api/xml.php ","searchable": 1,"changeable": 1},
+
+{"key": "hav ","name": "黄艾薇 ","type": 0,"api": "https://www.pgxdy.com/api/xml.php ","searchable": 1,"changeable": 1},
+    {
+            "key": "红袖",
+            "name": "红袖添香",
+            "type": 1,
+            "api": "https://hongxiuzy.com/api.php/provide/vod/from/hxm3u8/",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "一区","二区","三区","四区","国产裸聊","抖音视频","网红头条","网曝黑料","欧美无码","女优明星","SM调教","无码专区","麻豆传媒","制服诱惑","AI换脸","中文字幕","卡通动漫","极品探花","美女主播","自拍偷拍","熟女人妻","萝莉少女","蜜桃传媒","3P群交","果冻传媒","精东影业","内地传媒","国产精品","日韩有码"
+            ]
+        },
+    {
+            "key": "玉兔资源",
+            "name": "玉兔资源(切片)",
+            "type": 0,
+            "api": "https://apiyutu.com/api.php/provide/vod/at/xml/",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "kuaikanyun",
+            "name": "快看采集",
+            "type": 1,
+            "api": "https://kuaikan-api.com/api.php/provide/vod/ac=list",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+               "电影","连续剧","综艺","动漫","影视资讯","影视资讯","影视推荐","站内公告","体育","纪录片","冒险片","剧情片","动作片","动画电影","同性片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","战争片","歌舞片","灾难片","爱情片","犯罪片","科幻片","经典片","网络电影","国产剧","欧美剧","日本剧","泰剧","港台剧","新马剧","其他剧","欧美综艺","日本综艺","韩国综艺","国产综艺","新马泰综艺","港台综艺","其他综艺","欧美动漫","日本动漫","韩国动漫","国产动漫","新马泰动漫","港台动漫","其他动漫","伦理片","韩国剧","海外剧"
+            ]
+        },
+    {"key": "cj ","name": "快车 ","type": 1,"api": "https://caiji.kczyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动漫","电影","动作片","喜剧片","爱情片","科幻片","恐怖片","战争片","剧情片","伦理片","动画片","电视剧","国产剧","香港剧","台湾剧","欧美剧","韩国剧","日本剧","海外剧","动漫","国产动漫","日本动漫","欧美动漫","预留","综艺","大陆综艺","日韩综艺","港台综艺","欧美综艺","泰国剧","未分类"]},
     {"key": "csp_AppYsV2_光影猫","name": "光影猫☆影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://gymcms.xn--654a.cc/api.php/app/"},
     {"key": "xml_火狐","name": "🚄火狐🌎资源","type": 1,"style":{ "type":"rect", "ratio":0.8 },"api": "https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 0,"filterable": 1,"categories":["动作片","喜剧片","爱情片","科幻片",
 "恐怖片","剧情片","战争片","悬疑片","犯罪片","奇幻片","记录片","动画片","伦理片","内地剧","香港剧","台湾剧","日剧","韩剧","欧美剧","马泰剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","中国动漫","日本动漫","欧美动漫"]
@@ -2865,7 +2903,7 @@ NokiaN97-1/20.0.019;Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebKit/525 (KH
     "quickSearch": 0,
     "filterable": 0,    
     "api": "https://qu.ax/zdKQ.js",
-    "ext":"cd6f4c6641e4426db997ce82cb930269"
+    "ext":"7984abb3f03c447196459eebd03eda63"
 }
       ],
       
@@ -3038,6 +3076,20 @@ NokiaN97-1/20.0.019;Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebKit/525 (KH
             "logo":"https://epg.112114.xyz/logo/{name}.png"
         },
         {
+            "name": "香港🇭🇰境外",
+            "type": 0,
+            "url": "http://hkanime:hkanime@hkdtmb.com/hls.m3u",
+            "epg": "http://epg.hklive.tv",
+            "logo":"https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "香港🇭🇰国内",
+            "type": 0,
+            "url": "http://hkanime:hkanime@dtmb.hklive.tv/hls.m3u",
+            "epg": "http://epg.hklive.tv",
+            "logo":"https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
             "name": "蜂蜜18+",
             "type": 0,
             "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt",
@@ -3045,7 +3097,7 @@ NokiaN97-1/20.0.019;Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebKit/525 (KH
             "logo":"https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "三哥18+",
+            "name": "三哥偷蜂蜜大屌18+",
             "type": 0,
             "url": "https://qu.ax/fMNM.m3u",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -3088,6 +3140,17 @@ NokiaN97-1/20.0.019;Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebKit/525 (KH
         "referer": "https://github.com/"
       },
             "url": "https://qu.ax/vszk.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo":"https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "群友收集",
+            "type": 0,
+            "header": {
+        "user-agent": "Mozilla/5.0(SymbianOS/9.4;Series60/5.0NokiaN97-1/20.0.019;Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebKit/525 (KHTML, like Gecko)BrowserNG/7.1.18124",
+        "referer": "https://github.com/"
+      },
+            "url": "https://qu.ax/ByLq.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo":"https://epg.112114.xyz/logo/{name}.png"
         },
