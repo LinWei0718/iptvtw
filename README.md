@@ -3,11 +3,17 @@
 [民視新聞台](https://embed.4gtv.tv/HiNet/民視新聞台.html)
 
 [寰宇新聞台](https://embed.4gtv.tv/HiNet/寰宇新聞台.html)
+
 [中天新聞台](https://embed.4gtv.tv/HiNet/中天新聞台.html)
+
 [民視第一台](https://embed.4gtv.tv/HiNet/民視第一台.html)
+
 [民視台灣台](https://embed.4gtv.tv/HiNet/民視台灣台.html)
+
 [民視綜藝台](https://embed.4gtv.tv/HiNet/民視綜藝台.html)
-[Love Nature](https://embed.4gtv.tv/HiNet/Love Nature.html)
+
+[Love Nature](https://embed.4gtv.tv/HiNet/Love%20Nature.html)
+
 [愛爾達娛樂台](https://embed.4gtv.tv/HiNet/愛爾達娛樂台.html)
 [公視戲劇](https://embed.4gtv.tv/HiNet/公視戲劇.html)
 [影迷數位電影台](https://embed.4gtv.tv/HiNet/影迷數位電影台.html)
