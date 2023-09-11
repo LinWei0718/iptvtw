@@ -24,7 +24,7 @@
 
 [靖天電影台](https://embed.4gtv.tv/HiNet/靖天電影台.html)
 
-[History 歷史頻道](https://embed.4gtv.tv/HiNet/History%20%E6%AD%B7%E5%8F%B2%E9%A0%BB%E9%81%93.html)
+[History 歷史頻道](https://embed.4gtv.tv/HiNet/History 歷史頻道.html)
 
 [i-Fun動漫台](https://embed.4gtv.tv/HiNet/i-Fun動漫台.html)
 
