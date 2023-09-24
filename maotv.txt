@@ -124,6 +124,7 @@ Zee TV HD,http://8.210.88.135/smart.php?playurl=http://198.16.100.90:8278/Zeetvh
 大愛1,http://8.210.88.135/smart.php?playurl=http://198.16.100.90:8278/daai_twn/playlist.m3u8
 大愛1,http://8.210.88.135/smart.php?playurl=http://50.7.238.114:8278/daai_twn/playlist.m3u8
 小太陽,http://8.210.88.135/smart.php?playurl=http://198.16.100.90:8278/Xiaotaiyang/playlist.m3u8
+天映頻道,http://8.210.88.135/smart.php?playurl=http://198.16.100.90:8278/Celestialindo/playlist.m3u8
 中天亞洲,http://8.210.88.135/smart.php?playurl=http://198.16.100.90:8278/ctiasia_twn/playlist.m3u8
 中天亞洲,http://8.210.88.135/smart.php?playurl=http://50.7.238.114:8278/ctiasia_twn/playlist.m3u8
 中天娛樂,http://8.210.88.135/smart.php?playurl=http://198.16.100.90:8278/ctient/playlist.m3u8
@@ -192,6 +193,7 @@ Zee TV HD,http://8.210.88.135/smart.php?playurl=http://198.16.100.90:8278/Zeetvh
 阿里郎Arirang,http://8.210.88.135/smart.php?playurl=http://50.7.238.114:8278/arirang_twn/playlist.m3u8
 非凡新聞,http://8.210.88.135/smart.php?playurl=http://198.16.100.90:8278/feifannews_twn/playlist.m3u8
 非凡新聞,http://8.210.88.135/smart.php?playurl=http://50.7.238.114:8278/feifannews_twn/playlist.m3u8
+星衛電影,http://8.210.88.135/smart.php?playurl=http://198.16.100.90:8278/xingwei_movie/playlist.m3u8
 星衛電影,http://8.210.88.135/smart.php?playurl=http://50.7.238.114:8278/xingwei_movie/playlist.m3u8
 美亞電影,http://8.210.88.135/smart.php?playurl=http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8
 美食星球,http://8.210.88.135/smart.php?playurl=http://50.7.238.114:8278/foodplanet_twn/playlist.m3u8
@@ -292,6 +294,32 @@ NHK,http://123.51.230.108:18525/.m3u8
 人間衛視,http://123.51.230.108:18561/.m3u8
 大愛,http://123.51.230.108:18567/.m3u8
 民視新聞,http://123.51.230.108:18663/.m3u8
+三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+三立NEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+寰宇新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+民視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+東森財經新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+台視新聞HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+中視新聞HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+中視HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
+中視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+中視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
+中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+TVBS NESW,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+TAIWAN PLUS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+大愛1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
+大愛2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
+原住民族電視台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
+幸福空間居家台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+天才衝衝衝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+豬哥會社,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV72.m3u8
+新玫瑰瞳鈴眼,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
+東森購物,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+東森購物,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
+MOMO1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
+MOMO2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 原住民電視,http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500
 LOVENATURE,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 ❤台灣50&198,#genre#
