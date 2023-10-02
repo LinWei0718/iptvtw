@@ -322,6 +322,75 @@ MOMO1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 MOMO2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 原住民電視,http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500
 LOVENATURE,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
+台灣測試,#genre#
+國家地理頻道,http://220.135.124.158:8088/live/18_h265.ts
+探索頻道,http://220.135.124.158:8088/live/19_h265.ts
+TCL,http://220.135.124.158:8088/live/21_h265.ts
+動物星球,http://220.135.124.158:8088/live/22_h265.ts
+壹新聞,http://220.135.124.158:8088/live/23_h265.ts
+非凡新聞,http://220.135.124.158:8088/live/24_h265.ts
+東森幼幼,http://220.135.124.158:8088/live/25_h265.ts
+緯來綜合,http://220.135.124.158:8088/live/26_h265.ts
+八大第一,http://220.135.124.158:8088/live/27_h265.ts
+八大綜合,http://220.135.124.158:8088/live/28_h265.ts
+三立台灣,http://220.135.124.158:8088/live/29_h265.ts
+三立都會,http://220.135.124.158:8088/live/30_h265.ts
+衛視中文,http://220.135.124.158:8088/live/31_h265.ts
+東森綜合,http://220.135.124.158:8088/live/32_h265.ts
+東森超視,http://220.135.124.158:8088/live/33_h265.ts
+中天綜合,http://220.135.124.158:8088/live/36_h265.ts
+東風37,http://220.135.124.158:8088/live/37_h265.ts
+年代much,http://220.135.124.158:8088/live/38_h265.ts
+中天娛樂,http://220.135.124.158:8088/live/39_h265.ts
+東森戲劇,http://220.135.124.158:8088/live/40_h265.ts
+八大戲劇,http://220.135.124.158:8088/live/41_h265.ts
+tvbs歡樂,http://220.135.124.158:8088/live/42_h265.ts
+緯來戲劇,http://220.135.124.158:8088/live/43_h265.ts
+Jet綜合,http://220.135.124.158:8088/live/45_h265.ts
+年代新聞,http://220.135.124.158:8088/live/50_h265.ts
+東森新聞,http://220.135.124.158:8088/live/51_h265.ts
+ELEVEN1,http://220.135.124.158:8088/live/20_h265.ts
+ELEVEN2,http://220.135.124.158:8088/live/52_h265.ts
+三立新聞,http://220.135.124.158:8088/live/54_h265.ts
+TVBS新聞,http://220.135.124.158:8088/live/55_h265.ts
+TVBS,http://220.135.124.158:8088/live/56_h265.ts
+東森財經新聞,http://220.135.124.158:8088/live/57_h265.ts
+非凡新聞,http://220.135.124.158:8088/live/58_h265.ts
+衛視電影,http://220.135.124.158:8088/live/61_h265.ts
+緯來電影,http://220.135.124.158:8088/live/63_h265.ts
+HBO,http://220.135.124.158:8088/live/65_h265.ts
+AXN,http://220.135.124.158:8088/live/67_h265.ts
+好萊塢電影,http://220.135.124.158:8088/live/68_h265.ts
+Star Movie,http://220.135.124.158:8088/live/69_h265.ts
+緯來育樂,http://220.135.124.158:8088/live/70_h265.ts
+CINEMAX,http://220.135.124.158:8088/live/71_h265.ts
+緯來體育,http://220.135.124.158:8088/live/72_h265.ts
+國興衛視,http://220.135.124.158:8088/live/73_h265.ts
+緯來日本,http://220.135.124.158:8088/live/77_h265.ts
+StarWorld,http://220.135.124.158:8088/live/79_h265.ts
+NHK,http://220.135.124.158:8088/live/80_h265.ts
+
+大人_543,#genre#
+47,http://220.135.124.158:8088/live/94_h265.ts
+48,http://220.135.124.158:8088/live/95_h265.ts
+49,http://220.135.124.158:8088/live/96_h265.ts
+50,http://220.135.124.158:8088/live/97_h265.ts
+51,http://220.135.124.158:8088/live/98_h265.ts
+52,http://220.135.124.158:8088/live/99_h265.ts
+
+🇯🇵日本,#genre#
+NHK華語,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+NHK華語,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
+Tokyo MX 1,https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
+Tokyo MX 2,https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+Weather News,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+BSアニマックス,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+BSテレ東,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:c&t=0d6938cb3dcf4b79848bc1753a59daf1
+GAORA,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JSPORTS 1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JSPORTS 2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JSPORTS 3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 ❤台灣50&198,#genre#
 ABC News,http://50.7.238.114:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
 AFC亞洲旅遊,http://50.7.238.114:8278/asiatravel_twn/playlist.m3u8?tid=MA8A2387916023879160&ct=19254&tsum=bd472a07b6e15f36c0540fb3becc3d6c
