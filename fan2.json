@@ -20,6 +20,16 @@
       "filterable": 0
     },
     {
+      "key": "drpy_js_短剧网",
+      "name": "短劇",
+      "type": 3,
+	"style":{
+	"type":"rect",
+	"ratio":1.433},
+	"api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://linwei0718.github.io/iptvtw/mimiju.js"
+    },
+    {
       "key": "dr_武享吧",
       "name": "格斗|热血",
       "type": 3,
