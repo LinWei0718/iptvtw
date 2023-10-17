@@ -31,7 +31,7 @@
     },
 {
 	"key":"drpy_js_厂长资源",
-	"name":"影视|厂长资源[js]",
+	"name":"廠長資源[js]",
 	"type":3,
 	"style":{
 		"type":"rect",
@@ -41,7 +41,7 @@
 },
     {
       "key": "dr_武享吧",
-      "name": "格斗|热血",
+      "name": "格斗|熱血",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "searchable": 0,
@@ -110,7 +110,7 @@
       /*
     {
       "key": "csp_SMB目录",
-      "name": "业余｜SMB服务器",
+      "name": "業餘｜SMB伺服器",
       "type": 3,
       "api": "csp_Smb4nas",
       "searchable": 1,
@@ -122,9 +122,9 @@
     */
 {"key":"csp_Aid","name":"🚑︎急救指南","type":3,"api":"csp_FirstAid","searchable":1,"quickSearch":1,"changeable":0,"style": { "type": "rect", "ratio": 3.8},
 "jar":"https://qu.ax/dDSz.jpg;md5;510FA1663F7067BD4D40DE06097202BF"},
-{"key":"荐片","name":"📀荐片影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"ext":"https://qu.ax/GWWS.js"},
+{"key":"荐片","name":"📀薦片影視","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"ext":"https://qu.ax/GWWS.js"},
 { "key":"sp360",
-      "name":"360影视|解析",
+      "name":"360影視|解析",
       "type":3,
       "api":"csp_Sp360",
       "searchable":1,
@@ -133,7 +133,7 @@
       "jar":"https://qu.ax/TpCJ.txt"},
     {
             "key": "libvio影视",
-            "name": "蚂蚁视频",
+            "name": "螞蟻視頻",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -146,7 +146,7 @@
         },
         {
             "key": "1080dyw",
-            "name": "1080电影屋",
+            "name": "1080電影屋",
             "type": 3,
             "api": "https://qu.ax/oux.js",
             "searchable": 1,
@@ -158,7 +158,7 @@
             }
         },{
             "key": "69mj",
-            "name": "69美剧",
+            "name": "69美劇",
             "type": 3,
             "api": "https://qu.ax/oux.js",
             "searchable": 1,
@@ -220,7 +220,7 @@
       },
     {
       "key": "速搜",
-      "name": " ‍🔥速搜国内🇨🇳直连",
+      "name": " ‍🔥速搜大陸🇨🇳直連",
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1", 
@@ -259,7 +259,7 @@
     },
     {
       "key": "看看",
-      "name": " ‍🔥看看剧",
+      "name": " ‍🔥看看劇",
       "type": 3,
       "playerType": "1",
       "searchable": 1, "quickSearch": 1,"filterable": 1,
@@ -284,7 +284,7 @@
        },
 {
       "key": "csp_腾讯",
-      "name": "腾讯",
+      "name": "騰訊",
       "type": 1,
       "playerType": 2,
       "api": "http://tvbox-1-g5221611.deta.app/vod/qq",      
@@ -297,14 +297,14 @@
       ]
     },  {
 			"key": "py_央视片库",
-			"name": "🌏cctv片库",
+			"name": "🌏cctv片庫",
 			"type": 3,"playerType":2,
 			"api": "py_cctv",
 			"ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%A4%AE%E8%A7%86%E7%89%87%E5%BA%93.py"
 		},
 		{
       "key": "星星",
-      "name": "星视界 | 海外",
+      "name": "星視界 | 海外",
       "type": 3,
       "api": "csp_Star",
       "searchable": 1,
@@ -347,7 +347,7 @@
     },
   {
       "key": "蜂蜜旧泥巴",
-      "name": "蜂蜜旧泥巴",
+      "name": "蜂蜜舊泥巴",
       "type": 3,
       "api": "csp_NiNi",
       "searchable": 1,
@@ -370,7 +370,7 @@
 },
 {
 "key": "移动云盘",
-   "name": "移动云盘",
+   "name": "移動雲盤",
    "type": 1, "playerType":1,
    "api": "http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list",
    "searchable": 1,
