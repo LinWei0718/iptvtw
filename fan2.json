@@ -29,6 +29,16 @@
 	"api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://linwei0718.github.io/iptvtw/mimiju.js"
     },
+{
+	"key":"drpy_js_厂长资源",
+	"name":"影视|厂长资源[js]",
+	"type":3,
+	"style":{
+		"type":"rect",
+		"ratio":1.485},
+	"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+	"ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/厂长资源.js"
+},
     {
       "key": "dr_武享吧",
       "name": "格斗|热血",
