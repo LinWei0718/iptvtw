@@ -12,7 +12,7 @@
     },
     {
       "key": "t4直播转点播",
-      "name": "儿童|教育",
+      "name": "兒童|教育",
       "type": 4,
       "api": "http://120.53.102.254/dsp16",
       "searchable": 1,
@@ -41,7 +41,7 @@
 },
     {
       "key": "dr_武享吧",
-      "name": "格斗|熱血",
+      "name": "格鬥|熱血",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "searchable": 0,
@@ -59,7 +59,9 @@
       "changeable": 1,
       "jar": "https://gitee.com/zhilongtv/longtv/raw/master/yydd/wzl.jar"
     },
-    {"key":"iqiyi","name":"爱奇艺","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/iqiyi","searchable":1,"quickSearch":1},{"key":"qq","name":"腾讯视频","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/qq","searchable":1,"quickSearch":1},{"key":"360kan","name":"360影视","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/360kan","searchable":1,"quickSearch":1},{
+    {"key":"iqiyi","name":"愛奇藝","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/iqiyi","searchable":1,"quickSearch":1},
+    {"key":"qq","name":"騰訊視頻","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/qq","searchable":1,"quickSearch":1},
+    {"key":"360kan","name":"360影視","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/360kan","searchable":1,"quickSearch":1},{
       "key": "Mtv",
       "name": "芒果TV",
       "type": 3,
@@ -325,7 +327,7 @@
     },
     {
        "key":"萌番",
-       "name":"⭐️萌番 | 动漫",
+       "name":"⭐️萌番 | 動漫",
        "type":1,
        "searchable":1,
        "quickSearch":1,
@@ -379,10 +381,10 @@
 
 /*磁力系列*/
 
-{"key": "py_cctv_集合","name": "❤🍸️央视集合","type": 3,"api": "py_cctv","searchable": 1,"quickSearch": 1,"style":{ "type":"rect", "ratio":0.8 },"filterable": 1,"ext": "https://qu.ax/WHNe.json"},
+{"key": "py_cctv_集合","name": "❤🍸️央視集合","type": 3,"api": "py_cctv","searchable": 1,"quickSearch": 1,"style":{ "type":"rect", "ratio":0.8 },"filterable": 1,"ext": "https://qu.ax/WHNe.json"},
 {
       "key":"路飞大佬",
-      "name":"路飞真转点1",
+      "name":"路飛真轉點1",
       "type":3,
       "style":{ "type":"oval" },
       "api":"https://qu.ax/bzoe.js",
@@ -390,7 +392,7 @@
       },
     {
       "key": "路飞",
-      "name": "路飞直转点2",
+      "name": "路飛直轉點2",
       "type": 3,
       "style":{ "type":"oval" },
       "api": "https://qu.ax/Mud.js",
@@ -410,7 +412,7 @@
         },
 {
     "key": "lf_js_p2p",
-    "name": "路飞_p2p磁力搜索 ",
+    "name": "路飛_p2p磁力搜索 ",
     "type": 3,
     "searchable": 1,
     "changeable": 1,
@@ -423,7 +425,7 @@
  },
 {
             "key": "lf_js_search",
-            "name": "路飞豆瓣 | lf_search",
+            "name": "路飛豆瓣 | lf_search",
             "type": 3,
             "searchable": 0,
             "changeable": 0,
@@ -433,18 +435,18 @@
             "api": "https://qu.ax/uukw.js"
 },
     {"key":"4khdr","name":"4K⁴HDR", "type": 3,"searchable": 1,"quickSearch": 1,"style":{ "type":"rect", "ratio":0.8 },"changeable": 0,"api": "http://xhww.fun:63/js/drpy1.min.js","ext":"https://qu.ax/yhZO.js"},
-     {"key":"drpy_js_爱看机器人","name":"爱看机器人","style":{ "type":"rect", "ratio":0.8 },"type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"},
+     {"key":"drpy_js_爱看机器人","name":"愛看機器人","style":{ "type":"rect", "ratio":0.8 },"type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"},
     {"key":"csp_JavDb","name":"🧲JavDb✈","type":3,"api":"csp_JavDb","searchable":1,"style":{ "type":"rect", "ratio":0.8 },"quickSearch":1,"filterable":1,"jar":"https://ghproxy.net/https://raw.githubusercontent.com/lllyin/assets/master/javdb.png;md5;efecb2d08257b153c65d46055f8d87d8"
 },
-    {"key":"drpy_js_磁力熊[磁]","name":"🧲磁力熊🇨🇳直连","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/js/drpy2.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/磁力熊[磁].js"},
-    {"key": "csp_New6v","name": "🧲新6V/🇨🇳直连","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://www.xb6v.com","jar": "https://agit.ai/ddx/TVBox/raw/branch/master/js/cili.jar"},
-            {"key":"csp_SeedHub","name":"🧲SeedHub🇨🇳直连","type":3,"api":"csp_SeedHub","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/ddx/TVBox/raw/branch/master/js/cili.jar"},
-        {"key":"csp_MeijuTT","name":"🧲美剧天堂🇨🇳直连","type":3,"api":"csp_MeijuTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/ddx/TVBox/raw/branch/master/js/cili.jar"},
+    {"key":"drpy_js_磁力熊[磁]","name":"🧲磁力熊🇨🇳直連","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/js/drpy2.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/磁力熊[磁].js"},
+    {"key": "csp_New6v","name": "🧲新6V/🇨🇳直連","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://www.xb6v.com","jar": "https://agit.ai/ddx/TVBox/raw/branch/master/js/cili.jar"},
+            {"key":"csp_SeedHub","name":"🧲SeedHub🇨🇳直連","type":3,"api":"csp_SeedHub","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/ddx/TVBox/raw/branch/master/js/cili.jar"},
+        {"key":"csp_MeijuTT","name":"🧲美剧天堂🇨🇳直連","type":3,"api":"csp_MeijuTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/ddx/TVBox/raw/branch/master/js/cili.jar"},
         
         /*猫系列*/
         { 
         "key": "在线之家", 
-        "name": "❤🐱猫在线之家", 
+        "name": "❤🐱貓在線之家", 
         "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -454,7 +456,7 @@
       },
       {
         "key": "555dy",
-        "name": "555电影",
+        "name": "555電影",
         "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -464,7 +466,7 @@
       },
         { 
         "key": "贝乐虎", 
-        "name": "🐱猫贝乐", 
+        "name": "🐱猫貝樂", 
         "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -474,7 +476,7 @@
       },
         { 
         "key": "兔小贝", 
-        "name": "🐱猫兔小贝", 
+        "name": "🐱貓兔小貝", 
         "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
