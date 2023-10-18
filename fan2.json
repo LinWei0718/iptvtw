@@ -41,13 +41,15 @@
 },
 	  {
         "key": "huya",
-        "name": "🐯JustLive虎牙｜直播",
+        "name": "🐯虎牙｜直播",
         "type": 3,
         "api": "https://linwei0718.github.io/iptvtw/huya_open.js",
         "ext": {
           "categories": "科技#旅游#娱乐天地#一起看#颜值#二次元#星秀#音乐#原创#网游竞技#单机热游#综合手游"
         }
       },
+	  {"key":"douyu","name":"🐱斗鱼","searchable":1,"quickSearch":1,"filterable":1,"type":3,"style":{"type":"rect","ratio":1.485},"api":"https://qu.ax/mgBL.js"},
+{"key":"huya","name":"🐱虎牙","searchable":1,"quickSearch":1,"filterable":1,"type":3,"style":{"type":"rect","ratio":1.485},"api":"https://qu.ax/OkeP.js"},
     {
       "key": "dr_武享吧",
       "name": "格鬥|熱血",
