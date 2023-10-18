@@ -50,7 +50,7 @@
       },
 	  {
 		  "key":"douyu",
-		  "name":"🐱斗鱼",
+		  "name":"🐱斗鱼｜直播",
 		  "searchable":1,
 		  "quickSearch":1,
 		  "filterable":1,
@@ -60,21 +60,9 @@
 			  "ratio":1.485},
 		  "api":"https://qu.ax/mgBL.js"
 	  },
-{
-	"key":"huya",
-	"name":"🐱虎牙",
-	"searchable":1,
-	"quickSearch":1,
-	"filterable":1,
-	"type":3,
-	"style":{
-		"type":"rect",
-		"ratio":1.485},
-	"api":"https://qu.ax/OkeP.js"
-},
     {
       "key": "dr_武享吧",
-      "name": "格鬥|熱血",
+      "name": "格鬥｜|熱血",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "searchable": 0,
