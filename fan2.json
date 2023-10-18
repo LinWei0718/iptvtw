@@ -39,6 +39,15 @@
 	"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 	"ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/厂长资源.js"
 },
+	  {
+        "key": "huya",
+        "name": "🐯JustLive虎牙｜直播",
+        "type": 3,
+        "api": "https://linwei0718.github.io/iptvtw/huya_open.js",
+        "ext": {
+          "categories": "科技#旅游#娱乐天地#一起看#颜值#二次元#星秀#音乐#原创#网游竞技#单机热游#综合手游"
+        }
+      },
     {
       "key": "dr_武享吧",
       "name": "格鬥|熱血",
