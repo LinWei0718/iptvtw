@@ -447,10 +447,20 @@ Zee TV HD,http://198.16.100.90:8278/Zeetvhd/playlist.m3u8?tid=MC1C19717650197176
 靖天卡通,http://198.16.100.90:8278/jingtiancartoon_twn/playlist.m3u8?tid=MD1D2636832926368329&ct=19226&tsum=22c17cfa6920f0b4a9d45746ac25c547
 靖天國際,http://198.16.100.90:8278/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b
 靖天國際,http://50.7.238.114:8278/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b
-VIP_543,#genre#
+VIP,#genre#
 94,http://220.135.124.158:8088/live/94_h265.ts
 95,http://220.135.124.158:8088/live/95_h265.ts
 96,http://220.135.124.158:8088/live/96_h265.ts
 97,http://220.135.124.158:8088/live/97_h265.ts
 98,http://220.135.124.158:8088/live/98_h265.ts
 99,http://220.135.124.158:8088/live/99_h265.ts
+松視1,http://195.201.107.189:9080/hls/14105faa6e52c4eb0a376760184ef3fa.m3u8
+松視2,http://195.201.107.189:9080/hls/5129ab2442845262e93f15bf76d20b1f.m3u8
+松視3,http://195.201.107.189:9080/hls/bc16ae014cc1e2829b8c7422a12f79e6.m3u8
+香蕉,http://195.201.107.189:9080/hls/4832039adfd85d11df9e126e3645266b.m3u8
+彩虹K,https://195.201.107.189:9080/hls/dc614f23daf796704ddd5c62164e79a0.m3u8
+ 💖奥視1,http://125.227.210.55:20845/VideoInput/play.ts
+🔮奥視2,http://125.227.210.55:55643/VideoInput/play.ts
+👅奥視3,http://125.227.210.55:62697/VideoInput/play.ts
+🍑驚艷台,http://125.227.210.55:57286/VideoInput/play.ts
+🌭香蕉台,http://125.227.210.55:22522/VideoInput/play.ts
