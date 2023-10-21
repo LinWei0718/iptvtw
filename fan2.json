@@ -29,6 +29,16 @@
 	"api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://linwei0718.github.io/iptvtw/mimiju.js"
     },
+	{
+      "key": "drpy_js_直播",
+      "name": "ss直播",
+      "type": 3,
+	"style":{
+	"type":"rect",
+	"ratio":1.433},
+	"api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://linwei0718.github.io/iptvtw/sslive.js"
+    },  
 {
 	"key":"drpy_js_厂长资源",
 	"name":"廠長資源[js]",
