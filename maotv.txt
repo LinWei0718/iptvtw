@@ -17,6 +17,12 @@ ELEVEN2,rtmp://9sv1.mine.nu:1935/sat/md011
 ELTA體育1,rtmp://9sv1.mine.nu:1935/sat/md031
 ELTA體育4,rtmp://9sv1.mine.nu:1935/sat/md041
 ELTA體育3,rtmp://9sv1.mine.nu:1935/sat/md051
+龍華電影,http://8.210.88.135/litv/litv.php?id=03
+龍華動畫,http://8.210.88.135/litv/litv.php?id=01
+龍華日韓,http://8.210.88.135/litv/litv.php?id=11
+龍華偶像,http://8.210.88.135/litv/litv.php?id=12
+龍華經典,http://8.210.88.135/litv/021.php?p=3
+龍華戲劇,http://8.210.88.135/litv/018.php?p=3
 民視,http://8.210.88.135/ml.php?id=ftvhd_taiwan
 台視,http://8.210.88.135/ml.php?id=ttv_taiwan
 中視,http://8.210.88.135/ml.php?id=zhongshihd_twn
