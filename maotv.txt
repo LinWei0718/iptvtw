@@ -768,9 +768,9 @@ BBC 2,http://154.12.80.233:34400/stream/234ecd59a4fb98ac58225ef49d72683c
 CBBC,http://154.12.80.233:34400/stream/1015c1000bc7712b459713bd2c6a871f
 More4,http://154.12.80.233:34400/stream/46e429d42e89c541e52e8b9e67bbba31
 VIP_8888,#genre#
-松視1,http://64.31.55.194/SONSEETV1/video.m3u8
- 💖奥視1,http://125.227.210.55:20845/VideoInput/play.ts
+💖奥視1,http://125.227.210.55:20845/VideoInput/play.ts
 🔮奥視2,http://125.227.210.55:55643/VideoInput/play.ts
 👅奥視3,http://125.227.210.55:62697/VideoInput/play.ts
 🍑驚艷台,http://125.227.210.55:57286/VideoInput/play.ts
 🌭香蕉台,http://125.227.210.55:22522/VideoInput/play.ts
+香蕉臺,mitv://216.244.75.178:9906/654a52f700083b290007d4f08cb2d0cd.ts
