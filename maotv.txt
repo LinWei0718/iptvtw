@@ -540,7 +540,7 @@ BBC 1,http://154.12.80.233:34400/stream/5092db0de3c7691914373e1bf4ead916
 BBC 2,http://154.12.80.233:34400/stream/234ecd59a4fb98ac58225ef49d72683c
 CBBC,http://154.12.80.233:34400/stream/1015c1000bc7712b459713bd2c6a871f
 More4,http://154.12.80.233:34400/stream/46e429d42e89c541e52e8b9e67bbba31
-VIP_8888,#genre#
+VIP,#genre#
 💖奥視1,http://125.227.210.55:20845/VideoInput/play.ts
 🔮奥視2,http://125.227.210.55:55643/VideoInput/play.ts
 👅奥視3,http://125.227.210.55:62697/VideoInput/play.ts
