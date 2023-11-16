@@ -115,11 +115,11 @@ udp://@224.1.4.192:11111
 udp://@224.1.4.61:11111
 #EXTINF:-1,EYE旅游
 udp://@230.1.2.135:11111
-#EXTINF:-1,Fashion TV
+#EXTINF:-1,FashionTV
 udp://@230.1.2.177:11111
-#EXTINF:-1,Food Network美食台
+#EXTINF:-1,FOODNETWORK美食台
 udp://@224.1.4.211:11111
-#EXTINF:-1,Food Network美食台
+#EXTINF:-1,FOODNETWORK美食台
 udp://@224.1.4.57:11111
 #EXTINF:-1,FRANCE24E
 udp://@224.1.4.166:11111
@@ -131,9 +131,9 @@ udp://@230.1.2.15:11111
 udp://@224.1.4.162:11111
 #EXTINF:-1,Global Trekker
 udp://@224.1.4.82:11111
-#EXTINF:-1,GOOD2
+#EXTINF:-1,GOODTV2
 udp://@224.1.4.122:11111
-#EXTINF:-1,GOOD2
+#EXTINF:-1,GOODTV2
 udp://@230.1.2.151:11111
 #EXTINF:-1,HGTV居家乐活
 udp://@224.1.4.183:11111
@@ -283,9 +283,9 @@ udp://@230.1.2.174:11111
 udp://@224.1.4.89:11111
 #EXTINF:-1,人间卫视
 udp://@230.1.2.193:11111
-#EXTINF:-1,八大优频道
+#EXTINF:-1,八大优
 udp://@224.1.4.86:11111
-#EXTINF:-1,八大优频道
+#EXTINF:-1,八大优
 udp://@230.1.2.239:11111
 #EXTINF:-1,三立戏剧
 udp://@230.1.2.232:11111
@@ -497,9 +497,9 @@ udp://@230.1.2.248:11111
 udp://@224.1.4.181:11111
 #EXTINF:-1,华藏卫视
 udp://@224.1.4.90:11111
-#EXTINF:-1,好消息
+#EXTINF:-1,GOODTV
 udp://@224.1.4.4:11111
-#EXTINF:-1,好消息
+#EXTINF:-1,GOODTV
 udp://@230.1.2.165:11111
 #EXTINF:-1,佛卫慈悲台
 udp://@224.1.4.178:11111
