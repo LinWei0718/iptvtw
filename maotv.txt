@@ -27,6 +27,8 @@ parse=1
 壹新聞,https://www.histar.tv/live/nexttv
 parse=1
 非凡商業,https://yeslivetv.com/channels/ustvbiz/
+parse=1
+非凡新聞,https://yeslivetv.com/channels/ustv/
 民視,http://gwtv.cnv8.tv:8097/ftvhd_taiwan/playlist.m3u8
 台視,http://gwtv.cnv8.tv:8097/ttv_taiwan/playlist.m3u8
 中視,http://gwtv.cnv8.tv:8097/zhongshihd_twn/playlist.m3u8
