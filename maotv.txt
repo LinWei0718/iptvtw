@@ -305,7 +305,10 @@ player=1
 華視,https://yeslivetv.com/channels/cts-hd/
 非凡商業,https://yeslivetv.com/channels/ustvbiz/
 非凡新聞,https://yeslivetv.com/channels/ustv/
+CATCHPLAY,https://yeslivetv.com/channels/catchplay/
+龍華電影,https://yeslivetv.com/channels/ltv-ch611/
 采昌戲劇,https://yeslivetv.com/channels/ccii-ch629/
+i-FUN動漫,https://yeslivetv.com/channels/i-fun/
 VIP,#genre#
 pass=8888
 💖奥視1,http://125.227.210.55:20845/VideoInput/play.ts
