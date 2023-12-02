@@ -243,7 +243,6 @@ LOVENATURE,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 星視界嗅探,#genre#
 parse=1
 player=2
-ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 東森新聞,https://today.line.me/tw/v2/article/grrvVZ
 TVBS新聞,https://today.line.me/tw/v2/article/jggMBa
 民視新聞,https://today.line.me/tw/v2/article/PNNoG5
