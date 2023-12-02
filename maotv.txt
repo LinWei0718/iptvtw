@@ -301,7 +301,6 @@ CI罪犯偵緝,https://www.histar.tv/live/ci
 夜視嗅探,#genre#
 parse=1
 player=1
-ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 民視,https://yeslivetv.com/channels/ftv-hd/
 中視,https://yeslivetv.com/channels/ctv-hd/
 華視,https://yeslivetv.com/channels/cts-hd/
@@ -315,7 +314,7 @@ ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gec
 愛爾達體育3,https://yeslivetv.com/channels/elta-tv-3/
 ELEVEN體育1,https://yeslivetv.com/channels/eleven-sports-1/
 ELEVEN體育2,https://yeslivetv.com/channels/eleven-sports-2/
-VIP_8888,#genre#
+VIP,#genre#
 💖奥視1,http://125.227.210.55:20845/VideoInput/play.ts
 🔮奥視2,http://125.227.210.55:55643/VideoInput/play.ts
 👅奥視3,http://125.227.210.55:62697/VideoInput/play.ts
