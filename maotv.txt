@@ -306,8 +306,8 @@ player=1
 非凡商業,https://yeslivetv.com/channels/ustvbiz/
 非凡新聞,https://yeslivetv.com/channels/ustv/
 采昌戲劇,https://yeslivetv.com/channels/ccii-ch629/
-VIP,#genre#
-pass=8888
+VIP_8888,#genre#
+pass=true
 💖奥視1,http://125.227.210.55:20845/VideoInput/play.ts
 🔮奥視2,http://125.227.210.55:55643/VideoInput/play.ts
 👅奥視3,http://125.227.210.55:62697/VideoInput/play.ts
