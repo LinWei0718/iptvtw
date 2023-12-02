@@ -298,8 +298,6 @@ H2,https://www.histar.tv/live/history-2
 亞州旅遊,https://www.histar.tv/live/asia-travel
 TLC旅遊生活,https://www.histar.tv/live/tlc
 CI罪犯偵緝,https://www.histar.tv/live/ci
-parse=1
-player=1
 中視,https://yeslivetv.com/channels/ctv-hd/
 華視,https://yeslivetv.com/channels/cts-hd/
 非凡商業,https://yeslivetv.com/channels/ustvbiz/
