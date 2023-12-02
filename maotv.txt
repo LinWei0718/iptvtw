@@ -240,7 +240,7 @@ MOMO1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 MOMO2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 原住民電視,http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500
 LOVENATURE,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-蜂蜜網頁嗅探,#genre#
+星視界嗅探,#genre#
 parse=1
 player=2
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -295,7 +295,7 @@ H2,https://www.histar.tv/live/history-2
 亞州旅遊,https://www.histar.tv/live/asia-travel
 TLC旅遊生活,https://www.histar.tv/live/tlc
 CI罪犯偵緝,https://www.histar.tv/live/ci
-蜂蜜夜視網頁嗅探,#genre#
+夜視嗅探,#genre#
 parse=1
 player=1
 民視,https://yeslivetv.com/channels/ftv-hd/
@@ -304,6 +304,7 @@ player=1
 公視,https://yeslivetv.com/channels/pts/
 非凡商業,https://yeslivetv.com/channels/ustvbiz/
 非凡新聞,https://yeslivetv.com/channels/ustv/
+三立綜合,https://yeslivetv.com/channels/set/
 愛爾達娛樂,https://yeslivetv.com/channels/eltatv-entertainment/
 愛爾達體育1,https://yeslivetv.com/channels/elta-tv-1/
 愛爾達體育2,https://yeslivetv.com/channels/elta-tv-2/
