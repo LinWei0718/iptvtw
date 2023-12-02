@@ -246,6 +246,9 @@ player=2
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 東森新聞,https://today.line.me/tw/v2/article/grrvVZ
 TVBS新聞,https://today.line.me/tw/v2/article/jggMBa
+民視新聞,https://today.line.me/tw/v2/article/PNNoG5
+台灣生活新聞,https://today.line.me/tw/v2/article/Lvpg70
+UBA直播,https://today.line.me/tw/v2/article/j7J22GY
 台視,https://www.histar.tv/live/ttv
 中視,https://www.histar.tv/live/ctv
 華視,https://www.histar.tv/live/cts
