@@ -298,6 +298,7 @@ CI罪犯偵緝,https://www.histar.tv/live/ci
 夜視嗅探,#genre#
 parse=1
 player=1
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 民視,https://yeslivetv.com/channels/ftv-hd/
 中視,https://yeslivetv.com/channels/ctv-hd/
 華視,https://yeslivetv.com/channels/cts-hd/
