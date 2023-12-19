@@ -1,4 +1,4 @@
-📺嗅探直播,#genre#
+📺台灣嗅探直播,#genre#
 parse=1
 player=2
 東森新聞,https://today.line.me/tw/v2/article/grrvVZ
