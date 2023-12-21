@@ -1,6 +1,9 @@
 📺台灣嗅探直播,#genre#
 parse=1
 player=2
+台視,https://www.ofiii.com/channel/watch/4gtv-4gtv066
+中視,https://www.ofiii.com/channel/watch/4gtv-4gtv040
+華視,https://www.ofiii.com/channel/watch/4gtv-4gtv041
 afn,http://everydaytv.top/play-3-1-0.html
 Animax,http://everydaytv.top/play-3-2-0.html
 Animax,https://www.histar.tv/live/animax-cartoon
