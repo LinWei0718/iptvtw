@@ -11,7 +11,7 @@ udp://@230.1.2.77:11111
 udp://@224.1.4.184:11111
 #EXTINF:-1,ArirangTV
 udp://@224.1.4.92:11111
-#EXTINF:-1,Babytv(下架)
+#EXTINF:-1,ROCK ACTION
 udp://@230.1.2.181:11111
 #EXTINF:-1,BBCEARTH
 udp://@230.1.2.172:11111
@@ -223,13 +223,13 @@ udp://@224.1.4.99:11111
 udp://@224.1.4.171:11111
 #EXTINF:-1,SMART知识
 udp://@224.1.4.22:11111
-#EXTINF:-1,STARMOVIESHD
+#EXTINF:-1,STARMOVIESHD(下架)
 udp://@230.1.2.164:11111
-#EXTINF:-1,STARMOVIESHD
+#EXTINF:-1,STARMOVIESHD(下架)
 udp://@230.1.2.2:11111
-#EXTINF:-1,StarWorld
+#EXTINF:-1,StarWorld(下架)
 udp://@224.1.4.27:11111
-#EXTINF:-1,StarWorld
+#EXTINF:-1,StarWorld(下架)
 udp://@230.1.2.160:11111
 #EXTINF:-1,TaiwanPlus
 udp://@230.1.2.210:11111
@@ -553,13 +553,13 @@ udp://@230.1.2.74:11111
 udp://@224.1.4.17:11111
 #EXTINF:-1,客家电视台
 udp://@224.1.4.201:11111
-#EXTINF:-1,星卫HD电影
+#EXTINF:-1,星卫HD电影(下架)
 udp://@224.1.4.18:11111
-#EXTINF:-1,星卫HD电影
+#EXTINF:-1,星卫HD电影(下架)
 udp://@230.1.2.153:11111
-#EXTINF:-1,星卫娱乐
+#EXTINF:-1,星卫娱乐(下架)
 udp://@230.1.2.218:11111
-#EXTINF:-1,星卫娱乐
+#EXTINF:-1,星卫娱乐(下架)
 udp://@230.1.2.38:11111
 #EXTINF:-1,美亚高清电影台
 udp://@224.1.4.91:11111
