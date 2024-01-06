@@ -1,779 +1,780 @@
+
 #EXTM3U
-#EXTINF:-1,amc
+#EXTINF:-1 group-title="影劇",amc
 udp://@224.1.4.43:11111
-#EXTINF:-1,amc
+#EXTINF:-1 group-title="影劇",amc
 udp://@230.1.2.157:11111
-#EXTINF:-1,Animax
+#EXTINF:-1 group-title="動畫",Animax
 udp://@224.1.4.237:11111
-#EXTINF:-1,Animax
+#EXTINF:-1 group-title="動畫",Animax
 udp://@230.1.2.77:11111
-#EXTINF:-1,ArirangTV
+#EXTINF:-1 group-title="新聞",ArirangTV
 udp://@224.1.4.184:11111
-#EXTINF:-1,ArirangTV
+#EXTINF:-1 group-title="新聞",ArirangTV
 udp://@224.1.4.92:11111
-#EXTINF:-1,ROCK ACTION
+#EXTINF:-1 group-title="影劇",ROCK ACTION
 udp://@230.1.2.181:11111
-#EXTINF:-1,BBCEARTH
+#EXTINF:-1 group-title="知識",BBCEARTH
 udp://@230.1.2.172:11111
-#EXTINF:-1,BBCEARTH
+#EXTINF:-1 group-title="知識",BBCEARTH
 udp://@230.1.2.9:11111
-#EXTINF:-1,BBCLifestyle
+#EXTINF:-1 group-title="知識",BBCLifestyle
 udp://@230.1.2.10:11111
-#EXTINF:-1,BBCLifestyle
+#EXTINF:-1 group-title="知識",BBCLifestyle
 udp://@230.1.2.173:11111
-#EXTINF:-1,BBCWORLDNEWS
+#EXTINF:-1 group-title="新聞",BBCWORLDNEWS
 udp://@224.1.4.52:11111
-#EXTINF:-1,BBCWORLDNEWS
+#EXTINF:-1 group-title="新聞",BBCWORLDNEWS
 udp://@230.1.2.250:11111
-#EXTINF:-1,BloombergTV
+#EXTINF:-1 group-title="新聞",BloombergTV
 udp://@224.1.4.197:11111
-#EXTINF:-1,BloombergTV
+#EXTINF:-1 group-title="新聞",BloombergTV
 udp://@224.1.4.79:11111
-#EXTINF:-1,CARTOONITO
+#EXTINF:-1 group-title="動畫",CARTOONITO
 udp://@224.1.4.15:11111
-#EXTINF:-1,CARTOONITO
+#EXTINF:-1 group-title="動畫",CARTOONITO
 udp://@224.1.4.161:11111
-#EXTINF:-1,CATCHPLAY电影
+#EXTINF:-1 group-title="影劇",CATCHPLAY电影
 udp://@230.1.2.217:11111
-#EXTINF:-1,CATCHPLAY电影
+#EXTINF:-1 group-title="影劇",CATCHPLAY电影
 udp://@230.1.2.37:11111
-#EXTINF:-1,CBeebies
+#EXTINF:-1 group-title="動畫",CBeebies
 udp://@224.1.4.213:11111
-#EXTINF:-1,CBeebies
+#EXTINF:-1 group-title="動畫",CBeebies
 udp://@224.1.4.75:11111
-#EXTINF:-1,Channel NewsAsia
+#EXTINF:-1 group-title="新聞",Channel NewsAsia
 udp://@224.1.4.139:11111
-#EXTINF:-1,Channel NewsAsia
+#EXTINF:-1 group-title="新聞",Channel NewsAsia
 udp://@230.1.2.11:11111
-#EXTINF:-1,CinemaWorld
+#EXTINF:-1 group-title="影劇",CinemaWorld
 udp://@230.1.2.201:11111
-#EXTINF:-1,CinemaWorld
+#EXTINF:-1 group-title="影劇",CinemaWorld
 udp://@230.1.2.222:11111
-#EXTINF:-1,CinemaWorld
+#EXTINF:-1 group-title="影劇",CinemaWorld
 udp://@230.1.2.3:11111
-#EXTINF:-1,CMusic
+#EXTINF:-1 group-title="音樂",CMusic
 udp://@224.1.4.159:11111
-#EXTINF:-1,CMusic
+#EXTINF:-1 group-title="音樂",CMusic
 udp://@230.1.2.60:11111
-#EXTINF:-1,CNBC Asia
+#EXTINF:-1 group-title="新聞",CNBC Asia
 udp://@224.1.4.118:11111
-#EXTINF:-1,CNBC Asia
+#EXTINF:-1 group-title="新聞",CNBC Asia
 udp://@224.1.4.140:11111
-#EXTINF:-1,CNN WORLD SPORT
+#EXTINF:-1 group-title="體育",CNN WORLD SPORT
 udp://@224.1.4.235:11111
-#EXTINF:-1,CNNI
+#EXTINF:-1 group-title="新聞",CNNI
 udp://@230.1.2.69:11111
-#EXTINF:-1,DiscoveryAsia
+#EXTINF:-1 group-title="知識",DiscoveryAsia
 udp://@230.1.2.168:11111
-#EXTINF:-1,DiscoveryAsia
+#EXTINF:-1 group-title="知識",DiscoveryAsia
 udp://@230.1.2.6:11111
-#EXTINF:-1,Discovery科学
+#EXTINF:-1 group-title="知識",Discovery科学
 udp://@230.1.2.12:11111
-#EXTINF:-1,Discovery科学
+#EXTINF:-1 group-title="知識",Discovery科学
 udp://@230.1.2.212:11111
-#EXTINF:-1,DMAX
+#EXTINF:-1 group-title="知識",DMAX
 udp://@230.1.2.13:11111
-#EXTINF:-1,DMAX
+#EXTINF:-1 group-title="知識",DMAX
 udp://@230.1.2.213:11111
-#EXTINF:-1,DreamWorks
+#EXTINF:-1 group-title="動畫",DreamWorks
 udp://@224.1.4.121:11111
-#EXTINF:-1,DreamWorks
+#EXTINF:-1 group-title="動畫",DreamWorks
 udp://@224.1.4.177:11111
-#EXTINF:-1,DW
+#EXTINF:-1 group-title="新聞",DW
 udp://@224.1.4.120:11111
-#EXTINF:-1,DW
+#EXTINF:-1 group-title="新聞",DW
 udp://@224.1.4.147:11111
-#EXTINF:-1,ELEVEN SPORTS PLUS
+#EXTINF:-1 group-title="體育",ELEVEN SPORTS PLUS
 udp://@224.1.4.115:11111
-#EXTINF:-1,ELEVEN SPORTS PLUS
+#EXTINF:-1 group-title="體育",ELEVEN SPORTS PLUS
 udp://@224.1.4.189:11111
-#EXTINF:-1,ELEVEN体育二台
+#EXTINF:-1 group-title="體育",ELEVEN体育二台
 udp://@224.1.4.156:11111
-#EXTINF:-1,ELEVEN体育二台
+#EXTINF:-1 group-title="體育",ELEVEN体育二台
 udp://@230.1.2.79:11111
-#EXTINF:-1,ELTV生活英语台
+#EXTINF:-1 group-title="知識",ELTV生活英语台
 udp://@224.1.4.216:11111
-#EXTINF:-1,ELTV生活英语台
+#EXTINF:-1 group-title="知識",ELTV生活英语台
 udp://@230.1.2.83:11111
-#EXTINF:-1,ETtodav综合台
+#EXTINF:-1 group-title="綜合",ETtodav综合台
 udp://@224.1.4.212:11111
-#EXTINF:-1,Euronews
+#EXTINF:-1 group-title="新聞",Euronews
 udp://@224.1.4.119:11111
-#EXTINF:-1,EUROSPORT
+#EXTINF:-1 group-title="體育",EUROSPORT
 udp://@224.1.4.135:11111
-#EXTINF:-1,EVE
+#EXTINF:-1 group-title="綜合",EVE
 udp://@230.1.2.14:11111
-#EXTINF:-1,EVE
+#EXTINF:-1 group-title="綜合",EVE
 udp://@230.1.2.214:11111
-#EXTINF:-1,EYE戏剧
+#EXTINF:-1 group-title="影劇",EYE戏剧
 udp://@224.1.4.60:11111
-#EXTINF:-1,EYE戏剧
+#EXTINF:-1 group-title="影劇",EYE戏剧
 udp://@230.1.2.134:11111
-#EXTINF:-1,EYE旅游
+#EXTINF:-1 group-title="綜合",EYE旅游
 udp://@224.1.4.192:11111
-#EXTINF:-1,EYE旅游
+#EXTINF:-1 group-title="綜合",EYE旅游
 udp://@224.1.4.61:11111
-#EXTINF:-1,EYE旅游
+#EXTINF:-1 group-title="綜合",EYE旅游
 udp://@230.1.2.135:11111
-#EXTINF:-1,FashionTV
+#EXTINF:-1 group-title="綜合",FashionTV
 udp://@230.1.2.177:11111
-#EXTINF:-1,FOODNETWORK美食台
+#EXTINF:-1 group-title="綜合",FOODNETWORK美食台
 udp://@224.1.4.211:11111
-#EXTINF:-1,FOODNETWORK美食台
+#EXTINF:-1 group-title="綜合",FOODNETWORK美食台
 udp://@224.1.4.57:11111
-#EXTINF:-1,FRANCE24E
+#EXTINF:-1 group-title="新聞",FRANCE24E
 udp://@224.1.4.166:11111
-#EXTINF:-1,FRANCE24E
+#EXTINF:-1 group-title="新聞",FRANCE24E
 udp://@230.1.2.24:11111
-#EXTINF:-1,FRANCE24F
+#EXTINF:-1 group-title="新聞",FRANCE24F
 udp://@230.1.2.15:11111
-#EXTINF:-1,Global Trekker
+#EXTINF:-1 group-title="知識",Global Trekker
 udp://@224.1.4.162:11111
-#EXTINF:-1,Global Trekker
+#EXTINF:-1 group-title="知識",Global Trekker
 udp://@224.1.4.82:11111
-#EXTINF:-1,GOODTV2
+#EXTINF:-1 group-title="宗教",GOODTV2
 udp://@224.1.4.122:11111
-#EXTINF:-1,GOODTV2
+#EXTINF:-1 group-title="宗教",GOODTV2
 udp://@230.1.2.151:11111
-#EXTINF:-1,HGTV居家乐活
+#EXTINF:-1 group-title="綜合",HGTV居家乐活
 udp://@224.1.4.183:11111
-#EXTINF:-1,HGTV居家乐活
+#EXTINF:-1 group-title="綜合",HGTV居家乐活
 udp://@224.1.4.80:11111
-#EXTINF:-1,HITS
+#EXTINF:-1 group-title="影劇",HITS
 udp://@224.1.4.136:11111
-#EXTINF:-1,i-Fun动漫台
+#EXTINF:-1 group-title="動畫",i-Fun动漫台
 udp://@230.1.2.223:11111
-#EXTINF:-1,i-Fun动漫台
+#EXTINF:-1 group-title="動畫",i-Fun动漫台
 udp://@230.1.2.26:11111
-#EXTINF:-1,INULTRA
+#EXTINF:-1 group-title="綜合",INULTRA
 udp://@230.1.2.145:11111
-#EXTINF:-1,KIDS(下架)
+#EXTINF:-1 group-title="動畫",KIDS(下架)
 udp://@230.1.2.150:11111
-#EXTINF:-1,Lifetime
+#EXTINF:-1 group-title="綜合",Lifetime
 udp://@224.1.4.230:11111
-#EXTINF:-1,Lifetime
+#EXTINF:-1 group-title="綜合",Lifetime
 udp://@230.1.2.64:11111
-#EXTINF:-1,LOVE NATURE 4K
+#EXTINF:-1 group-title="動物",LOVE NATURE 4K
 udp://@224.1.4.182:11111
-#EXTINF:-1,LUXETV
+#EXTINF:-1 group-title="綜合",LUXETV
 udp://@230.1.2.16:11111
-#EXTINF:-1,LUXETV
+#EXTINF:-1 group-title="綜合",LUXETV
 udp://@230.1.2.176:11111
-#EXTINF:-1,MCE 我的欧洲电影台
+#EXTINF:-1 group-title="影劇",MCE 我的欧洲电影台
 udp://@230.1.2.129:11111
-#EXTINF:-1,MezzoLiveHD
+#EXTINF:-1 group-title="音樂",MezzoLiveHD
 udp://@224.1.4.240:11111
-#EXTINF:-1,MezzoLiveHD
+#EXTINF:-1 group-title="音樂",MezzoLiveHD
 udp://@230.1.2.81:11111
-#EXTINF:-1,MOD 4K LIVE
+#EXTINF:-1 group-title="體育",MOD 4K LIVE
 udp://@230.1.2.203:11111
-#EXTINF:-1,MOD电影推荐内容
+#EXTINF:-1 group-title="其他",MOD电影推荐内容
 udp://@224.1.4.196:11111
-#EXTINF:-1,MOD影剧推荐内容
+#EXTINF:-1 group-title="其他",MOD影剧推荐内容
 udp://@224.1.4.102:11111
-#EXTINF:-1,MOD影剧推荐内容
+#EXTINF:-1 group-title="其他",MOD影剧推荐内容
 udp://@224.1.4.160:11111
-#EXTINF:-1,MOD影剧推荐内容
+#EXTINF:-1 group-title="其他",MOD影剧推荐内容
 udp://@224.1.4.98:11111
-#EXTINF:-1,momo1台
+#EXTINF:-1 group-title="購物",momo1台
 udp://@224.1.4.229:11111
-#EXTINF:-1,momo1台
+#EXTINF:-1 group-title="購物",momo1台
 udp://@230.1.2.63:11111
-#EXTINF:-1,momo2台
+#EXTINF:-1 group-title="購物",momo2台
 udp://@224.1.4.217:11111
-#EXTINF:-1,momo2台
+#EXTINF:-1 group-title="購物",momo2台
 udp://@230.1.2.90:11111
-#EXTINF:-1,MTV Live
+#EXTINF:-1 group-title="音樂",MTV Live
 udp://@230.1.2.246:11111
-#EXTINF:-1,MTV Live
+#EXTINF:-1 group-title="音樂",MTV Live
 udp://@230.1.2.86:11111
-#EXTINF:-1,MTV综合台
+#EXTINF:-1 group-title="音樂",MTV综合台
 udp://@230.1.2.231:11111
-#EXTINF:-1,MTV综合台
+#EXTINF:-1 group-title="音樂",MTV综合台
 udp://@230.1.2.43:11111
-#EXTINF:-1,NBA动态
+#EXTINF:-1 group-title="體育",NBA动态
 udp://@224.1.4.144:11111
-#EXTINF:-1,NHK新闻信息台
+#EXTINF:-1 group-title="新聞",NHK新闻信息台
 udp://@224.1.4.137:11111
-#EXTINF:-1,靖天欢乐台
+#EXTINF:-1 group-title="綜合",靖天欢乐台
 udp://@224.1.4.105:11111
-#EXTINF:-1,靖天欢乐台
+#EXTINF:-1 group-title="綜合",靖天欢乐台
 udp://@230.1.2.241:11111
-#EXTINF:-1,NICKELODEON
+#EXTINF:-1 group-title="動畫",NICKELODEON
 udp://@224.1.4.249:11111
-#EXTINF:-1,NickJr.
+#EXTINF:-1 group-title="動畫",NickJr.
 udp://@224.1.4.179:11111
-#EXTINF:-1,NickJr.
+#EXTINF:-1 group-title="動畫",NickJr.
 udp://@224.1.4.45:11111
-#EXTINF:-1,NickJr.
+#EXTINF:-1 group-title="動畫",NickJr.
 udp://@224.1.4.58:11111
-#EXTINF:-1,PET CLUB TV
+#EXTINF:-1 group-title="動物",PET CLUB TV
 udp://@224.1.4.124:11111
-#EXTINF:-1,PET CLUB TV
+#EXTINF:-1 group-title="動物",PET CLUB TV
 udp://@230.1.2.130:11111
-#EXTINF:-1,ROCK Entertainment
+#EXTINF:-1 group-title="音樂",ROCK Entertainment
 udp://@224.1.4.131:11111
-#EXTINF:-1,ROCK Entertainment
+#EXTINF:-1 group-title="音樂",ROCK Entertainment
 udp://@224.1.4.14:11111
-#EXTINF:-1,ROCK Extreme
+#EXTINF:-1 group-title="體育",ROCK Extreme
 udp://@224.1.4.146:11111
-#EXTINF:-1,ROCK Extreme
+#EXTINF:-1 group-title="體育",ROCK Extreme
 udp://@224.1.4.99:11111
-#EXTINF:-1,SMART知识
+#EXTINF:-1 group-title="知識",SMART知识
 udp://@224.1.4.171:11111
-#EXTINF:-1,SMART知识
+#EXTINF:-1 group-title="知識",SMART知识
 udp://@224.1.4.22:11111
-#EXTINF:-1,STARMOVIESHD(下架)
+#EXTINF:-1 group-title="影劇",STARMOVIESHD(下架)
 udp://@230.1.2.164:11111
-#EXTINF:-1,STARMOVIESHD(下架)
+#EXTINF:-1 group-title="影劇",STARMOVIESHD(下架)
 udp://@230.1.2.2:11111
-#EXTINF:-1,StarWorld(下架)
+#EXTINF:-1 group-title="影劇",StarWorld(下架)
 udp://@224.1.4.27:11111
-#EXTINF:-1,StarWorld(下架)
+#EXTINF:-1 group-title="影劇",StarWorld(下架)
 udp://@230.1.2.160:11111
-#EXTINF:-1,TaiwanPlus
+#EXTINF:-1 group-title="新聞",TaiwanPlus
 udp://@230.1.2.210:11111
-#EXTINF:-1,TaiwanPlus
+#EXTINF:-1 group-title="新聞",TaiwanPlus
 udp://@230.1.2.30:11111
-#EXTINF:-1,TechStorm
+#EXTINF:-1 group-title="綜合",TechStorm
 udp://@224.1.4.11:11111
-#EXTINF:-1,TECHStorm
+#EXTINF:-1 group-title="綜合",TECHStorm
 udp://@230.1.2.159:11111
-#EXTINF:-1,TOP MODELS
+#EXTINF:-1 group-title="綜合",TOP MODELS
 udp://@230.1.2.25:11111
-#EXTINF:-1,TRACESPORTS
+#EXTINF:-1 group-title="體育",TRACESPORTS
 udp://@224.1.4.242:11111
-#EXTINF:-1,TRACESPORTS
+#EXTINF:-1 group-title="體育",TRACESPORTS
 udp://@230.1.2.84:11111
-#EXTINF:-1,TRACEURBAN
+#EXTINF:-1 group-title="音樂",TRACEURBAN
 udp://@224.1.4.241:11111
-#EXTINF:-1,TRACEURBAN
+#EXTINF:-1 group-title="音樂",TRACEURBAN
 udp://@230.1.2.82:11111
-#EXTINF:-1,TRAVELCHANNEL
+#EXTINF:-1 group-title="綜合",TRAVELCHANNEL
 udp://@230.1.2.166:11111
-#EXTINF:-1,TRAVELCHANNEL
+#EXTINF:-1 group-title="綜合",TRAVELCHANNEL
 udp://@230.1.2.4:11111
-#EXTINF:-1,TV5MONDE STYLE
+#EXTINF:-1 group-title="綜合",TV5MONDE STYLE
 udp://@224.1.4.108:11111
-#EXTINF:-1,TV5MONDE STYLE
+#EXTINF:-1 group-title="綜合",TV5MONDE STYLE
 udp://@224.1.4.208:11111
-#EXTINF:-1,TV5MONDE
+#EXTINF:-1 group-title="綜合",TV5MONDE
 udp://@224.1.4.148:11111
-#EXTINF:-1,TV5MONDE
+#EXTINF:-1 group-title="綜合",TV5MONDE
 udp://@224.1.4.16:11111
-#EXTINF:-1,TVBS
+#EXTINF:-1 group-title="綜合",TVBS
 udp://@224.1.4.153:11111
-#EXTINF:-1,TVBS
+#EXTINF:-1 group-title="綜合",TVBS
 udp://@224.1.4.24:11111
-#EXTINF:-1,TVBS欢乐台
+#EXTINF:-1 group-title="綜合",TVBS欢乐台
 udp://@224.1.4.154:11111
-#EXTINF:-1,TVBS新闻台
+#EXTINF:-1 group-title="新聞",TVBS新闻台
 udp://@224.1.4.13:11111
-#EXTINF:-1,TVBS新闻台
+#EXTINF:-1 group-title="新聞",TVBS新闻台
 udp://@224.1.4.152:11111
-#EXTINF:-1,TVBS精采台
+#EXTINF:-1 group-title="綜合",TVBS精采台
 udp://@230.1.2.225:11111
-#EXTINF:-1,TVBS精采台
+#EXTINF:-1 group-title="綜合",TVBS精采台
 udp://@230.1.2.35:11111
-#EXTINF:-1,tvN
+#EXTINF:-1 group-title="影劇",tvN
 udp://@224.1.4.111:11111
-#EXTINF:-1,tvN
+#EXTINF:-1 group-title="影劇",tvN
 udp://@230.1.2.174:11111
-#EXTINF:-1,人间卫视
+#EXTINF:-1 group-title="宗教",人间卫视
 udp://@224.1.4.89:11111
-#EXTINF:-1,人间卫视
+#EXTINF:-1 group-title="宗教",人间卫视
 udp://@230.1.2.193:11111
-#EXTINF:-1,八大优
+#EXTINF:-1 group-title="影劇",八大优
 udp://@224.1.4.86:11111
-#EXTINF:-1,八大优
+#EXTINF:-1 group-title="影劇",八大优
 udp://@230.1.2.239:11111
-#EXTINF:-1,三立戏剧
+#EXTINF:-1 group-title="影劇",三立戏剧
 udp://@230.1.2.232:11111
-#EXTINF:-1,三立戏剧
+#EXTINF:-1 group-title="影劇",三立戏剧
 udp://@230.1.2.44:11111
-#EXTINF:-1,三立财经新闻台
+#EXTINF:-1 group-title="新聞",三立财经新闻台
 udp://@230.1.2.191:11111
-#EXTINF:-1,三立财经新闻台
+#EXTINF:-1 group-title="新聞",三立财经新闻台
 udp://@230.1.2.21:11111
-#EXTINF:-1,三立综合台
+#EXTINF:-1 group-title="綜合",三立综合台
 udp://@230.1.2.192:11111
-#EXTINF:-1,三立综合台
+#EXTINF:-1 group-title="綜合",三立综合台
 udp://@230.1.2.208:11111
-#EXTINF:-1,三立综合台
+#EXTINF:-1 group-title="綜合",三立综合台
 udp://@230.1.2.22:11111
-#EXTINF:-1,大立电视台
+#EXTINF:-1 group-title="其他",大立电视台
 udp://@224.1.4.142:11111
-#EXTINF:-1,大立电视台
+#EXTINF:-1 group-title="其他",大立电视台
 udp://@224.1.4.73:11111
-#EXTINF:-1,大爱一台
+#EXTINF:-1 group-title="宗教",大爱一台
 udp://@224.1.4.54:11111
-#EXTINF:-1,大爱一台
+#EXTINF:-1 group-title="宗教",大爱一台
 udp://@230.1.2.190:11111
-#EXTINF:-1,大爱二台
+#EXTINF:-1 group-title="宗教",大爱二台
 udp://@230.1.2.199:11111
-#EXTINF:-1,大爱二台
+#EXTINF:-1 group-title="宗教",大爱二台
 udp://@230.1.2.29:11111
-#EXTINF:-1,中信兄弟4K多视角
+#EXTINF:-1 group-title="體育",中信兄弟4K多视角
 udp://@224.1.4.127:11111
-#EXTINF:-1,中视
+#EXTINF:-1 group-title="無線台",中视
 udp://@224.1.4.10:11111
-#EXTINF:-1,中视
+#EXTINF:-1 group-title="無線台",中视
 udp://@230.1.2.228:11111
-#EXTINF:-1,中视经典
+#EXTINF:-1 group-title="無線台",中视经典
 udp://@224.1.4.219:11111
-#EXTINF:-1,中视经典
+#EXTINF:-1 group-title="無線台",中视经典
 udp://@224.1.4.33:11111
-#EXTINF:-1,中视菁采台
+#EXTINF:-1 group-title="無線台",中视菁采台
 udp://@230.1.2.224:11111
-#EXTINF:-1,中视菁采台
+#EXTINF:-1 group-title="無線台",中视菁采台
 udp://@230.1.2.34:11111
-#EXTINF:-1,中视新闻
+#EXTINF:-1 group-title="新聞",中视新闻
 udp://@224.1.4.252:11111
-#EXTINF:-1,中视新闻
+#EXTINF:-1 group-title="新聞",中视新闻
 udp://@224.1.4.50:11111
-#EXTINF:-1,公视
+#EXTINF:-1 group-title="無線台",公视
 udp://@224.1.4.53:11111
-#EXTINF:-1,公视
+#EXTINF:-1 group-title="無線台",公视
 udp://@230.1.2.230:11111
-#EXTINF:-1,公视2
+#EXTINF:-1 group-title="無線台",公视2
 udp://@230.1.2.185:11111
-#EXTINF:-1,公视三台
+#EXTINF:-1 group-title="無線台",公视三台
 udp://@224.1.4.228:11111
-#EXTINF:-1,公视三台
+#EXTINF:-1 group-title="無線台",公视三台
 udp://@230.1.2.62:11111
-#EXTINF:-1,公视台语台
+#EXTINF:-1 group-title="無線台",公视台语台
 udp://@230.1.2.31:11111
-#EXTINF:-1,HISTORY
+#EXTINF:-1 group-title="知識",HISTORY
 udp://@230.1.2.216:11111
-#EXTINF:-1,HISTORY
+#EXTINF:-1 group-title="知識",HISTORY
 udp://@230.1.2.36:11111
-#EXTINF:-1,天天电视
+#EXTINF:-1 group-title="其他",天天电视
 udp://@224.1.4.29:11111
-#EXTINF:-1,天天电视
+#EXTINF:-1 group-title="其他",天天电视
 udp://@230.1.2.245:11111
-#EXTINF:-1,世界羽球杂志
+#EXTINF:-1 group-title="體育",世界羽球杂志
 udp://@224.1.4.117:11111
-#EXTINF:-1,世界羽球杂志
+#EXTINF:-1 group-title="體育",世界羽球杂志
 udp://@224.1.4.191:11111
-#EXTINF:-1,东森购物1台
+#EXTINF:-1 group-title="購物",东森购物1台
 udp://@224.1.4.163:11111
-#EXTINF:-1,东森购物1台
+#EXTINF:-1 group-title="購物",东森购物1台
 udp://@230.1.2.73:11111
-#EXTINF:-1,东森购物2台
+#EXTINF:-1 group-title="購物",东森购物2台
 udp://@224.1.4.168:11111
-#EXTINF:-1,东森购物2台
+#EXTINF:-1 group-title="購物",东森购物2台
 udp://@230.1.2.45:11111
-#EXTINF:-1,东森购物3台
+#EXTINF:-1 group-title="購物",东森购物3台
 udp://@224.1.4.169:11111
-#EXTINF:-1,东森购物3台
+#EXTINF:-1 group-title="購物",东森购物3台
 udp://@230.1.2.171:11111
-#EXTINF:-1,东森购物3台
+#EXTINF:-1 group-title="購物",东森购物3台
 udp://@230.1.2.8:11111
-#EXTINF:-1,东森购物4台
+#EXTINF:-1 group-title="購物",东森购物4台
 udp://@224.1.4.176:11111
-#EXTINF:-1,东森购物4台
+#EXTINF:-1 group-title="購物",东森购物4台
 udp://@230.1.2.95:11111
-#EXTINF:-1,东森购物5台
+#EXTINF:-1 group-title="購物",东森购物5台
 udp://@230.1.2.33:11111
-#EXTINF:-1,半岛英语新闻台Al Jazeera
+#EXTINF:-1 group-title="新聞",半岛英语新闻台Al Jazeera
 udp://@230.1.2.128:11111
-#EXTINF:-1,古典音乐台
+#EXTINF:-1 group-title="音樂",古典音乐台
 udp://@224.1.4.74:11111
-#EXTINF:-1,古典音乐台
+#EXTINF:-1 group-title="音樂",古典音乐台
 udp://@230.1.2.139:11111
-#EXTINF:-1,台视
+#EXTINF:-1 group-title="無線台",台视
 udp://@224.1.4.8:11111
-#EXTINF:-1,台视
+#EXTINF:-1 group-title="無線台",台视
 udp://@230.1.2.227:11111
-#EXTINF:-1,台视财经台
+#EXTINF:-1 group-title="新聞",台视财经台
 udp://@224.1.4.248:11111
-#EXTINF:-1,台视财经台
+#EXTINF:-1 group-title="新聞",台视财经台
 udp://@224.1.4.32:11111
-#EXTINF:-1,台视综合台
+#EXTINF:-1 group-title="綜合",台视综合台
 udp://@224.1.4.170:11111
-#EXTINF:-1,台视综合台
+#EXTINF:-1 group-title="綜合",台视综合台
 udp://@224.1.4.31:11111
-#EXTINF:-1,台视新闻台
+#EXTINF:-1 group-title="新聞",台视新闻台
 udp://@224.1.4.215:11111
-#EXTINF:-1,台视新闻台
+#EXTINF:-1 group-title="新聞",台视新闻台
 udp://@230.1.2.99:11111
-#EXTINF:-1,台湾电视剧
+#EXTINF:-1 group-title="影劇",台湾电视剧
 udp://@224.1.4.62:11111
-#EXTINF:-1,台湾戏剧
+#EXTINF:-1 group-title="影劇",台湾戏剧
 udp://@230.1.2.154:11111
-#EXTINF:-1,正德电视台
+#EXTINF:-1 group-title="宗教",正德电视台
 udp://@224.1.4.195:11111
-#EXTINF:-1,正德电视台
+#EXTINF:-1 group-title="宗教",正德电视台
 udp://@224.1.4.95:11111
-#EXTINF:-1,民视
+#EXTINF:-1 group-title="無線台",民视
 udp://@224.1.4.6:11111
-#EXTINF:-1,民视
+#EXTINF:-1 group-title="無線台",民视
 udp://@230.1.2.226:11111
-#EXTINF:-1,民视台湾台
+#EXTINF:-1 group-title="無線台",民视台湾台
 udp://@224.1.4.227:11111
-#EXTINF:-1,民视台湾台
+#EXTINF:-1 group-title="無線台",民视台湾台
 udp://@230.1.2.61:11111
-#EXTINF:-1,民视第一台
+#EXTINF:-1 group-title="無線台",民视第一台
 udp://@224.1.4.218:11111
-#EXTINF:-1,民视第一台
+#EXTINF:-1 group-title="無線台",民视第一台
 udp://@224.1.4.77:11111
-#EXTINF:-1,民视新闻台
+#EXTINF:-1 group-title="新聞",民视新闻台
 udp://@224.1.4.97:11111
-#EXTINF:-1,民视新闻台
+#EXTINF:-1 group-title="新聞",民视新闻台
 udp://@230.1.2.155:11111
-#EXTINF:-1,生命电视
+#EXTINF:-1 group-title="宗教",生命电视
 udp://@224.1.4.93:11111
-#EXTINF:-1,生命电视
+#EXTINF:-1 group-title="宗教",生命电视
 udp://@230.1.2.187:11111
-#EXTINF:-1,龙华电影
+#EXTINF:-1 group-title="影劇",龙华电影
 udp://@224.1.4.251:11111
-#EXTINF:-1,龙华电影
+#EXTINF:-1 group-title="影劇",龙华电影
 udp://@224.1.4.36:11111
-#EXTINF:-1,龙华动画
+#EXTINF:-1 group-title="動畫",龙华动画
 udp://@224.1.4.109:11111
-#EXTINF:-1,龙华动画
+#EXTINF:-1 group-title="動畫",龙华动画
 udp://@224.1.4.180:11111
-#EXTINF:-1,龙华戏剧
+#EXTINF:-1 group-title="影劇",龙华戏剧
 udp://@224.1.4.41:11111
-#EXTINF:-1,龙华戏剧
+#EXTINF:-1 group-title="影劇",龙华戏剧
 udp://@230.1.2.149:11111
-#EXTINF:-1,龙华经典
+#EXTINF:-1 group-title="影劇",龙华经典
 udp://@224.1.4.172:11111
-#EXTINF:-1,龙华经典
+#EXTINF:-1 group-title="影劇",龙华经典
 udp://@224.1.4.44:11111
-#EXTINF:-1,龙华洋片
+#EXTINF:-1 group-title="影劇",龙华洋片
 udp://@224.1.4.37:11111
-#EXTINF:-1,龙华洋片
+#EXTINF:-1 group-title="影劇",龙华洋片
 udp://@230.1.2.211:11111
-#EXTINF:-1,龙华偶象
+#EXTINF:-1 group-title="影劇",龙华偶象
 udp://@224.1.4.39:11111
-#EXTINF:-1,龙华偶象
+#EXTINF:-1 group-title="影劇",龙华偶象
 udp://@230.1.2.156:11111
-#EXTINF:-1,龙华影剧
+#EXTINF:-1 group-title="影劇",龙华影剧
 udp://@230.1.2.167:11111
-#EXTINF:-1,龙华影剧
+#EXTINF:-1 group-title="影劇",龙华影剧
 udp://@230.1.2.5:11111
-#EXTINF:-1,亚洲美食频道
+#EXTINF:-1 group-title="綜合",亚洲美食频道
 udp://@230.1.2.233:11111
-#EXTINF:-1,亚洲美食频道
+#EXTINF:-1 group-title="綜合",亚洲美食频道
 udp://@230.1.2.85:11111
-#EXTINF:-1,亚洲旅游
+#EXTINF:-1 group-title="綜合",亚洲旅游
 udp://@224.1.4.34:11111
-#EXTINF:-1,亚洲旅游
+#EXTINF:-1 group-title="綜合",亚洲旅游
 udp://@230.1.2.175:11111
-#EXTINF:-1,亚洲综合
+#EXTINF:-1 group-title="綜合",亚洲综合
 udp://@224.1.4.209:11111
-#EXTINF:-1,亚洲综合
+#EXTINF:-1 group-title="綜合",亚洲综合
 udp://@224.1.4.78:11111
-#EXTINF:-1,华纳电视
+#EXTINF:-1 group-title="影劇",华纳电视
 udp://@224.1.4.234:11111
-#EXTINF:-1,华纳电视
+#EXTINF:-1 group-title="影劇",华纳电视
 udp://@230.1.2.68:11111
-#EXTINF:-1,华艺MBC
+#EXTINF:-1 group-title="綜合",华艺MBC
 udp://@224.1.4.130:11111
-#EXTINF:-1,华艺MBC
+#EXTINF:-1 group-title="綜合",华艺MBC
 udp://@230.1.2.1:11111
-#EXTINF:-1,华艺台湾台
+#EXTINF:-1 group-title="其他",华艺台湾台
 udp://@224.1.4.185:11111
-#EXTINF:-1,华艺台湾台
+#EXTINF:-1 group-title="其他",华艺台湾台
 udp://@224.1.4.71:11111
-#EXTINF:-1,华艺影剧
+#EXTINF:-1 group-title="影劇",华艺影剧
 udp://@230.1.2.17:11111
-#EXTINF:-1,华艺影剧
+#EXTINF:-1 group-title="影劇",华艺影剧
 udp://@230.1.2.200:11111
-#EXTINF:-1,华视
+#EXTINF:-1 group-title="無線台",华视
 udp://@224.1.4.12:11111
-#EXTINF:-1,华视
+#EXTINF:-1 group-title="無線台",华视
 udp://@230.1.2.229:11111
-#EXTINF:-1,华视教育体育文化台
+#EXTINF:-1 group-title="無線台",华视教育体育文化台
 udp://@224.1.4.223:11111
-#EXTINF:-1,华视教育体育文化台
+#EXTINF:-1 group-title="無線台",华视教育体育文化台
 udp://@224.1.4.96:11111
-#EXTINF:-1,华视新闻信息
+#EXTINF:-1 group-title="新聞",华视新闻信息
 udp://@224.1.4.55:11111
-#EXTINF:-1,华视新闻信息
+#EXTINF:-1 group-title="新聞",华视新闻信息
 udp://@230.1.2.248:11111
-#EXTINF:-1,华藏卫视
+#EXTINF:-1 group-title="宗教",华藏卫视
 udp://@224.1.4.181:11111
-#EXTINF:-1,华藏卫视
+#EXTINF:-1 group-title="宗教",华藏卫视
 udp://@224.1.4.90:11111
-#EXTINF:-1,GOODTV
+#EXTINF:-1 group-title="宗教",GOODTV
 udp://@224.1.4.4:11111
-#EXTINF:-1,GOODTV
+#EXTINF:-1 group-title="宗教",GOODTV
 udp://@230.1.2.165:11111
-#EXTINF:-1,佛卫慈悲台
+#EXTINF:-1 group-title="宗教",佛卫慈悲台
 udp://@224.1.4.178:11111
-#EXTINF:-1,佛卫慈悲台
+#EXTINF:-1 group-title="宗教",佛卫慈悲台
 udp://@224.1.4.84:11111
-#EXTINF:-1,纬来精采
+#EXTINF:-1 group-title="綜合",纬来精采
 udp://@224.1.4.222:11111
-#EXTINF:-1,纬来精采
+#EXTINF:-1 group-title="綜合",纬来精采
 udp://@230.1.2.72:11111
-#EXTINF:-1,达文西
+#EXTINF:-1 group-title="知識",达文西
 udp://@224.1.4.233:11111
-#EXTINF:-1,达文西
+#EXTINF:-1 group-title="知識",达文西
 udp://@230.1.2.67:11111
-#EXTINF:-1,国会频道1
+#EXTINF:-1 group-title="其他",国会频道1
 udp://@224.1.4.173:11111
-#EXTINF:-1,国会频道1
+#EXTINF:-1 group-title="其他",国会频道1
 udp://@230.1.2.41:11111
-#EXTINF:-1,国会频道2
+#EXTINF:-1 group-title="其他",国会频道2
 udp://@224.1.4.174:11111
-#EXTINF:-1,国会频道2
+#EXTINF:-1 group-title="其他",国会频道2
 udp://@230.1.2.42:11111
-#EXTINF:-1,国家地理野生(下架)
+#EXTINF:-1 group-title="知識",国家地理野生(下架)
 udp://@230.1.2.137:11111
-#EXTINF:-1,幸福空间居家台
+#EXTINF:-1 group-title="知識",幸福空间居家台
 udp://@224.1.4.123:11111
-#EXTINF:-1,幸福空间居家台
+#EXTINF:-1 group-title="知識",幸福空间居家台
 udp://@230.1.2.141:11111
-#EXTINF:-1,采昌综合
+#EXTINF:-1 group-title="綜合",采昌综合
 udp://@224.1.4.59:11111
-#EXTINF:-1,采昌影剧
+#EXTINF:-1 group-title="影劇",采昌影剧
 udp://@224.1.4.221:11111
-#EXTINF:-1,采昌影剧
+#EXTINF:-1 group-title="影劇",采昌影剧
 udp://@230.1.2.71:11111
-#EXTINF:-1,非凡新闻台
+#EXTINF:-1 group-title="新聞",非凡新闻台
 udp://@224.1.4.158:11111
-#EXTINF:-1,非凡新闻台
+#EXTINF:-1 group-title="新聞",非凡新闻台
 udp://@230.1.2.92:11111
-#EXTINF:-1,信吉电视台
+#EXTINF:-1 group-title="其他",信吉电视台
 udp://@230.1.2.247:11111
-#EXTINF:-1,信吉电视台
+#EXTINF:-1 group-title="其他",信吉电视台
 udp://@230.1.2.93:11111
-#EXTINF:-1,信吉艺文台
+#EXTINF:-1 group-title="其他",信吉艺文台
 udp://@230.1.2.182:11111
-#EXTINF:-1,信吉艺文台
+#EXTINF:-1 group-title="其他",信吉艺文台
 udp://@230.1.2.28:11111
-#EXTINF:-1,冠军电视台
+#EXTINF:-1 group-title="其他",冠军电视台
 udp://@224.1.4.224:11111
-#EXTINF:-1,冠军电视台
+#EXTINF:-1 group-title="其他",冠军电视台
 udp://@230.1.2.74:11111
-#EXTINF:-1,客家电视台
+#EXTINF:-1 group-title="無線台",客家电视台
 udp://@224.1.4.17:11111
-#EXTINF:-1,客家电视台
+#EXTINF:-1 group-title="無線台",客家电视台
 udp://@224.1.4.201:11111
-#EXTINF:-1,星卫HD电影(下架)
+#EXTINF:-1 group-title="影劇",星卫HD电影(下架)
 udp://@224.1.4.18:11111
-#EXTINF:-1,星卫HD电影(下架)
+#EXTINF:-1 group-title="影劇",星卫HD电影(下架)
 udp://@230.1.2.153:11111
-#EXTINF:-1,星卫娱乐(下架)
+#EXTINF:-1 group-title="影劇",星卫娱乐(下架)
 udp://@230.1.2.218:11111
-#EXTINF:-1,星卫娱乐(下架)
+#EXTINF:-1 group-title="影劇",星卫娱乐(下架)
 udp://@230.1.2.38:11111
-#EXTINF:-1,美亚高清电影台
+#EXTINF:-1 group-title="影劇",美亚高清电影台
 udp://@224.1.4.91:11111
-#EXTINF:-1,美亚高清电影台
+#EXTINF:-1 group-title="影劇",美亚高清电影台
 udp://@230.1.2.143:11111
-#EXTINF:-1,美好1台
+#EXTINF:-1 group-title="購物",美好1台
 udp://@224.1.4.167:11111
-#EXTINF:-1,美好1台
+#EXTINF:-1 group-title="購物",美好1台
 udp://@224.1.4.67:11111
-#EXTINF:-1,美好2台
+#EXTINF:-1 group-title="購物",美好2台
 udp://@224.1.4.145:11111
-#EXTINF:-1,美食星球
+#EXTINF:-1 group-title="綜合",美食星球
 udp://@224.1.4.19:11111
-#EXTINF:-1,美食星球
+#EXTINF:-1 group-title="綜合",美食星球
 udp://@230.1.2.178:11111
-#EXTINF:-1,视纳华仁纪实台
+#EXTINF:-1 group-title="影劇",视纳华仁纪实台
 udp://@224.1.4.206:11111
-#EXTINF:-1,视纳华仁纪实台
+#EXTINF:-1 group-title="影劇",视纳华仁纪实台
 udp://@230.1.2.96:11111
-#EXTINF:-1,原住民族
+#EXTINF:-1 group-title="無線台",原住民族
 udp://@224.1.4.76:11111
-#EXTINF:-1,原住民族
+#EXTINF:-1 group-title="無線台",原住民族
 udp://@230.1.2.235:11111
-#EXTINF:-1,爱尔达亚运1台
+#EXTINF:-1 group-title="體育",爱尔达亚运1台
 udp://@224.1.4.129:11111
-#EXTINF:-1,爱尔达亚运1台
+#EXTINF:-1 group-title="體育",爱尔达亚运1台
 udp://@224.1.4.94:11111
-#EXTINF:-1,爱尔达亚运2台
+#EXTINF:-1 group-title="體育",爱尔达亚运2台
 udp://@230.1.2.170:11111
-#EXTINF:-1,爱尔达亚运2台
+#EXTINF:-1 group-title="體育",爱尔达亚运2台
 udp://@230.1.2.7:11111
-#EXTINF:-1,爱尔达亚运3台
+#EXTINF:-1 group-title="體育",爱尔达亚运3台
 udp://@230.1.2.234:11111
-#EXTINF:-1,爱尔达亚运3台
+#EXTINF:-1 group-title="體育",爱尔达亚运3台
 udp://@230.1.2.87:11111
-#EXTINF:-1,爱尔达体育1
+#EXTINF:-1 group-title="體育",爱尔达体育1
 udp://@224.1.4.112:11111
-#EXTINF:-1,爱尔达体育1
+#EXTINF:-1 group-title="體育",爱尔达体育1
 udp://@230.1.2.131:11111
-#EXTINF:-1,爱尔达体育2
+#EXTINF:-1 group-title="體育",爱尔达体育2
 udp://@230.1.2.237:11111
-#EXTINF:-1,爱尔达体育2
+#EXTINF:-1 group-title="體育",爱尔达体育2
 udp://@230.1.2.88:11111
-#EXTINF:-1,爱尔达体育3
+#EXTINF:-1 group-title="體育",爱尔达体育3
 udp://@224.1.4.193:11111
-#EXTINF:-1,爱尔达体育3
+#EXTINF:-1 group-title="體育",爱尔达体育3
 udp://@230.1.2.91:11111
-#EXTINF:-1,爱尔达体育4台
+#EXTINF:-1 group-title="體育",爱尔达体育4台
 udp://@224.1.4.7:11111
-#EXTINF:-1,爱尔达体育4台
+#EXTINF:-1 group-title="體育",爱尔达体育4台
 udp://@230.1.2.146:11111
-#EXTINF:-1,爱尔达综合
+#EXTINF:-1 group-title="綜合",爱尔达综合
 udp://@224.1.4.114:11111
-#EXTINF:-1,爱尔达综合
+#EXTINF:-1 group-title="綜合",爱尔达综合
 udp://@230.1.2.133:11111
-#EXTINF:-1,爱尔达影剧
+#EXTINF:-1 group-title="影劇",爱尔达影剧
 udp://@224.1.4.113:11111
-#EXTINF:-1,爱尔达影剧
+#EXTINF:-1 group-title="影劇",爱尔达影剧
 udp://@230.1.2.132:11111
-#EXTINF:-1,唯心电视
+#EXTINF:-1 group-title="宗教",唯心电视
 udp://@224.1.4.200:11111
-#EXTINF:-1,唯心电视
+#EXTINF:-1 group-title="宗教",唯心电视
 udp://@230.1.2.80:11111
-#EXTINF:-1,曼迪日本
+#EXTINF:-1 group-title="動畫",曼迪日本
 udp://@230.1.2.242:11111
-#EXTINF:-1,曼迪日本
+#EXTINF:-1 group-title="動畫",曼迪日本
 udp://@230.1.2.89:11111
-#EXTINF:-1,梅迪奇艺术
+#EXTINF:-1 group-title="音樂",梅迪奇艺术
 udp://@224.1.4.26:11111
-#EXTINF:-1,梅迪奇艺术
+#EXTINF:-1 group-title="音樂",梅迪奇艺术
 udp://@230.1.2.180:11111
-#EXTINF:-1,博斯无限二台
+#EXTINF:-1 group-title="體育",博斯无限二台
 udp://@224.1.4.207:11111
-#EXTINF:-1,博斯无限二台
+#EXTINF:-1 group-title="體育",博斯无限二台
 udp://@230.1.2.97:11111
-#EXTINF:-1,博斯无限台
+#EXTINF:-1 group-title="體育",博斯无限台
 udp://@224.1.4.46:11111
-#EXTINF:-1,博斯无限台
+#EXTINF:-1 group-title="體育",博斯无限台
 udp://@230.1.2.215:11111
-#EXTINF:-1,博斯网球台
+#EXTINF:-1 group-title="體育",博斯网球台
 udp://@224.1.4.66:11111
-#EXTINF:-1,博斯网球台
+#EXTINF:-1 group-title="體育",博斯网球台
 udp://@230.1.2.198:11111
-#EXTINF:-1,博斯运动一台
+#EXTINF:-1 group-title="體育",博斯运动一台
 udp://@224.1.4.48:11111
-#EXTINF:-1,博斯运动一台
+#EXTINF:-1 group-title="體育",博斯运动一台
 udp://@230.1.2.158:11111
-#EXTINF:-1,博斯运动二台
+#EXTINF:-1 group-title="體育",博斯运动二台
 udp://@224.1.4.5:11111
-#EXTINF:-1,博斯运动二台
+#EXTINF:-1 group-title="體育",博斯运动二台
 udp://@230.1.2.196:11111
-#EXTINF:-1,博斯高球1台
+#EXTINF:-1 group-title="體育",博斯高球1台
 udp://@224.1.4.49:11111
-#EXTINF:-1,博斯高球1台
+#EXTINF:-1 group-title="體育",博斯高球1台
 udp://@230.1.2.183:11111
-#EXTINF:-1,博斯高球2台
+#EXTINF:-1 group-title="體育",博斯高球2台
 udp://@224.1.4.47:11111
-#EXTINF:-1,博斯高球2台
+#EXTINF:-1 group-title="體育",博斯高球2台
 udp://@230.1.2.197:11111
-#EXTINF:-1,博斯魅力网
+#EXTINF:-1 group-title="體育",博斯魅力网
 udp://@224.1.4.110:11111
-#EXTINF:-1,博斯魅力网
+#EXTINF:-1 group-title="體育",博斯魅力网
 udp://@224.1.4.250:11111
-#EXTINF:-1,壹电视电影台
+#EXTINF:-1 group-title="影劇",壹电视电影台
 udp://@230.1.2.189:11111
-#EXTINF:-1,壹电视电影台
+#EXTINF:-1 group-title="影劇",壹电视电影台
 udp://@230.1.2.19:11111
-#EXTINF:-1,壹电视综合台
+#EXTINF:-1 group-title="綜合",壹电视综合台
 udp://@230.1.2.220:11111
-#EXTINF:-1,壹电视综合台
+#EXTINF:-1 group-title="綜合",壹电视综合台
 udp://@230.1.2.40:11111
-#EXTINF:-1,壹电视新闻台
+#EXTINF:-1 group-title="新聞",壹电视新闻台
 udp://@230.1.2.18:11111
-#EXTINF:-1,壹电视新闻台
+#EXTINF:-1 group-title="新聞",壹电视新闻台
 udp://@230.1.2.188:11111
-#EXTINF:-1,富立电视台
+#EXTINF:-1 group-title="其他",富立电视台
 udp://@224.1.4.138:11111
-#EXTINF:-1,富立电视台
+#EXTINF:-1 group-title="其他",富立电视台
 udp://@224.1.4.35:11111
-#EXTINF:-1,智林体育
+#EXTINF:-1 group-title="體育",智林体育
 udp://@224.1.4.238:11111
-#EXTINF:-1,智林体育
+#EXTINF:-1 group-title="體育",智林体育
 udp://@230.1.2.78:11111
-#EXTINF:-1,猫熊频道
+#EXTINF:-1 group-title="動物",猫熊频道
 udp://@224.1.4.116:11111
-#EXTINF:-1,猫熊频道
+#EXTINF:-1 group-title="動物",猫熊频道
 udp://@230.1.2.140:11111
-#EXTINF:-1,韩国娱乐台KMTV
+#EXTINF:-1 group-title="音樂",韩国娱乐台KMTV
 udp://@224.1.4.232:11111
-#EXTINF:-1,韩国娱乐台KMTV
+#EXTINF:-1 group-title="音樂",韩国娱乐台KMTV
 udp://@230.1.2.66:11111
-#EXTINF:-1,新唐人亚太台
+#EXTINF:-1 group-title="新聞",新唐人亚太台
 udp://@224.1.4.165:11111
-#EXTINF:-1,新唐人亚太台
+#EXTINF:-1 group-title="新聞",新唐人亚太台
 udp://@230.1.2.50:11111
-#EXTINF:-1,滚动力 rollor
+#EXTINF:-1 group-title="體育",滚动力 rollor
 udp://@224.1.4.236:11111
-#EXTINF:-1,滚动力 rollor
+#EXTINF:-1 group-title="體育",滚动力 rollor
 udp://@230.1.2.70:11111
-#EXTINF:-1,CI
+#EXTINF:-1 group-title="知識",CI
 udp://@224.1.4.85:11111
-#EXTINF:-1,CI
+#EXTINF:-1 group-title="知識",CI
 udp://@230.1.2.238:11111
-#EXTINF:-1,靖天日本台
+#EXTINF:-1 group-title="綜合",靖天日本台
 udp://@224.1.4.103:11111
-#EXTINF:-1,靖天日本台
+#EXTINF:-1 group-title="綜合",靖天日本台
 udp://@230.1.2.221:11111
-#EXTINF:-1,靖天卡通台
+#EXTINF:-1 group-title="動畫",靖天卡通台
 udp://@224.1.4.25:11111
-#EXTINF:-1,靖天卡通台
+#EXTINF:-1 group-title="動畫",靖天卡通台
 udp://@230.1.2.162:11111
-#EXTINF:-1,靖天电影台
+#EXTINF:-1 group-title="影劇",靖天电影台
 udp://@224.1.4.42:11111
-#EXTINF:-1,靖天电影台
+#EXTINF:-1 group-title="影劇",靖天电影台
 udp://@230.1.2.243:11111
-#EXTINF:-1,靖天戏剧台
+#EXTINF:-1 group-title="影劇",靖天戏剧台
 udp://@224.1.4.40:11111
-#EXTINF:-1,靖天戏剧台
+#EXTINF:-1 group-title="影劇",靖天戏剧台
 udp://@230.1.2.163:11111
-#EXTINF:-1,靖天育乐台
+#EXTINF:-1 group-title="綜合",靖天育乐台
 udp://@224.1.4.28:11111
-#EXTINF:-1,靖天育乐台
+#EXTINF:-1 group-title="綜合",靖天育乐台
 udp://@230.1.2.194:11111
-#EXTINF:-1,靖天国际
+#EXTINF:-1 group-title="綜合",靖天国际
 udp://@224.1.4.106:11111
-#EXTINF:-1,靖天国际
+#EXTINF:-1 group-title="綜合",靖天国际
 udp://@224.1.4.220:11111
-#EXTINF:-1,靖天映画
+#EXTINF:-1 group-title="影劇",靖天映画
 udp://@224.1.4.28:11111
-#EXTINF:-1,靖天映画
+#EXTINF:-1 group-title="影劇",靖天映画
 udp://@230.1.2.236:11111
-#EXTINF:-1,靖天信息台
+#EXTINF:-1 group-title="綜合",靖天信息台
 udp://@224.1.4.30:11111
-#EXTINF:-1,靖天信息台
+#EXTINF:-1 group-title="綜合",靖天信息台
 udp://@230.1.2.184:11111
-#EXTINF:-1,靖天综合台
+#EXTINF:-1 group-title="綜合",靖天综合台
 udp://@224.1.4.104:11111
-#EXTINF:-1,靖天综合台
+#EXTINF:-1 group-title="綜合",靖天综合台
 udp://@224.1.4.199:11111
-#EXTINF:-1,靖洋卡通台
+#EXTINF:-1 group-title="動畫",靖洋卡通台
 udp://@224.1.4.23:11111
-#EXTINF:-1,靖洋卡通台
+#EXTINF:-1 group-title="動畫",靖洋卡通台
 udp://@230.1.2.161:11111
-#EXTINF:-1,靖洋戏剧台
+#EXTINF:-1 group-title="影劇",靖洋戏剧台
 udp://@224.1.4.107:11111
-#EXTINF:-1,靖洋戏剧台
+#EXTINF:-1 group-title="影劇",靖洋戏剧台
 udp://@230.1.2.240:11111
-#EXTINF:-1,频道总表
+#EXTINF:-1 group-title="其他",频道总表
 udp://@230.1.2.107:11111
-#EXTINF:-1,频道总表
+#EXTINF:-1 group-title="其他",频道总表
 udp://@230.1.2.108:11111
-#EXTINF:-1,影迷数位电影
+#EXTINF:-1 group-title="影劇",影迷数位电影
 udp://@230.1.2.20:11111
-#EXTINF:-1,影迷数位纪实
+#EXTINF:-1 group-title="影劇",影迷数位纪实
 udp://@224.1.4.226:11111
-#EXTINF:-1,影迷数位纪实
+#EXTINF:-1 group-title="影劇",影迷数位纪实
 udp://@230.1.2.23:11111
-#EXTINF:-1,寰宇HD综合
+#EXTINF:-1 group-title="綜合",寰宇HD综合
 udp://@224.1.4.87:11111
-#EXTINF:-1,寰宇HD综合
+#EXTINF:-1 group-title="綜合",寰宇HD综合
 udp://@230.1.2.148:11111
-#EXTINF:-1,寰宇财经
+#EXTINF:-1 group-title="新聞",寰宇财经
 udp://@224.1.4.56:11111
-#EXTINF:-1,寰宇财经
+#EXTINF:-1 group-title="新聞",寰宇财经
 udp://@230.1.2.249:11111
-#EXTINF:-1,寰宇新闻
+#EXTINF:-1 group-title="新聞",寰宇新闻
 udp://@224.1.4.51:11111
-#EXTINF:-1,寰宇新闻
+#EXTINF:-1 group-title="新聞",寰宇新闻
 udp://@230.1.2.252:11111
-#EXTINF:-1,寰宇新闻台湾台
+#EXTINF:-1 group-title="新聞",寰宇新闻台湾台
 udp://@224.1.4.101:11111
-#EXTINF:-1,寰宇新闻台湾台
+#EXTINF:-1 group-title="新聞",寰宇新闻台湾台
 udp://@230.1.2.147:11111
-#EXTINF:-1,镜电视新闻台
+#EXTINF:-1 group-title="新聞",镜电视新闻台
 udp://@224.1.4.126:11111
-#EXTINF:-1,镜电视新闻台
+#EXTINF:-1 group-title="新聞",镜电视新闻台
 udp://@230.1.2.138:11111
