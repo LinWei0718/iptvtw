@@ -1,0 +1,33 @@
+{
+  "spider": "https://mirror.ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar",
+  "sites": [
+    {
+      "key": "one",
+      "name": "4GTV",
+      "type": 3,
+      "api": "csp_Csp",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://linwei0718.github.io/iptvtw/4gtv.json"
+    },
+    {
+      "key": "two",
+      "name": "Two",
+      "type": 3,
+      "api": "csp_Csp",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://github.com/two.json"
+    },
+    {
+      "key": "extend",
+      "name": "Extend",
+      "type": 3,
+      "api": "csp_Csp",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://github.com/extend.json",
+      "jar": "https://github.com/extend.jar"
+    }
+  ]
+}
