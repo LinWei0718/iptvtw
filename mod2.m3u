@@ -142,9 +142,9 @@ udp://@224.1.4.183:11111
 udp://@224.1.4.80:11111
 #EXTINF:-1 group-title="影劇",HITS
 udp://@224.1.4.136:11111
-#EXTINF:-1 group-title="動畫",i-Fun動漫臺
+#EXTINF:-1 group-title="動畫",i-Fun動漫台
 udp://@230.1.2.223:11111
-#EXTINF:-1 group-title="動畫",i-Fun動漫臺
+#EXTINF:-1 group-title="動畫",i-Fun動漫台
 udp://@230.1.2.26:11111
 #EXTINF:-1 group-title="綜合",INULTRA
 udp://@230.1.2.145:11111
@@ -200,13 +200,13 @@ udp://@224.1.4.137:11111
 udp://@224.1.4.105:11111
 #EXTINF:-1 group-title="綜合",靖天歡樂臺
 udp://@230.1.2.241:11111
-#EXTINF:-1 group-title="動畫",NICKELODEON
+#EXTINF:-1 group-title="動畫",Nickelodeon Asia(尼克兒童頻道)
 udp://@224.1.4.249:11111
-#EXTINF:-1 group-title="動畫",NickJr.
+#EXTINF:-1 group-title="動畫",Nick Jr.
 udp://@224.1.4.179:11111
-#EXTINF:-1 group-title="動畫",NickJr.
+#EXTINF:-1 group-title="動畫",Nick Jr.
 udp://@224.1.4.45:11111
-#EXTINF:-1 group-title="動畫",NickJr.
+#EXTINF:-1 group-title="動畫",Nick Jr.
 udp://@224.1.4.58:11111
 #EXTINF:-1 group-title="動物",PET CLUB TV
 udp://@224.1.4.124:11111
@@ -624,9 +624,9 @@ udp://@230.1.2.132:11111
 udp://@224.1.4.200:11111
 #EXTINF:-1 group-title="宗教",唯心電視
 udp://@230.1.2.80:11111
-#EXTINF:-1 group-title="動畫",曼迪日本
+#EXTINF:-1 group-title="動畫",曼迪日本台
 udp://@230.1.2.242:11111
-#EXTINF:-1 group-title="動畫",曼迪日本
+#EXTINF:-1 group-title="動畫",曼迪日本台
 udp://@230.1.2.89:11111
 #EXTINF:-1 group-title="音樂",梅迪奇藝術
 udp://@224.1.4.26:11111
@@ -708,9 +708,9 @@ udp://@230.1.2.238:11111
 udp://@224.1.4.103:11111
 #EXTINF:-1 group-title="綜合",靖天日本臺
 udp://@230.1.2.221:11111
-#EXTINF:-1 group-title="動畫",靖天卡通臺
+#EXTINF:-1 group-title="動畫",靖天卡通台
 udp://@224.1.4.25:11111
-#EXTINF:-1 group-title="動畫",靖天卡通臺
+#EXTINF:-1 group-title="動畫",靖天卡通台
 udp://@230.1.2.162:11111
 #EXTINF:-1 group-title="影劇",靖天電影臺
 udp://@224.1.4.42:11111
@@ -740,9 +740,9 @@ udp://@230.1.2.184:11111
 udp://@224.1.4.104:11111
 #EXTINF:-1 group-title="綜合",靖天綜合臺
 udp://@224.1.4.199:11111
-#EXTINF:-1 group-title="動畫",靖洋卡通臺
+#EXTINF:-1 group-title="動畫",靖洋卡通台Nice Bingo
 udp://@224.1.4.23:11111
-#EXTINF:-1 group-title="動畫",靖洋卡通臺
+#EXTINF:-1 group-title="動畫",靖洋卡通台Nice Bingo
 udp://@230.1.2.161:11111
 #EXTINF:-1 group-title="影劇",靖洋戲劇臺
 udp://@224.1.4.107:11111
