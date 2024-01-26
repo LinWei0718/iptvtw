@@ -148,8 +148,6 @@ udp://@230.1.2.223:11111
 udp://@230.1.2.26:11111
 #EXTINF:-1 group-title="綜合",INULTRA
 udp://@230.1.2.145:11111
-#EXTINF:-1 group-title="動畫",KIDS(下架)
-udp://@230.1.2.150:11111
 #EXTINF:-1 group-title="綜合",Lifetime
 udp://@224.1.4.230:11111
 #EXTINF:-1 group-title="綜合",Lifetime
@@ -224,14 +222,6 @@ udp://@224.1.4.99:11111
 udp://@224.1.4.171:11111
 #EXTINF:-1 group-title="知識",Smart知識台
 udp://@224.1.4.22:11111
-#EXTINF:-1 group-title="影劇",STARMOVIESHD(下架)
-udp://@230.1.2.164:11111
-#EXTINF:-1 group-title="影劇",STARMOVIESHD(下架)
-udp://@230.1.2.2:11111
-#EXTINF:-1 group-title="影劇",StarWorld(下架)
-udp://@224.1.4.27:11111
-#EXTINF:-1 group-title="影劇",StarWorld(下架)
-udp://@230.1.2.160:11111
 #EXTINF:-1 group-title="新聞",TaiwanPlus
 udp://@230.1.2.210:11111
 #EXTINF:-1 group-title="新聞",TaiwanPlus
@@ -522,8 +512,6 @@ udp://@230.1.2.41:11111
 udp://@224.1.4.174:11111
 #EXTINF:-1 group-title="其他",國會頻道2
 udp://@230.1.2.42:11111
-#EXTINF:-1 group-title="知識",國家地理野生(下架)
-udp://@230.1.2.137:11111
 #EXTINF:-1 group-title="知識",幸福空間居家台
 udp://@224.1.4.123:11111
 #EXTINF:-1 group-title="知識",幸福空間居家台
@@ -554,14 +542,6 @@ udp://@230.1.2.74:11111
 udp://@224.1.4.17:11111
 #EXTINF:-1 group-title="闔家",客家電視
 udp://@224.1.4.201:11111
-#EXTINF:-1 group-title="影劇",星衛HD電影(下架)
-udp://@224.1.4.18:11111
-#EXTINF:-1 group-title="影劇",星衛HD電影(下架)
-udp://@230.1.2.153:11111
-#EXTINF:-1 group-title="影劇",星衛娛樂(下架)
-udp://@230.1.2.218:11111
-#EXTINF:-1 group-title="影劇",星衛娛樂(下架)
-udp://@230.1.2.38:11111
 #EXTINF:-1 group-title="影劇",美亞電影台
 udp://@224.1.4.91:11111
 #EXTINF:-1 group-title="影劇",美亞電影台
