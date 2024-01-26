@@ -116,11 +116,11 @@ udp://@224.1.4.192:11111
 udp://@224.1.4.61:11111
 #EXTINF:-1 group-title="綜合",EYE TV旅遊台
 udp://@230.1.2.135:11111
-#EXTINF:-1 group-title="綜合",FashionTV
+#EXTINF:-1 group-title="綜合",時尚頻道
 udp://@230.1.2.177:11111
-#EXTINF:-1 group-title="綜合",FOODNETWORK美食台
+#EXTINF:-1 group-title="綜合",Food Network 亞洲美食頻道
 udp://@224.1.4.211:11111
-#EXTINF:-1 group-title="綜合",FOODNETWORK美食台
+#EXTINF:-1 group-title="綜合",Food Network 亞洲美食頻道
 udp://@224.1.4.57:11111
 #EXTINF:-1 group-title="新聞",FRANCE24(English)
 udp://@224.1.4.166:11111
@@ -132,13 +132,13 @@ udp://@230.1.2.15:11111
 udp://@224.1.4.162:11111
 #EXTINF:-1 group-title="知識",Global Trekker
 udp://@224.1.4.82:11111
-#EXTINF:-1 group-title="宗教",GOODTV2
+#EXTINF:-1 group-title="宗教",GOOD TV 2
 udp://@224.1.4.122:11111
-#EXTINF:-1 group-title="宗教",GOODTV2
+#EXTINF:-1 group-title="宗教",GOOD TV 2
 udp://@230.1.2.151:11111
-#EXTINF:-1 group-title="綜合",HGTV居家樂活
+#EXTINF:-1 group-title="綜合",HGTV 居家樂活頻道
 udp://@224.1.4.183:11111
-#EXTINF:-1 group-title="綜合",HGTV居家樂活
+#EXTINF:-1 group-title="綜合",HGTV 居家樂活頻道
 udp://@224.1.4.80:11111
 #EXTINF:-1 group-title="影劇",HITS
 udp://@224.1.4.136:11111
@@ -154,13 +154,13 @@ udp://@230.1.2.150:11111
 udp://@224.1.4.230:11111
 #EXTINF:-1 group-title="綜合",Lifetime
 udp://@230.1.2.64:11111
-#EXTINF:-1 group-title="動物",LOVE NATURE 4K
+#EXTINF:-1 group-title="動物",LOVE NATURE
 udp://@224.1.4.182:11111
-#EXTINF:-1 group-title="綜合",LUXETV
+#EXTINF:-1 group-title="綜合",LUXE TV Channel
 udp://@230.1.2.16:11111
-#EXTINF:-1 group-title="綜合",LUXETV
+#EXTINF:-1 group-title="綜合",LUXE TV Channel
 udp://@230.1.2.176:11111
-#EXTINF:-1 group-title="影劇",MCE 我的歐洲電影台
+#EXTINF:-1 group-title="影劇",我的歐洲電影
 udp://@230.1.2.129:11111
 #EXTINF:-1 group-title="音樂",MezzoLiveHD
 udp://@224.1.4.240:11111
@@ -306,9 +306,9 @@ udp://@230.1.2.22:11111
 udp://@224.1.4.142:11111
 #EXTINF:-1 group-title="其他",大立電視台
 udp://@224.1.4.73:11111
-#EXTINF:-1 group-title="宗教",大愛一台
+#EXTINF:-1 group-title="宗教",大愛電視
 udp://@224.1.4.54:11111
-#EXTINF:-1 group-title="宗教",大愛一台
+#EXTINF:-1 group-title="宗教",大愛電視
 udp://@230.1.2.190:11111
 #EXTINF:-1 group-title="宗教",大愛二台
 udp://@230.1.2.199:11111
@@ -320,27 +320,27 @@ udp://@224.1.4.127:11111
 udp://@224.1.4.10:11111
 #EXTINF:-1 group-title="闔家",中視
 udp://@230.1.2.228:11111
-#EXTINF:-1 group-title="闔家",中視經典
+#EXTINF:-1 group-title="闔家",中視經典台
 udp://@224.1.4.219:11111
-#EXTINF:-1 group-title="闔家",中視經典
+#EXTINF:-1 group-title="闔家",中視經典台
 udp://@224.1.4.33:11111
 #EXTINF:-1 group-title="闔家",中視菁采台
 udp://@230.1.2.224:11111
 #EXTINF:-1 group-title="闔家",中視菁采台
 udp://@230.1.2.34:11111
-#EXTINF:-1 group-title="新聞",中視新聞
+#EXTINF:-1 group-title="新聞",中視新聞台
 udp://@224.1.4.252:11111
-#EXTINF:-1 group-title="新聞",中視新聞
+#EXTINF:-1 group-title="新聞",中視新聞台
 udp://@224.1.4.50:11111
 #EXTINF:-1 group-title="闔家",公視
 udp://@224.1.4.53:11111
 #EXTINF:-1 group-title="闔家",公視
 udp://@230.1.2.230:11111
-#EXTINF:-1 group-title="闔家",公視2
+#EXTINF:-1 group-title="闔家",公視2台
 udp://@230.1.2.185:11111
-#EXTINF:-1 group-title="闔家",公視三台
+#EXTINF:-1 group-title="闔家",公視3台
 udp://@224.1.4.228:11111
-#EXTINF:-1 group-title="闔家",公視三台
+#EXTINF:-1 group-title="闔家",公視3台
 udp://@230.1.2.62:11111
 #EXTINF:-1 group-title="闔家",公視台語台
 udp://@230.1.2.31:11111
@@ -400,7 +400,7 @@ udp://@224.1.4.215:11111
 udp://@230.1.2.99:11111
 #EXTINF:-1 group-title="影劇",台灣電視劇
 udp://@224.1.4.62:11111
-#EXTINF:-1 group-title="影劇",台灣戲劇
+#EXTINF:-1 group-title="影劇",台灣戲劇台
 udp://@230.1.2.154:11111
 #EXTINF:-1 group-title="宗教",正德電視台
 udp://@224.1.4.195:11111
@@ -490,29 +490,29 @@ udp://@230.1.2.229:11111
 udp://@224.1.4.223:11111
 #EXTINF:-1 group-title="闔家",華視教育體育文化台
 udp://@224.1.4.96:11111
-#EXTINF:-1 group-title="新聞",華視新聞資訊
+#EXTINF:-1 group-title="新聞",華視新聞資訊台
 udp://@224.1.4.55:11111
-#EXTINF:-1 group-title="新聞",華視新聞資訊
+#EXTINF:-1 group-title="新聞",華視新聞資訊台
 udp://@230.1.2.248:11111
 #EXTINF:-1 group-title="宗教",華藏衛視
 udp://@224.1.4.181:11111
 #EXTINF:-1 group-title="宗教",華藏衛視
 udp://@224.1.4.90:11111
-#EXTINF:-1 group-title="宗教",GOODTV
+#EXTINF:-1 group-title="宗教",好消息衛星電視台
 udp://@224.1.4.4:11111
-#EXTINF:-1 group-title="宗教",GOODTV
+#EXTINF:-1 group-title="宗教",好消息衛星電視台
 udp://@230.1.2.165:11111
 #EXTINF:-1 group-title="宗教",佛衛慈悲台
 udp://@224.1.4.178:11111
 #EXTINF:-1 group-title="宗教",佛衛慈悲台
 udp://@224.1.4.84:11111
-#EXTINF:-1 group-title="綜合",緯來精采
+#EXTINF:-1 group-title="綜合",緯來精采台
 udp://@224.1.4.222:11111
-#EXTINF:-1 group-title="綜合",緯來精采
+#EXTINF:-1 group-title="綜合",緯來精采台
 udp://@230.1.2.72:11111
-#EXTINF:-1 group-title="知識",達文西
+#EXTINF:-1 group-title="知識",達文西頻道
 udp://@224.1.4.233:11111
-#EXTINF:-1 group-title="知識",達文西
+#EXTINF:-1 group-title="知識",達文西頻道
 udp://@230.1.2.67:11111
 #EXTINF:-1 group-title="其他",國會頻道1
 udp://@224.1.4.173:11111
@@ -562,9 +562,9 @@ udp://@230.1.2.153:11111
 udp://@230.1.2.218:11111
 #EXTINF:-1 group-title="影劇",星衛娛樂(下架)
 udp://@230.1.2.38:11111
-#EXTINF:-1 group-title="影劇",美亞高清電影台
+#EXTINF:-1 group-title="影劇",美亞電影台
 udp://@224.1.4.91:11111
-#EXTINF:-1 group-title="影劇",美亞高清電影台
+#EXTINF:-1 group-title="影劇",美亞電影台
 udp://@230.1.2.143:11111
 #EXTINF:-1 group-title="購物",美好1台
 udp://@224.1.4.167:11111
@@ -752,23 +752,23 @@ udp://@230.1.2.240:11111
 udp://@230.1.2.107:11111
 #EXTINF:-1 group-title="其他",頻道總表
 udp://@230.1.2.108:11111
-#EXTINF:-1 group-title="影劇",影迷數位電影
+#EXTINF:-1 group-title="影劇",影迷數位電影台
 udp://@230.1.2.20:11111
-#EXTINF:-1 group-title="影劇",影迷數位紀實
+#EXTINF:-1 group-title="影劇",影迷數位紀實台
 udp://@224.1.4.226:11111
-#EXTINF:-1 group-title="影劇",影迷數位紀實
+#EXTINF:-1 group-title="影劇",影迷數位紀實台
 udp://@230.1.2.23:11111
-#EXTINF:-1 group-title="綜合",寰宇HD綜合
+#EXTINF:-1 group-title="綜合",寰宇HD綜合台
 udp://@224.1.4.87:11111
-#EXTINF:-1 group-title="綜合",寰宇HD綜合
+#EXTINF:-1 group-title="綜合",寰宇HD綜合台
 udp://@230.1.2.148:11111
-#EXTINF:-1 group-title="新聞",寰宇財經
+#EXTINF:-1 group-title="新聞",寰宇財經台
 udp://@224.1.4.56:11111
-#EXTINF:-1 group-title="新聞",寰宇財經
+#EXTINF:-1 group-title="新聞",寰宇財經台
 udp://@230.1.2.249:11111
-#EXTINF:-1 group-title="新聞",寰宇新聞
+#EXTINF:-1 group-title="新聞",寰宇新聞台
 udp://@224.1.4.51:11111
-#EXTINF:-1 group-title="新聞",寰宇新聞
+#EXTINF:-1 group-title="新聞",寰宇新聞台
 udp://@230.1.2.252:11111
 #EXTINF:-1 group-title="新聞",寰宇新聞台灣台
 udp://@224.1.4.101:11111
