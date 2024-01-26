@@ -60,7 +60,7 @@ udp://@230.1.2.60:11111
 udp://@224.1.4.118:11111
 #EXTINF:-1 group-title="新聞",CNBC Asia Channel
 udp://@224.1.4.140:11111
-#EXTINF:-1 group-title="體育",CNN WORLD SPORT
+#EXTINF:-1 group-title="新聞",CNN International
 udp://@224.1.4.235:11111
 #EXTINF:-1 group-title="新聞",CNN International
 udp://@230.1.2.69:11111
@@ -684,9 +684,9 @@ udp://@224.1.4.35:11111
 udp://@224.1.4.238:11111
 #EXTINF:-1 group-title="體育",智林體育台
 udp://@230.1.2.78:11111
-#EXTINF:-1 group-title="動物",貓熊頻道
+#EXTINF:-1 group-title="其他",頻道總表
 udp://@224.1.4.116:11111
-#EXTINF:-1 group-title="動物",貓熊頻道
+#EXTINF:-1 group-title="其他",頻道總表
 udp://@230.1.2.140:11111
 #EXTINF:-1 group-title="音樂",韓國娛樂台KMTV
 udp://@224.1.4.232:11111
