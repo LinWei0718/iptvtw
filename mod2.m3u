@@ -220,9 +220,9 @@ udp://@224.1.4.14:11111
 udp://@224.1.4.146:11111
 #EXTINF:-1 group-title="體育",ROCK Extreme
 udp://@224.1.4.99:11111
-#EXTINF:-1 group-title="知識",SMART知識
+#EXTINF:-1 group-title="知識",Smart知識台
 udp://@224.1.4.171:11111
-#EXTINF:-1 group-title="知識",SMART知識
+#EXTINF:-1 group-title="知識",Smart知識台
 udp://@224.1.4.22:11111
 #EXTINF:-1 group-title="影劇",STARMOVIESHD(下架)
 udp://@230.1.2.164:11111
@@ -348,9 +348,9 @@ udp://@230.1.2.31:11111
 udp://@230.1.2.216:11111
 #EXTINF:-1 group-title="知識",HISTORY
 udp://@230.1.2.36:11111
-#EXTINF:-1 group-title="其他",天天電視
+#EXTINF:-1 group-title="其他",天天電視台
 udp://@224.1.4.29:11111
-#EXTINF:-1 group-title="其他",天天電視
+#EXTINF:-1 group-title="其他",天天電視台
 udp://@230.1.2.245:11111
 #EXTINF:-1 group-title="體育",世界羽球雜誌
 udp://@224.1.4.117:11111
@@ -422,9 +422,9 @@ udp://@224.1.4.77:11111
 udp://@224.1.4.97:11111
 #EXTINF:-1 group-title="新聞",民視新聞台
 udp://@230.1.2.155:11111
-#EXTINF:-1 group-title="宗教",生命電視
+#EXTINF:-1 group-title="宗教",生命電視台
 udp://@224.1.4.93:11111
-#EXTINF:-1 group-title="宗教",生命電視
+#EXTINF:-1 group-title="宗教",生命電視台
 udp://@230.1.2.187:11111
 #EXTINF:-1 group-title="影劇",龍華電影
 udp://@224.1.4.251:11111
@@ -454,17 +454,17 @@ udp://@230.1.2.156:11111
 udp://@230.1.2.167:11111
 #EXTINF:-1 group-title="影劇",龍華影劇
 udp://@230.1.2.5:11111
-#EXTINF:-1 group-title="綜合",亞洲美食頻道
+#EXTINF:-1 group-title="綜合",Asian Food Network 亞洲美食頻道
 udp://@230.1.2.233:11111
-#EXTINF:-1 group-title="綜合",亞洲美食頻道
+#EXTINF:-1 group-title="綜合",Asian Food Network 亞洲美食頻道
 udp://@230.1.2.85:11111
-#EXTINF:-1 group-title="綜合",亞洲旅遊
+#EXTINF:-1 group-title="綜合",亞洲旅遊台
 udp://@224.1.4.34:11111
-#EXTINF:-1 group-title="綜合",亞洲旅遊
+#EXTINF:-1 group-title="綜合",亞洲旅遊台
 udp://@230.1.2.175:11111
-#EXTINF:-1 group-title="綜合",亞洲綜合
+#EXTINF:-1 group-title="綜合",亞洲綜合台
 udp://@224.1.4.209:11111
-#EXTINF:-1 group-title="綜合",亞洲綜合
+#EXTINF:-1 group-title="綜合",亞洲綜合台
 udp://@224.1.4.78:11111
 #EXTINF:-1 group-title="影劇",Warner TV
 udp://@224.1.4.234:11111
@@ -572,17 +572,17 @@ udp://@224.1.4.167:11111
 udp://@224.1.4.67:11111
 #EXTINF:-1 group-title="購物",美好2台
 udp://@224.1.4.145:11111
-#EXTINF:-1 group-title="綜合",美食星球
+#EXTINF:-1 group-title="綜合",美食星球頻道
 udp://@224.1.4.19:11111
-#EXTINF:-1 group-title="綜合",美食星球
+#EXTINF:-1 group-title="綜合",美食星球頻道
 udp://@230.1.2.178:11111
 #EXTINF:-1 group-title="影劇",視納華仁紀實台
 udp://@224.1.4.206:11111
 #EXTINF:-1 group-title="影劇",視納華仁紀實台
 udp://@230.1.2.96:11111
-#EXTINF:-1 group-title="闔家",原住民族
+#EXTINF:-1 group-title="闔家",原住民族電視台
 udp://@224.1.4.76:11111
-#EXTINF:-1 group-title="闔家",原住民族
+#EXTINF:-1 group-title="闔家",原住民族電視台
 udp://@230.1.2.235:11111
 #EXTINF:-1 group-title="體育",愛爾達亞運1台
 udp://@224.1.4.129:11111
@@ -620,17 +620,17 @@ udp://@230.1.2.133:11111
 udp://@224.1.4.113:11111
 #EXTINF:-1 group-title="影劇",愛爾達影劇台
 udp://@230.1.2.132:11111
-#EXTINF:-1 group-title="宗教",唯心電視
+#EXTINF:-1 group-title="宗教",唯心電視台
 udp://@224.1.4.200:11111
-#EXTINF:-1 group-title="宗教",唯心電視
+#EXTINF:-1 group-title="宗教",唯心電視台
 udp://@230.1.2.80:11111
 #EXTINF:-1 group-title="動畫",曼迪日本台
 udp://@230.1.2.242:11111
 #EXTINF:-1 group-title="動畫",曼迪日本台
 udp://@230.1.2.89:11111
-#EXTINF:-1 group-title="音樂",梅迪奇藝術
+#EXTINF:-1 group-title="音樂",Medici-arts
 udp://@224.1.4.26:11111
-#EXTINF:-1 group-title="音樂",梅迪奇藝術
+#EXTINF:-1 group-title="音樂",Medici-arts
 udp://@230.1.2.180:11111
 #EXTINF:-1 group-title="體育",博斯無限二台
 udp://@224.1.4.207:11111
@@ -640,9 +640,9 @@ udp://@230.1.2.97:11111
 udp://@224.1.4.46:11111
 #EXTINF:-1 group-title="體育",博斯無限台
 udp://@230.1.2.215:11111
-#EXTINF:-1 group-title="體育",博斯網球檯
+#EXTINF:-1 group-title="體育",博斯網球台
 udp://@224.1.4.66:11111
-#EXTINF:-1 group-title="體育",博斯網球檯
+#EXTINF:-1 group-title="體育",博斯網球台
 udp://@230.1.2.198:11111
 #EXTINF:-1 group-title="體育",博斯運動一台
 udp://@224.1.4.48:11111
@@ -652,13 +652,13 @@ udp://@230.1.2.158:11111
 udp://@224.1.4.5:11111
 #EXTINF:-1 group-title="體育",博斯運動二台
 udp://@230.1.2.196:11111
-#EXTINF:-1 group-title="體育",博斯高球1台
+#EXTINF:-1 group-title="體育",博斯高球一台
 udp://@224.1.4.49:11111
-#EXTINF:-1 group-title="體育",博斯高球1台
+#EXTINF:-1 group-title="體育",博斯高球一台
 udp://@230.1.2.183:11111
-#EXTINF:-1 group-title="體育",博斯高球2台
+#EXTINF:-1 group-title="體育",博斯高球二台
 udp://@224.1.4.47:11111
-#EXTINF:-1 group-title="體育",博斯高球2台
+#EXTINF:-1 group-title="體育",博斯高球二台
 udp://@230.1.2.197:11111
 #EXTINF:-1 group-title="體育",博斯魅力網
 udp://@224.1.4.110:11111
@@ -668,9 +668,9 @@ udp://@224.1.4.250:11111
 udp://@230.1.2.189:11111
 #EXTINF:-1 group-title="影劇",壹電視電影台
 udp://@230.1.2.19:11111
-#EXTINF:-1 group-title="綜合",壹電視綜合台
+#EXTINF:-1 group-title="綜合",壹電視資訊綜合台
 udp://@230.1.2.220:11111
-#EXTINF:-1 group-title="綜合",壹電視綜合台
+#EXTINF:-1 group-title="綜合",壹電視資訊綜合台
 udp://@230.1.2.40:11111
 #EXTINF:-1 group-title="新聞",壹電視新聞台
 udp://@230.1.2.18:11111
@@ -680,9 +680,9 @@ udp://@230.1.2.188:11111
 udp://@224.1.4.138:11111
 #EXTINF:-1 group-title="其他",富立電視台
 udp://@224.1.4.35:11111
-#EXTINF:-1 group-title="體育",智林體育
+#EXTINF:-1 group-title="體育",智林體育台
 udp://@224.1.4.238:11111
-#EXTINF:-1 group-title="體育",智林體育
+#EXTINF:-1 group-title="體育",智林體育台
 udp://@230.1.2.78:11111
 #EXTINF:-1 group-title="動物",貓熊頻道
 udp://@224.1.4.116:11111
