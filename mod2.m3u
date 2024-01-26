@@ -14,13 +14,13 @@ udp://@224.1.4.184:11111
 udp://@224.1.4.92:11111
 #EXTINF:-1 group-title="影劇",ROCK ACTION
 udp://@230.1.2.181:11111
-#EXTINF:-1 group-title="知識",BBCEARTH
+#EXTINF:-1 group-title="知識",BBC Earth
 udp://@230.1.2.172:11111
-#EXTINF:-1 group-title="知識",BBCEARTH
+#EXTINF:-1 group-title="知識",BBC Earth
 udp://@230.1.2.9:11111
-#EXTINF:-1 group-title="知識",BBCLifestyle
+#EXTINF:-1 group-title="知識",BBC Lifestyle Channel
 udp://@230.1.2.10:11111
-#EXTINF:-1 group-title="知識",BBCLifestyle
+#EXTINF:-1 group-title="知識",BBC Lifestyle Channel
 udp://@230.1.2.173:11111
 #EXTINF:-1 group-title="新聞",BBC World News
 udp://@224.1.4.52:11111
@@ -34,9 +34,9 @@ udp://@224.1.4.79:11111
 udp://@224.1.4.15:11111
 #EXTINF:-1 group-title="動畫",CARTOONITO
 udp://@224.1.4.161:11111
-#EXTINF:-1 group-title="影劇",CATCHPLAY電影
+#EXTINF:-1 group-title="影劇",CatchPlay電影台
 udp://@230.1.2.217:11111
-#EXTINF:-1 group-title="影劇",CATCHPLAY電影
+#EXTINF:-1 group-title="影劇",CatchPlay電影台
 udp://@230.1.2.37:11111
 #EXTINF:-1 group-title="動畫",CBeebies
 udp://@224.1.4.213:11111
@@ -106,15 +106,15 @@ udp://@224.1.4.135:11111
 udp://@230.1.2.14:11111
 #EXTINF:-1 group-title="綜合",EVE
 udp://@230.1.2.214:11111
-#EXTINF:-1 group-title="影劇",EYE戲劇
+#EXTINF:-1 group-title="影劇",EYE TV戲劇台
 udp://@224.1.4.60:11111
-#EXTINF:-1 group-title="影劇",EYE戲劇
+#EXTINF:-1 group-title="影劇",EYE TV戲劇台
 udp://@230.1.2.134:11111
-#EXTINF:-1 group-title="綜合",EYE旅遊
+#EXTINF:-1 group-title="綜合",EYE TV旅遊台
 udp://@224.1.4.192:11111
-#EXTINF:-1 group-title="綜合",EYE旅遊
+#EXTINF:-1 group-title="綜合",EYE TV旅遊台
 udp://@224.1.4.61:11111
-#EXTINF:-1 group-title="綜合",EYE旅遊
+#EXTINF:-1 group-title="綜合",EYE TV旅遊台
 udp://@230.1.2.135:11111
 #EXTINF:-1 group-title="綜合",FashionTV
 udp://@230.1.2.177:11111
@@ -242,17 +242,17 @@ udp://@224.1.4.11:11111
 udp://@230.1.2.159:11111
 #EXTINF:-1 group-title="綜合",TOP MODELS
 udp://@230.1.2.25:11111
-#EXTINF:-1 group-title="體育",TRACESPORTS
+#EXTINF:-1 group-title="體育",TRACE Sport Stars
 udp://@224.1.4.242:11111
-#EXTINF:-1 group-title="體育",TRACESPORTS
+#EXTINF:-1 group-title="體育",TRACE Sport Stars
 udp://@230.1.2.84:11111
-#EXTINF:-1 group-title="音樂",TRACEURBAN
+#EXTINF:-1 group-title="音樂",TRACE Urban
 udp://@224.1.4.241:11111
-#EXTINF:-1 group-title="音樂",TRACEURBAN
+#EXTINF:-1 group-title="音樂",TRACE Urban
 udp://@230.1.2.82:11111
-#EXTINF:-1 group-title="綜合",TRAVELCHANNEL
+#EXTINF:-1 group-title="綜合",Travel Channel
 udp://@230.1.2.166:11111
-#EXTINF:-1 group-title="綜合",TRAVELCHANNEL
+#EXTINF:-1 group-title="綜合",Travel Channel
 udp://@230.1.2.4:11111
 #EXTINF:-1 group-title="綜合",TV5MONDE STYLE
 udp://@224.1.4.108:11111
@@ -284,13 +284,13 @@ udp://@230.1.2.174:11111
 udp://@224.1.4.89:11111
 #EXTINF:-1 group-title="宗教",人間衛視
 udp://@230.1.2.193:11111
-#EXTINF:-1 group-title="影劇",八大優
+#EXTINF:-1 group-title="影劇",八大優頻道
 udp://@224.1.4.86:11111
-#EXTINF:-1 group-title="影劇",八大優
+#EXTINF:-1 group-title="影劇",八大優頻道
 udp://@230.1.2.239:11111
-#EXTINF:-1 group-title="影劇",三立戲劇
+#EXTINF:-1 group-title="影劇",三立戲劇台
 udp://@230.1.2.232:11111
-#EXTINF:-1 group-title="影劇",三立戲劇
+#EXTINF:-1 group-title="影劇",三立戲劇台
 udp://@230.1.2.44:11111
 #EXTINF:-1 group-title="新聞",三立財經新聞台
 udp://@230.1.2.191:11111
@@ -376,7 +376,7 @@ udp://@224.1.4.176:11111
 udp://@230.1.2.95:11111
 #EXTINF:-1 group-title="購物",東森購物5台
 udp://@230.1.2.33:11111
-#EXTINF:-1 group-title="新聞",半島英語新聞台Al Jazeera
+#EXTINF:-1 group-title="新聞",半島英語新聞台Al Jazeera English
 udp://@230.1.2.128:11111
 #EXTINF:-1 group-title="音樂",古典音樂台
 udp://@224.1.4.74:11111
@@ -466,21 +466,21 @@ udp://@230.1.2.175:11111
 udp://@224.1.4.209:11111
 #EXTINF:-1 group-title="綜合",亞洲綜合
 udp://@224.1.4.78:11111
-#EXTINF:-1 group-title="影劇",華納電視
+#EXTINF:-1 group-title="影劇",Warner TV
 udp://@224.1.4.234:11111
-#EXTINF:-1 group-title="影劇",華納電視
+#EXTINF:-1 group-title="影劇",Warner TV
 udp://@230.1.2.68:11111
-#EXTINF:-1 group-title="綜合",華藝MBC
+#EXTINF:-1 group-title="綜合",華藝MBC綜合台
 udp://@224.1.4.130:11111
-#EXTINF:-1 group-title="綜合",華藝MBC
+#EXTINF:-1 group-title="綜合",華藝MBC綜合台
 udp://@230.1.2.1:11111
 #EXTINF:-1 group-title="其他",華藝台灣台
 udp://@224.1.4.185:11111
 #EXTINF:-1 group-title="其他",華藝台灣台
 udp://@224.1.4.71:11111
-#EXTINF:-1 group-title="影劇",華藝影劇
+#EXTINF:-1 group-title="影劇",華藝影劇台
 udp://@230.1.2.17:11111
-#EXTINF:-1 group-title="影劇",華藝影劇
+#EXTINF:-1 group-title="影劇",華藝影劇台
 udp://@230.1.2.200:11111
 #EXTINF:-1 group-title="闔家",華視
 udp://@224.1.4.12:11111
@@ -530,9 +530,9 @@ udp://@224.1.4.123:11111
 udp://@230.1.2.141:11111
 #EXTINF:-1 group-title="綜合",采昌綜合
 udp://@224.1.4.59:11111
-#EXTINF:-1 group-title="影劇",采昌影劇
+#EXTINF:-1 group-title="影劇",采昌影劇台
 udp://@224.1.4.221:11111
-#EXTINF:-1 group-title="影劇",采昌影劇
+#EXTINF:-1 group-title="影劇",采昌影劇台
 udp://@230.1.2.71:11111
 #EXTINF:-1 group-title="新聞",非凡新聞台
 udp://@224.1.4.158:11111
@@ -596,29 +596,29 @@ udp://@230.1.2.7:11111
 udp://@230.1.2.234:11111
 #EXTINF:-1 group-title="體育",愛爾達亞運3台
 udp://@230.1.2.87:11111
-#EXTINF:-1 group-title="體育",愛爾達體育1
+#EXTINF:-1 group-title="體育",愛爾達體育1台
 udp://@224.1.4.112:11111
-#EXTINF:-1 group-title="體育",愛爾達體育1
+#EXTINF:-1 group-title="體育",愛爾達體育1台
 udp://@230.1.2.131:11111
-#EXTINF:-1 group-title="體育",愛爾達體育2
+#EXTINF:-1 group-title="體育",愛爾達體育2台
 udp://@230.1.2.237:11111
-#EXTINF:-1 group-title="體育",愛爾達體育2
+#EXTINF:-1 group-title="體育",愛爾達體育2台
 udp://@230.1.2.88:11111
-#EXTINF:-1 group-title="體育",愛爾達體育3
+#EXTINF:-1 group-title="體育",愛爾達體育3台
 udp://@224.1.4.193:11111
-#EXTINF:-1 group-title="體育",愛爾達體育3
+#EXTINF:-1 group-title="體育",愛爾達體育3台
 udp://@230.1.2.91:11111
 #EXTINF:-1 group-title="體育",愛爾達體育4台
 udp://@224.1.4.7:11111
 #EXTINF:-1 group-title="體育",愛爾達體育4台
 udp://@230.1.2.146:11111
-#EXTINF:-1 group-title="綜合",愛爾達綜合
+#EXTINF:-1 group-title="綜合",愛爾達綜合台
 udp://@224.1.4.114:11111
-#EXTINF:-1 group-title="綜合",愛爾達綜合
+#EXTINF:-1 group-title="綜合",愛爾達綜合台
 udp://@230.1.2.133:11111
-#EXTINF:-1 group-title="影劇",愛爾達影劇
+#EXTINF:-1 group-title="影劇",愛爾達影劇台
 udp://@224.1.4.113:11111
-#EXTINF:-1 group-title="影劇",愛爾達影劇
+#EXTINF:-1 group-title="影劇",愛爾達影劇台
 udp://@230.1.2.132:11111
 #EXTINF:-1 group-title="宗教",唯心電視
 udp://@224.1.4.200:11111
@@ -724,9 +724,9 @@ udp://@230.1.2.163:11111
 udp://@224.1.4.28:11111
 #EXTINF:-1 group-title="綜合",靖天育樂台
 udp://@230.1.2.194:11111
-#EXTINF:-1 group-title="綜合",靖天國際
+#EXTINF:-1 group-title="綜合",靖天國際台
 udp://@224.1.4.106:11111
-#EXTINF:-1 group-title="綜合",靖天國際
+#EXTINF:-1 group-title="綜合",靖天國際台
 udp://@224.1.4.220:11111
 #EXTINF:-1 group-title="影劇",靖天映畫
 udp://@224.1.4.28:11111
