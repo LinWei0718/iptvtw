@@ -528,7 +528,7 @@ udp://@230.1.2.137:11111
 udp://@224.1.4.123:11111
 #EXTINF:-1 group-title="知識",幸福空間居家台
 udp://@230.1.2.141:11111
-#EXTINF:-1 group-title="綜合",采昌綜合
+#EXTINF:-1 group-title="綜合",ETtoday綜合台
 udp://@224.1.4.59:11111
 #EXTINF:-1 group-title="影劇",采昌影劇台
 udp://@224.1.4.221:11111
