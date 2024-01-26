@@ -160,7 +160,7 @@ udp://@224.1.4.182:11111
 udp://@230.1.2.16:11111
 #EXTINF:-1 group-title="綜合",LUXE TV Channel
 udp://@230.1.2.176:11111
-#EXTINF:-1 group-title="影劇",我的歐洲電影
+#EXTINF:-1 group-title="影劇",My Cinema Europe HD 我的歐洲電影
 udp://@230.1.2.129:11111
 #EXTINF:-1 group-title="音樂",Mezzo Live HD
 udp://@224.1.4.240:11111
