@@ -550,9 +550,9 @@ udp://@230.1.2.28:11111
 udp://@224.1.4.224:11111
 #EXTINF:-1 group-title="其他",冠軍電視台
 udp://@230.1.2.74:11111
-#EXTINF:-1 group-title="闔家",客家電視台
+#EXTINF:-1 group-title="闔家",客家電視
 udp://@224.1.4.17:11111
-#EXTINF:-1 group-title="闔家",客家電視台
+#EXTINF:-1 group-title="闔家",客家電視
 udp://@224.1.4.201:11111
 #EXTINF:-1 group-title="影劇",星衛HD電影(下架)
 udp://@224.1.4.18:11111
