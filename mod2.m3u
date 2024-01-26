@@ -96,7 +96,7 @@ udp://@230.1.2.79:11111
 udp://@224.1.4.216:11111
 #EXTINF:-1 group-title="知識",ELTV生活英語台
 udp://@230.1.2.83:11111
-#EXTINF:-1 group-title="綜合",ETtodav綜合台
+#EXTINF:-1 group-title="綜合",ETtoday綜合台
 udp://@224.1.4.212:11111
 #EXTINF:-1 group-title="新聞",Euronews
 udp://@224.1.4.119:11111
@@ -118,9 +118,9 @@ udp://@224.1.4.61:11111
 udp://@230.1.2.135:11111
 #EXTINF:-1 group-title="綜合",時尚頻道
 udp://@230.1.2.177:11111
-#EXTINF:-1 group-title="綜合",Food Network 亞洲美食頻道
+#EXTINF:-1 group-title="綜合",Food Network 美食台頻道
 udp://@224.1.4.211:11111
-#EXTINF:-1 group-title="綜合",Food Network 亞洲美食頻道
+#EXTINF:-1 group-title="綜合",Food Network 美食台頻道
 udp://@224.1.4.57:11111
 #EXTINF:-1 group-title="新聞",FRANCE24(English)
 udp://@224.1.4.166:11111
@@ -162,9 +162,9 @@ udp://@230.1.2.16:11111
 udp://@230.1.2.176:11111
 #EXTINF:-1 group-title="影劇",我的歐洲電影
 udp://@230.1.2.129:11111
-#EXTINF:-1 group-title="音樂",MezzoLiveHD
+#EXTINF:-1 group-title="音樂",Mezzo Live HD
 udp://@224.1.4.240:11111
-#EXTINF:-1 group-title="音樂",MezzoLiveHD
+#EXTINF:-1 group-title="音樂",Mezzo Live HD
 udp://@230.1.2.81:11111
 #EXTINF:-1 group-title="體育",MOD 4K LIVE
 udp://@230.1.2.203:11111
@@ -188,17 +188,17 @@ udp://@230.1.2.90:11111
 udp://@230.1.2.246:11111
 #EXTINF:-1 group-title="音樂",MTV Live
 udp://@230.1.2.86:11111
-#EXTINF:-1 group-title="音樂",MTV綜合台
+#EXTINF:-1 group-title="音樂",MTV綜合電視台
 udp://@230.1.2.231:11111
-#EXTINF:-1 group-title="音樂",MTV綜合台
+#EXTINF:-1 group-title="音樂",MTV綜合電視台
 udp://@230.1.2.43:11111
 #EXTINF:-1 group-title="體育",NBA動態
 udp://@224.1.4.144:11111
 #EXTINF:-1 group-title="新聞",NHK新聞資訊台
 udp://@224.1.4.137:11111
-#EXTINF:-1 group-title="綜合",靖天歡樂台
+#EXTINF:-1 group-title="綜合",Nice TV 靖天歡樂台
 udp://@224.1.4.105:11111
-#EXTINF:-1 group-title="綜合",靖天歡樂台
+#EXTINF:-1 group-title="綜合",Nice TV 靖天歡樂台
 udp://@230.1.2.241:11111
 #EXTINF:-1 group-title="動畫",Nickelodeon Asia(尼克兒童頻道)
 udp://@224.1.4.249:11111
@@ -240,7 +240,7 @@ udp://@230.1.2.30:11111
 udp://@224.1.4.11:11111
 #EXTINF:-1 group-title="綜合",TECHStorm
 udp://@230.1.2.159:11111
-#EXTINF:-1 group-title="綜合",TOP MODELS
+#EXTINF:-1 group-title="綜合",時尚頻道
 udp://@230.1.2.25:11111
 #EXTINF:-1 group-title="體育",TRACE Sport Stars
 udp://@224.1.4.242:11111
@@ -254,9 +254,9 @@ udp://@230.1.2.82:11111
 udp://@230.1.2.166:11111
 #EXTINF:-1 group-title="綜合",Travel Channel
 udp://@230.1.2.4:11111
-#EXTINF:-1 group-title="綜合",TV5MONDE STYLE
+#EXTINF:-1 group-title="綜合",TV5MONDE STYLE HD
 udp://@224.1.4.108:11111
-#EXTINF:-1 group-title="綜合",TV5MONDE STYLE
+#EXTINF:-1 group-title="綜合",TV5MONDE STYLE HD
 udp://@224.1.4.208:11111
 #EXTINF:-1 group-title="綜合",TV5MONDE
 udp://@224.1.4.148:11111
@@ -344,9 +344,9 @@ udp://@224.1.4.228:11111
 udp://@230.1.2.62:11111
 #EXTINF:-1 group-title="闔家",公視台語台
 udp://@230.1.2.31:11111
-#EXTINF:-1 group-title="知識",HISTORY
+#EXTINF:-1 group-title="知識",歷史頻道
 udp://@230.1.2.216:11111
-#EXTINF:-1 group-title="知識",HISTORY
+#EXTINF:-1 group-title="知識",歷史頻道
 udp://@230.1.2.36:11111
 #EXTINF:-1 group-title="其他",天天電視台
 udp://@224.1.4.29:11111
@@ -378,9 +378,9 @@ udp://@230.1.2.95:11111
 udp://@230.1.2.33:11111
 #EXTINF:-1 group-title="新聞",半島英語新聞台Al Jazeera English
 udp://@230.1.2.128:11111
-#EXTINF:-1 group-title="音樂",古典音樂台
+#EXTINF:-1 group-title="音樂",CLASSICA HD
 udp://@224.1.4.74:11111
-#EXTINF:-1 group-title="音樂",古典音樂台
+#EXTINF:-1 group-title="音樂",CLASSICA HD
 udp://@230.1.2.139:11111
 #EXTINF:-1 group-title="闔家",台視
 udp://@224.1.4.8:11111
@@ -502,17 +502,17 @@ udp://@224.1.4.90:11111
 udp://@224.1.4.4:11111
 #EXTINF:-1 group-title="宗教",好消息衛星電視台
 udp://@230.1.2.165:11111
-#EXTINF:-1 group-title="宗教",佛衛慈悲台
+#EXTINF:-1 group-title="宗教",佛衛電視慈悲台
 udp://@224.1.4.178:11111
-#EXTINF:-1 group-title="宗教",佛衛慈悲台
+#EXTINF:-1 group-title="宗教",佛衛電視慈悲台
 udp://@224.1.4.84:11111
 #EXTINF:-1 group-title="綜合",緯來精采台
 udp://@224.1.4.222:11111
 #EXTINF:-1 group-title="綜合",緯來精采台
 udp://@230.1.2.72:11111
-#EXTINF:-1 group-title="知識",達文西頻道
+#EXTINF:-1 group-title="知識",DaVinCi Learning達文西頻道
 udp://@224.1.4.233:11111
-#EXTINF:-1 group-title="知識",達文西頻道
+#EXTINF:-1 group-title="知識",DaVinCi Learning達文西頻道
 udp://@230.1.2.67:11111
 #EXTINF:-1 group-title="其他",國會頻道1
 udp://@224.1.4.173:11111
@@ -700,9 +700,9 @@ udp://@230.1.2.50:11111
 udp://@224.1.4.236:11111
 #EXTINF:-1 group-title="體育",滾動力 rollor
 udp://@230.1.2.70:11111
-#EXTINF:-1 group-title="知識",CI
+#EXTINF:-1 group-title="知識",罪案偵緝頻道
 udp://@224.1.4.85:11111
-#EXTINF:-1 group-title="知識",CI
+#EXTINF:-1 group-title="知識",罪案偵緝頻道
 udp://@230.1.2.238:11111
 #EXTINF:-1 group-title="綜合",靖天日本台
 udp://@224.1.4.103:11111
@@ -724,9 +724,9 @@ udp://@230.1.2.163:11111
 udp://@224.1.4.28:11111
 #EXTINF:-1 group-title="綜合",靖天育樂台
 udp://@230.1.2.194:11111
-#EXTINF:-1 group-title="綜合",靖天國際台
+#EXTINF:-1 group-title="綜合",KLT-靖天國際台
 udp://@224.1.4.106:11111
-#EXTINF:-1 group-title="綜合",靖天國際台
+#EXTINF:-1 group-title="綜合",KLT-靖天國際台
 udp://@224.1.4.220:11111
 #EXTINF:-1 group-title="影劇",靖天映畫
 udp://@224.1.4.28:11111
