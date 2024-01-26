@@ -64,13 +64,13 @@ udp://@224.1.4.140:11111
 udp://@224.1.4.235:11111
 #EXTINF:-1 group-title="新聞",CNN International
 udp://@230.1.2.69:11111
-#EXTINF:-1 group-title="知識",DiscoveryAsia
+#EXTINF:-1 group-title="知識",Discovery Asia
 udp://@230.1.2.168:11111
-#EXTINF:-1 group-title="知識",DiscoveryAsia
+#EXTINF:-1 group-title="知識",Discovery Asia
 udp://@230.1.2.6:11111
-#EXTINF:-1 group-title="知識",Discovery科學
+#EXTINF:-1 group-title="知識",Discovery科學頻道
 udp://@230.1.2.12:11111
-#EXTINF:-1 group-title="知識",Discovery科學
+#EXTINF:-1 group-title="知識",Discovery科學頻道
 udp://@230.1.2.212:11111
 #EXTINF:-1 group-title="知識",DMAX
 udp://@230.1.2.13:11111
@@ -88,9 +88,9 @@ udp://@224.1.4.147:11111
 udp://@224.1.4.115:11111
 #EXTINF:-1 group-title="體育",ELEVEN SPORTS PLUS
 udp://@224.1.4.189:11111
-#EXTINF:-1 group-title="體育",ELEVEN體育二台
+#EXTINF:-1 group-title="體育",ELEVEN SPORTS 2
 udp://@224.1.4.156:11111
-#EXTINF:-1 group-title="體育",ELEVEN體育二台
+#EXTINF:-1 group-title="體育",ELEVEN SPORTS 2
 udp://@230.1.2.79:11111
 #EXTINF:-1 group-title="知識",ELTV生活英語台
 udp://@224.1.4.216:11111
