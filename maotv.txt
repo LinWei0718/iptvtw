@@ -343,3 +343,160 @@ TVBS台劇台,https://www.4gtv.tv/channel/4gtv-live088?set=1&ch=22
 電影免費看 2台,https://www.4gtv.tv/channel/4gtv-live005?set=1&ch=22
 超人力霸王整套看,https://www.4gtv.tv/channel/4gtv-live015?set=1&ch=22
 花系列 經典劇場,https://www.4gtv.tv/channel/4gtv-live016?set=1&ch=22
+📺電影點播,#genre#
+養蜂人,https://32-cdn.livecdn.me/content/dy-yfr-hd-20240201-01.mp4/index.m3u8
+驚奇隊長2,https://25-cdn.abccdn.me/content/dy-jqdz2-hd-20231209-01.mp4/index.m3u8
+水行俠2失落的王國,https://32-cdn.livecdn.me/content/dy-hw2sldwg-shd-20240123-01.mp4/index.m3u8
+岸邊露伴羅浮宫之行,https://31-cdn.topcdn.me/content/dy-ablblfgzx-shd-20231030-01.mp4/index.m3u8
+神探小紅帽,https://24-cdn.bestcdn.me/content/dy-stxhm-shd-20230914-01.mp4/index.m3u8
+千博士驅魔研究,https://31-cdn.topcdn.me/content/dy-qbsqmyj-shd-20231113-01.mp4/index.m3u8
+那些年我們一起追的女孩,https://27-cdn.bestcdn.me/content/dy-nxnwmyqzdnh-shd-20231009-01.mp4/index.m3u8
+瞞天過海,https://32-cdn.livecdn.me/content/dy-mtgh-hd-20240212-01.mp4/index.m3u8
+化劫,https://32-cdn.livecdn.me/content/dy-huajie-hd-20240212-01.mp4/index.m3u8
+惡女,https://32-cdn.livecdn.me/content/dy-env-hd-20240208-01.mp4/index.m3u8
+成功補習班,https://32-cdn.livecdn.me/content/dy-cgbxb-hd-20240113-01.mp4/index.m3u8
+看不見的朋友,https://32-cdn.livecdn.me/content/dy-kbjdpy-hd-20231218-01.mp4/index.m3u8
+疫起,https://25-cdn.abccdn.me/content/dy-yiqi-hd-20230818-01.mp4/index.m3u8
+兜兜風,https://22-cdn.topcdn.me/content/dy-ddf-hd-20230815-01.mp4/index.m3u8
+詐團圓,https://24-cdn.bestcdn.me/content/dy-zty-hd-20230810-01.mp4/index.m3u8
+關於我和鬼變成家人的那件事,https://24-cdn.bestcdn.me/content/dy-gywhgbcjrdnjs-hd-20230810-01.mp4/index.m3u8
+做工的人,https://22-cdn.topcdn.me/content/dy-zgdr-hd-20230808-01.mp4/index.m3u8
+我的婆婆怎麼把OO搞丢了,https://21-cdn.topcdn.me/content/dy-wdppzmboogdl-hd-20230731-01.mp4/index.m3u8
+醬狗,https://21-cdn.topcdn.me/content/dy-jianggou-hd-20230605-01.mp4/index.m3u8
+本日公休,https://24-cdn.bestcdn.me/content/dy-brgx-hd-20230601-01.mp4/index.m3u8
+女優摔吧,https://25-cdn.abccdn.me/content/dy-nysb-hd-20230217-01.mp4/index.m3u8
+想見你,https://22-cdn.topcdn.me/content/dy-xjn-hd-20230214-01.mp4/index.m3u8
+聖人大盜,https://22-cdn.topcdn.me/content/dy-srdd-20230425-01.mp4/index.m3u8
+我真的不想失去你,https://21-cdn.topcdn.me/content/dy-wzdbxsqn-20230403-01.mp4/index.m3u8
+你在我心上,https://21-cdn.topcdn.me/content/dy-nzwxs-20230403-01.mp4/index.m3u8
+洞里的月亮,https://22-cdn.topcdn.me/content/dy-dldyl-20230627-01.mp4/index.m3u8
+怪胎,https://18-cdn.abccdn.me/content/dy-guaitai-hd-20230109-01.mp4/index.m3u8
+當男人戀愛時,https://17-cdn.youtube-player.me/content/dy-dnrlas-hd-20210821-01.mp4/index.m3u8
+一杯熱奶茶的等待,https://17-cdn.youtube-player.me/content/dy-ybrncddd-20220412-01.mp4/index.m3u8
+報告老師怪怪怪怪物,https://17-cdn.youtube-player.me/content/dy-bglsggggw-hd-20220122-01.mp4/index.m3u8
+請問還有哪裡需要加強,https://32-cdn.livecdn.me/content/dy-qwhynlxyjq-hd-20231228-01.mp4/index.m3u8
+黑的教育,https://28-cdn.abccdn.me/content/dy-hdjy-hd-20231026-01.mp4/index.m3u8
+殺人者的購物中心1,https://32-cdn.livecdn.me/content/dsj-srzdgwzx-20240117-hd-01.mp4/index.m3u8
+殺人者的購物中心2,https://32-cdn.livecdn.me/content/dsj-srzdgwzx-20240117-hd-02.mp4/index.m3u8
+殺人者的購物中心3,https://32-cdn.livecdn.me/content/dsj-srzdgwzx-20240124-hd-03.mp4/index.m3u8
+殺人者的購物中心4,https://32-cdn.livecdn.me/content/dsj-srzdgwzx-20240124-hd-04.mp4/index.m3u8
+殺人者的購物中心5,https://32-cdn.livecdn.me/content/dsj-srzdgwzx-20240131-hd-05.mp4/index.m3u8
+殺人者的購物中心6,https://32-cdn.livecdn.me/content/dsj-srzdgwzx-20240131-hd-06.mp4/index.m3u8
+殺人者的購物中心7,https://32-cdn.livecdn.me/content/dsj-srzdgwzx-20240207-hd-07.mp4/index.m3u8
+殺人者的購物中心8,https://32-cdn.livecdn.me/content/dsj-srzdgwzx-20240207-hd-08.mp4/index.m3u8
+巨齒鯊2：海溝深淵（美片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/486964.m3u8
+藍甲蟲（美片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/490489.m3u8
+蟻人與黃蜂女：量子狂熱（美片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/226622.m3u8
+星際異攻隊3（美片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/404355.m3u8
+疾速營救（美片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/492001.m3u8
+玩命關頭X（美片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/395877.m3u8
+捍衛任務4（美片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/226726.m3u8
+坎達哈行動（美片）,https://m3u.haiwaikan.com/xm3u8/efc41ce81c2031f7fe1e65fad5de81f91420c989e97063b3495d898d56c586719921f11e97d0da21.m3u8
+驚天營救2（美片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/399166.m3u8
+攻心諜戰（美片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/460698.m3u8
+吸血鬼特助：雷菲爾（美片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/226625.m3u8
+珍愛硬起來（美片）,https://m3u.haiwaikan.com/xm3u8/6ec7939511110a7df30e2721926f4688eb59d8d01f078a919622919884e69bfd9921f11e97d0da21.m3u8
+芭比（美片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/490770.m3u8
+恐怖行星（美片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/226682.m3u8
+梵蒂岡驅魔士（美片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/226626.m3u8
+鬼修女2（美片）,https://m3u.haiwaikan.com/xm3u8/1e9395cb059270b2a27a010ad6c6e8e083652d686f4d672215fc109557e848f39921f11e97d0da21.m3u8
+陰兒房：鬼門陰深處（美片）,https://m3u.haiwaikan.com/xm3u8/da1e2decf28ee4aab095cb8f1ee1ea25af34ed594af29a7a32ed5df1f794fef99921f11e97d0da21.m3u8
+德米特號：噬血航程（美片）,https://vip.lz-cdn3.com/20230831/21468_70ef81e7/index.m3u8
+窒友梅根（美片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/226743.m3u8
+龍與地下城：盜賊榮耀（美片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/226616.m3u8
+小美人魚（美片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/408132.m3u8
+鬼病院：靈異直播（韓片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/232053.m3u8
+薩滿,https://aws.ulivetv.net/v3/api/dianbo/m3u8/238642.m3u8
+犯罪都市3（韓片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/402211.m3u8
+Dream：夢想代表隊（韓片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/400894.m3u8
+關於我和鬼變成家人的那件事（國片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/226853.m3u8
+疫起（國片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/485691.m3u8
+山中森林（國片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/226727.m3u8
+詐團圓（國片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/226589.m3u8
+宇宙記憶（國片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/226958.m3u8
+暗殺風暴（港片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/491395.m3u8
+毒舌大狀（港片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/395332.m3u8
+掃毒3：人在天涯（港片）,https://m3u.haiwaikan.com/xm3u8/89a11c43f8cabad505353b8d8b21714250f9a99936adaea42c5a3b1a003b26359921f11e97d0da21.m3u8
+風再起時（港片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/399576.m3u8
+別叫我“賭神”（港片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/406610.m3u8
+哆啦A夢：大雄與天空的理想鄉（動畫）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/486422.m3u8
+美猴王（動畫）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/485784.m3u8
+鏡之孤城（動畫）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/226635.m3u8
+超級瑪利歐兄弟（動畫）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/226619.m3u8
+名偵探柯南灰原哀物語：黑鐵的神祕列車（動畫）,https://hd.ijycnd.com/play/xe7wzxOe/index.m3u8
+忍者龜：變種大亂鬥（動畫）,https://m3u.haiwaikan.com/xm3u8/cbd0f4b4d79b10d8dce8e9a4ffeec5401004424c63a216e4a05def1b3b2eb69d9921f11e97d0da21.m3u8
+📻國內電臺,#genre#
+KissRadio大眾廣播FM99.9,http://live.cooltv.top/tv/kissradio.php
+PopRadio臺北流行廣播電臺FM91.7,http://live.cooltv.top/tv/popradio.php?id=1
+PopRadio好聽廣播電臺FM90.7,http://live.cooltv.top/tv/popradio.php?id=2
+HitFM臺北之音廣播電臺,http://live.cooltv.top/tv/hitfm_backup.php?id=1
+HitFM高屏廣播電臺,http://live.cooltv.top/tv/hitfm_backup.php?id=3
+HitFM中台灣廣播電臺,http://live.cooltv.top/tv/hitfm_backup.php?id=2
+HitFM花東廣播電臺,http://live.cooltv.top/tv/hitfm_backup.php?id=5
+HitFM宜蘭廣播電臺,http://live.cooltv.top/tv/hitfm_backup.php?id=4
+BestRadio港都983,http://live.cooltv.top/tv/bestradio.php?id=3
+BestRadio好事989,http://live.cooltv.top/tv/bestradio.php?id=1 
+BestRadio好事903,http://live.cooltv.top/tv/bestradio.php?id=2
+BestRadio好事935,http://live.cooltv.top/tv/bestradio.php?id=4
+臺北愛樂FM99.7,http://live.cooltv.top/tv/e-classical.php?id=onair
+臺北愛樂Kids,http://live.cooltv.top/tv/e-classical.php?id=kids
+臺北愛樂Jazz,http://live.cooltv.top/tv/e-classical.php?id=jazz
+臺北愛樂UR Classical,http://live.cooltv.top/tv/e-classical.php?id=urclassical 
+臺北愛樂Oldies but Goodies,http://live.cooltv.top/tv/e-classical.php?id=goodies
+CityFM臺北健康FM 90.1,http://fm901.cityfm.tw:8080/901.mp3
+CityFM大苗栗廣播FM 98.3,http://fm983.cityfm.tw:8080/983.mp3
+CityFM城市廣播FM 92.9,http://fm929.cityfm.tw:8080/929.mp3
+CityFM台南之音FM 97.1,http://fm971.cityfm.tw:8080/971.mp3
+中廣音樂網,http://stream.rcs.revma.com/ks4vsmg3qtzuv
+中廣新聞網,http://stream.rcs.revma.com/78fm9wyy2tzuv
+中廣流行網,http://stream.rcs.revma.com/aw9uqyxy2tzuv
+RTI中央廣播電臺,https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playlist.m3u8
+RTI亞洲語言Live,https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti5/chunklist.m3u8
+RTI閩客粵語和歐美外語Live,https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti6/playlist.m3u8
+AsiaFM亞洲電臺FM92.7,https://stream.rcs.revma.com/xpgtqc74hv8uv 
+AsiaFM亞太電臺FM92.3,https://stream.rcs.revma.com/kydend74hv8uv
+FlyRadio飛揚調頻895,https://stream.rcs.revma.com/e0tdah74hv8uv
+News98新聞台,http://stream.rcs.revma.com/55tyxsy4qtzuv
+ICRT,http://live.leanstream.co/ICRTFM-MP3
+飛碟電臺,http://stream.rcs.revma.com/em90w4aeewzuv
+光華之聲,http://live.cooltv.top/tv/kwongwah.php
+警廣之聲,http://play-radio-stream3.hndt.com/now/prIgXGFo/playlist.m3u8
+全國治安交通網,http://stream.pbs.gov.tw:1935/live/mp3:PBS/playlist.m3u8
+員警廣播臺北分台,http://stream.pbs.gov.tw:1935/live/TPS/playlist.m3u8 
+員警廣播高雄分台,http://stream.pbs.gov.tw:1935/live/KSS/playlist.m3u8
+員警廣播台中分台,http://stream.pbs.gov.tw:1935/live/TCS/playlist.m3u8
+員警廣播台南分台,http://stream.pbs.gov.tw:1935/live/TNS/playlist.m3u8 
+員警廣播台東分台,http://stream.pbs.gov.tw:1935/live/TTS/playlist.m3u8
+員警廣播新竹分台,http://stream.pbs.gov.tw:1935/live/SCS/playlist.m3u8
+員警廣播花蓮分台,http://stream.pbs.gov.tw:1935/live/HLS/playlist.m3u8 
+員警廣播宜蘭分台,http://stream.pbs.gov.tw:1935/live/ELS/playlist.m3u8
+臺北廣播電臺FM93.1,https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
+臺北廣播電臺AM1134,https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8 
+國立教育廣播電台臺北總台FM台,https://cast.ner.gov.tw/1#http://wowza.ner.gov.tw/live/_definst_/1/playlist.m3u8
+國立教育廣播電台臺北總台AM台,https://cast.ner.gov.tw/2
+台灣古典音樂台,http://59.120.88.155:8000/live.mp3
+BravoFM台北都會音樂台,https://onair.bravo913.com.tw:9130/live.mp3
+台中古典音樂台,https://onair.family977.com.tw:8977/live.mp3
+佳音羅東宜蘭FM90.3,http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch02/playlist.m3u8
+佳音經典音樂網,http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch03/playlist.m3u8
+佳音現代音樂網,http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch04/playlist.m3u8
+寶島聯播網|大千電台,http://125.227.87.206:8000/FM99.1
+寶島聯播網|寶島新聲,http://125.227.87.206:8000/FM98.5
+寶島聯播網|主人電台,http://125.227.87.206:8000/FM96.9
+正義電臺,http://211.20.119.103:8081
+太陽電臺,http://211.20.119.102:8081 
+台中廣播電臺,http://211.20.119.101:8081
+臺灣Lounge Radio音樂電臺,http://streaming.radionomy.com/JamendoLounge
+輕鬆電台FM 96.9,http://stream.rcs.revma.com/k41z6wadu5hvv
+正聲綜合,http://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live2/playlist.m3u8
+正聲FM104.1,http://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/playlist.m3u8
+漢聲廣播電臺FM,http://live.cooltv.top/tv/voh.php?id=1
+漢聲廣播電臺AM,http://live.cooltv.top/tv/voh.php?id=2
+復興電台,http://live.cooltv.top/tv/fhbs.php
+環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
+M-Radio全國廣播,http://stream.rcs.revma.com/044q61ha7a0uv/hls.m3u8
+A-Line Radio 網路音樂台,http://live.cooltv.top/tv/appleline.php?id=aline
+青春電台,http://live.cooltv.top/tv/appleline.php?id=ch04
+正港電台,http://live.cooltv.top/tv/appleline.php?id=ch05
+陽光電台,http://live.cooltv.top/tv/appleline.php?id=young
+指南電台,http://live.cooltv.top/tv/appleline.php?id=young
