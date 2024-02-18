@@ -23,6 +23,25 @@
       "searchable": 1,
       "changeable": 1
     },
+{
+   "key": "安博",
+   "name": "安博点播",
+   "type": 4,
+   "api": "https://ali.唐.hz.cz/site/ub1818",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0
+  },
+{
+            "key": "鸡巴安博",
+            "name": "假安博",
+            "type": 4,
+            "api": "https://ali.xn--sxr.hz.cz/site/ub1818",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "changeable": 0
+        },
     {
       "key": "星星",
       "name": "星星",
