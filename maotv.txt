@@ -1,3 +1,27 @@
+📺台灣電視,#genre#
+台視,rtmp://f13h.mine.nu/sat/tv071
+中視,rtmp://f13h.mine.nu/sat/tv091
+華視,rtmp://f13h.mine.nu/sat/tv111
+民視,rtmp://f13h.mine.nu/sat/tv051
+東森超視,rtmp://f13h.mine.nu/sat/tv331
+緯來育樂,rtmp://f13h.mine.nu/sat/tv701
+緯來體育,rtmp://f13h.mine.nu/sat/tv721
+MOMO綜合,rtmp://f13h.mine.nu/sat/tv761
+緯來日本,rtmp://f13h.mine.nu/sat/tv771
+ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
+探索頻道,http://61.221.215.25:8800/hls/1/index.m3u8
+TVBS,http://61.221.215.25:8800/hls/9/index.m3u8
+中華一番,http://61.221.215.25:8800/hls/40/index.m3u8
+緯來精采,http://61.221.215.25:8800/hls/48/index.m3u8
+SPOTIFY MUSIC,http://61.221.215.25:8800/hls/1/index.m3u8
+八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
+八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
+八大第1,http://61.221.215.25:8800/hls/55/index.m3u8
+三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
+AMC電影,http://61.221.215.25:8800/hls/43/index.m3u8
+探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
+動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 🍅YouTube港台新闻,#genre#
 鳳凰資訊Ⓨ,https://www.youtube.com/watch?v=sUISafvOieY
 中天新聞Ⓨ,https://www.youtube.com/live/oIgbl7t0S_w?feature=share
