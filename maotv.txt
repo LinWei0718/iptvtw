@@ -1,4 +1,4 @@
-4GTV豪华套餐,#genre#
+4GTV豪華套餐,#genre#
 parse=1 
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 4民視第一台,https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=1
@@ -353,7 +353,8 @@ TVBS歡樂,https://yeslivetv.com/channels/tvbs42/
 龍華電影,https://yeslivetv.com/channels/ltv-ch611/
 龍華戲劇,https://yeslivetv.com/channels/ltv-drama/
 📺歐飛嗅探,#genre#
-parse=1
+parse=1 
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 台視,https://www.ofiii.com/channel/watch/4gtv-4gtv066
 中視,https://www.ofiii.com/channel/watch/4gtv-4gtv040
 華視,https://www.ofiii.com/channel/watch/4gtv-4gtv041
