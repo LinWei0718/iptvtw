@@ -128,6 +128,17 @@ ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gec
 209超人力霸王整套看,https://www.4gtv.tv/channel/4gtv-live015?set=1&ch=278
 210花系列 經典劇場,https://www.4gtv.tv/channel/4gtv-live016?set=1&ch=279
 📺台灣電視,#genre#
+台視,rtmp://220.130.201.73/sat/tv071
+中視,rtmp://220.130.201.73/sat/tv091
+華視,rtmp://220.130.201.73/sat/tv111
+民視,rtmp://220.130.201.73/sat/tv051
+東森超視,rtmp://220.130.201.73/sat/tv331
+緯來育樂,rtmp://220.130.201.73/sat/tv701
+緯來體育,rtmp://220.130.201.73/sat/tv721
+MOMO綜合,rtmp://220.130.201.73/sat/tv761
+緯來日本,rtmp://220.130.201.73/sat/tv771
+ELEVEN1,rtmp://220.130.201.73/sat/tv731
+ELEVEN2,rtmp://220.130.201.73/sat/tv741
 台視,rtmp://f13h.mine.nu/sat/tv071
 中視,rtmp://f13h.mine.nu/sat/tv091
 華視,rtmp://f13h.mine.nu/sat/tv111
