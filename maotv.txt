@@ -547,7 +547,7 @@ TVBS台劇台,video://https://www.4gtv.tv/channel/4gtv-live088?set=1&ch=22
 電影免費看 2台,video://https://www.4gtv.tv/channel/4gtv-live005?set=1&ch=22
 超人力霸王整套看,video://https://www.4gtv.tv/channel/4gtv-live015?set=1&ch=22
 花系列 經典劇場,video://https://www.4gtv.tv/channel/4gtv-live016?set=1&ch=22
-排球少年,#genre#
+🏐排球少年,#genre#
 parse=1
 player=3
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -576,6 +576,7 @@ S1E22,https://www.ofiii.com/vod/64896/1/E22
 S1E23,https://www.ofiii.com/vod/64896/1/E23
 S1E24,https://www.ofiii.com/vod/64896/1/E24
 S1E25,https://www.ofiii.com/vod/64896/1/E25
+S1OAD,https://www.ofiii.com/vod/64896/1/SE129192
 S2E1,https://www.ofiii.com/vod/64896/2/E1
 S2E2,https://www.ofiii.com/vod/64896/2/E2
 S2E3,https://www.ofiii.com/vod/64896/2/E3
@@ -601,7 +602,45 @@ S2E22,https://www.ofiii.com/vod/64896/2/E22
 S2E23,https://www.ofiii.com/vod/64896/2/E23
 S2E24,https://www.ofiii.com/vod/64896/2/E24
 S2E25,https://www.ofiii.com/vod/64896/2/E25
-📺電影點播,#genre#
+S2OAD,https://www.ofiii.com/vod/64896/2/SE129358
+S3E1,https://www.ofiii.com/vod/64896/3/E1
+S3E2,https://www.ofiii.com/vod/64896/3/E2
+S3E3,https://www.ofiii.com/vod/64896/3/E3
+S3E4,https://www.ofiii.com/vod/64896/3/E4
+S3E5,https://www.ofiii.com/vod/64896/3/E5
+S3E6,https://www.ofiii.com/vod/64896/3/E6
+S3E7,https://www.ofiii.com/vod/64896/3/E7
+S3E8,https://www.ofiii.com/vod/64896/3/E8
+S3E9,https://www.ofiii.com/vod/64896/3/E9
+S3E10,https://www.ofiii.com/vod/64896/3/E10
+S3特集,https://www.ofiii.com/vod/64896/3/SE129359
+S4E1,https://www.ofiii.com/vod/64896/4/E1
+S4E2,https://www.ofiii.com/vod/64896/4/E2
+S4E3,https://www.ofiii.com/vod/64896/4/E3
+S4E4,https://www.ofiii.com/vod/64896/4/E4
+S4E5,https://www.ofiii.com/vod/64896/4/E5
+S4E6,https://www.ofiii.com/vod/64896/4/E6
+S4E7,https://www.ofiii.com/vod/64896/4/E7
+S4E8,https://www.ofiii.com/vod/64896/4/E8
+S4E9,https://www.ofiii.com/vod/64896/4/E9
+S4E10,https://www.ofiii.com/vod/64896/4/E10
+S4E11,https://www.ofiii.com/vod/64896/4/E11
+S4E12,https://www.ofiii.com/vod/64896/4/E12
+S4E13,https://www.ofiii.com/vod/64896/4/E13
+S4E14,https://www.ofiii.com/vod/64896/4/E14
+S4E15,https://www.ofiii.com/vod/64896/4/E15
+S4E16,https://www.ofiii.com/vod/64896/4/E16
+S4E17,https://www.ofiii.com/vod/64896/4/E17
+S4E18,https://www.ofiii.com/vod/64896/4/E18
+S4E19,https://www.ofiii.com/vod/64896/4/E19
+S4E20,https://www.ofiii.com/vod/64896/4/E20
+S4E21,https://www.ofiii.com/vod/64896/4/E21
+S4E22,https://www.ofiii.com/vod/64896/4/E22
+S4E23,https://www.ofiii.com/vod/64896/4/E23
+S4E24,https://www.ofiii.com/vod/64896/4/E24
+S4E25,https://www.ofiii.com/vod/64896/4/E25
+S4OVA,https://www.ofiii.com/vod/64896/4/SE129360
+🎞️電影點播,#genre#
 養蜂人,https://32-cdn.livecdn.me/content/dy-yfr-hd-20240201-01.mp4/index.m3u8
 驚奇隊長2,https://25-cdn.abccdn.me/content/dy-jqdz2-hd-20231209-01.mp4/index.m3u8
 水行俠2失落的王國,https://32-cdn.livecdn.me/content/dy-hw2sldwg-shd-20240123-01.mp4/index.m3u8
