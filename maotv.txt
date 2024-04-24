@@ -549,7 +549,7 @@ TVBS台劇台,video://https://www.4gtv.tv/channel/4gtv-live088?set=1&ch=22
 花系列 經典劇場,video://https://www.4gtv.tv/channel/4gtv-live016?set=1&ch=22
 🏐排球少年,#genre#
 parse=1
-player=3
+playerType=2
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 S1E1,https://www.ofiii.com/vod/64896/1/E1
 S1E2,https://www.ofiii.com/vod/64896/1/E2
