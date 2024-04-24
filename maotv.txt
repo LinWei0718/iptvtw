@@ -1,6 +1,7 @@
 4GTV豪華套餐,#genre#
 parse=1 
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+S1E1,https://www.ofiii.com/vod/64896/1/E1
 4民視第一台,https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=1
 5民視台灣台,https://www.4gtv.tv/channel/4gtv-4gtv001?set=1&ch=2
 6民視,https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=3
