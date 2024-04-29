@@ -354,6 +354,16 @@ JTV,http://125.227.210.55:8169/VideoInput/play.ts
 TVBS新聞,http://125.227.210.55:8186/VideoInput/play.ts
 食尚玩家,http://125.227.210.55:8187/VideoInput/play.ts
 TVBS HD,http://125.227.210.55:8188/VideoInput/play.ts
+TV5,http://125.227.210.55:15533/VideoInput/play.ts
+YTN,http://125.227.210.55:17478/VideoInput/play.ts
+NHK JAPAN,http://125.227.210.55:35802/VideoInput/play.ts
+PBS,http://125.227.210.55:36950/VideoInput/play.ts
+HD臺🍒,http://125.227.210.55:39004/VideoInput/play.ts
+DW,http://125.227.210.55:42534/VideoInput/play.ts
+BBC,http://125.227.210.55:44350/VideoInput/play.ts
+KOREA,http://125.227.210.55:48553/VideoInput/play.ts
+Mainu,http://125.227.210.55:51359/VideoInput/play.ts
+NHK BSP,http://125.227.210.55:60116/VideoInput/play.ts
 🍅YouTube港台新闻,#genre#
 鳳凰資訊Ⓨ,https://www.youtube.com/watch?v=sUISafvOieY
 中天新聞Ⓨ,https://www.youtube.com/live/oIgbl7t0S_w?feature=share
@@ -988,20 +998,10 @@ A-Line Radio 網路音樂台,http://live.cooltv.top/tv/appleline.php?id=aline
 正港電台,http://live.cooltv.top/tv/appleline.php?id=ch05
 陽光電台,http://live.cooltv.top/tv/appleline.php?id=young
 指南電台,http://live.cooltv.top/tv/appleline.php?id=young
-18🈲VIP,#genre#
-pass=8888
+18🈲VIP_8888,#genre#
+pass=true
 🈲驚艷臺,http://125.227.210.55:8156/VideoInput/play.ts
 🍌香蕉臺,http://125.227.210.55:8159/VideoInput/play.ts
 👅奧視🔞3,http://125.227.210.55:8917/VideoInput/play.ts
-💖TV5臺,http://125.227.210.55:15533/VideoInput/play.ts
-💖YTN臺,http://125.227.210.55:17478/VideoInput/play.ts
-💖NHK JAPAN臺,http://125.227.210.55:35802/VideoInput/play.ts
-💖PBS臺,http://125.227.210.55:36950/VideoInput/play.ts
-💖HD臺🍒,http://125.227.210.55:39004/VideoInput/play.ts
-💖DW臺,http://125.227.210.55:42534/VideoInput/play.ts
-💖BBC臺,http://125.227.210.55:44350/VideoInput/play.ts
-💖KOREA臺,http://125.227.210.55:48553/VideoInput/play.ts
-💖Mainu臺,http://125.227.210.55:51359/VideoInput/play.ts
 🔮奧視2,http://125.227.210.55:55643/VideoInput/play.ts
-💖NHK BSP,http://125.227.210.55:60116/VideoInput/play.ts
 💖Sex ❌Girl,http://125.227.210.55:62698/VideoInput/play.ts
