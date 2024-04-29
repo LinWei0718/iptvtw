@@ -1,6 +1,308 @@
 💻本地套餐,#genre#
-
-
+RTHK32,http://127.0.0.1:8080/smartv.php?id=rhk32_twn
+RTHK31,http://127.0.0.1:8080/smartv.php?id=rhk31_twn
+鳳凰衛視,http://127.0.0.1:8080/smartv.php?id=phoenixtv_hd
+無線財經資訊,http://127.0.0.1:8080/smartv.php?id=tvbcaijing_twn
+VIUTV1,http://127.0.0.1:8080/smartv.php?id=viu1_twn
+無線新聞,http://127.0.0.1:8080/smartv.php?id=inews_twn
+龍華戲劇,http://127.0.0.1:8080/smartv.php?id=lunghuaxiju_twn
+龍華偶像,http://127.0.0.1:8080/smartv.php?id=lunghuaidol_twn
+龍華卡通,http://127.0.0.1:8080/smartv.php?id=jingtiancartoon_twn
+非凡新聞,http://127.0.0.1:8080/smartv.php?id=feifannews_twn
+美亞電影,http://127.0.0.1:8080/smartv.php?id=meiyamovie_twn
+Arirang,http://127.0.0.1:8080/smartv.php?id=arirang_twn
+好萊塢電影,http://127.0.0.1:8080/smartv.php?id=hollywoodmovies_twn
+愛爾達體育2,http://127.0.0.1:8080/smartv.php?id=eltasport2_twn
+愛爾達體育1,http://127.0.0.1:8080/smartv.php?id=eltasport_twn
+民視新聞,http://127.0.0.1:8080/smartv.php?id=ftvnew_taiwan
+民視臺灣,http://127.0.0.1:8080/smartv.php?id=ftvtaiwan_twn
+民視,http://127.0.0.1:8080/smartv.php?id=ftvhd_taiwan
+年代新聞,http://127.0.0.1:8080/smartv.php?id=niandainews_twn
+大愛1,http://127.0.0.1:8080/smartv.php?id=daai_twn
+博斯高球2,http://127.0.0.1:8080/smartv.php?id=bosigolf2_twn
+博斯運動2,http://127.0.0.1:8080/smartv.php?id=bosisport2_twn
+博斯運動1,http://127.0.0.1:8080/smartv.php?id=bosisport1_twn
+博斯網球,http://127.0.0.1:8080/smartv.php?id=bositennis_twn
+華視,http://127.0.0.1:8080/smartv.php?id=ctshd_twn
+公視,http://127.0.0.1:8080/smartv.php?id=ctv_taiwan
+八大綜合,http://127.0.0.1:8080/smartv.php?id=badazhonghe
+中視新聞,http://127.0.0.1:8080/smartv.php?id=zhongshinews_twn
+中視,http://127.0.0.1:8080/smartv.php?id=zhongshihd_twn
+中天娛樂,http://127.0.0.1:8080/smartv.php?id=ctient
+中天亞洲,http://127.0.0.1:8080/smartv.php?id=ctiasia_twn
+東森超視,http://127.0.0.1:8080/smartv.php?id=ettvsuper
+東森戲劇,http://127.0.0.1:8080/smartv.php?id=ettvdrama
+三立綜合,http://127.0.0.1:8080/smartv.php?id=sanlizhonghe
+三立戲劇,http://127.0.0.1:8080/smartv.php?id=sanlixiju_twn
+東森電影,http://127.0.0.1:8080/smartv.php?id=ettvmovie
+東森綜合,http://127.0.0.1:8080/smartv.php?id=ettvzhonghe
+中天綜合,http://127.0.0.1:8080/smartv.php?id=ctizhonghe
+八大綜合,http://127.0.0.1:8080/smartv.php?id=badazhonghe
+八大戲劇,http://127.0.0.1:8080/smartv.php?id=badadrama
+八大第一,http://127.0.0.1:8080/smartv.php?id=badafirst
+小太陽,http://127.0.0.1:8080/smartv.php?id=Xiaotaiyang
+靖天卡通,http://127.0.0.1:8080/smartv.php?id=jingtiancartoon_twn
+靖天國際,http://127.0.0.1:8080/smartv.php?id=jingtianintl_twn
+TVBS News,http://127.0.0.1:8080/smartv.php?id=tvbs_n
+TVBS,http://127.0.0.1:8080/smartv.php?id=tvbs
+EYETV戲劇,http://127.0.0.1:8080/smartv.php?id=eyetvxiju_twn
+EYETV旅遊,http://127.0.0.1:8080/smartv.php?id=eyetvtravel_twn
+TVBS歡樂,http://127.0.0.1:8080/smartv.php?id=tvbshuanle_twn
+Zee TV HD,http://127.0.0.1:8080/smartv.php?id=Zeetvhd
+Warner TV,http://127.0.0.1:8080/smartv.php?id=WarnerTV
+Viu6,http://127.0.0.1:8080/smartv.php?id=viusix_twn
+Vasantham,http://127.0.0.1:8080/smartv.php?id=Vasantham
+TvN,http://127.0.0.1:8080/smartv.php?id=TVN
+True Premium 2 HD,http://127.0.0.1:8080/smartv.php?id=truepre2_pat
+True Premium 1 HD,http://127.0.0.1:8080/smartv.php?id=truepre1_pat
+Transtv,http://127.0.0.1:8080/smartv.php?id=Transtv
+Trans 7,http://127.0.0.1:8080/smartv.php?id=Trans7_eko
+Tnn24,http://127.0.0.1:8080/smartv.php?id=tnn24_pat
+Thrill,http://127.0.0.1:8080/smartv.php?id=Thrill
+Tawaf TV,http://127.0.0.1:8080/smartv.php?id=TawafTV
+TVRI National,http://127.0.0.1:8080/smartv.php?id=TVRI
+TVMU,http://127.0.0.1:8080/smartv.php?id=TVMU_eko
+TV9,http://127.0.0.1:8080/smartv.php?id=TV9
+TV9 Indonesia,http://127.0.0.1:8080/smartv.php?id=TV9_eko
+TV8,http://127.0.0.1:8080/smartv.php?id=TV8
+TV3,http://127.0.0.1:8080/smartv.php?id=TV3
+TV3 backup,http://127.0.0.1:8080/smartv.php?id=TV3_backup
+TV2,http://127.0.0.1:8080/smartv.php?id=TV2
+TV1,http://127.0.0.1:8080/smartv.php?id=TV1
+TPTV,http://127.0.0.1:8080/smartv.php?id=tptv_pat
+TLC,http://127.0.0.1:8080/smartv.php?id=Tlc
+Suria,http://127.0.0.1:8080/smartv.php?id=Suria
+體育3,http://127.0.0.1:8080/smartv.php?id=Assp3
+體育2,http://127.0.0.1:8080/smartv.php?id=Assp2
+Sunnah HD,http://127.0.0.1:8080/smartv.php?id=sunnah_mido
+Sun Music,http://127.0.0.1:8080/smartv.php?id=sunmusic_raj
+Star Vijay,http://127.0.0.1:8080/smartv.php?id=Starvijay
+Star Vijay India,http://127.0.0.1:8080/smartv.php?id=starvijay_raj
+Sony Six HD,http://127.0.0.1:8080/smartv.php?id=sonysix_raj
+Sony HD,http://127.0.0.1:8080/smartv.php?id=SetOne
+Skynews,http://127.0.0.1:8080/smartv.php?id=skynews_antik
+SCTV,http://127.0.0.1:8080/smartv.php?id=Sctv
+SCM,http://127.0.0.1:8080/smartv.php?id=Weishimovie
+RTM Sports HD,http://127.0.0.1:8080/smartv.php?id=Rtmsport
+RCTI,http://127.0.0.1:8080/smartv.php?id=Rcti
+Quran HD,http://127.0.0.1:8080/smartv.php?id=quran_mido
+Prima,http://127.0.0.1:8080/smartv.php?id=Prima
+Pick TV,http://127.0.0.1:8080/smartv.php?id=picktv_antik
+PPTV Thailand1,http://127.0.0.1:8080/smartv.php?id=pptv_pat
+One,http://127.0.0.1:8080/smartv.php?id=One
+Oasis,http://127.0.0.1:8080/smartv.php?id=Oasis
+Nickelodeon,http://127.0.0.1:8080/smartv.php?id=Nickelodeon
+Nick Jr,http://127.0.0.1:8080/smartv.php?id=Nickjr
+News 18 Tamil,http://127.0.0.1:8080/smartv.php?id=news18tamil_raj
+New,http://127.0.0.1:8080/smartv.php?id=new_pat
+Net TV,http://127.0.0.1:8080/smartv.php?id=NetTV
+Nation,http://127.0.0.1:8080/smartv.php?id=nation_pat
+國家地理,http://127.0.0.1:8080/smartv.php?id=natgeohd_twn
+地理野生動物,http://127.0.0.1:8080/smartv.php?id=natgeowildtamil_raj
+野生動物,http://127.0.0.1:8080/smartv.php?id=natgeowild_twn
+地理野生動物,http://127.0.0.1:8080/smartv.php?id=Natgeowild
+NatGeo Tamil,http://127.0.0.1:8080/smartv.php?id=natgeotamil_raj
+國家地理,http://127.0.0.1:8080/smartv.php?id=Natgeo
+More4,http://127.0.0.1:8080/smartv.php?id=more4_antik
+Momo TV,http://127.0.0.1:8080/smartv.php?id=momo1_twn
+MiaoMi,http://127.0.0.1:8080/smartv.php?id=MiaoMi
+Metro TV,http://127.0.0.1:8080/smartv.php?id=metrotv_eko
+Makkal TV,http://127.0.0.1:8080/smartv.php?id=Makkaltv
+AXNTaiwan,http://127.0.0.1:8080/smartv.php?id=axn_twn
+動物星球,http://127.0.0.1:8080/smartv.php?id=AnimalPlanet
+動物星球1,http://127.0.0.1:8080/smartv.php?id=animalplanet_twn
+Asianet,http://127.0.0.1:8080/smartv.php?id=asianet_raj
+Awani,http://127.0.0.1:8080/smartv.php?id=Awani
+AxnHD,http://127.0.0.1:8080/smartv.php?id=Axn
+Cinemax,http://127.0.0.1:8080/smartv.php?id=cinemax_twn
+CNBC,http://127.0.0.1:8080/smartv.php?id=cnbc_twn
+CelestialMoviesHD,http://127.0.0.1:8080/smartv.php?id=Celestialindo
+Channel3Thailand,http://127.0.0.1:8080/smartv.php?id=ch3_pat
+DiscoveryAsia,http://127.0.0.1:8080/smartv.php?id=discoverytwn_twn
+DiscoveryHD,http://127.0.0.1:8080/smartv.php?id=discoveryhd_twn
+DiscoveryKidsTamil,http://127.0.0.1:8080/smartv.php?id=discoverykidtamil_raj
+DiscoveryTurbo,http://127.0.0.1:8080/smartv.php?id=discoveryturbo_twn
+DiscoveryWorldTamil,http://127.0.0.1:8080/smartv.php?id=discoveryworldtam_raj
+BBC1,http://127.0.0.1:8080/smartv.php?id=bbc1_antik
+BBC2,http://127.0.0.1:8080/smartv.php?id=bbc2_antik
+BBCEarthHD,http://127.0.0.1:8080/smartv.php?id=bbcearth_twn
+BBCEarthTamil,http://127.0.0.1:8080/smartv.php?id=bbcearthtam_raj
+BBCWorldNews,http://127.0.0.1:8080/smartv.php?id=bbcnews_twn
+BTESPN,http://127.0.0.1:8080/smartv.php?id=btespn
+BTSports1,http://127.0.0.1:8080/smartv.php?id=beeone
+BTSports3,http://127.0.0.1:8080/smartv.php?id=beethree
+BloombergNews,http://127.0.0.1:8080/smartv.php?id=bloomberg_twn
+Boomerang,http://127.0.0.1:8080/smartv.php?id=Boomerang
+CBBC,http://127.0.0.1:8080/smartv.php?id=cbbc_antik
+CBSHD,http://127.0.0.1:8080/smartv.php?id=cbshd_glo
+CBSNHD,http://127.0.0.1:8080/smartv.php?id=cbsn_glo
+Muslim TV,http://127.0.0.1:8080/smartv.php?id=MuslimTV
+itv1,http://127.0.0.1:8080/smartv.php?id=itv1_antik
+tvNMovie,http://127.0.0.1:8080/smartv.php?id=Tvnmovie
+TVN,http://127.0.0.1:8080/smartv.php?id=TVN
+RTHK32,http://50.7.238.114:8278/rhk32_twn
+RTHK31,http://50.7.238.114:8278/rhk31_twn
+J2,http://50.7.238.114:8278/j2_twn
+無線財經資訊,http://50.7.238.114:8278/tvbcaijing_twn
+民視第一,http://50.7.238.114:8278/lunghuajingdian_twn
+龍華偶像,http://50.7.238.114:8278/lunghuaidol_twn
+龍華卡通,http://50.7.238.114:8278/jingtiancartoon_twn
+非凡新聞,http://50.7.238.114:8278/feifannews_twn
+美食星球,http://50.7.238.114:8278/foodplanet_twn
+Arirang,http://50.7.238.114:8278/arirang_twn
+愛爾達體育2,http://50.7.238.114:8278/eltasport2_twn
+愛爾達體育1,http://50.7.238.114:8278/eltasport_twn
+民視新聞,http://50.7.238.114:8278/ftvnew_taiwan
+民視臺灣,http://50.7.238.114:8278/ftvtaiwan_twn
+民視,http://50.7.238.114:8278/ftvhd_taiwan
+年代新聞,http://50.7.238.114:8278/niandainews_twn
+好訊息 2,http://50.7.238.114:8278/good2_twn
+大愛1臺,http://50.7.238.114:8278/daai_twn
+博斯高球2,http://50.7.238.114:8278/bosigolf2_twn
+博斯運動 2,http://50.7.238.114:8278/bosisport2_twn
+博斯運動 1,http://50.7.238.114:8278/bosisport1_twn
+博斯網球,http://50.7.238.114:8278/bositennis_twn
+華視,http://50.7.238.114:8278/ctshd_twn
+公視,http://50.7.238.114:8278/ctv_taiwan
+八大綜合,http://50.7.238.114:8278/badazhonghe
+中視新聞,http://50.7.238.114:8278/zhongshinews_twn
+中視,http://50.7.238.114:8278/zhongshihd_twn
+中天新聞,http://50.7.238.114:8278/ctinews
+中天娛樂,http://50.7.238.114:8278/ctient
+中天亞洲,http://50.7.238.114:8278/ctiasia_twn
+東森超視,http://50.7.238.114:8278/ettvsuper
+東森財經新聞,http://50.7.238.114:8278/ettvcaijing_twn
+東森戲劇,http://50.7.238.114:8278/ettvdrama
+三立綜合,http://50.7.238.114:8278/sanlizhonghe
+三立戲劇,http://50.7.238.114:8278/sanlixiju_twn
+東森綜合,http://50.7.238.114:8278/ettvzhonghe
+八大戲劇,http://50.7.238.114:8278/badadrama
+八大第一,http://50.7.238.114:8278/badafirst
+靖天國際,http://50.7.238.114:8278/jingtianintl_twn
+TVBS News,http://50.7.238.114:8278/tvbs_n
+TVBS HD,http://50.7.238.114:8278/tvbs
+EYETV戲劇,http://50.7.238.114:8278/eyetvxiju_twn
+EYETV旅遊,http://50.7.238.114:8278/eyetvtravel_twn
+TVBS歡樂,http://50.7.238.114:8278/tvbshuanle_twn
+Viu6,http://50.7.238.114:8278/viusix_twn
+國家地理,http://50.7.238.114:8278/natgeohd_twn
+野生動物,http://50.7.238.114:8278/natgeowild_twn
+Momo TV,http://50.7.238.114:8278/momo1_twn
+亞洲旅遊,http://50.7.238.114:8278/asiatravel_twn
+AXNTaiwan,http://50.7.238.114:8278/axn_twn
+動物星球1,http://50.7.238.114:8278/animalplanet_twn
+CINEMAX,http://50.7.238.114:8278/cinemax_twn
+CNBC,http://50.7.238.114:8278/cnbc_twn
+DiscoveryAsia,http://50.7.238.114:8278/discoverytwn_twn
+DiscoveryHD,http://50.7.238.114:8278/discoveryhd_twn
+DiscoveryTurbo,http://50.7.238.114:8278/discoveryturbo_twn
+BBCEarthHD,http://50.7.238.114:8278/bbcearth_twn
+BBCWorldNews,http://50.7.238.114:8278/bbcnews_twn
+BloombergNews,http://50.7.238.114:8278/bloomberg_twn
+CBSHD,http://50.7.238.114:8278/cbshd_glo
+CBSNHD,http://50.7.238.114:8278/cbsn_glo
+ABCNews,http://50.7.238.114:8278/abcnews_glo
+ABCNews,http://127.0.0.1:8080/smartv.php?id=abcnews_glo
+BabyTV,http://50.7.238.114:8278/babytv_twn
+BabyTV,http://50.7.238.114:8278/babytv_twn
+CBSNews,http://50.7.238.114:8278/cbsn_glo
+CBSNews,http://127.0.0.1:8080/smartv.php?id=cbsn_glo
+CNN,http://50.7.238.114:8278/cnn_twn
+CNN,http://127.0.0.1:8080/smartv.php?id=cnn_twn
+DiscoveryAsia,http://50.7.238.114:8278/discoverytwn_twn
+ELEVEN體育1,http://50.7.238.114:8278/golfchannel_twn
+ELEVEN體育1,http://50.7.238.114:8278/golfchannel_twn
+EYETV戲劇,http://50.7.238.114:8278/eyetvxiju_twn
+FoxNews,http://50.7.238.114:8278/foxnews_twn
+FoxNews,http://127.0.0.1:8080/smartv.php?id=foxnews_twn
+GOODTV真理,http://50.7.238.114:8278/good2_twn
+HBO家庭,http://50.7.238.114:8278/fyi_twn
+HBO家庭,http://50.7.238.114:8278/fyi_twn
+RTHK32,http://50.7.238.114:8278/rhk32_twn
+TVBS新聞,http://50.7.238.114:8278/tvbs_n
+TVBS歡樂,http://50.7.238.114:8278/tvbshuanle_twn
+TVBS歡樂,http://127.0.0.1:8080/smartv.php?id=tvbshuanle_twn
+TVBS歡樂,http://127.0.0.1:8080/smartv.php?id=tvbshuanle_twn
+WWE,http://50.7.238.114:8278/wwe_twn
+WWE,http://127.0.0.1:8080/smartv.php?id=wwe_twn
+三立臺灣,http://50.7.238.114:8278/sanlitaiwan
+三立臺灣,http://127.0.0.1:8080/smartv.php?id=sanlitaiwan
+三立戲劇,http://50.7.238.114:8278/sanlixiju_twn
+三立戲劇,http://127.0.0.1:8080/smartv.php?id=sanlixiju_twn
+三立戲劇,http://127.0.0.1:8080/smartv.php?id=sanlixiju_twn
+三立綜合,http://50.7.238.114:8278/sanlizhonghe
+中天亞洲,http://50.7.238.114:8278/ctiasia_twn
+中天娛樂,http://50.7.238.114:8278/ctient
+中天娛樂,http://50.7.238.114:8278/ctient
+中天娛樂,http://50.7.238.114:8278/ctient
+中視新聞,http://50.7.238.114:8278/ca73a13c37
+中視新聞,http://50.7.238.114:8278/zhongshinews_twn
+中視新聞,http://127.0.0.1:8080/smartv.php?id=ca73a13c37
+中視新聞,http://127.0.0.1:8080/smartv.php?id=zhongshinews_twn
+中視經典,http://50.7.238.114:8278/zhongshi_twn
+亞洲旅遊,http://50.7.238.114:8278/asiatravel_twn
+亞洲旅遊,http://50.7.238.114:8278/asiatravel_twn
+八大戲劇,http://50.7.238.114:8278/badadrama
+八大戲劇,http://50.7.238.114:8278/badadrama
+八大第一,http://50.7.238.114:8278/badafirst
+八大第一,http://50.7.238.114:8278/badafirst
+八大第一,http://127.0.0.1:8080/smartv.php?id=badafirst
+八大第一,http://127.0.0.1:8080/smartv.php?id=badafirst
+八大綜合,http://50.7.238.114:8278/badazhonghe
+八大綜合,http://50.7.238.114:8278/badazhonghe
+公視,http://50.7.238.114:8278/ctv_taiwan
+公視,http://50.7.238.114:8278/ctv_taiwan
+動物星球,http://50.7.238.114:8278/animalplanet_twn
+動物星球,http://50.7.238.114:8278/animalplanet_twn
+動物星球,http://50.7.238.114:8278/animalplanet_twn
+博斯網球,http://50.7.238.114:8278/bositennis_twn
+博斯網球,http://50.7.238.114:8278/bositennis_twn
+博斯運動2,http://50.7.238.114:8278/bosisport2_twn
+博斯高球1,http://50.7.238.114:8278/bosigolf1_twn
+博斯高球1,http://50.7.238.114:8278/bosigolf1_twn
+博斯高球1,http://127.0.0.1:8080/smartv.php?id=bosigolf1_twn
+博斯高球1,http://127.0.0.1:8080/smartv.php?id=bosigolf1_twn
+好萊塢電影,http://50.7.238.114:8278/hollywoodmovies_twn
+好萊塢電影,http://50.7.238.114:8278/hollywoodmovies_twn
+愛爾達體育1,http://50.7.238.114:8278/eltasport2_twn
+愛爾達體育1,http://127.0.0.1:8080/smartv.php?id=eltasport2_twn
+愛爾達體育2,http://127.0.0.1:8080/smartv.php?id=eltasport2_twn
+探索亞洲,http://50.7.238.114:8278/discoverytwn_twn
+探索動力,http://50.7.238.114:8278/discoveryturbo_twn
+探索動力,http://50.7.238.114:8278/discoveryturbo_twn
+探索動力,http://127.0.0.1:8080/smartv.php?id=discoveryturbo_twn
+探索動力,http://127.0.0.1:8080/smartv.php?id=discoveryturbo_twn
+星衛電影,http://50.7.238.114:8278/xingwei_movie
+星衛電影,http://127.0.0.1:8080/smartv.php?id=xingwei_movie
+時尚,http://50.7.238.114:8278/fashiontv_twn
+時尚FTV,http://50.7.238.114:8278/fashiontv_twn
+東森財經,http://50.7.238.114:8278/ettvcaijing_twn
+東森財經,http://50.7.238.114:8278/ettvcaijing_twn
+東森超視,http://50.7.238.114:8278/ettvsuper
+東森電影,http://50.7.238.114:8278/ettvmovie
+民視新聞,http://50.7.238.114:8278/ftvnew_taiwan
+美亞電影,http://127.0.0.1:8080/smartv.php?id=meiyamovie_twn
+美亞電影,http://127.0.0.1:8080/smartv.php?id=meiyamovie_twn
+靖天卡通,http://50.7.238.114:8278/jingtiancartoon_twn
+靖天國際,http://50.7.238.114:8278/jingtianintl_twn
+非凡新聞,http://127.0.0.1:8080/smartv.php?id=feifannews_twn
+非凡新聞,http://127.0.0.1:8080/smartv.php?id=feifannews_twn
+龍華戲劇,http://50.7.238.114:8278/lunghuaxiju_twn
+龍華戲劇,http://50.7.238.114:8278/lunghuaxiju_twn
+龍華戲劇,http://127.0.0.1:8080/smartv.php?id=lunghuaxiju_twn
+龍華戲劇,http://127.0.0.1:8080/smartv.php?id=lunghuaxiju_twn
+Awani,http://127.0.0.1:8080/smartv.php?id=Awani
+BBC,http://127.0.0.1:8080/smartv.php?id=bbc1_antik
+BBC1,http://127.0.0.1:8080/smartv.php?id=bbc1_antik
+BBC2,http://127.0.0.1:8080/smartv.php?id=bbc2_antik
+BBC WORLD NEWS,http://127.0.0.1:8080/smartv.php?id=bbcnews_twn
+BTSports4,http://127.0.0.1:8080/smartv.php?id=btespn
+CNA亞洲新聞,http://127.0.0.1:8080/smartv.php?id=cna
+Euronews,http://127.0.0.1:8080/smartv.php?id=euronews_antik
+TLC旅遊生活,http://127.0.0.1:8080/smartv.php?id=tlc_twn
+新加坡8,http://127.0.0.1:8080/smartv.php?id=TV8
+翡翠,http://127.0.0.1:8080/smartv.php?id=jade_twn
+翡翠,http://127.0.0.1:8080/smartv.php?id=Wlt
 📺台灣電視,#genre#
 台視,rtmp://220.130.201.73/sat/tv071
 中視,rtmp://220.130.201.73/sat/tv091
