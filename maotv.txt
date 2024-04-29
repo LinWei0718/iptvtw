@@ -988,7 +988,7 @@ A-Line Radio 網路音樂台,http://live.cooltv.top/tv/appleline.php?id=aline
 正港電台,http://live.cooltv.top/tv/appleline.php?id=ch05
 陽光電台,http://live.cooltv.top/tv/appleline.php?id=young
 指南電台,http://live.cooltv.top/tv/appleline.php?id=young
-18🈲VIP_8888,#genre#
+18🈲VIP,#genre#
 pass=true
 🈲驚艷臺,http://125.227.210.55:8156/VideoInput/play.ts
 🍌香蕉臺,http://125.227.210.55:8159/VideoInput/play.ts
