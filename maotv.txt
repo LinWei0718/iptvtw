@@ -999,7 +999,7 @@ A-Line Radio 網路音樂台,http://live.cooltv.top/tv/appleline.php?id=aline
 陽光電台,http://live.cooltv.top/tv/appleline.php?id=young
 指南電台,http://live.cooltv.top/tv/appleline.php?id=young
 18🈲VIP,#genre#
-password=8888
+pass=8888
 🈲驚艷臺,http://125.227.210.55:8156/VideoInput/play.ts
 🍌香蕉臺,http://125.227.210.55:8159/VideoInput/play.ts
 👅奧視🔞3,http://125.227.210.55:8917/VideoInput/play.ts
