@@ -46,7 +46,7 @@
       "api": "csp_Jianpian",
       "searchable": 1,
       "changeable": 1,
-      "ext": "./json/jianpian.json"
+      "ext": "https://mirror.ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/json/jianpian.json"
     },
     {
       "key": "獨播",
@@ -55,7 +55,7 @@
       "api": "csp_XPathMacFilter",
       "searchable": 1,
       "changeable": 1,
-      "ext": "./json/duboku.json"
+      "ext": "https://mirror.ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/json/duboku.json"
     },
     {
       "key": "haiwaikan",
@@ -106,7 +106,7 @@
       "api": "csp_Douban",
       "searchable": 0,
       "changeable": 1,
-      "ext": "./json/douban.json"
+      "ext": "https://mirror.ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/json/douban.json"
     },
     {
       "key": "新6V",
@@ -204,7 +204,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "./json/bili.json",
+        "json": "https://mirror.ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/json/bili.json",
         "type": "帕梅拉#太极拳#广场舞#演唱会",
         "cookie": ""
       }
@@ -244,7 +244,7 @@
       "api": "csp_AList",
       "searchable": 1,
       "changeable": 0,
-      "ext": "./json/alist.json"
+      "ext": "https://mirror.ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/json/alist.json"
     },
     {
       "key": "WebDAV",
@@ -253,7 +253,7 @@
       "api": "csp_WebDAV",
       "searchable": 0,
       "changeable": 0,
-      "ext": "./json/webdav.json"
+      "ext": "https://mirror.ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/json/webdav.json"
     },
     {
       "key": "JustLive",
