@@ -2,11 +2,6 @@
   "spider": "https://mirror.ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
-   {"name":"電視直播","url":"http://www.52sw.top:678/play/oj/159169.php?get=txt","playerType":"1","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-   {"name":"🐯Php•IPTV","type":0,"url":"http://www.52sw.top:678/play/oj/159169.php?get=txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-   {"name":"🐯Php•焦点","type":0,"url":"http://www.52sw.top:678/play/oj/list.php?get=焦点","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-   {"name":"🐯Php•欧华","type":0,"url":"http://www.52sw.top:678/play/oj/list.php?get=欧华","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-   {"name":"🐯Php•159169","type":0,"url":"http://www.52sw.top:678/play/oj/list.php?get=159169","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
     {
       "key": "商店",
       "name": "商店",
