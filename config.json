@@ -56,7 +56,7 @@
     {
       "key": "華為吧",
       "name": "華為吧",
-      "type": 1,
+      "type": 2,
       "api": "https://hw8.live/api.php/provide/vod",
       "searchable": 1,
       "changeable": 1,
@@ -64,7 +64,7 @@
     {
       "key": "OK資源",
       "name": "OK資源",
-      "type": 1,
+      "type": 2,
       "api": "https://api.okzy.org/api.php/provide/vod",
       "searchable": 1,
       "changeable": 1,
@@ -72,7 +72,7 @@
     {
       "key": "kuaikanzy",
       "name": "快看",
-      "type": 1,
+      "type": 2,
       "api": "https://kuaikan-api.com/api.php/provide/vod",
       "searchable": 1,
       "changeable": 1,
